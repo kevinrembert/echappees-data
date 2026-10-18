@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "id": "demo-b",
+  "version": "2",
+  "articles": [
+    {
+      "id": "history-machu-picchu",
+      "title": "Machu Picchu, le génie de la pierre et de l’eau",
+      "category": "Histoire & patrimoine",
+      "location": "Vallée de l’Urubamba · Pérou",
+      "body": "Dans les Andes péruviennes, Machu Picchu montre combien une architecture peut dialoguer avec son paysage. Édifié au quinzième siècle, ce site inca associe des constructions de pierre, des escaliers et des terrasses qui suivent les pentes de la montagne. L’eau y occupe une place essentielle : des canaux et des fontaines accompagnent son parcours, tandis que les aménagements du terrain contribuent au drainage. Derrière la silhouette célèbre se cache ainsi une attention patiente aux contraintes du lieu. Observer les murs, les ouvertures et les niveaux successifs permet d’imaginer le travail collectif nécessaire à leur réalisation. Ce patrimoine, protégé au sein d’un sanctuaire historique, rappelle que l’ingéniosité humaine ne se mesure pas seulement à la hauteur des bâtiments, mais aussi à leur manière d’habiter un environnement exigeant.",
+      "image_description": "Terrasses et vestiges de Machu Picchu entourés de montagnes.",
+      "image_caption": "Les terrasses de Machu Picchu, au Pérou",
+      "image_credit": "Collection Flutter Gallery · © The Chromium Authors · Version mobile redimensionnée/compressée",
+      "image_source_url": "https://pub.dev/packages/flutter_gallery_assets/versions/1.0.2",
+      "image_license": "BSD à 3 clauses · photographe non précisé par la collection",
+      "sources": [
+        {
+          "label": "UNESCO · Sanctuaire historique de Machu Picchu",
+          "url": "https://whc.unesco.org/fr/list/274/"
+        }
+      ],
+      "image_url": "https://kevinrembert.github.io/echappees-data/data/images/machu-picchu.v1.jpg"
+    },
+    {
+      "id": "nature-corals",
+      "title": "Sous la surface, les coraux bâtissent la vie",
+      "category": "Nature & animaux",
+      "location": "Océan Indien · Maldives",
+      "body": "Sous les eaux tropicales, les récifs coralliens ressemblent à des jardins minéraux. Pourtant, les coraux sont des animaux. Beaucoup vivent en colonies de petits polypes qui construisent progressivement un squelette calcaire. Chez de nombreux coraux constructeurs de récifs, de minuscules algues hébergées dans leurs tissus participent à leur alimentation grâce à la photosynthèse. Cette association contribue à faire vivre des milieux d’une grande diversité : poissons, mollusques et crustacés y trouvent abri et nourriture. Ces écosystèmes restent fragiles, notamment face au réchauffement de l’eau. Les découvrir sans les toucher, éviter de marcher sur les récifs et respecter les consignes locales sont des gestes simples. Comprendre ce monde discret donne une autre profondeur à la couleur turquoise d’un lagon : sous le paysage, une multitude de relations entretient la vie.",
+      "image_description": "Lagon turquoise entre deux bungalows sur pilotis aux Maldives.",
+      "image_caption": "Un lagon des Maldives · photographie d’illustration",
+      "image_credit": "Collection Flutter Gallery · © The Chromium Authors · Version mobile redimensionnée/compressée",
+      "image_source_url": "https://pub.dev/packages/flutter_gallery_assets/versions/1.0.2",
+      "image_license": "BSD à 3 clauses · photographe non précisé par la collection",
+      "sources": [
+        {
+          "label": "NOAA · What are corals?",
+          "url": "https://oceanservice.noaa.gov/facts/coral.html"
+        },
+        {
+          "label": "NOAA · Coral reef ecosystems",
+          "url": "https://www.noaa.gov/education/resource-collections/marine-life/coral-reef-ecosystems"
+        }
+      ],
+      "image_url": "https://kevinrembert.github.io/echappees-data/data/images/coral-island.v1.jpg"
+    }
+  ]
+}

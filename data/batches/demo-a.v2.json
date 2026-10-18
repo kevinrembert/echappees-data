@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "id": "demo-a",
+  "version": "2",
+  "articles": [
+    {
+      "id": "basque-ainhoa",
+      "title": "À Ainhoa, les maisons racontent le Pays basque",
+      "category": "Patrimoine basque",
+      "location": "Ainhoa · Pays basque",
+      "body": "À Ainhoa, dans la province historique du Labourd, les façades blanches et les pans de bois colorés donnent au village une silhouette immédiatement reconnaissable. Le long de la rue principale, les maisons composent un ensemble où les détails invitent à ralentir : un encadrement de pierre, un volet, une porte ancienne. Autour de l’église Notre-Dame-de-l’Assomption, le cimetière et ses stèles discoïdales rappellent d’autres formes du patrimoine basque. Ce village frontalier appartient à un territoire de passages, de rencontres et de paysages partagés. On peut le découvrir simplement en marchant, en observant les façades depuis l’espace public et en respectant la vie de ses habitants. Une petite promenade devient alors une manière de lire un patrimoine vivant, dans les couleurs, les matières et les gestes qui le font durer.",
+      "image_description": "Maison labourdine à pans de bois rouges et église à Ainhoa.",
+      "image_caption": "Ainhoa, au Pays basque · Raj Alaya / Hans Lucas",
+      "image_credit": "Raj Alaya / Hans Lucas · Office de Tourisme Pays Basque · Version mobile redimensionnée/compressée",
+      "image_source_url": "https://commons.wikimedia.org/wiki/File:AINHOA_-_PAYS_BASQUE02.jpg",
+      "image_license": "CC BY-SA 2.0 · https://creativecommons.org/licenses/by-sa/2.0/",
+      "sources": [
+        {
+          "label": "Ainhoa · géographie et patrimoine",
+          "url": "https://en.wikipedia.org/wiki/Ainhoa,_Pyrénées-Atlantiques"
+        }
+      ],
+      "image_url": "https://kevinrembert.github.io/echappees-data/data/images/ainhoa.v1.jpg"
+    },
+    {
+      "id": "portugal-porto",
+      "title": "Porto, la ville qui se lit en couleurs",
+      "category": "Voyages & paysages",
+      "location": "Porto · Portugal",
+      "body": "À Porto, il suffit parfois de lever les yeux pour commencer un voyage. Des façades étroites, des balcons et des carreaux de céramique dessinent un paysage où chaque rue a son rythme. Les azulejos ne sont pas seulement décoratifs : ils peuvent raconter des scènes historiques, composer des motifs géométriques ou habiller des bâtiments entiers. À la gare de São Bento, de grands panneaux transforment même une salle de passage en lieu de contemplation. Plus bas, les ruelles de la Ribeira rejoignent les rives du Douro. Le centre historique, inscrit au patrimoine mondial, se découvre aussi à pied, au fil des détails. Prendre le temps d’observer une porte, une couleur ou un reflet devient alors une façon toute simple de rencontrer la ville.",
+      "image_description": "Façades colorées et balcons anciens dans la ville de Porto.",
+      "image_caption": "Les façades de Porto, au Portugal",
+      "image_credit": "Collection Flutter Gallery · © The Chromium Authors · Version mobile redimensionnée/compressée",
+      "image_source_url": "https://pub.dev/packages/flutter_gallery_assets/versions/1.0.2",
+      "image_license": "BSD à 3 clauses · photographe non précisé par la collection",
+      "sources": [
+        {
+          "label": "UNESCO · Centre historique de Porto",
+          "url": "https://whc.unesco.org/fr/list/755/"
+        },
+        {
+          "label": "Visit Portugal · Gare de São Bento",
+          "url": "https://www.visitportugal.com/fr/content/estacao-ferroviaria-de-sao-bento"
+        }
+      ],
+      "image_url": "https://kevinrembert.github.io/echappees-data/data/images/porto.v1.jpg"
+    }
+  ]
+}

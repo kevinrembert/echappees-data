@@ -8,8 +8,11 @@ Index public : https://kevinrembert.github.io/echappees-data/data/index.json
 
 Cinq découvertes de démonstration : Ainhoa, Porto, Machu Picchu, récifs coralliens
 et glaciers, réparties en trois lots. Les sources, crédits, licences et liens
-photographiques sont conservés dans chaque article. Les photographies restent
-hébergées dans le dépôt public de l’application.
+photographiques sont conservés dans chaque article. Les photographies sont
+hébergées ici dans `data/images/`. Le catalogue utilise les versions mobiles
+`*.v1.jpg` (côté maximal de 1 280 pixels, JPEG progressif qualité 82).
+Les originaux restent disponibles ; les crédits, modifications et licences sont
+documentés dans `data/IMAGES.md`, `data/PHOTO_CREDITS.md` et `data/licenses/`.
 
 `data/index.json` référence les fichiers versionnés de `data/batches/`.
 Les schémas sont dans `data/schema/`. Aucun générateur, appel OpenAI ou frontend

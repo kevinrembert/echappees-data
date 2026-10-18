@@ -1,23 +1,23 @@
 {
   "schema_version": 1,
-  "version": "2026-10-18.1",
+  "version": "2026-10-18.2",
   "batches": [
     {
       "id": "demo-a",
-      "version": "1",
-      "url": "batches/demo-a.v1.json",
+      "version": "2",
+      "url": "batches/demo-a.v2.json",
       "count": 2
     },
     {
       "id": "demo-b",
-      "version": "1",
-      "url": "batches/demo-b.v1.json",
+      "version": "2",
+      "url": "batches/demo-b.v2.json",
       "count": 2
     },
     {
       "id": "demo-c",
-      "version": "1",
-      "url": "batches/demo-c.v1.json",
+      "version": "2",
+      "url": "batches/demo-c.v2.json",
       "count": 1
     }
   ]
