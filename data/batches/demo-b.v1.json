@@ -20,7 +20,7 @@
           "url": "https://whc.unesco.org/fr/list/274/"
         }
       ],
-      "image_url": "https://raw.githubusercontent.com/kevinrembert/echappees/main/assets/images/machu-picchu.jpg"
+      "image_url": "https://kevinrembert.github.io/echappees-data/data/images/machu-picchu.jpg"
     },
     {
       "id": "nature-corals",
@@ -43,7 +43,7 @@
           "url": "https://www.noaa.gov/education/resource-collections/marine-life/coral-reef-ecosystems"
         }
       ],
-      "image_url": "https://raw.githubusercontent.com/kevinrembert/echappees/main/assets/images/coral-island.jpg"
+      "image_url": "https://kevinrembert.github.io/echappees-data/data/images/coral-island.jpg"
     }
   ]
 }

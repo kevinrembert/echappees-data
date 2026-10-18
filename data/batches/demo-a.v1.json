@@ -20,7 +20,7 @@
           "url": "https://en.wikipedia.org/wiki/Ainhoa,_Pyrénées-Atlantiques"
         }
       ],
-      "image_url": "https://raw.githubusercontent.com/kevinrembert/echappees/main/assets/images/ainhoa.jpg"
+      "image_url": "https://kevinrembert.github.io/echappees-data/data/images/ainhoa.jpg"
     },
     {
       "id": "portugal-porto",
@@ -43,7 +43,7 @@
           "url": "https://www.visitportugal.com/fr/content/estacao-ferroviaria-de-sao-bento"
         }
       ],
-      "image_url": "https://raw.githubusercontent.com/kevinrembert/echappees/main/assets/images/porto.jpg"
+      "image_url": "https://kevinrembert.github.io/echappees-data/data/images/porto.jpg"
     }
   ]
 }
