@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "id": "demo-c",
+  "version": "1",
+  "articles": [
+    {
+      "id": "science-glaciers",
+      "title": "Les glaciers, ces bibliothèques de glace",
+      "category": "Sciences",
+      "location": "Les grandes montagnes du monde",
+      "body": "Un glacier n’est pas une étendue immobile. Il se forme lorsque la neige s’accumule, se compacte et devient peu à peu de la glace, puis s’écoule lentement sous son propre poids. Dans certaines régions, cette glace conserve de véritables archives naturelles. Des bulles d’air, des poussières et des couches successives donnent aux scientifiques des indices sur les conditions du passé. En prélevant des carottes de glace, les équipes de recherche peuvent étudier ces traces et mieux comprendre l’histoire du climat. Chaque échantillon demande des mesures précises et une interprétation attentive. Cette enquête patiente relie la physique, la chimie et les sciences de la Terre. Elle nous rappelle qu’un paysage peut être bien plus qu’un décor : il peut aussi garder la mémoire du monde et nous aider à comprendre ses transformations.",
+      "image_description": "Drapeaux de prière devant les sommets enneigés du Khumbu.",
+      "image_caption": "Vallée du Khumbu, Népal · photographie d’illustration",
+      "image_credit": "Collection Flutter Gallery · © The Chromium Authors",
+      "image_source_url": "https://pub.dev/packages/flutter_gallery_assets/versions/1.0.2",
+      "image_license": "BSD à 3 clauses · photographe non précisé par la collection",
+      "sources": [
+        {
+          "label": "NSIDC · Glaciers",
+          "url": "https://nsidc.org/learn/parts-cryosphere/glaciers"
+        },
+        {
+          "label": "British Antarctic Survey · Ice cores",
+          "url": "https://www.bas.ac.uk/about/antarctica/ice-sheets-and-glaciers/ice-cores/"
+        }
+      ],
+      "image_url": "https://raw.githubusercontent.com/kevinrembert/echappees/main/assets/images/khumbu.jpg"
+    }
+  ]
+}
