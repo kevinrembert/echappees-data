@@ -28,6 +28,25 @@ pour ce workflow ou passer à une publication par PR ; ne pas désactiver aveugl
 les protections. Les autorisations du workflow sont limitées aux écritures du
 catalogue et au déploiement Pages ; aucun jeton personnel entre dépôts n’est requis.
 
+## Comprendre une simulation ou un échec avant génération
+
+En simulation (`dry_run=true`), le job `generate` vérifie le code, les tests, les
+données et le plan. Les étapes payantes et le job `pages` sont volontairement
+ignorés : aucun nouveau contenu n’est à publier. Le résumé du workflow le précise.
+
+Si l’étape « Vérifier la présence du secret sans l’afficher » échoue, le secret
+n’est pas accessible à ce workflow. Dans **le dépôt `echappees-data`**, ouvrir
+**Settings → Secrets and variables → Actions → Secrets → New repository secret**.
+Le nom doit être exactement `OPENAI_API_KEY`, avec la clé API comme valeur.
+Une entrée sous **Variables** ne remplace pas un secret. Un secret d’environnement
+n’est accessible que si le job utilise cet environnement ; utiliser ici un secret
+de dépôt. Ne jamais envoyer la clé dans le chat ou les logs.
+
+Vérifier aussi que la variable Actions `GENERATION_ENABLED` vaut `true`, puis
+utiliser **Run workflow**, avec `dry_run=false`. Cette vérification échoue avant
+la réservation du budget et avant tout appel OpenAI. Les avertissements de version
+Node.js sont distincts et n’expliquent pas une absence de secret.
+
 ## Rythme et arrêt
 
 - Planification : tous les jours à **06:17 UTC**, soit 07:17 à Paris en hiver et

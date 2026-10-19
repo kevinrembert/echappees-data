@@ -40,11 +40,25 @@ jobs:
           php generator/tests/run.php
           php generator/cli.php validate
           php generator/cli.php plan
+      - name: Résumer la simulation
+        if: github.event_name == 'workflow_dispatch' && inputs.dry_run
+        run: |
+          {
+            echo '### Simulation réussie'
+            echo 'Le code, les tests et le catalogue ont été vérifiés.'
+            echo 'Aucun appel OpenAI, aucune réservation de budget et aucune publication ne sont effectués en simulation.'
+            echo 'Les étapes de génération et le job Pages sont donc volontairement ignorés.'
+            echo 'Pour générer réellement, ajouter le secret Actions OPENAI_API_KEY dans echappees-data, définir la variable Actions GENERATION_ENABLED=true, puis lancer un nouveau workflow avec dry_run désactivé.'
+          } >> "$GITHUB_STEP_SUMMARY"
       - name: Vérifier la présence du secret sans l'afficher
         if: github.event_name == 'schedule' || inputs.dry_run == false
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: test -n "$OPENAI_API_KEY" || { echo 'Ajouter le secret OPENAI_API_KEY dans GitHub Actions.'; exit 1; }
+        run: |
+          if [ -z "$OPENAI_API_KEY" ]; then
+            echo '::error title=Secret OpenAI absent::Le workflow ne reçoit pas le secret OPENAI_API_KEY. Dans echappees-data, ouvrir Settings → Secrets and variables → Actions → Secrets, puis créer un Repository secret nommé OPENAI_API_KEY. Une variable Actions ne remplace pas ce secret. Aucun appel payant effectué.'
+            exit 1
+          fi
       - name: Réserver et enregistrer le budget avant toute dépense
         if: github.event_name == 'schedule' || inputs.dry_run == false
         run: |
