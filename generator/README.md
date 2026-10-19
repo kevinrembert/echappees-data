@@ -63,7 +63,10 @@ Node.js sont distincts et n’expliquent pas une absence de secret.
 
 La même exécution GitHub (`GITHUB_RUN_ID`) ne rejoue jamais les appels. Pour lancer
 un nouveau passage, utiliser **Run workflow**, plutôt que **Re-run jobs**. Les
-réservations du jour comptent dans les limites, même si certains candidats échouent.
+réservations en cours occupent leurs places ; une fois un passage terminé, seuls
+les articles effectivement publiés comptent dans le quota journalier. Un échec
+libère ses places sans effacer ses coûts conservateurs. Les anciennes réservations
+interrompues sans bilan restent bloquées par prudence.
 Tous les passages partagent le plafond quotidien de 10, sans mode d’amorçage.
 Les concurrents sont sérialisés et un conflit Git interrompt l’envoi,
 sans force-push et sans écraser les changements d’un utilisateur.
@@ -104,7 +107,7 @@ le mélange intemporel/actualités dépend donc des sources acceptables disponib
 Les métadonnées photo doivent préciser auteur, crédit, source et licence prise en
 charge : CC BY / CC BY-SA 2.0, 2.5, 3.0 ou 4.0, CC0 ou domaine public. Les restrictions
 supplémentaires, schémas, dessins et origines générées identifiables sont refusés.
-Les photos sont téléchargées sur `upload.wikimedia.org`, décodées et converties
+Les photos sont téléchargées sur `upload.wikimedia.org` ou `thumb.wikimedia.org`, décodées et converties
 en JPEG progressif, côté maximal 1 280 pixels, qualité 82. Les URL portent une
 empreinte SHA-256 et sont immuables ; les crédits signalent la modification.
 Une incertitude de licence entraîne un refus, jamais une attribution inventée.
@@ -152,11 +155,14 @@ PHP **8.4+**, extensions `curl`, `mbstring`, `dom`, `simplexml`, `gd` :
 ```sh
 php generator/cli.php validate
 php generator/cli.php plan
+php generator/cli.php probe # Sources publiques uniquement, aucun appel OpenAI
 php generator/tests/run.php
 find generator -name '*.php' -print0 | xargs -0 -n1 php -l
 ```
 
-Le plan ne fait aucun appel réseau et ne crée aucune réservation. Les tests utilisent
+Le plan ne fait aucun appel réseau et ne crée aucune réservation. Le diagnostic
+`probe` vérifie au plus trois sources documentaires publiques ; il ne rédige rien
+et n’utilise aucune clé API. Les tests utilisent
 un transport factice, un jeton explicitement factice et des dossiers temporaires ;
 leurs articles ne sont jamais copiés dans le catalogue public. Un scénario vérifie
 le cycle collecte → rédaction → relecture → compression photo → lot → index → audit.
@@ -173,3 +179,24 @@ Un push effectué avec `GITHUB_TOKEN` ne déclenche pas un autre workflow `push`
 Le workflow de génération appelle donc explicitement le workflow Pages réutilisable
 après une publication de contenu. Le code PHP, les registres et les secrets ne sont
 pas ajoutés à l’artefact Pages.
+
+
+## Refus de collecte et erreurs API
+
+Les vignettes Commons utilisent aussi `thumb.wikimedia.org`, autorisé explicitement
+avec `upload.wikimedia.org`. Les liens de licence CC historiques `http://` ou
+`//` sont canonisés en HTTPS uniquement si le domaine et le chemin correspondent
+exactement à la licence annoncée. Aucun téléchargement en HTTP n’est autorisé.
+
+Le diagnostic d’erreur indique le service concerné. Pour OpenAI HTTP 429 :
+`insufficient_quota` signifie crédits API insuffisants ou plafond du projet atteint ;
+`rate_limit_exceeded` signifie limite de débit. Vérifier Billing/Usage du projet
+API en cas de quota, ou attendre en cas de débit. Un abonnement ChatGPT n’inclut
+pas les appels API. Les codes inconnus et les messages bruts ne sont pas affichés ;
+si le code est absent, le message reste prudent (« quota ou débit »).
+Aucun POST en erreur n’est automatiquement rejoué.
+
+Une génération échouée ne publie aucun lot : ses places quotidiennes sont libérées,
+y compris pour les anciens registres `failed`. Les coûts incertains et les registres
+sont conservés. Les passages encore `reserved`/`running` gardent leurs places pour
+éviter un dépassement en cas d’interruption. Ne pas effacer un registre pour relancer.

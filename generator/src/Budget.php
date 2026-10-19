@@ -54,16 +54,29 @@ final class Budget {
         $e['input_tokens'] += $input; $e['output_tokens'] += $output;
         $this->save();
     }
-    public function finish(string $run, string $status): void {
+    public function finish(string $run, string $status, int $published = 0): void {
+        $entry = $this->entry($run);
+        ensure(in_array($status, ['completed', 'failed'], true) && $published >= 0 && $published <= $entry['count']
+            && ($status !== 'failed' || $published === 0), 'Bilan de publication invalide.');
         $e = &$this->ledger['runs'][$run];
         $e['status'] = $status;
+        $e['published_count'] = $published;
         // Les appels non effectués sont libérés ; les appels incertains restent comptés au maximum.
         $e['reserved_usd'] = ceil(max(0, $e['charged_usd']) * 1000000) / 1000000;
         $this->save();
     }
     public function dailyUsed(): int {
         $sum = 0;
-        foreach ($this->ledger['runs'] as $e) if ($e['date'] === gmdate('Y-m-d')) $sum += $e['count'];
+        foreach ($this->ledger['runs'] as $e) {
+            if ($e['date'] !== gmdate('Y-m-d')) continue;
+            // Le workflow ne publie aucun lot quand la génération échoue. Les anciennes
+            // entrées failed n'avaient pas encore de published_count ; leurs coûts restent conservés.
+            $sum += match ($e['status']) {
+                'failed'=>0,
+                'completed'=>$e['published_count'] ?? $e['count'],
+                default=>$e['count'], // Réservation/en cours/interruption incertaine : conserver les places.
+            };
+        }
         return $sum;
     }
     private function save(): void { atomicJson($this->file, $this->ledger); }

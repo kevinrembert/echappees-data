@@ -91,8 +91,23 @@ final class Sources {
         if ($license === 'Public domain') {
             $licenseUrl = 'https://commons.wikimedia.org/wiki/Commons:Public_domain';
         } else {
-            $licenseUrl = https($licenseUrl, ['creativecommons.org']);
-            ensure(preg_match('~^https://creativecommons\.org/(?:licenses/by(?:-sa)?/(?:2\.0|2\.5|3\.0|4\.0)/?|publicdomain/zero/1\.0/?)$~D', $licenseUrl) === 1, 'URL de licence ambiguë.');
+            // Les métadonnées historiques peuvent contenir http:// ou // ; aucune
+            // requête HTTP n'est faite : seul un lien CC reconnu est canonisé en HTTPS.
+            $rawUrl = str_starts_with($licenseUrl, '//') ? 'https:' . $licenseUrl : $licenseUrl;
+            $parts = parse_url($rawUrl);
+            ensure(is_array($parts) && in_array($parts['scheme'] ?? '', ['http', 'https'], true)
+                && in_array(strtolower($parts['host'] ?? ''), ['creativecommons.org', 'www.creativecommons.org'], true)
+                && !isset($parts['user']) && !isset($parts['pass']) && !isset($parts['port'])
+                && !isset($parts['query']) && !isset($parts['fragment']), 'URL de licence Creative Commons non reconnue.');
+            if ($license === 'CC0') {
+                $expectedPath = '/publicdomain/zero/1.0/';
+            } else {
+                preg_match('/^CC (BY(?:-SA)?) ([0-9.]+)$/D', $license, $matches);
+                $expectedPath = '/licenses/' . strtolower($matches[1]) . '/' . $matches[2] . '/';
+            }
+            $path = preg_replace('~/(?:deed|legalcode)(?:\.[a-zA-Z-]+)?/?$~D', '/', $parts['path'] ?? '');
+            ensure(rtrim($path, '/') === rtrim($expectedPath, '/'), 'URL et libellé de licence incohérents.');
+            $licenseUrl = 'https://creativecommons.org' . $expectedPath;
         }
         ensure($get('Restrictions') === '', 'Restrictions supplémentaires à examiner.');
         $artist = $get('Artist'); $description = $get('ImageDescription'); $credit = $get('Credit');
@@ -102,7 +117,7 @@ final class Sources {
             'Origine photographique incertaine.');
         $attribution = $artist . ($credit !== '' && $credit !== $artist ? ' · ' . $credit : '') . ' · Wikimedia Commons · Version mobile redimensionnée/compressée';
         ensure(mb_strlen($attribution) <= 500, 'Attribution trop longue ; revue nécessaire.');
-        $download = https($info['thumburl'] ?? $info['url'] ?? '', ['upload.wikimedia.org']);
+        $download = https($info['thumburl'] ?? $info['url'] ?? '', ['upload.wikimedia.org', 'thumb.wikimedia.org']);
         $sourceUrl = https($info['descriptionurl'] ?? '', ['commons.wikimedia.org']);
         return ['download_url'=>$download, 'source_url'=>$sourceUrl, 'credit'=>$attribution,
             'license'=>$license . ' · ' . $licenseUrl, 'description'=>mb_substr($description, 0, 1800),

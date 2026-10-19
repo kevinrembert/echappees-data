@@ -223,6 +223,52 @@ try {
         $a = (new Catalog($root))->articles['decouverte-' . substr(hash('sha256', 'news-' . substr(hash('sha256', 'https://www.nasa.gov/fixture'), 0, 32)), 0, 24)];
         ensure($a['source_published_at'] === gmdate('Y-m-d') && str_contains($a['body'], gmdate('Y-m-d')) && str_contains($a['image_caption'], 'Illustration'), 'Date/illustration perdue.');
     });
+    test('Le diagnostic OpenAI distingue quota et débit sans exposer le corps API', function (): void {
+        $quota = new Echappees\RemoteFailure(true, 429, json_encode(['error'=>['code'=>'insufficient_quota', 'message'=>'CONFIDENTIAL_FIXTURE']]), 'api.openai.com');
+        ensure(str_contains($quota->getMessage(), 'Crédits API insuffisants') && !str_contains($quota->getMessage(), 'CONFIDENTIAL_FIXTURE'), 'Diagnostic de quota dangereux.');
+        $rate = new Echappees\RemoteFailure(true, 429, json_encode(['error'=>['code'=>'rate_limit_exceeded']]), 'api.openai.com');
+        ensure(str_contains($rate->getMessage(), 'Limite de débit'), 'Débit non identifié.');
+        $unknown = new Echappees\RemoteFailure(true, 429, json_encode(['error'=>['code'=>'CONFIDENTIAL_FIXTURE', 'message'=>'CONFIDENTIAL_FIXTURE']]), 'api.openai.com');
+        ensure(!str_contains($unknown->getMessage(), 'CONFIDENTIAL_FIXTURE'), 'Code inconnu affiché.');
+        $wiki = new Echappees\RemoteFailure(false, 429, '', 'fr.wikipedia.org');
+        ensure(str_contains($wiki->getMessage(), 'Wikipédia') && !str_contains($wiki->getMessage(), 'OpenAI'), 'Service erroné.');
+    });
+    test('Un échec libère les places quotidiennes sans effacer le coût incertain', function (): void {
+        [$root, $c, $b] = prepared(); $b->start('100'); $b->beforeCall('100'); $b->finish('100', 'failed');
+        ensure($b->dailyUsed() === 0 && $b->entry('100')['reserved_usd'] >= $b->worstCall(), 'Quota ou coût incorrect après échec.');
+        $ledger = jsonFile($root . '/generator/state/budget.json'); unset($ledger['runs']['100']['published_count']);
+        atomicJson($root . '/generator/state/budget.json', $ledger);
+        ensure((new Budget($root . '/generator/state/budget.json', $c))->dailyUsed() === 0, 'Ancien échec toujours bloquant.');
+    });
+    test('Seuls les articles publiés comptent après un passage terminé', function (): void {
+        $root = fixture(); $c = config($root); $b = new Budget($root . '/generator/state/budget.json', $c);
+        $b->reserve('123', 10, 'daily'); $b->start('123'); $b->finish('123', 'completed', 3);
+        ensure($b->dailyUsed() === 3, 'Places non publiées toujours occupées.');
+        ensure((new Generator($root, $c, new FakeHttp(), $b))->count() === 7, 'Places restantes incorrectes.');
+    });
+    test('Les vignettes thumb.wikimedia.org sont acceptées sans ouvrir les autres hôtes', function (): void {
+        $info = photoInfo(); $info['thumburl'] = 'https://thumb.wikimedia.org/wikipedia/commons/fixture.jpg';
+        ensure(Sources::photo($info)['download_url'] === $info['thumburl'], 'Nouveau serveur de vignettes refusé.');
+        foreach (['https://thumb.wikimedia.org.evil.invalid/photo.jpg', 'https://evil.invalid/photo.jpg'] as $url) {
+            $info['thumburl'] = $url; rejects(fn()=>Sources::photo($info));
+        }
+    });
+    test('Les liens CC historiques sont canonisés sans assouplir les téléchargements', function (): void {
+        foreach (['http://creativecommons.org/licenses/by-sa/4.0/', '//creativecommons.org/licenses/by-sa/4.0', 'https://www.creativecommons.org/licenses/by-sa/4.0/deed.fr'] as $url) {
+            $info = photoInfo(); $info['extmetadata']['LicenseUrl']['value'] = $url;
+            ensure(Sources::photo($info)['license_url'] === 'https://creativecommons.org/licenses/by-sa/4.0/', 'Licence historique refusée.');
+        }
+        foreach (['http://evil.invalid/licenses/by-sa/4.0/', 'https://creativecommons.org/licenses/by/4.0/', 'https://user@creativecommons.org/licenses/by-sa/4.0/'] as $url) {
+            $info = photoInfo(); $info['extmetadata']['LicenseUrl']['value'] = $url; rejects(fn()=>Sources::photo($info));
+        }
+        rejects(fn()=>https('http://thumb.wikimedia.org/photo.jpg', ['thumb.wikimedia.org']));
+    });
+    test('Le diagnostic de sources ne rédige aucun article et ne contacte pas OpenAI', function (): void {
+        $root = fixture(); $http = new FakeHttp();
+        ob_start();
+        try { $report = (new Sources($http, config($root)))->probe([['wiki_title'=>'Fixture']]); } finally { ob_end_clean(); }
+        ensure($report['accepted'] === 1 && $report['openai_calls'] === 0 && $http->calls === 0, 'Diagnostic payant ou incomplet.');
+    });
     test('Un brouillon trop court est rejeté avant le second appel', function (): void {
         [$root, $c, $b, $http] = prepared(); $http->badDraft = true;
         $report = (new Generator($root, $c, $http, $b))->run('100', 'fixture-only-not-a-secret');

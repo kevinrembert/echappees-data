@@ -20,6 +20,7 @@ try {
     if ($command === 'probe') {
         $report = (new Sources(new Http($config['contact']), $config))->probe(Echappees\jsonFile($root . '/generator/topics.json'));
         echo json_encode($report, JSON_THROW_ON_ERROR) . "\n";
+        echo '::notice title=Diagnostic de collecte::' . $report['accepted'] . ' sources acceptées, ' . $report['rejected'] . ' refusées ; aucun appel OpenAI.' . "\n";
         exit(0);
     }
     if (!is_dir($root . '/generator/state')) mkdir($root . '/generator/state', 0755, true);

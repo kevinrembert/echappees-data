@@ -74,7 +74,7 @@ final class Generator {
                 atomicJson($this->root . '/generator/state/audit-' . substr(hash('sha256', $run), 0, 20) . '.json', ['schema_version'=>1, 'articles'=>$audit]);
             }
             atomicJson($stateFile, $state);
-            $this->budget->finish($run, 'completed');
+            $this->budget->finish($run, 'completed', count($articles));
             return ['published'=>count($articles), 'skipped'=>$skipped, 'target'=>$entry['count']];
         } catch (\Throwable $error) {
             $this->budget->finish($run, 'failed');

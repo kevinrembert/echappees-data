@@ -70,7 +70,7 @@ final class RemoteFailure extends RuntimeException {
     public function __construct(public readonly bool $paidPost, public readonly int $status, string $body = '', string $host = '') {
         $service = match ($host) {
             'api.openai.com'=>'OpenAI', 'fr.wikipedia.org'=>'Wikipédia',
-            'commons.wikimedia.org', 'upload.wikimedia.org'=>'Wikimedia Commons',
+            'commons.wikimedia.org', 'upload.wikimedia.org', 'thumb.wikimedia.org'=>'Wikimedia Commons',
             'www.nasa.gov'=>'NASA', default=>'Service distant',
         };
         $detail = '';
@@ -99,7 +99,7 @@ interface Transport {
 }
 
 final class Http implements Transport {
-    private const HOSTS = ['fr.wikipedia.org', 'commons.wikimedia.org', 'upload.wikimedia.org', 'www.nasa.gov', 'www.esa.int', 'www.cnrs.fr', 'api.openai.com'];
+    private const HOSTS = ['fr.wikipedia.org', 'commons.wikimedia.org', 'upload.wikimedia.org', 'thumb.wikimedia.org', 'www.nasa.gov', 'www.esa.int', 'www.cnrs.fr', 'api.openai.com'];
     public function __construct(private readonly string $contact) {}
     public function request(string $url, ?array $payload = null, ?string $token = null, int $maxBytes = 4194304): array {
         https($url, self::HOSTS);
