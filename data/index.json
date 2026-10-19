@@ -1,24 +1,30 @@
 {
-  "schema_version": 1,
-  "version": "2026-10-18.2",
-  "batches": [
-    {
-      "id": "demo-a",
-      "version": "2",
-      "url": "batches/demo-a.v2.json",
-      "count": 2
-    },
-    {
-      "id": "demo-b",
-      "version": "2",
-      "url": "batches/demo-b.v2.json",
-      "count": 2
-    },
-    {
-      "id": "demo-c",
-      "version": "2",
-      "url": "batches/demo-c.v2.json",
-      "count": 1
-    }
-  ]
+    "schema_version": 1,
+    "version": "2026-10-19.16020ef8b4048ebe",
+    "batches": [
+        {
+            "id": "generated-16020ef8b4048ebefb5d",
+            "version": "1",
+            "url": "batches/generated-16020ef8b4048ebefb5d.v1.json",
+            "count": 7
+        },
+        {
+            "id": "demo-a",
+            "version": "2",
+            "url": "batches/demo-a.v2.json",
+            "count": 2
+        },
+        {
+            "id": "demo-b",
+            "version": "2",
+            "url": "batches/demo-b.v2.json",
+            "count": 2
+        },
+        {
+            "id": "demo-c",
+            "version": "2",
+            "url": "batches/demo-c.v2.json",
+            "count": 1
+        }
+    ]
 }

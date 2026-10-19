@@ -19,15 +19,16 @@
             "month": "2026-10",
             "date": "2026-10-19",
             "mode": "daily",
-            "status": "reserved",
+            "status": "completed",
             "count": 10,
             "max_calls": 20,
-            "calls": 0,
-            "charged_usd": 0,
-            "reserved_usd": 0.282368,
-            "input_tokens": 0,
-            "output_tokens": 0,
-            "config_sha256": "5fbe9a8a50485b6c209080442caae1c62bfda72565ebfb582ba017aca18f6beb"
+            "calls": 20,
+            "charged_usd": 0.01650440000000001,
+            "reserved_usd": 0.016505,
+            "input_tokens": 22761,
+            "output_tokens": 4625,
+            "config_sha256": "5fbe9a8a50485b6c209080442caae1c62bfda72565ebfb582ba017aca18f6beb",
+            "published_count": 7
         }
     }
 }

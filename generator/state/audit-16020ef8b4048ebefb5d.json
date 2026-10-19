@@ -1,0 +1,131 @@
+{
+    "schema_version": 1,
+    "articles": [
+        {
+            "id": "decouverte-e430aeba01cdc98282c62b0d",
+            "subject_id": "Q20892",
+            "collected_at": "2026-10-19T14:20:45+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Le Mont-Saint-Michel",
+                    "url": "https://fr.wikipedia.org/wiki/Le_Mont-Saint-Michel"
+                }
+            ],
+            "source_sha256": "29fcac310f70e4b814ca263a3056ab926f013f7a13d06266768aee708224ae01",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Mont_St_Michel_in_the_afternoon.jpg",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "original_sha1": "f845d9eb4e5072603161dab725a9070571c1d5b0",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-718456ea1c809edec71a1eca",
+            "subject_id": "Q29995",
+            "collected_at": "2026-10-19T14:21:04+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Lutra lutra",
+                    "url": "https://fr.wikipedia.org/wiki/Lutra_lutra"
+                }
+            ],
+            "source_sha256": "6e487128fcbd0845abd070a8c555859e8b0d7749b4725a2f478c8bb6d5843c3d",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Loutre_des_pyrenees_baronnies_2004.jpg",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "original_sha1": "e4abc169e25dcc2161bdbeca0039644a6937a6cb",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-85126646870720eeaaf4fe60",
+            "subject_id": "Q782033",
+            "collected_at": "2026-10-19T14:21:11+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Four solaire d'Odeillo",
+                    "url": "https://fr.wikipedia.org/wiki/Four_solaire_d%27Odeillo"
+                }
+            ],
+            "source_sha256": "5c1f1831a0303a5bf20942f514ca172242fbca5e3bf7549cd4d6c02e46c9e1d6",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:FourSolaire2.JPG",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "original_sha1": "c90992d268ee0e1f7830da1fdd085cd563e61f65",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-93541c48fc5d75fe4b243c21",
+            "subject_id": "Q1473702",
+            "collected_at": "2026-10-19T14:21:25+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Parc national de Peneda-Gerês",
+                    "url": "https://fr.wikipedia.org/wiki/Parc_national_de_Peneda-Ger%C3%AAs"
+                }
+            ],
+            "source_sha256": "27c6c795add74e194cb659a26310db630226190912972ff5e000f4b8fcae39bd",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Nossa_Senhora_de_Peneda.JPG",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "original_sha1": "830ef54b72e4a02e64c2fecb10d32e4928df89c0",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-1c761650d41e7f42e8ecd74a",
+            "subject_id": "Q181191",
+            "collected_at": "2026-10-19T14:21:34+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Castor fiber",
+                    "url": "https://fr.wikipedia.org/wiki/Castor_fiber"
+                }
+            ],
+            "source_sha256": "82148992b5ed3954ec7050dad26c90c77813ce8a0df2ab0bf1355f7bd0cab237",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Beaver_pho34.jpg",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "original_sha1": "b9ed18376accce1ad5368fb2065303b5a0c2101c",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-dd43a7c00fd79eff8ee9e62f",
+            "subject_id": "Q188617",
+            "collected_at": "2026-10-19T14:21:43+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Jardins botaniques royaux de Kew",
+                    "url": "https://fr.wikipedia.org/wiki/Jardins_botaniques_royaux_de_Kew"
+                }
+            ],
+            "source_sha256": "43659b0a43dca272e1890d20403b7346d1b1f2fea15dfaf58f7fbe68beb8d1b3",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Kew_Gardens_Palm_House,_London_-_July_2009.jpg",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "original_sha1": "c347a7eb6634b6f9e6fd59f0f775a2c29ce4fc4c",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-2c2c4c4ff4e3cab0a0f4b618",
+            "subject_id": "Q215003",
+            "collected_at": "2026-10-19T14:21:51+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Tour de Belém",
+                    "url": "https://fr.wikipedia.org/wiki/Tour_de_Bel%C3%A9m"
+                }
+            ],
+            "source_sha256": "759d63650b3299d39525e05513e8cc9f6a446023c30fc9bc29b796fb8fce9e9d",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Bel%C3%A9m_Tower_in_Lisbon,_Portugal.jpg",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "original_sha1": "0d965986855d1ccf1b9414ecaff0d5a8fa872038",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        }
+    ]
+}

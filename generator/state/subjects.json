@@ -1,0 +1,33 @@
+{
+    "schema_version": 1,
+    "subjects": {
+        "Q20892": "decouverte-e430aeba01cdc98282c62b0d",
+        "title:mont saint michel": "decouverte-e430aeba01cdc98282c62b0d",
+        "Q29995": "decouverte-718456ea1c809edec71a1eca",
+        "title:loutre d europe": "decouverte-718456ea1c809edec71a1eca",
+        "Q782033": "decouverte-85126646870720eeaaf4fe60",
+        "title:four solaire d odeillo": "decouverte-85126646870720eeaaf4fe60",
+        "Q1473702": "decouverte-93541c48fc5d75fe4b243c21",
+        "title:parc national de peneda gerês": "decouverte-93541c48fc5d75fe4b243c21",
+        "Q181191": "decouverte-1c761650d41e7f42e8ecd74a",
+        "title:castor d europe": "decouverte-1c761650d41e7f42e8ecd74a",
+        "Q188617": "decouverte-dd43a7c00fd79eff8ee9e62f",
+        "title:jardins botaniques royaux de kew": "decouverte-dd43a7c00fd79eff8ee9e62f",
+        "Q215003": "decouverte-2c2c4c4ff4e3cab0a0f4b618",
+        "title:tour de belém": "decouverte-2c2c4c4ff4e3cab0a0f4b618"
+    },
+    "failed": {
+        "saint jean pied de port": "2026-10-19",
+        "pont du gard": "2026-10-19",
+        "jardin botanique de bordeaux": "2026-10-19",
+        "piment d espelette": "2026-10-19",
+        "óbidos": "2026-10-19",
+        "alhambra": "2026-10-19",
+        "observatoire du pic du midi": "2026-10-19",
+        "azulejo": "2026-10-19",
+        "cinque terre": "2026-10-19",
+        "aveiro": "2026-10-19",
+        "loutre de mer": "2026-10-19",
+        "observatoire du cerro paranal": "2026-10-19"
+    }
+}

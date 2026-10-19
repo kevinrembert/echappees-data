@@ -1,0 +1,161 @@
+{
+    "schema_version": 1,
+    "id": "generated-16020ef8b4048ebefb5d",
+    "version": "1",
+    "articles": [
+        {
+            "id": "decouverte-e430aeba01cdc98282c62b0d",
+            "title": "Le Mont-Saint-Michel, joyau normand entre terre et mer",
+            "body": "Le Mont-Saint-Michel, situé en Normandie dans la Manche, est une commune célèbre pour son îlot rocheux dominé par une abbaye dédiée à saint Michel. Ce site exceptionnel, accessible depuis la mer lors de certaines marées, attire chaque année environ deux millions et demi de visiteurs. L'ensemble architectural, où s'élève une statue culminant à plus de 157 mètres, est protégé comme monument historique depuis 1862. Inscrit au patrimoine mondial de l'UNESCO depuis 1979, le Mont-Saint-Michel fait aussi partie des étapes des Chemins de Compostelle. Comptant seulement 23 résidents en 2023, la commune a été labellisée Village patrimoine, soulignant l'importance de son héritage culturel et naturel.",
+            "category": "Voyages et paysages",
+            "location": "Mont-Saint-Michel, Normandie, France",
+            "image_description": "Vue du Mont-Saint-Michel en fin d'après-midi, prise depuis le niveau de la mer.",
+            "image_caption": "Illustration générale du Mont-Saint-Michel, Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/2093ae885b4d3b5db00a5927bcddd97169415323cf066f294da631389734bc4c.jpg",
+            "image_credit": "Lynx1211 · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Mont_St_Michel_in_the_afternoon.jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Le Mont-Saint-Michel",
+                    "url": "https://fr.wikipedia.org/wiki/Le_Mont-Saint-Michel"
+                }
+            ],
+            "subject_id": "Q20892",
+            "published_at": "2026-10-19",
+            "country": "France"
+        },
+        {
+            "id": "decouverte-718456ea1c809edec71a1eca",
+            "title": "La loutre d'Europe, un mammifère semi-aquatique au charme discret",
+            "body": "La loutre d'Europe, ou Lutra lutra, est un mammifère carnivore semi-aquatique de taille moyenne, semblable à un renard par ses dimensions. Son corps allongé, sa queue robuste, ses pattes palmées et ses membres courts font d'elle une nageuse agile, adaptée à la chasse au poisson, base de son alimentation. Autrefois largement répandue à travers l'Eurasie et le Maghreb, sa population a fortement décliné entre les XIXe et XXe siècles, notamment à cause de la chasse pour sa fourrure. Aujourd'hui, elle est classée parmi les espèces vulnérables et fait l'objet de programmes de conservation en Europe. La pollution, notamment aux PCB, reste un défi pour sa réhabilitation complète sur son aire naturelle.",
+            "category": "Nature et animaux",
+            "location": "Europe",
+            "image_description": "Photo d'une loutre d'Europe (Lutra lutra) prise dans les Baronnies, Pyrénées.",
+            "image_caption": "Illustration documentaire générale : une loutre d'Europe photographiée dans les Pyrénées, Baronnies.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/96e096a47c1f41c1d3ee612f5e15bef2f7f231b520994c213922165c826221f9.jpg",
+            "image_credit": "Bernard-Boehne · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Loutre_des_pyrenees_baronnies_2004.jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Lutra lutra",
+                    "url": "https://fr.wikipedia.org/wiki/Lutra_lutra"
+                }
+            ],
+            "subject_id": "Q29995",
+            "published_at": "2026-10-19",
+            "country": "Monde"
+        },
+        {
+            "id": "decouverte-85126646870720eeaaf4fe60",
+            "title": "Le four solaire d’Odeillo : un laboratoire unique à haute température",
+            "body": "Situé en France, le four solaire d’Odeillo est un impressionnant équipement de recherche fonctionnant à l'énergie solaire. Mis en service en 1969, il mesure 50 mètres de haut, 60 mètres de large et 30 mètres de profondeur. Son dispositif de 63 héliostats concentre la lumière du soleil près de 10 000 fois, atteignant des températures pouvant monter jusqu'à 3 300 °C sur des échantillons, notamment de graphite. Avec une puissance thermique d’un mégawatt, ce four permet d’explorer les comportements des matériaux soumis à des conditions extrêmes. Il est reconnu mondialement, avec le four solaire de Parkent en Ouzbékistan, comme l’un des deux plus grands fours solaires. Odeillo, ainsi que le four solaire de Mont-Louis, a servi de modèle pour de nombreuses installations similaires à travers le monde, démontrant le potentiel des énergies renouvelables dans la recherche scientifique.",
+            "category": "Sciences",
+            "location": "Odeillo, France",
+            "image_description": "Photographie du four solaire d’Odeillo, un laboratoire du CNRS dédié à l'étude des hautes températures par concentration de l'énergie solaire.",
+            "image_caption": "Vue du four solaire d’Odeillo, illustration documentaire générale.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/2f2f6676363f4321a9cfffc566cf5ab531a49dc301eb85e5ecbe073695adad87.jpg",
+            "image_credit": "Rabatakeu · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:FourSolaire2.JPG",
+            "sources": [
+                {
+                    "label": "Wikipédia · Four solaire d'Odeillo",
+                    "url": "https://fr.wikipedia.org/wiki/Four_solaire_d%27Odeillo"
+                }
+            ],
+            "subject_id": "Q782033",
+            "published_at": "2026-10-19",
+            "country": "France"
+        },
+        {
+            "id": "decouverte-93541c48fc5d75fe4b243c21",
+            "title": "Le Parc national de Peneda-Gerês, joyau naturel du nord du Portugal",
+            "body": "Créé en 1971, le parc national de Peneda-Gerês est la plus ancienne aire protégée du Portugal, s'étendant sur 72 000 hectares. Situé à l'extrême nord, il couvre les districts de Braga, Viana do Castelo et Vila Real. Le parc doit son nom à ses principaux massifs granitiques, la Serra da Peneda et la Serra do Gerês, qui figurent parmi les plus hauts sommets de cette région montagneuse. Le paysage est sculpté par des torrents, rivières, gorges et canyons. Les villages se nichent dans les vallées plus douces, tandis que l'altitude offre un environnement sauvage dominé par des roches imposantes, des landes exposées et des plateaux parsèment de houx géants. Avec le parc national espagnol voisin, Peneda-Gerês forme une réserve de biosphère transfrontalière inscrite par l’Unesco depuis 2009.",
+            "category": "Voyages et paysages",
+            "location": "Portugal",
+            "image_description": "Vue de Nossa Senhora de Peneda dans le parc national de Peneda-Gerês, montrant une construction traditionnelle entourée de végétation.",
+            "image_caption": "Photographie documentaire générale de Nossa Senhora de Peneda dans le parc national de Peneda-Gerês au Portugal.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/26043281d7fd5cd108a03bd387927bc9a389b4967d0ceaf2f22173e7da47a6f2.jpg",
+            "image_credit": "Josep Renalias · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Nossa_Senhora_de_Peneda.JPG",
+            "sources": [
+                {
+                    "label": "Wikipédia · Parc national de Peneda-Gerês",
+                    "url": "https://fr.wikipedia.org/wiki/Parc_national_de_Peneda-Ger%C3%AAs"
+                }
+            ],
+            "subject_id": "Q1473702",
+            "published_at": "2026-10-19",
+            "country": "Portugal"
+        },
+        {
+            "id": "decouverte-1c761650d41e7f42e8ecd74a",
+            "title": "Le castor d'Europe, ingénieur de la biodiversité aquatique",
+            "body": "Le castor d'Europe (Castor fiber) est le plus grand rongeur originaire d'Eurasie et un acteur clé des écosystèmes aquatiques. Après avoir été menacé, il bénéficie désormais d'une protection dans plusieurs pays européens qui a permis sa réintroduction et sa reconquête des milieux aquatiques tels que cours d'eau, zones humides et étangs. Surnommé « espèce-ingénieur », il modifie son environnement en construisant des barrages, ce qui favorise la rétention d'eau et la complexification des habitats. Ce travail facilite l'apparition d'une flore et d'une faune plus diversifiées, contribuant ainsi à la restauration écologique des milieux aquatiques. Malgré ces avancées, le castor d'Europe demeure vulnérable à cause d'une diversité génétique réduite. Sa présence est un véritable soutien à la biodiversité et à la renaturation des cours d'eau en Europe et en Asie.",
+            "category": "Nature et animaux",
+            "location": "Europe",
+            "image_description": "Un castor d'Europe photographié en Norvège, visible dans son habitat naturel aquatique.",
+            "image_caption": "Photo documentaire générale d’un castor d’Europe en Norvège, Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/d35dbd636ffb4ccb2fa679a5bf081b0eff16622863aaae94b28cd1aa287b159d.jpg",
+            "image_credit": "Per Harald Olsen · User made. · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Beaver_pho34.jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Castor fiber",
+                    "url": "https://fr.wikipedia.org/wiki/Castor_fiber"
+                }
+            ],
+            "subject_id": "Q181191",
+            "published_at": "2026-10-19",
+            "country": "Monde"
+        },
+        {
+            "id": "decouverte-dd43a7c00fd79eff8ee9e62f",
+            "title": "Les Jardins botaniques royaux de Kew, trésor végétal au cœur de Londres",
+            "body": "Les Jardins botaniques royaux de Kew, situés à l’ouest de Londres le long de la Tamise, s’étendent sur 121 hectares, ce qui en fait le plus grand jardin botanique au monde. Fondés en 1759, ils abritent une collection de plus de 30 000 espèces végétales ainsi qu’un herbier de plus de sept millions de spécimens. Ce site emblématique de l’époque victorienne est également un centre de recherche en botanique reconnu internationalement. Chaque année, il accueille environ deux millions de visiteurs. Depuis juillet 2003, les jardins de Kew figurent au patrimoine mondial de l’UNESCO, témoignant de leur valeur naturelle et culturelle exceptionnelle.",
+            "category": "Initiatives positives",
+            "location": "Londres, Royaume-Uni",
+            "image_description": "Vue panoramique des jardins avec la Palm House reconnaissable au centre, entourée de répliques des figures héraldiques de la reine, comme le Dragon Rouge du Pays de Galles et la Licorne d'Écosse.",
+            "image_caption": "Photographie prise en juillet 2009 montrant la Palm House aux Jardins botaniques royaux de Kew. Image générale illustrative du site sur Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/d1e53f42454faa6832da00e6c3854fe0db30498b629c5c807ac22ec2907cfa60.jpg",
+            "image_credit": "Diliff · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Kew_Gardens_Palm_House,_London_-_July_2009.jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Jardins botaniques royaux de Kew",
+                    "url": "https://fr.wikipedia.org/wiki/Jardins_botaniques_royaux_de_Kew"
+                }
+            ],
+            "subject_id": "Q188617",
+            "published_at": "2026-10-19",
+            "country": "Royaume-Uni"
+        },
+        {
+            "id": "decouverte-2c2c4c4ff4e3cab0a0f4b618",
+            "title": "La tour de Belém, emblème de l'âge des découvertes au Portugal",
+            "body": "Située sur les rives du Tage à Lisbonne, la tour de Belém a été érigée entre 1514 et 1519 sous le règne du roi Manuel Ier. Conçue à la fois comme une forteresse et un port de départ pour les explorateurs portugais, elle a joué un rôle clé durant l’époque des grandes découvertes. Cette construction remarquable illustre le style manuélin, avec des détails architecturaux intégrant balcons et échauguettes d'influence mauresque. Elle a protégé l'entrée du port de Lisbonne et a été un point de départ vers des routes commerciales vers la Chine et l’Inde. Inscrite au patrimoine mondial de l’UNESCO depuis 1983, la tour témoigne de l'histoire maritime et commerciale du Portugal aux XVIe siècle.",
+            "category": "Histoire et patrimoine",
+            "location": "Lisbonne, Portugal",
+            "image_description": "Vue extérieure de la tour de Belém à Lisbonne, Portugal, montrant sa structure en pierre et ses détails manuélin datant du XVIe siècle.",
+            "image_caption": "Illustration documentaire générale de la tour de Belém à Lisbonne, monument historique portugais du XVIe siècle.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/21980ffafbc44ed102fbd7be0d1efae04eed9755b084724c58aa5187112145c1.jpg",
+            "image_credit": "Lisbon Photoshoots · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Bel%C3%A9m_Tower_in_Lisbon,_Portugal.jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Tour de Belém",
+                    "url": "https://fr.wikipedia.org/wiki/Tour_de_Bel%C3%A9m"
+                }
+            ],
+            "subject_id": "Q215003",
+            "published_at": "2026-10-19",
+            "country": "Portugal"
+        }
+    ]
+}
