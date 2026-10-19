@@ -1,0 +1,94 @@
+name: Enrichir le catalogue Échappées
+on:
+  schedule:
+    - cron: '17 6 * * *'
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'Amorçage vers 50 articles ou rythme quotidien'
+        type: choice
+        options: [bootstrap, daily]
+        default: bootstrap
+      dry_run:
+        description: 'Simulation sans appel OpenAI ni publication'
+        type: boolean
+        default: true
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: echappees-generation
+  cancel-in-progress: false
+jobs:
+  generate:
+    if: github.event_name == 'workflow_dispatch' || vars.GENERATION_ENABLED == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    outputs:
+      deploy: ${{ steps.publish.outputs.deploy }}
+    env:
+      GENERATION_ENABLED: ${{ vars.GENERATION_ENABLED || 'false' }}
+      GENERATION_MODE: ${{ inputs.mode || 'daily' }}
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          ref: main
+          fetch-depth: 1
+      - uses: shivammathur/setup-php@bf6b4fbd49ca58e4608c9c89fba0b8d90bd2a39f # 2.35.5
+        with:
+          php-version: '8.4'
+          extensions: curl, mbstring, dom, simplexml, gd
+          coverage: none
+      - name: Vérifier le code et les données avant les appels
+        run: |
+          find generator -name '*.php' -print0 | xargs -0 -n1 php -l
+          php generator/tests/run.php
+          php generator/cli.php validate
+          php generator/cli.php plan
+      - name: Vérifier la présence du secret sans l'afficher
+        if: github.event_name == 'schedule' || inputs.dry_run == false
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: test -n "$OPENAI_API_KEY" || { echo 'Ajouter le secret OPENAI_API_KEY dans GitHub Actions.'; exit 1; }
+      - name: Réserver et enregistrer le budget avant toute dépense
+        if: github.event_name == 'schedule' || inputs.dry_run == false
+        run: |
+          php generator/cli.php reserve
+          git config user.name 'echappees-content[bot]'
+          git config user.email 'echappees-content[bot]@users.noreply.github.com'
+          git add generator/state/
+          if ! git diff --cached --quiet; then
+            git commit -m 'Réserver le budget de génération'
+            git push origin HEAD:main
+          fi
+      - name: Collecter, rédiger et contrôler les publications
+        id: generation
+        if: github.event_name == 'schedule' || inputs.dry_run == false
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: php generator/cli.php generate
+      - name: Sauvegarder le résultat et les coûts même après une erreur
+        id: publish
+        if: always() && (github.event_name == 'schedule' || inputs.dry_run == false)
+        env:
+          GENERATION_OUTCOME: ${{ steps.generation.outcome }}
+        run: |
+          git config user.name 'echappees-content[bot]'
+          git config user.email 'echappees-content[bot]@users.noreply.github.com'
+          git add generator/state/
+          if [ "$GENERATION_OUTCOME" = success ]; then
+            php generator/cli.php validate
+            git add data/
+            if ! git diff --cached --quiet -- data/; then
+              echo 'deploy=true' >> "$GITHUB_OUTPUT"
+            fi
+          fi
+          if ! git diff --cached --quiet; then
+            git commit -m 'Enregistrer les publications validées et les coûts'
+            git push origin HEAD:main
+          fi
+  pages:
+    needs: generate
+    if: needs.generate.outputs.deploy == 'true'
+    uses: ./.github/workflows/pages.yml

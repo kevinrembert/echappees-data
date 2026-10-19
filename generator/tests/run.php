@@ -1,0 +1,226 @@
+<?php
+declare(strict_types=1);
+require dirname(__DIR__) . '/bootstrap.php';
+
+use Echappees\{Budget, Catalog, Generator, Http, Sources, Transport, Writer};
+use function Echappees\{atomicJson, config, ensure, https, jsonFile};
+
+$sourceRoot = dirname(__DIR__, 2);
+$passed = 0; $failed = 0; $directories = [];
+function test(string $name, callable $callback): void {
+    global $passed, $failed;
+    try { $callback(); $passed++; echo "OK $name\n"; }
+    catch (Throwable $e) { $failed++; echo "ÉCHEC $name : " . $e->getMessage() . "\n"; }
+}
+function rejects(callable $callback): void {
+    try { $callback(); } catch (Throwable) { return; }
+    throw new RuntimeException('Le scénario aurait dû être refusé.');
+}
+function fixture(): string {
+    global $sourceRoot, $directories;
+    $root = sys_get_temp_dir() . '/echappees-php-test-' . bin2hex(random_bytes(8)); $directories[] = $root;
+    mkdir($root . '/data/batches', 0755, true); mkdir($root . '/generator/state', 0755, true);
+    atomicJson($root . '/data/index.json', ['schema_version'=>1, 'version'=>'fixture', 'batches'=>[
+        ['id'=>'demo-a', 'version'=>'2', 'url'=>'batches/demo-a.v2.json', 'count'=>2],
+        ['id'=>'demo-b', 'version'=>'2', 'url'=>'batches/demo-b.v2.json', 'count'=>2],
+        ['id'=>'demo-c', 'version'=>'2', 'url'=>'batches/demo-c.v2.json', 'count'=>1],
+    ]]);
+    foreach (glob($sourceRoot . '/data/batches/*.json') as $file) copy($file, $root . '/data/batches/' . basename($file));
+    copy($sourceRoot . '/generator/config.json', $root . '/generator/config.json');
+    atomicJson($root . '/generator/topics.json', [['wiki_title'=>'Sujet de test', 'kind'=>'evergreen', 'category'=>'Voyages et paysages', 'country'=>'Monde']]);
+    atomicJson($root . '/generator/recent.json', []);
+    return $root;
+}
+function removeTree(string $dir): void {
+    foreach (new RecursiveIteratorIterator(new RecursiveDirectoryIterator($dir, FilesystemIterator::SKIP_DOTS), RecursiveIteratorIterator::CHILD_FIRST) as $file) {
+        $file->isDir() ? rmdir($file->getPathname()) : unlink($file->getPathname());
+    }
+    rmdir($dir);
+}
+function photoInfo(): array {
+    return ['mediatype'=>'BITMAP', 'mime'=>'image/jpeg', 'thumburl'=>'https://upload.wikimedia.org/fixture.jpg',
+        'descriptionurl'=>'https://commons.wikimedia.org/wiki/File:Fixture.jpg', 'sha1'=>str_repeat('a', 40),
+        'extmetadata'=>['LicenseShortName'=>['value'=>'CC BY-SA 4.0'], 'LicenseUrl'=>['value'=>'https://creativecommons.org/licenses/by-sa/4.0/'],
+            'Artist'=>['value'=>'<a href="https://example.invalid">Auteur de fixture</a>'], 'Credit'=>['value'=>'Travail personnel'],
+            'ImageDescription'=>['value'=>'Photographie documentaire des façades de Porto.'], 'Categories'=>['value'=>'Photographs of Porto']]];
+}
+final class FakeHttp implements Transport {
+    public int $calls = 0;
+    public bool $approve = true;
+    public bool $badDraft = false;
+    public bool $timeout = false;
+    public bool $recent = false;
+    public array $payloads = [];
+    public function request(string $url, ?array $payload = null, ?string $token = null, int $maxBytes = 4194304): array {
+        global $sourceRoot;
+        if ($payload !== null) {
+            $this->calls++; $this->payloads[] = $payload;
+            ensure($url === 'https://api.openai.com/v1/responses' && $token === 'fixture-only-not-a-secret', 'Mauvaise destination des appels.');
+            if ($this->timeout) throw new Echappees\RemoteFailure(true, 0);
+            if ($payload['text']['format']['name'] === 'echappees_article') {
+                $article = jsonFile($sourceRoot . '/data/batches/demo-a.v2.json')['articles'][1];
+                $value = array_intersect_key($article, array_flip(['title', 'body', 'category', 'location', 'image_description', 'image_caption']));
+                $value['title'] = 'Une découverte documentaire de test';
+                $value['category'] = 'Voyages et paysages'; $value['suitable'] = true;
+                if ($this->recent) {
+                    $value['body'] .= ' Ce texte de test cite un communiqué publié le ' . gmdate('Y-m-d') . '.';
+                    $value['image_caption'] = 'Illustration documentaire générale de Porto.';
+                }
+                if ($this->badDraft) $value['body'] = 'Texte trop court.';
+            } else {
+                $value = array_fill_keys(['approved', 'supported_facts', 'french', 'positive', 'photo_honest', 'not_duplicate'], $this->approve);
+                $value['reason'] = 'Fixture uniquement.';
+            }
+            return ['body'=>json_encode(['status'=>'completed', 'usage'=>['input_tokens'=>1000, 'output_tokens'=>300],
+                'output'=>[['content'=>[['type'=>'output_text', 'text'=>json_encode($value, JSON_THROW_ON_ERROR)]]]]], JSON_THROW_ON_ERROR), 'type'=>'application/json'];
+        }
+        if ($url === 'https://www.nasa.gov/fixture') return ['body'=>'<html><head><meta property="article:published_time" content="' . gmdate('Y-m-d') . 'T00:00:00Z"></head><body><article>' . jsonFile($sourceRoot . '/data/batches/demo-a.v2.json')['articles'][1]['body'] . '</article></body></html>', 'type'=>'text/html'];
+        if ($url === 'https://www.nasa.gov/news-release/feed/') return ['body'=>'<rss><channel/></rss>', 'type'=>'application/rss+xml'];
+        if (str_starts_with($url, 'https://upload.wikimedia.org/')) return ['body'=>file_get_contents($sourceRoot . '/data/images/porto.jpg'), 'type'=>'image/jpeg'];
+        $host = parse_url($url, PHP_URL_HOST);
+        $value = $host === 'commons.wikimedia.org'
+            ? ['query'=>['pages'=>[['imageinfo'=>[photoInfo()]]]]]
+            : ['query'=>['pages'=>[['pageid'=>123456, 'pageprops'=>['wikibase_item'=>'Q123456'], 'title'=>'Sujet de test',
+                'extract'=>jsonFile($sourceRoot . '/data/batches/demo-a.v2.json')['articles'][1]['body'],
+                'fullurl'=>'https://fr.wikipedia.org/wiki/Fixture', 'pageimage'=>'Fixture.jpg']]]];
+        return ['body'=>json_encode($value, JSON_THROW_ON_ERROR), 'type'=>'application/json'];
+    }
+}
+function prepared(): array {
+    $root = fixture(); $c = config($root); $c['max_per_run'] = 1;
+    $budget = new Budget($root . '/generator/state/budget.json', $c);
+    $budget->reserve('100', 1, 'bootstrap');
+    return [$root, $c, $budget, new FakeHttp()];
+}
+
+try {
+    test('Le catalogue publié respecte le contrat', function () use ($sourceRoot): void { ensure(count((new Catalog($sourceRoot))->articles) >= 5, 'Catalogue incomplet.'); });
+    test('Les URL non HTTPS, à identifiants ou hôtes inattendus sont refusées', function (): void {
+        foreach (['http://fr.wikipedia.org/x', 'https://user:pass@fr.wikipedia.org/x', 'https://127.0.0.1/x', 'https://fr.wikipedia.org:444/x', 'https://evil.invalid/x'] as $url) rejects(fn()=>https($url, ['fr.wikipedia.org']));
+    });
+    test('Le transport refuse la redirection du secret avant tout réseau', function (): void { rejects(fn()=>(new Http('test'))->request('https://commons.wikimedia.org/x', [], 'fixture')); });
+    test('Les chemins de lot hors catalogue sont refusés', function (): void {
+        $root = fixture(); $index = jsonFile($root . '/data/index.json'); $index['batches'][0]['url'] = '../secret.json'; atomicJson($root . '/data/index.json', $index);
+        rejects(fn()=>new Catalog($root));
+    });
+    test('Un texte trop court et des crédits absents sont refusés', function () use ($sourceRoot): void {
+        $article = jsonFile($sourceRoot . '/data/batches/demo-a.v2.json')['articles'][0];
+        $bad = $article; $bad['body'] = 'Trop court.'; rejects(fn()=>Catalog::validateArticle($bad));
+        $bad = $article; $bad['image_credit'] = ''; rejects(fn()=>Catalog::validateArticle($bad));
+    });
+    test('Une licence libre garde auteur, lien et mention de modification', function (): void {
+        $photo = Sources::photo(photoInfo()); ensure(str_contains($photo['credit'], 'Auteur de fixture') && str_contains($photo['credit'], 'redimensionnée') && str_contains($photo['license'], 'by-sa/4.0'), 'Attribution incomplète.');
+    });
+    test('Les licences incertaines, illustrations et descriptions sans auteur sont refusées', function (): void {
+        foreach (['license', 'artist', 'drawing', 'restrictions'] as $case) {
+            $info = photoInfo();
+            if ($case === 'license') $info['extmetadata']['LicenseShortName']['value'] = 'All rights reserved';
+            if ($case === 'artist') $info['extmetadata']['Artist']['value'] = '';
+            if ($case === 'drawing') $info['extmetadata']['ImageDescription']['value'] = 'AI generated painting';
+            if ($case === 'restrictions') $info['extmetadata']['Restrictions']['value'] = 'Restrictions';
+            rejects(fn()=>Sources::photo($info));
+        }
+    });
+    test('Une date d’actualité périmée est refusée avant de lire le communiqué', function (): void {
+        $c = config(fixture()); $sources = new Sources(new FakeHttp(), $c);
+        rejects(fn()=>$sources->collect(['wiki_title'=>'Fixture', 'kind'=>'recent', 'source_published_at'=>'2000-01-01', 'source_url'=>'https://www.nasa.gov/fixture']));
+    });
+    test('Le budget est persisté et une même exécution ne réserve pas deux fois', function (): void {
+        [$root, $c, $budget] = prepared(); ensure($budget->reserve('100', 1, 'bootstrap') === false, 'Réservation doublée.');
+        ensure((new Budget($root . '/generator/state/budget.json', $c))->entry('100')['status'] === 'reserved', 'Réservation perdue.');
+    });
+    test('Les plafonds par exécution et mensuel empêchent les appels', function (): void {
+        $root = fixture(); $c = config($root); $c['run_budget_usd'] = 0.001;
+        rejects(fn()=>(new Budget($root . '/generator/state/a.json', $c))->reserve('1', 1, 'daily'));
+        $c['run_budget_usd'] = 1; $c['monthly_budget_usd'] = 0.04;
+        $b = new Budget($root . '/generator/state/b.json', $c); $b->reserve('1', 1, 'daily');
+        rejects(fn()=>$b->reserve('2', 1, 'daily'));
+    });
+    test('Un appel incertain n’est pas relancé et reste facturé au maximum', function (): void {
+        [$root, $c, $b, $http] = prepared(); $b->start('100'); $http->timeout = true;
+        $writer = new Writer($http, $b, $c, '100', 'fixture-only-not-a-secret');
+        $source = (new Sources($http, $c))->collect(['wiki_title'=>'Fixture']);
+        rejects(fn()=>$writer->write($source, [])); ensure($http->calls === 1, 'POST rejoué.');
+        $b->finish('100', 'failed'); ensure($b->entry('100')['reserved_usd'] >= $b->worstCall(), 'Coût incertain libéré.');
+    });
+    test('Une panne API arrête le passage après un seul POST sans publier de lot', function (): void {
+        [$root, $c, $b, $http] = prepared(); $http->timeout = true;
+        putenv('GITHUB_ACTIONS=true'); putenv('GENERATION_ENABLED=true');
+        $before = file_get_contents($root . '/data/index.json');
+        rejects(fn()=>(new Generator($root, $c, $http, $b))->run('100', 'fixture-only-not-a-secret'));
+        ensure($http->calls === 1 && file_get_contents($root . '/data/index.json') === $before, 'Panne API rejouée ou lot publié.');
+        ensure($b->entry('100')['status'] === 'failed', 'Échec absent du registre.');
+    });
+    test('Les compteurs réels libèrent uniquement les appels non effectués', function (): void {
+        [$root, $c, $b] = prepared(); $b->start('100'); $b->beforeCall('100'); $b->account('100', ['input_tokens'=>1000, 'output_tokens'=>300]); $b->finish('100', 'completed');
+        ensure(abs($b->entry('100')['reserved_usd'] - 0.00088) < 0.000002, 'Coût réel incorrect.');
+        rejects(fn()=>$b->start('100'));
+    });
+    test('Un quota d’appels épuisé bloque les appels suivants', function (): void {
+        [$root, $c, $b] = prepared(); $b->start('100'); $b->beforeCall('100'); $b->beforeCall('100'); rejects(fn()=>$b->beforeCall('100'));
+    });
+    test('Un changement de configuration après réservation bloque la dépense', function (): void {
+        [$root, $c, $b] = prepared(); $c['model'] = 'other-model';
+        rejects(fn()=>(new Budget($root . '/generator/state/budget.json', $c))->start('100'));
+    });
+    test('Une publication dupliquée ne remplace pas l’index valide', function (): void {
+        $root = fixture(); $catalog = new Catalog($root); $before = file_get_contents($root . '/data/index.json');
+        $a = array_values($catalog->articles)[0]; $a['subject_id'] = 'Q123';
+        rejects(fn()=>$catalog->append([$a], 'fixture'));
+        ensure(file_get_contents($root . '/data/index.json') === $before, 'Index écrasé.');
+    });
+    test('L’amorçage tient compte des articles déjà publiés et du plafond total', function (): void {
+        $root = fixture(); $c = config($root); $c['initial_target'] = 7;
+        $b = new Budget($root . '/generator/state/budget.json', $c);
+        ensure((new Generator($root, $c, new FakeHttp(), $b))->count('bootstrap') === 2, 'Objectif ignoré.');
+        $c['max_catalog_articles'] = 5;
+        ensure((new Generator($root, $c, new FakeHttp(), $b))->count('daily') === 0, 'Plafond total ignoré.');
+    });
+    test('L’arrêt et le contexte hors Actions empêchent toute génération réelle', function (): void {
+        [$root, $c, $b, $http] = prepared(); $g = new Generator($root, $c, $http, $b);
+        putenv('GITHUB_ACTIONS=false'); putenv('GENERATION_ENABLED=true'); rejects(fn()=>$g->run('100', 'fixture-only-not-a-secret'));
+        putenv('GITHUB_ACTIONS=true'); putenv('GENERATION_ENABLED=false'); rejects(fn()=>$g->run('100', 'fixture-only-not-a-secret'));
+        ensure($http->calls === 0, 'Appel après arrêt.');
+    });
+    test('Un article non approuvé conserve le catalogue et ne publie rien', function (): void {
+        [$root, $c, $b, $http] = prepared(); $http->approve = false;
+        putenv('GITHUB_ACTIONS=true'); putenv('GENERATION_ENABLED=true');
+        $before = file_get_contents($root . '/data/index.json');
+        $report = (new Generator($root, $c, $http, $b))->run('100', 'fixture-only-not-a-secret');
+        ensure($report['published'] === 0 && file_get_contents($root . '/data/index.json') === $before, 'Article refusé publié.');
+    });
+    test('Le cycle complet publie un lot, une vraie photo décodable et un audit sans secret', function (): void {
+        [$root, $c, $b, $http] = prepared(); putenv('GITHUB_ACTIONS=true'); putenv('GENERATION_ENABLED=true');
+        $old = jsonFile($root . '/data/index.json');
+        $report = (new Generator($root, $c, $http, $b))->run('100', 'fixture-only-not-a-secret');
+        ensure($report['published'] === 1 && $http->calls === 2, 'Cycle incomplet.');
+        $catalog = new Catalog($root); ensure(count($catalog->articles) === 6, 'Nouvel article absent.');
+        ensure(array_slice($catalog->index['batches'], 1) === $old['batches'], 'Archives modifiées.');
+        $article = $catalog->articles['decouverte-' . substr(hash('sha256', 'Q123456'), 0, 24)];
+        $path = $root . '/data/' . substr($article['image_url'], strlen($c['base_url']));
+        $im = getimagesize($path); ensure($im !== false && max($im[0], $im[1]) <= 1280, 'Photo invalide.');
+        ensure($http->payloads[0]['store'] === false && $http->payloads[0]['text']['format']['strict'] === true, 'Sortie non structurée.');
+        foreach (glob($root . '/generator/state/*.json') as $file) ensure(!str_contains(file_get_contents($file), 'fixture-only-not-a-secret'), 'Secret enregistré.');
+        rejects(fn()=>(new Generator($root, $c, $http, $b))->run('100', 'fixture-only-not-a-secret'));
+        ensure($http->calls === 2, 'Appels rejoués.');
+    });
+    test('Une actualité conserve la date vérifiée de la source et une photo illustrative', function (): void {
+        [$root, $c, $b, $http] = prepared(); $http->recent = true;
+        atomicJson($root . '/generator/recent.json', [['wiki_title'=>'Fixture', 'kind'=>'recent',
+            'source_url'=>'https://www.nasa.gov/fixture', 'source_published_at'=>gmdate('Y-m-d')]]);
+        $report = (new Generator($root, $c, $http, $b))->run('100', 'fixture-only-not-a-secret');
+        ensure($report['published'] === 1, 'Actualité non publiée.');
+        $a = (new Catalog($root))->articles['decouverte-' . substr(hash('sha256', 'news-' . substr(hash('sha256', 'https://www.nasa.gov/fixture'), 0, 32)), 0, 24)];
+        ensure($a['source_published_at'] === gmdate('Y-m-d') && str_contains($a['body'], gmdate('Y-m-d')) && str_contains($a['image_caption'], 'Illustration'), 'Date/illustration perdue.');
+    });
+    test('Un brouillon trop court est rejeté avant le second appel', function (): void {
+        [$root, $c, $b, $http] = prepared(); $http->badDraft = true;
+        $report = (new Generator($root, $c, $http, $b))->run('100', 'fixture-only-not-a-secret');
+        ensure($report['published'] === 0 && $http->calls === 1, 'Contrôle de longueur trop tardif.');
+    });
+} finally {
+    putenv('GITHUB_ACTIONS'); putenv('GENERATION_ENABLED');
+    foreach ($directories as $dir) if (is_dir($dir)) removeTree($dir);
+}
+echo "$passed tests réussis, $failed échecs. Aucun appel réseau ni OpenAI réel.\n";
+exit($failed === 0 ? 0 : 1);

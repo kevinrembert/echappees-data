@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "enabled": true,
+  "initial_target": 50,
+  "daily_count": 15,
+  "max_per_run": 15,
+  "max_catalog_articles": 1000,
+  "max_api_calls": 30,
+  "monthly_budget_usd": 5,
+  "run_budget_usd": 1,
+  "model": "gpt-4.1-mini",
+  "input_usd_per_million": 0.4,
+  "output_usd_per_million": 1.6,
+  "max_input_bytes": 24000,
+  "max_output_tokens": 1800,
+  "source_max_age_days": 30,
+  "contact": "https://github.com/kevinrembert/echappees-data",
+  "base_url": "https://kevinrembert.github.io/echappees-data/data/"
+}

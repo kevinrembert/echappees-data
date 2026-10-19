@@ -15,8 +15,9 @@ Les originaux restent disponibles ; les crédits, modifications et licences sont
 documentés dans `data/IMAGES.md`, `data/PHOTO_CREDITS.md` et `data/licenses/`.
 
 `data/index.json` référence les fichiers versionnés de `data/batches/`.
-Les schémas sont dans `data/schema/`. Aucun générateur, appel OpenAI ou frontend
-Web n’est ajouté. La bibliothèque de 50 articles relève d’une phase ultérieure.
+Les schémas sont dans `data/schema/`. Le pipeline PHP de la phase 3 est décrit
+ci-dessous ; aucun frontend Web n’est ajouté. La bibliothèque initiale de
+50 articles reste à produire par une exécution réelle après activation.
 
 ## Validation et publication
 
@@ -34,3 +35,15 @@ actualisation de l’application, sans nouvelle version mobile.
 
 Contrat et guide :
 https://github.com/kevinrembert/echappees/blob/main/docs/CATALOGUE.md
+
+## Génération (phase 3)
+
+Le pipeline PHP et les trois workflows GitHub Actions sont dans ce dépôt.
+Voir **[generator/README.md](generator/README.md)** pour la clé API, l’activation,
+l’amorçage progressif vers 50 articles, le rythme de 15/jour, le budget choisi
+(5 USD/mois, 1 USD/exécution), les contrôles et les limites éditoriales.
+
+Sans la variable Actions `GENERATION_ENABLED=true`, aucun appel payant ne démarre.
+La simulation manuelle est le mode par défaut. Les 50 articles initiaux restent
+à produire par une première exécution réelle ; les cinq démonstrations existantes
+sont conservées et comptent dans l’objectif.
