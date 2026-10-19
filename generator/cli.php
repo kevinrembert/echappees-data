@@ -3,7 +3,7 @@
 declare(strict_types=1);
 require __DIR__ . '/bootstrap.php';
 
-use Echappees\{Budget, Catalog, Generator, Http};
+use Echappees\{Budget, Catalog, Generator, Http, Sources};
 use function Echappees\{config, ensure};
 
 $root = dirname(__DIR__);
@@ -12,10 +12,15 @@ try {
     ensure(PHP_VERSION_ID >= 80400, 'PHP 8.4 ou supérieur requis.');
     foreach (['curl', 'mbstring', 'dom', 'SimpleXML', 'gd'] as $extension) ensure(extension_loaded($extension), 'Extension PHP manquante : ' . $extension);
     $command = $argv[1] ?? 'plan';
-    ensure(in_array($command, ['validate', 'plan', 'reserve', 'generate'], true), 'Commande attendue : validate, plan, reserve ou generate.');
+    ensure(in_array($command, ['validate', 'plan', 'probe', 'reserve', 'generate'], true), 'Commande attendue : validate, plan, probe, reserve ou generate.');
     $config = config($root); $catalog = new Catalog($root);
     if ($command === 'validate') {
         echo count($catalog->index['batches']) . ' lots, ' . count($catalog->articles) . " publications valides.\n"; exit(0);
+    }
+    if ($command === 'probe') {
+        $report = (new Sources(new Http($config['contact']), $config))->probe(Echappees\jsonFile($root . '/generator/topics.json'));
+        echo json_encode($report, JSON_THROW_ON_ERROR) . "\n";
+        exit(0);
     }
     if (!is_dir($root . '/generator/state')) mkdir($root . '/generator/state', 0755, true);
     $lock = fopen($root . '/generator/state/generation.lock', 'c');

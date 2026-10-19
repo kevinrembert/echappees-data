@@ -41,7 +41,11 @@ function https(string $value, ?array $hosts = null): string {
     ensure(strlen($value) <= 2000 && is_array($parts) && ($parts['scheme'] ?? '') === 'https'
         && !empty($parts['host']) && !isset($parts['user']) && !isset($parts['pass'])
         && !isset($parts['fragment']) && (!isset($parts['port']) || $parts['port'] === 443), 'URL HTTPS non autorisée.');
-    if ($hosts !== null) ensure(in_array(strtolower($parts['host']), $hosts, true), 'Hôte non autorisé.');
+    if ($hosts !== null) {
+        $host = strtolower($parts['host']);
+        $displayHost = preg_match('/^[a-z0-9.-]{1,100}$/D', $host) === 1 ? $host : 'invalide';
+        ensure(in_array($host, $hosts, true), 'Hôte non autorisé : ' . $displayHost . '.');
+    }
     return $value;
 }
 function config(string $root): array {
@@ -63,8 +67,30 @@ function config(string $root): array {
 }
 
 final class RemoteFailure extends RuntimeException {
-    public function __construct(public readonly bool $paidPost, int $status) {
-        parent::__construct('Requête distante refusée ou interrompue (HTTP ' . $status . ').');
+    public function __construct(public readonly bool $paidPost, public readonly int $status, string $body = '', string $host = '') {
+        $service = match ($host) {
+            'api.openai.com'=>'OpenAI', 'fr.wikipedia.org'=>'Wikipédia',
+            'commons.wikimedia.org', 'upload.wikimedia.org'=>'Wikimedia Commons',
+            'www.nasa.gov'=>'NASA', default=>'Service distant',
+        };
+        $detail = '';
+        if ($paidPost && $host === 'api.openai.com') {
+            $json = json_decode($body, true);
+            $error = is_array($json) && is_array($json['error'] ?? null) ? $json['error'] : [];
+            // Seuls des codes connus donnent un diagnostic ; jamais le message ou le corps brut de l'API.
+            $details = [
+                'insufficient_quota'=>'Crédits API insuffisants ou plafond du projet atteint : vérifier Billing et Usage dans le projet OpenAI. Un abonnement ChatGPT ne finance pas les appels API.',
+                'billing_hard_limit_reached'=>'Plafond de facturation du projet OpenAI atteint : vérifier Billing et Usage.',
+                'rate_limit_exceeded'=>'Limite de débit OpenAI atteinte : attendre avant un nouveau lancement ; aucun POST automatique n’est rejoué.',
+                'invalid_api_key'=>'Clé API refusée par OpenAI : vérifier le secret Actions et le projet associé.',
+                'model_not_found'=>'Modèle OpenAI indisponible pour ce projet : vérifier son identifiant et les autorisations.',
+            ];
+            foreach (['code', 'type'] as $field) {
+                if (is_string($error[$field] ?? null) && isset($details[$error[$field]])) { $detail = ' ' . $details[$error[$field]]; break; }
+            }
+            if ($detail === '' && $status === 429) $detail = ' Quota ou débit OpenAI à vérifier dans Billing/Usage ; aucun code précis exploitable reçu.';
+        }
+        parent::__construct($service . ' : requête refusée ou interrompue (HTTP ' . $status . ').' . $detail);
     }
 }
 
@@ -99,7 +125,7 @@ final class Http implements Transport {
             curl_close($ch);
             if ($ok !== false && $status === 200 && !$tooLarge) return ['body'=>$body, 'type'=>$type];
             if ($tooLarge || $attempt + 1 === $attempts || !($status === 429 || $status >= 500 || $status === 0)) {
-                throw new RemoteFailure($payload !== null, $status);
+                throw new RemoteFailure($payload !== null, $status, $body, (string)parse_url($url, PHP_URL_HOST));
             }
             usleep(250000 * ($attempt + 1));
         }

@@ -22,3 +22,6 @@ jobs:
       - run: find generator -name '*.php' -print0 | xargs -0 -n1 php -l
       - run: php generator/tests/run.php
       - run: php generator/cli.php validate
+      - name: Diagnostic des métadonnées publiques sans appel OpenAI
+        if: github.event_name == 'push'
+        run: php generator/cli.php probe

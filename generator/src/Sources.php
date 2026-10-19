@@ -67,6 +67,20 @@ final class Sources {
         }
         return $source;
     }
+    public function probe(array $topics): array {
+        $accepted = 0; $rejected = 0;
+        foreach (array_slice($topics, 0, 3) as $topic) {
+            try {
+                $this->collect($topic); $accepted++;
+                echo "Collecte documentaire acceptée.\n";
+            } catch (\Throwable $error) {
+                $rejected++;
+                $reason = $error instanceof \RuntimeException ? $error->getMessage() : 'Données de source invalides.';
+                echo '::warning title=Diagnostic de collecte::' . $reason . "\n";
+            }
+        }
+        return ['accepted'=>$accepted, 'rejected'=>$rejected, 'openai_calls'=>0];
+    }
     public static function photo(array $info): array {
         ensure(($info['mediatype'] ?? '') === 'BITMAP' && in_array($info['mime'] ?? '', ['image/jpeg', 'image/png'], true), 'Photo matricielle JPEG/PNG requise.');
         $metadata = $info['extmetadata'] ?? [];
