@@ -22,10 +22,9 @@ try {
     ensure($lock !== false && flock($lock, LOCK_EX | LOCK_NB), 'Une exécution est déjà active.');
     $budget = new Budget($root . '/generator/state/budget.json', $config);
     $generator = new Generator($root, $config, new Http($config['contact']), $budget);
-    $mode = getenv('GENERATION_MODE') ?: 'bootstrap';
-    $count = $generator->count($mode);
+    $count = $generator->count();
     if ($command === 'plan') {
-        echo json_encode(['mode'=>$mode, 'current'=>count($catalog->articles), 'initial_target'=>$config['initial_target'],
+        echo json_encode(['mode'=>'daily', 'current'=>count($catalog->articles), 'daily_count'=>$config['daily_count'],
             'next_maximum'=>$count, 'worst_run_usd'=>round($count * 2 * $budget->worstCall(), 6),
             'monthly_budget_usd'=>$config['monthly_budget_usd'], 'enabled'=>$config['enabled'] && getenv('GENERATION_ENABLED') === 'true'], JSON_PRETTY_PRINT) . "\n";
         exit(0);
@@ -35,8 +34,8 @@ try {
     $run = getenv('GITHUB_RUN_ID') ?: '';
     ensure(preg_match('/^[0-9]{1,30}$/D', $run) === 1, 'Identifiant GitHub Actions obligatoire.');
     if ($command === 'reserve') {
-        if ($count === 0) { echo "Objectif/plafond atteint : aucun appel nécessaire.\n"; exit(0); }
-        echo $budget->reserve($run, $count, $mode) ? "Budget réservé ; committer ce registre avant les appels.\n" : "Exécution déjà réservée : reprise sans nouvelle réservation.\n";
+        if ($count === 0) { echo "Plafond atteint : aucun appel nécessaire.\n"; exit(0); }
+        echo $budget->reserve($run, $count, 'daily') ? "Budget réservé ; committer ce registre avant les appels.\n" : "Exécution déjà réservée : reprise sans nouvelle réservation.\n";
     } else {
         if ($count === 0 && !is_file($root . '/generator/state/budget.json')) { echo "Aucune génération à effectuer.\n"; exit(0); }
         try { $entry = $budget->entry($run); } catch (Throwable) { echo "Aucune réservation pour cette exécution : aucun appel.\n"; exit(0); }

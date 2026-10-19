@@ -47,14 +47,14 @@ function https(string $value, ?array $hosts = null): string {
 function config(string $root): array {
     $c = jsonFile($root . '/generator/config.json');
     ensure(($c['schema_version'] ?? null) === 1 && is_bool($c['enabled'] ?? null), 'Configuration incompatible.');
-    foreach (['initial_target'=>200, 'daily_count'=>50, 'max_per_run'=>50, 'max_catalog_articles'=>5000,
+    foreach (['daily_count'=>50, 'max_per_run'=>50, 'max_catalog_articles'=>5000,
         'max_api_calls'=>100, 'max_input_bytes'=>30000, 'max_output_tokens'=>3000, 'source_max_age_days'=>90] as $key=>$max) {
         ensure(is_int($c[$key] ?? null) && $c[$key] > 0 && $c[$key] <= $max, 'Limite invalide : ' . $key);
     }
     foreach (['monthly_budget_usd', 'run_budget_usd', 'input_usd_per_million', 'output_usd_per_million'] as $key) {
         ensure(is_numeric($c[$key] ?? null) && $c[$key] > 0 && $c[$key] <= 100, 'Budget invalide : ' . $key);
     }
-    ensure($c['initial_target'] <= $c['max_catalog_articles'] && $c['run_budget_usd'] <= $c['monthly_budget_usd'], 'Plafonds incohérents.');
+    ensure($c['run_budget_usd'] <= $c['monthly_budget_usd'], 'Plafonds incohérents.');
     ensure(preg_match('/^[a-z0-9][a-z0-9._-]{1,80}$/D', $c['model'] ?? '') === 1, 'Modèle invalide.');
     https(text($c, 'contact', 500));
     https($c['base_url'], ['kevinrembert.github.io']);

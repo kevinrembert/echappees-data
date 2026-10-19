@@ -2,7 +2,7 @@
 
 Le code s’exécute dans **ce dépôt de données**, sans dépendance Composer. Aucun
 secret ni appel OpenAI n’est ajouté à Flutter. Le catalogue actuellement publié
-contient encore cinq découvertes ; l’objectif de 50 n’est pas présenté comme atteint.
+contient les cinq découvertes existantes, conservées sans lot initial supplémentaire.
 
 ## Première mise en route dans GitHub
 
@@ -16,12 +16,12 @@ contient encore cinq découvertes ; l’objectif de 50 n’est pas présenté co
    **GitHub Actions**, pour permettre le déploiement explicite des données.
    L’URL demeure `https://kevinrembert.github.io/echappees-data/data/index.json`.
 4. Dans **Actions → Enrichir le catalogue Échappées → Run workflow**, conserver
-   `mode=bootstrap` et `dry_run=true` pour vérifier le plan sans aucun appel payant.
-5. Rejouer avec `dry_run=false` pour un premier lot d’au plus 15 articles acceptés.
-   Les cinq existants comptent dans l’objectif de 50. Répéter l’amorçage jusqu’à
-   atteindre l’objectif ; les refus de qualité peuvent demander davantage de passages.
-   La planification quotidienne termine aussi l’amorçage avant de passer au rythme
-   normal. L’interface de l’application affiche les nouveaux articles par actualisation.
+   `dry_run=true` pour vérifier le plan sans aucun appel payant.
+5. Rejouer avec `dry_run=false` pour produire jusqu’à **10 nouveaux articles**.
+   Le même rythme s’applique dès le premier jour, sans objectif initial de 50.
+   Les passages manuels et planifiés partagent le quota journalier de 10.
+   Les cinq démonstrations déjà publiées sont conservées. L’application récupère
+   les nouveaux articles par actualisation, sans nouvelle version mobile.
 
 Si une protection de `main` refuse les commits du bot, adapter les règles du dépôt
 pour ce workflow ou passer à une publication par PR ; ne pas désactiver aveuglément
@@ -32,21 +32,21 @@ catalogue et au déploiement Pages ; aucun jeton personnel entre dépôts n’es
 
 - Planification : tous les jours à **06:17 UTC**, soit 07:17 à Paris en hiver et
   08:17 en été. GitHub peut retarder ou désactiver une planification inactive.
-- `generator/config.json` : cible initiale 50, rythme 15/jour, 15 maximum par passage,
-  plafond de bibliothèque 1 000, 30 appels OpenAI maximum par passage.
+- `generator/config.json` : rythme **10/jour**, 10 maximum par passage,
+  plafond de bibliothèque 1 000, 20 appels OpenAI maximum par passage.
 - Pour changer l’heure, modifier le cron de `.github/workflows/generation.yml`.
 - Pour arrêter : mettre la variable Actions `GENERATION_ENABLED=false` ou
   `enabled=false` dans la configuration. Un processus déjà commencé doit être
   annulé depuis Actions ; le code vérifie le drapeau au démarrage de l’exécution.
 - Les contrôles sont prioritaires : on ne complète pas artificiellement un quota.
-  Un passage peut publier moins de 15 articles, voire aucun. Les motifs sont
+  Un passage peut publier moins de 10 articles, voire aucun. Les motifs sont
   journalisés sans clé ni réponse brute OpenAI.
 
 La même exécution GitHub (`GITHUB_RUN_ID`) ne rejoue jamais les appels. Pour lancer
 un nouveau passage, utiliser **Run workflow**, plutôt que **Re-run jobs**. Les
 réservations du jour comptent dans les limites, même si certains candidats échouent.
-En mode amorçage, le plafond journalier est la cible initiale ; en mode quotidien,
-il est de 15. Les concurrents sont sérialisés et un conflit Git interrompt l’envoi,
+Tous les passages partagent le plafond quotidien de 10, sans mode d’amorçage.
+Les concurrents sont sérialisés et un conflit Git interrompt l’envoi,
 sans force-push et sans écraser les changements d’un utilisateur.
 
 ## Sources, photos et contrôles
@@ -114,7 +114,7 @@ sortie. **Vérifier les tarifs actuels sur https://openai.com/api/pricing/** et 
 Avant les appels payants, le workflow réserve leur coût maximal estimé dans
 `generator/state/budget.json`, puis pousse cette réservation. La limite tient
 compte des réservations non terminées du mois UTC. Avec les limites initiales,
-15 candidats et 30 appels représentent au maximum estimé environ **0,424 USD**.
+10 candidats et 20 appels représentent au maximum estimé environ **0,282 USD**.
 Les compteurs d’usage retournés par l’API permettent de libérer la différence.
 Une erreur réseau de POST n’est jamais rejouée : son coût maximal reste compté.
 Les GET de sources ont au plus trois tentatives et des délais bornés.
@@ -147,7 +147,7 @@ Les commandes `reserve` et `generate` réelles sont réservées à GitHub Action
 ## Workflows
 
 - `validate.yml` : syntaxe, tests PHP et catalogue, sans secret sur push/PR.
-- `generation.yml` : simulation, amorçage manuel et rythme quotidien paramétrable.
+- `generation.yml` : simulation, lancement manuel et rythme quotidien paramétrable.
 - `pages.yml` : déploiement de `data/` uniquement ; aucune interface Web.
 
 Un push effectué avec `GITHUB_TOKEN` ne déclenche pas un autre workflow `push`.

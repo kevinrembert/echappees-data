@@ -89,7 +89,7 @@ final class FakeHttp implements Transport {
 function prepared(): array {
     $root = fixture(); $c = config($root); $c['max_per_run'] = 1;
     $budget = new Budget($root . '/generator/state/budget.json', $c);
-    $budget->reserve('100', 1, 'bootstrap');
+    $budget->reserve('100', 1, 'daily');
     return [$root, $c, $budget, new FakeHttp()];
 }
 
@@ -126,7 +126,7 @@ try {
         rejects(fn()=>$sources->collect(['wiki_title'=>'Fixture', 'kind'=>'recent', 'source_published_at'=>'2000-01-01', 'source_url'=>'https://www.nasa.gov/fixture']));
     });
     test('Le budget est persisté et une même exécution ne réserve pas deux fois', function (): void {
-        [$root, $c, $budget] = prepared(); ensure($budget->reserve('100', 1, 'bootstrap') === false, 'Réservation doublée.');
+        [$root, $c, $budget] = prepared(); ensure($budget->reserve('100', 1, 'daily') === false, 'Réservation doublée.');
         ensure((new Budget($root . '/generator/state/budget.json', $c))->entry('100')['status'] === 'reserved', 'Réservation perdue.');
     });
     test('Les plafonds par exécution et mensuel empêchent les appels', function (): void {
@@ -169,12 +169,22 @@ try {
         rejects(fn()=>$catalog->append([$a], 'fixture'));
         ensure(file_get_contents($root . '/data/index.json') === $before, 'Index écrasé.');
     });
-    test('L’amorçage tient compte des articles déjà publiés et du plafond total', function (): void {
-        $root = fixture(); $c = config($root); $c['initial_target'] = 7;
+    test('Le rythme quotidien démarre directement, même avec moins de 50 articles', function (): void {
+        $root = fixture(); $c = config($root);
         $b = new Budget($root . '/generator/state/budget.json', $c);
-        ensure((new Generator($root, $c, new FakeHttp(), $b))->count('bootstrap') === 2, 'Objectif ignoré.');
+        ensure((new Generator($root, $c, new FakeHttp(), $b))->count() === 10, 'Rythme quotidien non appliqué.');
+        $c['max_catalog_articles'] = 7;
+        ensure((new Generator($root, $c, new FakeHttp(), $b))->count() === 2, 'Capacité restante ignorée.');
         $c['max_catalog_articles'] = 5;
-        ensure((new Generator($root, $c, new FakeHttp(), $b))->count('daily') === 0, 'Plafond total ignoré.');
+        ensure((new Generator($root, $c, new FakeHttp(), $b))->count() === 0, 'Plafond total ignoré.');
+    });
+    test('Deux passages le même jour partagent le quota de dix publications', function (): void {
+        $root = fixture(); $c = config($root);
+        $b = new Budget($root . '/generator/state/budget.json', $c);
+        $b->reserve('first-run', 3, 'daily');
+        ensure((new Generator($root, $c, new FakeHttp(), $b))->count() === 7, 'Quota déjà réservé ignoré.');
+        $b->reserve('second-run', 7, 'daily');
+        ensure((new Generator($root, $c, new FakeHttp(), $b))->count() === 0, 'Limite quotidienne dépassée.');
     });
     test('L’arrêt et le contexte hors Actions empêchent toute génération réelle', function (): void {
         [$root, $c, $b, $http] = prepared(); $g = new Generator($root, $c, $http, $b);

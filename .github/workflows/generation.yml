@@ -4,11 +4,6 @@ on:
     - cron: '17 6 * * *'
   workflow_dispatch:
     inputs:
-      mode:
-        description: 'Amorçage vers 50 articles ou rythme quotidien'
-        type: choice
-        options: [bootstrap, daily]
-        default: bootstrap
       dry_run:
         description: 'Simulation sans appel OpenAI ni publication'
         type: boolean
@@ -29,7 +24,6 @@ jobs:
       deploy: ${{ steps.publish.outputs.deploy }}
     env:
       GENERATION_ENABLED: ${{ vars.GENERATION_ENABLED || 'false' }}
-      GENERATION_MODE: ${{ inputs.mode || 'daily' }}
     steps:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
         with:

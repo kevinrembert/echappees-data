@@ -5,15 +5,11 @@ namespace Echappees;
 final class Generator {
     public function __construct(private readonly string $root, private readonly array $config,
         private readonly Transport $http, private readonly Budget $budget) {}
-    public function count(string $mode): int {
-        ensure(in_array($mode, ['bootstrap', 'daily'], true), 'Mode inconnu.');
+    public function count(): int {
         $catalog = new Catalog($this->root);
         $remaining = $this->config['max_catalog_articles'] - count($catalog->articles);
-        if ($mode === 'bootstrap' || count($catalog->articles) < $this->config['initial_target']) {
-            $remaining = min($remaining, $this->config['initial_target'] - count($catalog->articles));
-        }
-        $dayLimit = $mode === 'bootstrap' ? $this->config['initial_target'] : $this->config['daily_count'];
-        return max(0, min($remaining, $this->config['max_per_run'], $dayLimit - $this->budget->dailyUsed(), intdiv($this->config['max_api_calls'], 2)));
+        return max(0, min($remaining, $this->config['max_per_run'],
+            $this->config['daily_count'] - $this->budget->dailyUsed(), intdiv($this->config['max_api_calls'], 2)));
     }
     public function run(string $run, string $key): array {
         ensure(getenv('GITHUB_ACTIONS') === 'true', 'Les appels OpenAI sont réservés à GitHub Actions.');

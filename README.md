@@ -16,8 +16,8 @@ documentés dans `data/IMAGES.md`, `data/PHOTO_CREDITS.md` et `data/licenses/`.
 
 `data/index.json` référence les fichiers versionnés de `data/batches/`.
 Les schémas sont dans `data/schema/`. Le pipeline PHP de la phase 3 est décrit
-ci-dessous ; aucun frontend Web n’est ajouté. La bibliothèque initiale de
-50 articles reste à produire par une exécution réelle après activation.
+ci-dessous ; aucun frontend Web n’est ajouté. La bibliothèque
+se construit progressivement à raison de 10 articles par jour après activation.
 
 ## Validation et publication
 
@@ -40,10 +40,10 @@ https://github.com/kevinrembert/echappees/blob/main/docs/CATALOGUE.md
 
 Le pipeline PHP et les trois workflows GitHub Actions sont dans ce dépôt.
 Voir **[generator/README.md](generator/README.md)** pour la clé API, l’activation,
-l’amorçage progressif vers 50 articles, le rythme de 15/jour, le budget choisi
+le rythme de 10 articles/jour sans lot initial imposé, le budget choisi
 (5 USD/mois, 1 USD/exécution), les contrôles et les limites éditoriales.
 
 Sans la variable Actions `GENERATION_ENABLED=true`, aucun appel payant ne démarre.
-La simulation manuelle est le mode par défaut. Les 50 articles initiaux restent
-à produire par une première exécution réelle ; les cinq démonstrations existantes
-sont conservées et comptent dans l’objectif.
+La simulation manuelle est le mode par défaut. Les cinq démonstrations existantes
+sont conservées ; aucun lot initial de 50 articles n’est demandé. La limite de
+10 nouveaux articles par jour s’applique dès le premier passage réel.
