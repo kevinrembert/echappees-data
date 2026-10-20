@@ -1,0 +1,205 @@
+{
+    "schema_version": 1,
+    "id": "generated-a2a859f3722da50ca189",
+    "version": "1",
+    "articles": [
+        {
+            "id": "decouverte-1dde704ff7703337e586d8d8",
+            "title": "Le parc national Manuel Antonio, un trésor de biodiversité au Costa Rica",
+            "body": "Situé sur la côte pacifique du Costa Rica, dans la province de Puntarenas, le parc national Manuel Antonio s’étend sur près de 2 000 hectares terrestres et 55 000 hectares marins. Créé en 1972, ce parc est dédié à la conservation, à la recherche et à un tourisme écologique respectueux, favorisant l’éducation environnementale. Il se trouve à 157 km au sud de San José, entre les localités de Damas et Matapalo, à proximité de la ville de Quepos. En 2011, la revue Forbes l’a distingué parmi les douze plus beaux parcs du monde. Sa richesse naturelle et sa gestion orientée vers la protection en font une référence pour la préservation des écosystèmes tropicaux.",
+            "category": "Initiatives positives",
+            "location": "Costa Rica",
+            "image_description": "Vue panoramique du parc national Manuel Antonio au Costa Rica avec sa végétation dense et ses plages loin du littoral.",
+            "image_caption": "Photo documentaire générale du parc national Manuel Antonio, Costa Rica, extraite de Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/dc03c63ec1d47a418531b3eab41c42162aa1ffe601154c10ec8c3294aefc0cf6.jpg",
+            "image_credit": "No machine-readable author provided. Rauldmo assumed (based on copyright claims). · No machine-readable source provided. Own work assumed (based on copyright claims). · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Parque_Nacional_Manuel_Antonio_1.JPG",
+            "sources": [
+                {
+                    "label": "Wikipédia · Parc national Manuel Antonio",
+                    "url": "https://fr.wikipedia.org/wiki/Parc_national_Manuel_Antonio"
+                }
+            ],
+            "subject_id": "Q112854",
+            "published_at": "2026-10-20",
+            "country": "Costa Rica"
+        },
+        {
+            "id": "decouverte-1e139e3c44dcdf493cfdd3a1",
+            "title": "La pelote basque : un patrimoine sportif et culturel des Pyrénées",
+            "body": "La pelote basque, ou euskal pilota en langue basque, rassemble plusieurs jeux de balle hérités du jeu de paume, caractérisés par l'envoi d'une balle contre un mur appelé fronton. Cette pratique, profondément ancrée dans la culture basque, est attestée depuis plusieurs siècles, avec des traces dans la mythologie locale et sur des stèles funéraires. Aux XVIIe et XIXe siècles, elle s’est enrichie de nombreuses variantes et innovations techniques, permettant l’émergence de spécialités multiples, dont la main nue, le grand chistera et la paleta gomme pleine. Pratiquée principalement dans le sud-ouest de la France et le nord de l’Espagne, la pelote basque est aujourd’hui reconnue comme un sport de haut niveau par le ministère français des sports (2025), perpétuant ainsi un lien vivant entre tradition et modernité.",
+            "category": "Gastronomie et traditions",
+            "location": "Bidart (Pyrénées-Atlantiques, France)",
+            "image_description": "Partie de pelote basque sur le fronton de Bidart, en Pyrénées-Atlantiques, France.",
+            "image_caption": "Partie de pelote basque sur le fronton de Bidart, illustration documentaire Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/1cac0de7387aa7b1948500776c661d4adbcac88e4df24c550d90c900e8301268.jpg",
+            "image_credit": "Anne-Liam · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Pelote_basque.jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Pelote basque",
+                    "url": "https://fr.wikipedia.org/wiki/Pelote_basque"
+                }
+            ],
+            "subject_id": "Q212845",
+            "published_at": "2026-10-20",
+            "country": "France"
+        },
+        {
+            "id": "decouverte-7c52edb9db628cdbc5503a72",
+            "title": "Le Panthéon de Rome, chef-d'œuvre architectural de l'Antiquité",
+            "body": "Le Panthéon de Rome, situé sur la piazza della Rotonda, est un monument emblématique de l’Antiquité. Construit initialement en 27 av. J.-C. sur ordre d’Agrippa, il était dédié à toutes les divinités romaines. Reconstruit sous l’empereur Hadrien au début du IIe siècle, ce bâtiment remarquable a été converti en église au VIIe siècle, désormais connue sous le nom de basilique de la Sainte Vierge aux Martyrs. Sa coupole, la plus grande de l’Antiquité avec un diamètre intérieur de 43,30 mètres, reste un exploit architectural en béton non armé. Les travaux de restauration menés aux XIXe et XXe siècles ont permis de préserver cette superbe construction, qui témoigne de l’ingénierie et de l’art romains après près de deux millénaires.",
+            "category": "Histoire et patrimoine",
+            "location": "Rome, Italie",
+            "image_description": "Façade avant du Panthéon de Rome avec la place Piazza della Rotonda et la Fontaine de la Rotonde au premier plan.",
+            "image_caption": "Vue frontale du Panthéon de Rome, illustration documentaire générale.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/1ac41929e62c81ad21da39babb843e2b439c6faae103b150ee4f240e29b1589c.jpg",
+            "image_credit": "Rabax63 · File:Pantheon_Rom_1.jpg · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Pantheon_Rom_1_cropped.jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Panthéon (Rome)",
+                    "url": "https://fr.wikipedia.org/wiki/Panth%C3%A9on_(Rome)"
+                }
+            ],
+            "subject_id": "Q99309",
+            "published_at": "2026-10-20",
+            "country": "Italie"
+        },
+        {
+            "id": "decouverte-e38ed05004a85ddfcbd324e7",
+            "title": "La Mésange bleue, petite étoile colorée des milieux boisés européens",
+            "body": "La Mésange bleue (Cyanistes caeruleus) se distingue par son plumage éclatant alliant bleu cobalt et jaune lumineux. Cette espèce de passereau, familière des forêts de feuillus, bocages, parcs et jardins d'Europe, privilégie les espaces riches en arbres pour y trouver sa nourriture essentiellement insectivore. Adaptable, elle fréquente aussi bien les milieux ruraux que les zones urbaines. Stable et même en légère progression, cette mésange généraliste partage parfois son habitat avec d'autres mésanges, mais conserve une présence forte grâce à son comportement sédentaire et sa capacité d'adaptation. Elle fait partie intégrante de la biodiversité aviaire européenne, apportant une touche de vie et de couleur aux espaces verts.",
+            "category": "Nature et animaux",
+            "location": "Europe",
+            "image_description": "Un oiseau Cyanistes caeruleus photographié posé, montrant son plumage aux tons bleus et jaunes.",
+            "image_caption": "Illustration documentaire générale : une mésange bleue (Cyanistes caeruleus) en extérieur naturel.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/497dad7ceef43a4a6ffc22d1f4e3bbac04c5f1442621ce5d888b794227c477f6.jpg",
+            "image_credit": "Dion Art · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:%D0%9B%D0%B0%D0%B7%D0%BE%D1%80%D0%B5%D0%B2%D0%BA%D0%B0_(Cyanistes_caeruleus),_%D0%91%D0%B8%D1%82%D1%86%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BB%D0%B5%D1%81.jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Mésange bleue",
+                    "url": "https://fr.wikipedia.org/wiki/M%C3%A9sange_bleue"
+                }
+            ],
+            "subject_id": "Q25404",
+            "published_at": "2026-10-20",
+            "country": "Monde"
+        },
+        {
+            "id": "decouverte-5ae9fb8081789f18c91446b5",
+            "title": "Le parc national Banff : un écrin naturel emblématique des Rocheuses canadiennes",
+            "body": "Créé en 1885, le parc national Banff est le plus ancien parc national du Canada. Situé dans les montagnes Rocheuses de l’Alberta, il s’étend sur 6 641 km² de paysages variés, alliant glaciers, forêts de conifères et milieux alpins. Classé au patrimoine mondial de l’UNESCO depuis 1985, ce parc attire chaque année plusieurs millions de visiteurs, avec 4,5 millions enregistrés en 2025-2026. Située dans le parc, la ville de Banff accueille un centre d’information essentiel pour les visiteurs. Depuis les années 1960, les infrastructures du parc sont accessibles toute l’année. Conscient des enjeux liés à la fréquentation touristique, Parcs Canada a engagé des actions pour préserver cet environnement fragile, conciliant accueil du public et protection des écosystèmes.",
+            "category": "Voyages et paysages",
+            "location": "Parc national Banff, Alberta, Canada",
+            "image_description": "Vue panoramique sur le lac Moraine dans le parc national Banff, montrant ses eaux turquoise et les montagnes environnantes.",
+            "image_caption": "Le lac Moraine, attraction emblématique du parc national Banff, dans la province canadienne de l’Alberta. Photo Wikimedia illustrant le parc.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/cd0980842cb933959945964928effca172bf88b53543f8e3fbd888ef3a4c6bc4.jpg",
+            "image_credit": "Tobias Alt, Tobi 87 · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Moraine_Lake-Banff_NP.JPG",
+            "sources": [
+                {
+                    "label": "Wikipédia · Parc national Banff",
+                    "url": "https://fr.wikipedia.org/wiki/Parc_national_Banff"
+                }
+            ],
+            "subject_id": "Q41858",
+            "published_at": "2026-10-20",
+            "country": "Canada"
+        },
+        {
+            "id": "decouverte-75c2e77f7b6dc69ad56b4858",
+            "title": "Le Château de Chambord, joyau Renaissance au cœur de la forêt ligérienne",
+            "body": "Situé à Chambord, en région Centre-Val de Loire, le château de Chambord est le plus vaste des châteaux de la Loire, construit entre 1519 et 1547. Installé dans un parc forestier de 50 km², entouré d’un mur longeant sur 32 km, il incarne un exemple remarquable de l’architecture Renaissance. Classé monument historique depuis 1840, il bénéficie aussi de l’inscription au patrimoine mondial de l’UNESCO depuis 1981. Connu comme un domaine royal intact depuis son origine, il possède un jardin d'agrément et un parc de chasse protégés. Sa façade nord-ouest, avec ses proportions impressionnantes de 156 mètres de long pour 56 mètres de haut, illustre la grandeur et la richesse symbolique du lieu.",
+            "category": "Histoire et patrimoine",
+            "location": "Chambord, Centre-Val de Loire, France",
+            "image_description": "Façade nord-ouest du château de Chambord, édifice Renaissance long de 156 mètres et haut de 56 mètres, construit entre 1519 et 1547.",
+            "image_caption": "Façade nord-ouest du château de Chambord, illustrant son architecture Renaissance. Photo Wikimedia Commons illustrative.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/9755cefb138822bdb7955daa10d335795c6ee5a944d0ad16212d93d2854a61b6.jpg",
+            "image_credit": "Benh LIEU SONG · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Chambord_Castle_Northwest_facade.jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Château de Chambord",
+                    "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Chambord"
+                }
+            ],
+            "subject_id": "Q205367",
+            "published_at": "2026-10-20",
+            "country": "France"
+        },
+        {
+            "id": "decouverte-47302748623f0266f808eac1",
+            "title": "La Huppe fasciée, un oiseau au plumage singulier",
+            "body": "La Huppe fasciée (Upupa epops) est une espèce d’oiseau caractéristique, appartenant à la famille des Upupidae. Elle partage son genre Upupa avec deux autres espèces : la Huppe africaine (Upupa africana) et la Huppe de Madagascar (Upupa marginata), qui ont parfois été considérées comme des sous-espèces de la huppe fasciée. Certains auteurs leur attribuent même un ordre spécifique, les Upupiformes, en raison de leurs particularités. Reconnaissable par son plumage distinctif, cet oiseau fascine les ornithologues et amoureux de la nature. L’image fournie illustre un individu de cette espèce avec ses couleurs vives et sa silhouette élégante. Ce portrait témoigne de la diversité ornithologique à travers le monde.",
+            "category": "Nature et animaux",
+            "location": "Monde",
+            "image_description": "Photographie d’une Huppe fasciée (Upupa epops) prise dans un environnement naturel, montrant l’oiseau de profil avec ses plumes colorées.",
+            "image_caption": "Image documentaire générale d’une Huppe fasciée (Upupa epops) – Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/d9663928619c563841057940995bf3e0e54ed647623a6a3d78d31d00eba43072.jpg",
+            "image_credit": "Arturo Nikolai · originally posted to Flickr as ABUBILLA (Upupa epops) · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 2.0 · https://creativecommons.org/licenses/by-sa/2.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:ABUBILLA_(Upupa_epops).jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Huppe fasciée",
+                    "url": "https://fr.wikipedia.org/wiki/Huppe_fasci%C3%A9e"
+                }
+            ],
+            "subject_id": "Q25247",
+            "published_at": "2026-10-20",
+            "country": "Monde"
+        },
+        {
+            "id": "decouverte-3ea40adb13c7b004964d301f",
+            "title": "Le Parc national des lacs de Plitvice, un sanctuaire naturel en Croatie",
+            "body": "Situé entre Zagreb et Zadar, le parc national des lacs de Plitvice est le plus ancien parc national du sud de l’Europe et le plus vaste de Croatie, couvrant 296 kilomètres carrés. Créé en 1949 et classé au patrimoine mondial de l’UNESCO en 1979, il comprend seize grands lacs reliés par 92 cascades, ainsi qu’une forêt primitive de hêtres et sapins qui abrite une faune variée, notamment ours bruns et loups. Plus d’un million de visiteurs viennent chaque année découvrir ce site où la nature reste largement préservée, avec des chemins en rondins, un train panoramique et des bateaux pour explorer les lacs. Cette réserve témoigne d’un précieux équilibre entre accès touristique et conservation naturelle.",
+            "category": "Voyages et paysages",
+            "location": "Croatie",
+            "image_description": "Vue panoramique du Parc national des lacs de Plitvice en Croatie montrant un lac entouré de forêts.",
+            "image_caption": "Illustration documentaire générale : vues du Parc national des lacs de Plitvice, Croatie.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/8054f8387db678a144be1e04efcca41812903d8aac6045c6768d8e1bbcc852e7.jpg",
+            "image_credit": "29cm from Hong Kong · Plitvice Lake · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 2.0 · https://creativecommons.org/licenses/by-sa/2.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Plitvice_Lakes_National_Park.jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Parc national des lacs de Plitvice",
+                    "url": "https://fr.wikipedia.org/wiki/Parc_national_des_lacs_de_Plitvice"
+                }
+            ],
+            "subject_id": "Q189849",
+            "published_at": "2026-10-20",
+            "country": "Croatie"
+        },
+        {
+            "id": "decouverte-338fda7cc0e043fe5abb0205",
+            "title": "Le phare de Cordouan, chef-d'œuvre historique entre océan et estuaire",
+            "body": "Le phare de Cordouan, situé à sept kilomètres en mer dans le département de la Gironde, est le plus ancien phare français encore en activité. Construit entre 1584 et 1611 par Louis de Foix, il se trouve sur un plateau entre l'océan Atlantique et l'estuaire de la Gironde, où se rejoignent la Garonne et la Dordogne. Surnommé le « Versailles de la mer » ou encore le « roi des phares », il a été classé monument historique dès 1862. Ce site, désormais automatisé, est administré par la direction interrégionale de la Mer et valorisé grâce à un partenariat régional. En juillet 2021, il a rejoint le patrimoine mondial de l'UNESCO, témoignant de son importance culturelle et maritime.",
+            "category": "Histoire et patrimoine",
+            "location": "Le Verdon-sur-Mer, Gironde, France",
+            "image_description": "Photographie extérieure du phare de Cordouan, construit en pierre, se dressant sur une mer calme sous un ciel clair.",
+            "image_caption": "Le phare de Cordouan, Le Verdon-sur-Mer, Gironde, France. Photo illustrative générale documentaire Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/6c004487808ea4bbc41c357d8c7452214cda68b942f015781975b66a7383cf50.jpg",
+            "image_credit": "Rémih · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Phare_de_Cordouan_32.jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Phare de Cordouan",
+                    "url": "https://fr.wikipedia.org/wiki/Phare_de_Cordouan"
+                }
+            ],
+            "subject_id": "Q199234",
+            "published_at": "2026-10-20",
+            "country": "France"
+        }
+    ]
+}

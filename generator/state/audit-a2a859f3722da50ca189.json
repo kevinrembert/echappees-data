@@ -1,0 +1,167 @@
+{
+    "schema_version": 1,
+    "articles": [
+        {
+            "id": "decouverte-1dde704ff7703337e586d8d8",
+            "subject_id": "Q112854",
+            "collected_at": "2026-10-20T04:53:26+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Parc national Manuel Antonio",
+                    "url": "https://fr.wikipedia.org/wiki/Parc_national_Manuel_Antonio"
+                }
+            ],
+            "source_sha256": "1edf2253722394a6401eccd60d66e3454995b6274039a7540d74208860da689f",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Parque_Nacional_Manuel_Antonio_1.JPG",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "32adc7f5924d1d4a46b886df7cc905ba4a4d3140",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-1e139e3c44dcdf493cfdd3a1",
+            "subject_id": "Q212845",
+            "collected_at": "2026-10-20T04:53:37+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Pelote basque",
+                    "url": "https://fr.wikipedia.org/wiki/Pelote_basque"
+                }
+            ],
+            "source_sha256": "c23c1782fbdb4713dc252433b2cd4dae5b37e790a18ab7f7eb1b59a8091e04ee",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Pelote_basque.jpg",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "original_sha1": "8682a6425f9fff8ab4fed770cb61476afd3ad2f7",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-7c52edb9db628cdbc5503a72",
+            "subject_id": "Q99309",
+            "collected_at": "2026-10-20T04:53:42+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Panthéon (Rome)",
+                    "url": "https://fr.wikipedia.org/wiki/Panth%C3%A9on_(Rome)"
+                }
+            ],
+            "source_sha256": "77ae7578c2fae9c8c848d2ae326774eaa941be09bb54944fb50e8dd82c0eed07",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Pantheon_Rom_1_cropped.jpg",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "original_sha1": "febfc4b5532d71e11776e1e747b241962950700f",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-e38ed05004a85ddfcbd324e7",
+            "subject_id": "Q25404",
+            "collected_at": "2026-10-20T04:53:46+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Mésange bleue",
+                    "url": "https://fr.wikipedia.org/wiki/M%C3%A9sange_bleue"
+                }
+            ],
+            "source_sha256": "93098a164918074eeb17033bc8fe8253d73407d583392e58c332ac2e98424653",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:%D0%9B%D0%B0%D0%B7%D0%BE%D1%80%D0%B5%D0%B2%D0%BA%D0%B0_(Cyanistes_caeruleus),_%D0%91%D0%B8%D1%82%D1%86%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%BB%D0%B5%D1%81.jpg",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "original_sha1": "7372f206846fa423912588f172a5957ec1c67534",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-5ae9fb8081789f18c91446b5",
+            "subject_id": "Q41858",
+            "collected_at": "2026-10-20T04:53:52+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Parc national Banff",
+                    "url": "https://fr.wikipedia.org/wiki/Parc_national_Banff"
+                }
+            ],
+            "source_sha256": "4bffe46427b18a04ee4f57b3d38c1f1afc7e565a8ffac7aceaa23ca99d5ced0a",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Moraine_Lake-Banff_NP.JPG",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "original_sha1": "d2ac5a70b257125b2872f51ac307ce37ecd8ce9b",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-75c2e77f7b6dc69ad56b4858",
+            "subject_id": "Q205367",
+            "collected_at": "2026-10-20T04:53:57+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Château de Chambord",
+                    "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Chambord"
+                }
+            ],
+            "source_sha256": "f23d4977bbec9ba088a9d08a4acbc4d83e123b6ebfd1c07ac8ccb1ee1975702a",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Chambord_Castle_Northwest_facade.jpg",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "original_sha1": "7bf3319dcd44e814d23a4c14f80080bf30077a6f",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-47302748623f0266f808eac1",
+            "subject_id": "Q25247",
+            "collected_at": "2026-10-20T04:54:02+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Huppe fasciée",
+                    "url": "https://fr.wikipedia.org/wiki/Huppe_fasci%C3%A9e"
+                }
+            ],
+            "source_sha256": "fc43f269c103098d9ca86cd8bd85cf33bc1dd1a437cc4e5007333559fbcfe51b",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:ABUBILLA_(Upupa_epops).jpg",
+            "image_license": "CC BY-SA 2.0 · https://creativecommons.org/licenses/by-sa/2.0/",
+            "original_sha1": "a6a567ff1e8d03a8a9a20f62860f5ef21efc7cdc",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-3ea40adb13c7b004964d301f",
+            "subject_id": "Q189849",
+            "collected_at": "2026-10-20T04:54:06+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Parc national des lacs de Plitvice",
+                    "url": "https://fr.wikipedia.org/wiki/Parc_national_des_lacs_de_Plitvice"
+                }
+            ],
+            "source_sha256": "81cb84c84f4963772ba53757cd366b004eea1767494d6fba06b1967ff6651676",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Plitvice_Lakes_National_Park.jpg",
+            "image_license": "CC BY-SA 2.0 · https://creativecommons.org/licenses/by-sa/2.0/",
+            "original_sha1": "301f40c45af2e370851429ccbe2e336392348af2",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-338fda7cc0e043fe5abb0205",
+            "subject_id": "Q199234",
+            "collected_at": "2026-10-20T04:54:12+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Phare de Cordouan",
+                    "url": "https://fr.wikipedia.org/wiki/Phare_de_Cordouan"
+                }
+            ],
+            "source_sha256": "e6f380625c268fe121feafdc965d58cddae72d4c50bc4e4b89a30e4199a3276c",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Phare_de_Cordouan_32.jpg",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "original_sha1": "bf960a6722015dee0d075bd9ecfd1409940a5f29",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        }
+    ]
+}
