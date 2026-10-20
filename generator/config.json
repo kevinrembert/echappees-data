@@ -14,5 +14,6 @@
   "max_output_tokens": 1800,
   "source_max_age_days": 30,
   "contact": "https://github.com/kevinrembert/echappees-data",
-  "base_url": "https://kevinrembert.github.io/echappees-data/data/"
+  "base_url": "https://kevinrembert.github.io/echappees-data/data/",
+  "timezone": "Europe/Paris"
 }

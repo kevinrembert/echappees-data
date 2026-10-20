@@ -1,8 +1,8 @@
 # Génération du catalogue — PHP CLI
 
 Le code s’exécute dans **ce dépôt de données**, sans dépendance Composer. Aucun
-secret ni appel OpenAI n’est ajouté à Flutter. Le catalogue actuellement publié
-contient les cinq découvertes existantes, conservées sans lot initial supplémentaire.
+secret ni appel OpenAI n’est ajouté à Flutter. Les cinq démonstrations sont conservées et le catalogue est enrichi par les
+publications générées, sans lot initial supplémentaire imposé.
 
 ## Première mise en route dans GitHub
 
@@ -49,11 +49,15 @@ Node.js sont distincts et n’expliquent pas une absence de secret.
 
 ## Rythme et arrêt
 
-- Planification : tous les jours à **06:17 UTC**, soit 07:17 à Paris en hiver et
-  08:17 en été. GitHub peut retarder ou désactiver une planification inactive.
+- Planification : tous les jours à **01:00, heure de Paris**. Le workflow utilise
+  `cron: '0 1 * * *'` et `timezone: Europe/Paris`, pris en charge nativement par
+  GitHub Actions : le changement d’heure été/hiver est automatique. GitHub peut
+  retarder une exécution sous charge ou désactiver une planification inactive.
 - `generator/config.json` : rythme **10/jour**, 10 maximum par passage,
   plafond de bibliothèque 1 000, 20 appels OpenAI maximum par passage.
 - Pour changer l’heure, modifier le cron de `.github/workflows/generation.yml`.
+  Le fuseau du quota journalier est défini par `timezone` dans `generator/config.json`
+  et doit rester cohérent avec le fuseau du workflow. Le budget mensuel reste en UTC.
 - Pour arrêter : mettre la variable Actions `GENERATION_ENABLED=false` ou
   `enabled=false` dans la configuration. Un processus déjà commencé doit être
   annulé depuis Actions ; le code vérifie le drapeau au démarrage de l’exécution.
@@ -200,3 +204,19 @@ Une génération échouée ne publie aucun lot : ses places quotidiennes sont li
 y compris pour les anciens registres `failed`. Les coûts incertains et les registres
 sont conservés. Les passages encore `reserved`/`running` gardent leurs places pour
 éviter un dépassement en cas d’interruption. Ne pas effacer un registre pour relancer.
+
+
+## Validation du 20 octobre 2026
+
+Deux exécutions réelles ont publié 7 puis 9 articles, avec déploiement Pages réussi :
+le catalogue contient 21 articles, les cinq démonstrations comprises. La génération
+et la publication manuelles sont donc vérifiées. La planification est désormais
+réglée à 01:00 Europe/Paris ; son premier déclenchement automatique à cet horaire
+reste à constater dans Actions. Aucun appel payant supplémentaire n’est effectué
+pour tester ce changement d’horaire.
+
+Le quota quotidien suit la date parisienne, y compris autour de minuit UTC et des
+changements d’heure. Les nouveaux registres portent `quota_date` et `quota_timezone` ;
+les anciennes entrées conservent leur date enregistrée et ne sont pas réécrites.
+Les montants et le budget mensuel UTC ne changent pas. Les 31 tests PHP couvrent
+les dates d’été/hiver, les transitions et la reprise des registres existants.

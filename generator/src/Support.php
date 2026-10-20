@@ -48,6 +48,10 @@ function https(string $value, ?array $hosts = null): string {
     }
     return $value;
 }
+function quotaDate(array $config, ?\DateTimeImmutable $instant = null): string {
+    $instant ??= new \DateTimeImmutable('now', new \DateTimeZone('UTC'));
+    return $instant->setTimezone(new \DateTimeZone($config['timezone'] ?? 'UTC'))->format('Y-m-d');
+}
 function config(string $root): array {
     $c = jsonFile($root . '/generator/config.json');
     ensure(($c['schema_version'] ?? null) === 1 && is_bool($c['enabled'] ?? null), 'Configuration incompatible.');
@@ -60,6 +64,7 @@ function config(string $root): array {
     }
     ensure($c['run_budget_usd'] <= $c['monthly_budget_usd'], 'Plafonds incohérents.');
     ensure(preg_match('/^[a-z0-9][a-z0-9._-]{1,80}$/D', $c['model'] ?? '') === 1, 'Modèle invalide.');
+    ensure(is_string($c['timezone'] ?? 'UTC') && in_array($c['timezone'] ?? 'UTC', timezone_identifiers_list(), true), 'Fuseau horaire IANA invalide.');
     https(text($c, 'contact', 500));
     https($c['base_url'], ['kevinrembert.github.io']);
     ensure(str_ends_with($c['base_url'], '/echappees-data/data/'), 'Base du catalogue invalide.');

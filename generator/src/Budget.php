@@ -24,6 +24,7 @@ final class Budget {
         $reserved = ceil($calls * $this->worstCall() * 1000000) / 1000000;
         ensure($count > 0 && $calls >= 2 && $reserved <= $this->config['run_budget_usd'] && $spent + $reserved <= $this->config['monthly_budget_usd'], 'Plafond de budget atteint.');
         $this->ledger['runs'][$run] = ['month'=>$month, 'date'=>gmdate('Y-m-d'), 'mode'=>$mode, 'status'=>'reserved',
+            'quota_date'=>quotaDate($this->config), 'quota_timezone'=>$this->config['timezone'] ?? 'UTC',
             'count'=>$count, 'max_calls'=>$calls, 'calls'=>0, 'charged_usd'=>0.0, 'reserved_usd'=>$reserved,
             'input_tokens'=>0, 'output_tokens'=>0, 'config_sha256'=>hash('sha256', json_encode($this->config, JSON_THROW_ON_ERROR))];
         $this->save(); return true;
@@ -33,7 +34,7 @@ final class Budget {
         $e = $this->entry($run);
         ensure($e['status'] === 'reserved', 'Exécution déjà commencée ou terminée ; ne pas rejouer les appels.');
         ensure($e['config_sha256'] === hash('sha256', json_encode($this->config, JSON_THROW_ON_ERROR)), 'Configuration changée après réservation.');
-        ensure($e['date'] === gmdate('Y-m-d'), 'Réservation périmée.');
+        ensure(($e['quota_date'] ?? $e['date']) === quotaDate($this->config), 'Réservation périmée.');
         $this->ledger['runs'][$run]['status'] = 'running'; $this->save();
     }
     public function beforeCall(string $run): void {
@@ -68,7 +69,7 @@ final class Budget {
     public function dailyUsed(): int {
         $sum = 0;
         foreach ($this->ledger['runs'] as $e) {
-            if ($e['date'] !== gmdate('Y-m-d')) continue;
+            if (($e['quota_date'] ?? $e['date']) !== quotaDate($this->config)) continue;
             // Le workflow ne publie aucun lot quand la génération échoue. Les anciennes
             // entrées failed n'avaient pas encore de published_count ; leurs coûts restent conservés.
             $sum += match ($e['status']) {

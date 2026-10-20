@@ -30,7 +30,8 @@ try {
     $generator = new Generator($root, $config, new Http($config['contact']), $budget);
     $count = $generator->count();
     if ($command === 'plan') {
-        echo json_encode(['mode'=>'daily', 'current'=>count($catalog->articles), 'daily_count'=>$config['daily_count'],
+        echo json_encode(['mode'=>'daily', 'current'=>count($catalog->articles), 'daily_count'=>$config['daily_count'], 'quota_timezone'=>$config['timezone'] ?? 'UTC',
+            'quota_date'=>Echappees\quotaDate($config),
             'next_maximum'=>$count, 'worst_run_usd'=>round($count * 2 * $budget->worstCall(), 6),
             'monthly_budget_usd'=>$config['monthly_budget_usd'], 'enabled'=>$config['enabled'] && getenv('GENERATION_ENABLED') === 'true'], JSON_PRETTY_PRINT) . "\n";
         exit(0);

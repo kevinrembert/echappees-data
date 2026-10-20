@@ -269,6 +269,34 @@ try {
         try { $report = (new Sources($http, config($root)))->probe([['wiki_title'=>'Fixture']]); } finally { ob_end_clean(); }
         ensure($report['accepted'] === 1 && $report['openai_calls'] === 0 && $http->calls === 0, 'Diagnostic payant ou incomplet.');
     });
+    test('Le calendrier parisien suit les heures d’été, d’hiver et les transitions', function (): void {
+        $c = ['timezone'=>'Europe/Paris'];
+        foreach ([
+            '2026-07-14T22:59:00Z'=>'2026-07-15',
+            '2026-07-14T23:00:00Z'=>'2026-07-15',
+            '2026-01-14T23:00:00Z'=>'2026-01-15',
+            '2026-03-28T23:30:00Z'=>'2026-03-29',
+            '2026-03-29T22:30:00Z'=>'2026-03-30',
+            '2026-10-24T23:00:00Z'=>'2026-10-25',
+            '2026-10-25T23:00:00Z'=>'2026-10-26',
+        ] as $instant=>$expected) {
+            ensure(Echappees\quotaDate($c, new DateTimeImmutable($instant)) === $expected, 'Date parisienne incorrecte.');
+        }
+        foreach (['2026-01-15T00:00:00Z', '2026-07-14T23:00:00Z', '2026-10-24T23:00:00Z', '2026-10-26T00:00:00Z'] as $instant) {
+            ensure((new DateTimeImmutable($instant))->setTimezone(new DateTimeZone('Europe/Paris'))->format('H:i') === '01:00', 'Horaire été/hiver incorrect.');
+        }
+    });
+    test('Le quota utilise la date locale sans réécrire les anciens budgets UTC', function (): void {
+        $root = fixture(); $c = config($root); $file = $root . '/generator/state/budget.json';
+        $utcYesterday = gmdate('Y-m-d', time() - 86400);
+        atomicJson($file, ['schema_version'=>1, 'runs'=>[
+            'new'=>['date'=>$utcYesterday, 'quota_date'=>Echappees\quotaDate($c), 'status'=>'completed', 'count'=>10, 'published_count'=>3],
+            'old'=>['date'=>Echappees\quotaDate($c), 'status'=>'completed', 'count'=>2],
+        ]]);
+        $before = file_get_contents($file);
+        ensure((new Budget($file, $c))->dailyUsed() === 5, 'Quota local ou reprise historique incorrect.');
+        ensure(file_get_contents($file) === $before, 'Historique réécrit.');
+    });
     test('Un brouillon trop court est rejeté avant le second appel', function (): void {
         [$root, $c, $b, $http] = prepared(); $http->badDraft = true;
         $report = (new Generator($root, $c, $http, $b))->run('100', 'fixture-only-not-a-secret');
