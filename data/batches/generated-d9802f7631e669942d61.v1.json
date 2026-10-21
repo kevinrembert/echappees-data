@@ -1,0 +1,183 @@
+{
+    "schema_version": 1,
+    "id": "generated-d9802f7631e669942d61",
+    "version": "1",
+    "articles": [
+        {
+            "id": "decouverte-b711a6c55d4b717568509858",
+            "title": "Les arcs-en-ciel : un spectacle optique multicolore dans le ciel",
+            "body": "Un arc-en-ciel est un phénomène optique observable lorsque le Soleil brille durant une pluie. Il se manifeste par un arc de cercle coloré, composé principalement de deux arcs : l'arc primaire, où les couleurs apparaissent du rouge à l'extérieur au violet à l'intérieur, et un arc secondaire, plus pâle, situé à l'extérieur du premier et présentant un ordre inversé de couleurs. Ces effets résultent des réflexions internes des rayons lumineux dans les gouttes d'eau. Une bande sombre, appelée la bande d'Alexandre, sépare les deux arcs. Des arcs moins connus, tertiaire et quaternaire, ont été photographiés pour la première fois en 2011. Il existe également des arcs surnuméraires, observés dès le XVIIIe siècle. Un phénomène similaire, l'arc-en-ciel de rosée, se forme au-dessus de la terre grâce à la pluie ou à la rosée.",
+            "category": "Sciences",
+            "location": "Monde",
+            "image_description": "Un arc-en-ciel observé au-dessus d'une plage avec ciel partiellement nuageux.",
+            "image_caption": "Photo documentaire générale d’un arc-en-ciel à la plage de Bretteville-sur-Ay, illustrant un phénomène optique naturel.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/e6860a4c29ce293b12a97d0ec2877825e5fddad48fa0a43b29826dd67da888d7.jpg",
+            "image_credit": "JackyM59 · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Un_arc-en-ciel_-_Plage_de_Bretteville-sur-Ay.jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Arc-en-ciel",
+                    "url": "https://fr.wikipedia.org/wiki/Arc-en-ciel"
+                }
+            ],
+            "subject_id": "Q1052",
+            "published_at": "2026-10-21",
+            "country": "Monde"
+        },
+        {
+            "id": "decouverte-abda8e439c59e5db3d2ddc4f",
+            "title": "Þingvellir : un écrin naturel et historique au cœur de l'Islande",
+            "body": "Situé non loin de Reykjavik, Þingvellir est un parc national unique en Islande, reconnu pour son paysage exceptionnel façonné par les failles de la dorsale médio-atlantique. Ce site naturel remarquable se caractérise par une vaste plaine entourée de volcans et par la présence visible des failles tectoniques, notamment Almannagjá. Couvert en grande partie par l'une des plus étendues forêts islandaises, il accueille également le plus grand lac du pays, le Þingvallavatn, aux eaux limpides. Þingvellir porte aussi une grande richesse historique : c'est ici qu'a été fondé, en 930, l'un des plus anciens parlements au monde, l'Alþing. Ce lieu symbolise l'identité nationale islandaise et est aujourd'hui inscrit au patrimoine mondial de l'UNESCO. Il attire de nombreux visiteurs désireux de découvrir ses richesses naturelles et culturelles.",
+            "category": "Voyages et paysages",
+            "location": "Islande",
+            "image_description": "Vue sur le parc national de Þingvellir en Islande depuis le centre d'information.",
+            "image_caption": "Vue panoramique du parc national de Þingvellir, illustration documentaire générale.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/7fcbf12a1c0a742f202d3b38781d485dbf997bb415be72f5f73602b9585eb5cf.jpg",
+            "image_credit": "Ivan Sabljak · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:%C3%9Eingvellir_from_the_information_centre.JPG",
+            "sources": [
+                {
+                    "label": "Wikipédia · Þingvellir",
+                    "url": "https://fr.wikipedia.org/wiki/%C3%9Eingvellir"
+                }
+            ],
+            "subject_id": "Q107370",
+            "published_at": "2026-10-21",
+            "country": "Islande"
+        },
+        {
+            "id": "decouverte-622310d7e356f470784471ae",
+            "title": "Fontarrabie : un charmant port basque à la frontière franco-espagnole",
+            "body": "Située dans la province du Guipuscoa en Espagne, la commune de Fontarrabie, appelée Hondarribia en basque, est une enclave riche en paysages marins et historiques. Bordée par la mer Cantabrique au nord et la baie de Txingudi à l'est, cette ville est née d’une tradition portuaire qui s’est tournée vers le tourisme grâce à ses plages et à sa montagne emblématique, le Jaizkibel, qui plonge dans la mer. Face à la ville française d’Hendaye, Fontarrabie forme avec cette dernière et la ville d’Irun une communauté urbaine transfrontalière appelée Bidasoa-Txingudi. Cette ville fortifiée, marquée par son histoire frontalière et militaire, propose aujourd’hui un cadre apaisant où culture et nature se rencontrent harmonieusement.",
+            "category": "Villages et villes",
+            "location": "Fontarrabie, Espagne",
+            "image_description": "Vue panoramique de Fontarrabie depuis Hendaye, montrant la ville fortifiée au bord de la baie de Txingudi avec la mer Cantabrique en arrière-plan.",
+            "image_caption": "Illustration documentaire générale : Fontarrabie vue depuis Hendaye en 2012, Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/5f85a8e6ffe44a014ea4c350ab0020fcba535af540898a2a65863aaf40d5fd31.jpg",
+            "image_credit": "JLPC · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Fontarrabie_depuis_Hendaye_2012.jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Fontarrabie",
+                    "url": "https://fr.wikipedia.org/wiki/Fontarrabie"
+                }
+            ],
+            "subject_id": "Q492312",
+            "published_at": "2026-10-21",
+            "country": "Espagne"
+        },
+        {
+            "id": "decouverte-8e785faead2b0444e1bd112d",
+            "title": "La diversité fascinante des cristaux de glace et leur formation",
+            "body": "Les cristaux de glace forment une structure hexagonale résultant de la cristallisation directe de la vapeur d'eau dans l'air froid, sans passer par la phase liquide. Leur morphologie varie selon les conditions de température et d'humidité, donnant naissance à diverses formes telles que colonnes, aiguilles, plaques et dendrites. Ces cristaux constituent les éléments fondamentaux des nuages de haute altitude et des flocons de neige. Ils peuvent également apparaître en surface dans les régions froides sous forme de précipitations appelées poudrin de glace, selon les standards météorologiques. Le givre, en feuilles plates ou en formes creuses, est aussi issu de cristaux naturels, mais résulte de phénomènes au sol ou dans la neige, sans précipitation. Cette richesse de formes traduit la sensibilité des cristaux aux variations environnementales, un phénomène essentiel en météorologie.",
+            "category": "Sciences",
+            "location": "Monde",
+            "image_description": "Flocon de neige photographié sur un fond multicolore illustrant la beauté des cristaux de glace.",
+            "image_caption": "Photo illustrative d’un flocon de neige sur fond multicolore, image Wikimedia générale.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/46680e0bf1b68b2417abc1f7cda268e802c198ee8d418ec396879392a80be810.jpg",
+            "image_credit": "Rubelson · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%BD%D0%B5%D0%B6%D0%B8%D0%BD%D0%BA%D0%B0_%D0%BD%D0%B0_%D1%80%D0%B0%D0%B7%D0%BD%D0%BE%D1%86%D0%B2%D0%B5%D1%82%D0%BD%D0%BE%D0%BC_%D1%84%D0%BE%D0%BD%D0%B5.JPG",
+            "sources": [
+                {
+                    "label": "Wikipédia · Cristal de glace",
+                    "url": "https://fr.wikipedia.org/wiki/Cristal_de_glace"
+                }
+            ],
+            "subject_id": "Q1325808",
+            "published_at": "2026-10-21",
+            "country": "Monde"
+        },
+        {
+            "id": "decouverte-dfd5d2e326c5ca62b56758eb",
+            "title": "La salamandre tachetée, un compagnon discret des forêts européennes",
+            "body": "La salamandre tachetée (Salamandra salamandra) est une espèce emblématique d'urodèles présente dans de nombreuses régions d'Europe. Souvent appelée salamandre terrestre ou salamandre de feu, elle se distingue par son corps noir orné de taches jaunes très visibles. Cette espèce fait partie de la famille des Salamandridae et figure parmi les amphibiens les plus répandus et reconnaissables du continent. Bien que le terme « salamandre tachetée » puisse aussi désigner d'autres espèces ou sous-espèces du genre Salamandra, la Salamandra salamandra reste un témoin vivant des habitats boisés et humides qui lui servent de refuge. Cette observation se base sur des données générales disponibles, sans mention d'événements particuliers.",
+            "category": "Nature et animaux",
+            "location": "Europe",
+            "image_description": "Photographie d'une salamandre tachetée mâle (Salamandra salamandra terrestris) montrant ses glandes parotoïdes et son corps noir avec des taches jaunes, prise à l'étang de Maourine à Toulouse, France.",
+            "image_caption": "Illustration documentaire générale : Salamandre tachetée mâle observée en milieu naturel en France.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/c9945f9ba4bee935b048c360efc7664a81136083628a594ade7bc095ebe80d53.jpg",
+            "image_credit": "Didier Descouens · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Salamandra_salamandra_MHNT_1.jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Salamandra salamandra",
+                    "url": "https://fr.wikipedia.org/wiki/Salamandra_salamandra"
+                }
+            ],
+            "subject_id": "Q26395",
+            "published_at": "2026-10-21",
+            "country": "Monde"
+        },
+        {
+            "id": "decouverte-180e2bb8bb634288be3f9fe8",
+            "title": "La bioluminescence, la lumière générée par les êtres vivants",
+            "body": "La bioluminescence désigne la capacité de certains organismes vivants à produire et émettre une lumière par une réaction chimique interne. Cette lumière, dite froide car elle engendre peu de chaleur, résulte de l'oxydation d'une molécule appelée luciférine, catalysée par une enzyme, la luciférase. Elle peut se produire à l'intérieur ou à l'extérieur des cellules, parfois via des bactéries symbiotiques. Cette capacité est particulièrement répandue dans les organismes marins, environ 76 % des êtres vivant entre la surface et 4000 mètres de profondeur étant bioluminescents. Le phénomène éclaire ainsi les profondeurs obscures des océans du monde entier, révélant une facette étonnante de la vie sous-marine.",
+            "category": "Sciences",
+            "location": "Océans du monde",
+            "image_description": "Image montrant des krills antarctiques bioluminescents illustrée par une aquarelle réalisée par l'utilisateur Uwe Kils.",
+            "image_caption": "Illustration aquarelle de krills antarctiques bioluminescents – image documentaire générale Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/144dbe7fc43fcc74718db877d7cd2679cf37953394f669e37fba484231f4536c.jpg",
+            "image_credit": "No machine-readable author provided. Uwe kils assumed (based on copyright claims). · No machine-readable source provided. Own work assumed (based on copyright claims). · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Bioluminescencekils.jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Bioluminescence",
+                    "url": "https://fr.wikipedia.org/wiki/Bioluminescence"
+                }
+            ],
+            "subject_id": "Q179924",
+            "published_at": "2026-10-21",
+            "country": "Monde"
+        },
+        {
+            "id": "decouverte-e6ef2c7784f8003cbbbde2f1",
+            "title": "La bibliothèque de Celsus à Éphèse, trésor de l'Antiquité romaine",
+            "body": "Située à Éphèse, près de Selçuk en Turquie, la bibliothèque de Celsus est un remarquable vestige architectural de l'Antiquité romaine. Construite entre 117 et 125 apr. J.-C. par la famille du sénateur Tiberius Iulius Celsus Polemaeanus, ce bâtiment servait à la fois de bibliothèque publique et de mausolée pour honorer cet administrateur. Découverte lors de fouilles au début du XXe siècle, sa façade spectaculaire a été restaurée dans les années 1970, révélant la finesse de l'architecture romaine. Bien que l'utilisation exacte et la durée de fonction de la bibliothèque restent inconnues, son existence témoigne de la culture et du savoir partagés sous l'Empire romain. Aujourd'hui, ce site historique offre un aperçu précieux du patrimoine antique.",
+            "category": "Histoire et patrimoine",
+            "location": "Éphèse, Turquie",
+            "image_description": "Façade de la bibliothèque de Celsus à Éphèse, site antique près de Selçuk en Turquie.",
+            "image_caption": "Photo documentaire générale de la façade restaurée de la bibliothèque de Celsus, à Éphèse, Turquie.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/44f1662e57c4b9ff0450e54ddf48f0a29294f55919a58588ade9c9ff00642fe7.jpg",
+            "image_credit": "Benh LIEU SONG · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Ephesus_Celsus_Library_Fa%C3%A7ade.jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Bibliothèque de Celsus",
+                    "url": "https://fr.wikipedia.org/wiki/Biblioth%C3%A8que_de_Celsus"
+                }
+            ],
+            "subject_id": "Q744406",
+            "published_at": "2026-10-21",
+            "country": "Turquie"
+        },
+        {
+            "id": "decouverte-bc2c35a736f87810d99bc617",
+            "title": "L’Abeille européenne, un acteur clé de la pollinisation mondiale",
+            "body": "L’Abeille européenne (Apis mellifera) est originellement présente en Europe, mais elle s’est répandue sur tous les continents, sauf l’Antarctique. Elle est appréciée en apiculture pour sa production de miel et surtout pour son rôle essentiel dans la pollinisation des cultures agricoles partout dans le monde. Le nom Apis mellifera signifie en latin « abeille qui produit du miel ». Malgré son importance, elle fait face à plusieurs menaces sanitaires qui affectent parfois ses colonies. Cette espèce semi-domestiquée demeure néanmoins l’un des pollinisateurs les plus importants à l’échelle planétaire, contribuant à la biodiversité et à la sécurité alimentaire. (Source : Wikipédia)",
+            "category": "Nature et animaux",
+            "location": "Monde",
+            "image_description": "Une abeille européenne femelle (Apis mellifera) sur des fleurs de viorne tinus (Viburnum tinus).",
+            "image_caption": "Illustration documentaire générale : Apis mellifera femelle posée sur des fleurs de Viburnum tinus.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/1f6a3a4d69b225ad300a054d0fa1571b745daaa8c8e70ed830fc43988a2dd07a.jpg",
+            "image_credit": "Didier Descouens · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:(MHNT)_Apis_mellifera_(female)_-_on_viburnum_tinus_flowers.jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Apis mellifera",
+                    "url": "https://fr.wikipedia.org/wiki/Apis_mellifera"
+                }
+            ],
+            "subject_id": "Q30034",
+            "published_at": "2026-10-21",
+            "country": "Monde"
+        }
+    ]
+}

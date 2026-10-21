@@ -32,7 +32,23 @@
         "Q189849": "decouverte-3ea40adb13c7b004964d301f",
         "title:parc national des lacs de plitvice": "decouverte-3ea40adb13c7b004964d301f",
         "Q199234": "decouverte-338fda7cc0e043fe5abb0205",
-        "title:phare de cordouan": "decouverte-338fda7cc0e043fe5abb0205"
+        "title:phare de cordouan": "decouverte-338fda7cc0e043fe5abb0205",
+        "Q1052": "decouverte-b711a6c55d4b717568509858",
+        "title:arc en ciel": "decouverte-b711a6c55d4b717568509858",
+        "Q107370": "decouverte-abda8e439c59e5db3d2ddc4f",
+        "title:þingvellir": "decouverte-abda8e439c59e5db3d2ddc4f",
+        "Q492312": "decouverte-622310d7e356f470784471ae",
+        "title:hondarribia": "decouverte-622310d7e356f470784471ae",
+        "Q1325808": "decouverte-8e785faead2b0444e1bd112d",
+        "title:cristal de neige": "decouverte-8e785faead2b0444e1bd112d",
+        "Q26395": "decouverte-dfd5d2e326c5ca62b56758eb",
+        "title:salamandre tachetée": "decouverte-dfd5d2e326c5ca62b56758eb",
+        "Q179924": "decouverte-180e2bb8bb634288be3f9fe8",
+        "title:bioluminescence": "decouverte-180e2bb8bb634288be3f9fe8",
+        "Q744406": "decouverte-e6ef2c7784f8003cbbbde2f1",
+        "title:bibliothèque de celsus": "decouverte-e6ef2c7784f8003cbbbde2f1",
+        "Q30034": "decouverte-bc2c35a736f87810d99bc617",
+        "title:abeille européenne": "decouverte-bc2c35a736f87810d99bc617"
     },
     "failed": {
         "saint jean pied de port": "2026-10-19",
@@ -64,6 +80,17 @@
         "conservatoire du littoral": "2026-10-20",
         "pastel de nata": "2026-10-20",
         "la bastide clairence": "2026-10-20",
-        "renard roux": "2026-10-20"
+        "renard roux": "2026-10-20",
+        "ossau iraty": "2026-10-21",
+        "théâtre antique d orange": "2026-10-21",
+        "hérisson commun": "2026-10-21",
+        "levain": "2026-10-21",
+        "dune du pilat": "2026-10-21",
+        "alberobello": "2026-10-21",
+        "château de himeji": "2026-10-21",
+        "olivier": "2026-10-21",
+        "lac de bled": "2026-10-21",
+        "collonges la rouge": "2026-10-21",
+        "fossile": "2026-10-21"
     }
 }
