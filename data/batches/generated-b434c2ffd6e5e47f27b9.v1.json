@@ -1,0 +1,205 @@
+{
+    "schema_version": 1,
+    "id": "generated-b434c2ffd6e5e47f27b9",
+    "version": "1",
+    "articles": [
+        {
+            "id": "decouverte-b1fb68954e8ba699d7db86e2",
+            "title": "Rocamadour, village perché au patrimoine exceptionnel du Lot",
+            "body": "Rocamadour, situé en région Occitanie dans le nord du Lot, est une commune remarquable pour son patrimoine naturel et historique. Accrochée à une falaise de 150 mètres dominant la vallée de l'Alzou, elle fait partie du causse de Gramat, une région préservée. Ce village inscrit parmi Les Plus Beaux Villages de France est un lieu de pèlerinage important depuis le XIIe siècle, attirant fidèles et visiteurs vers sa Vierge noire et la crypte Saint-Amadour, tous deux classés au patrimoine mondial de l’UNESCO. Ses ruelles pittoresques et ses portes fortifiées témoignent de son riche passé médiéval. La commune bénéficie également d’espaces protégés et d’un site Natura 2000, illustrant la diversité et la qualité de son environnement. En 2023, Rocamadour compte 597 habitants, les Amadouriens.",
+            "category": "Villages et villes",
+            "location": "Rocamadour, Lot, Occitanie, France",
+            "image_description": "Vue panoramique de Rocamadour, village perché sur une falaise.",
+            "image_caption": "Vue de Rocamadour, illustration documentaire générale.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/6a3af6972f3dbcd00db9dea3fcc6e75f00a9aa4c2a2ff796f9019a13f7c82adc.jpg",
+            "image_credit": "Velvet · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Rocamadour_vue_cote.JPG",
+            "sources": [
+                {
+                    "label": "Wikipédia · Rocamadour",
+                    "url": "https://fr.wikipedia.org/wiki/Rocamadour"
+                }
+            ],
+            "subject_id": "Q382628",
+            "published_at": "2026-10-22",
+            "country": "France"
+        },
+        {
+            "id": "decouverte-1a0fe4ad110ea8b3e2f86b46",
+            "title": "Le Ginkgo biloba, un arbre millénaire témoin de l’histoire naturelle",
+            "body": "Le Ginkgo biloba, surnommé arbre aux quarante écus ou arbre aux abricots d'argent, est la seule espèce encore vivante de la famille des Ginkgoaceae. Apparu il y a plus de 270 millions d’années, il a survécu aux glaciations quaternaires grâce à quelques refuges dans le sud de la Chine. Dans cette région, certains spécimens auraient plus de mille ans, voire jusqu’à 3 000 ans selon certaines sources. Son feuillage jaune vif à l’automne en fait un arbre particulièrement apprécié à travers le monde où il est cultivé depuis le XIXe siècle. En Asie orientale, ses amandes sont utilisées en médecine traditionnelle, tandis qu’en Occident, l’extrait de ginkgo a suscité un intérêt pour ses propriétés pharmacologiques. Cet arbre, à la fois vivant fossile et objet de recherches médicales, reste un symbole durable de la nature et de la biodiversité.",
+            "category": "Nature et animaux",
+            "location": "Chine",
+            "image_description": "Photographie rapprochée de feuilles de Ginkgo biloba, montrant leur forme caractéristique en éventail.",
+            "image_caption": "Feuillage de Ginkgo biloba illustrant sa forme unique, photo Wikimedia Commons à titre documentaire.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/e044bdd466bd2d1567f6ab814e278b6f83198a214984ff3a648e34295ced8d95.jpg",
+            "image_credit": "Kurt Stüber [1] · caliban.mpiz-koeln.mpg.de/mavica/index.html part of www.biolib.de · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Ginkgo_biloba0.jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Ginkgo biloba",
+                    "url": "https://fr.wikipedia.org/wiki/Ginkgo_biloba"
+                }
+            ],
+            "subject_id": "Q43284",
+            "published_at": "2026-10-22",
+            "country": "Monde"
+        },
+        {
+            "id": "decouverte-8533cd376e65a02ac9de826d",
+            "title": "Musée des Arts et Métiers : un hommage vivant à l’ingénierie et à l’innovation",
+            "body": "Situé dans le 3e arrondissement de Paris, le Musée des Arts et Métiers est un conservatoire dédié aux sciences et technologies. Fondé en 1794, il présente un vaste ensemble de machines, modèles et dessins utilisés aux XIXe et XXe siècles. Labellisé « Musée de France » depuis 2002, il appartient au Conservatoire national des arts et métiers, qui forme aujourd’hui techniciens et chercheurs. Depuis 2003, ce musée enrichit ses collections par la Mission nationale de sauvegarde du patrimoine scientifique et technique contemporain. La station de métro voisine, Arts et Métiers, offre un accès spécial aménagé en 1994 pour marquer le bicentenaire du Conservatoire, illustrant l’alliance entre patrimoine et modernité.",
+            "category": "Sciences",
+            "location": "Paris, France",
+            "image_description": "Façade extérieure du Musée des Arts et Métiers dans le 3e arrondissement de Paris.",
+            "image_caption": "Photographie documentaire générale du Musée des Arts et Métiers à Paris, illustration du lieu.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/06e0cc1e71a5b31b8b774a1226a26f7bb99f20e94e458262355786b064bc500b.jpg",
+            "image_credit": "Arnaud 25 · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_des_Arts_et_M%C3%A9tiers_337.jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Musée des Arts et Métiers",
+                    "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_des_Arts_et_M%C3%A9tiers"
+                }
+            ],
+            "subject_id": "Q1538826",
+            "published_at": "2026-10-22",
+            "country": "France"
+        },
+        {
+            "id": "decouverte-bfa2dd7ad41a87385ea8b0f1",
+            "title": "La porcelaine de Limoges, une tradition artisanale française",
+            "body": "La porcelaine de Limoges est une production traditionnelle réputée, originaire de la ville de Limoges et de sa région en Haute-Vienne. Cette activité a vu le jour vers 1765-1770 grâce à la découverte du kaolin, une matière première essentielle pour obtenir une céramique fine, dure et translucide. Avec celle de Sèvres, c’est l’une des deux principales porcelaines françaises. Le territoire autour de Limoges est structuré autour de plusieurs entreprises encore en activité, qui perpétuent ce savoir-faire exceptionnel. La porcelaine de Limoges témoigne d’un héritage industriel et artistique remarquable, reflet de l’histoire locale et de la qualité du travail artisanal français.",
+            "category": "Gastronomie et traditions",
+            "location": "Limoges, France",
+            "image_description": "Coupe à la libellule en porcelaine dure avec émaux translucides, fabriquée entre 1902 et 1906 dans la Manufacture Pouyat de Limoges.",
+            "image_caption": "Coupe à la libellule, porcelaine de Limoges, Manufacture Pouyat, entre 1902 et 1906. Illustration documentaire générale.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/bdf85e90daadde5d24a4b2db7c29beab0c7526f52fc85d9601093b52b5f6759d.jpg",
+            "image_credit": "Musée national Adrien Dubouché · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Coupe_%C3%A0_la_libellule_Limoges_Manufacture_Pouyat.jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Porcelaine de Limoges",
+                    "url": "https://fr.wikipedia.org/wiki/Porcelaine_de_Limoges"
+                }
+            ],
+            "subject_id": "Q3398126",
+            "published_at": "2026-10-22",
+            "country": "France"
+        },
+        {
+            "id": "decouverte-d5af921940f180fea437d335",
+            "title": "Le Séquoia géant : un colosse naturel de la Sierra Nevada",
+            "body": "Le Séquoia géant (Sequoiadendron giganteum) est une espèce unique de conifères, remarquable par sa taille impressionnante. Endémique de la Sierra Nevada en Californie, il présente le plus grand volume parmi tous les arbres vivant sur Terre. Cette espèce est le seul membre actuel du genre Sequoiadendron et appartient à la famille des Taxodiaceae ou des Cupressaceae selon les classifications. Le Séquoia géant partage des caractéristiques avec ses proches parents, le Séquoia à feuilles d’if, qui atteint une hauteur supérieure mais pousse le long des côtes californiennes, ainsi que Metasequoia glyptostroboides, originaire de Chine et de plus petite taille. Ces arbres témoignent d’une histoire naturelle fascinante et d’une diversité remarquable au sein des conifères.",
+            "category": "Nature et animaux",
+            "location": "Sierra Nevada, Californie",
+            "image_description": "Photographie en contre-plongée du General Sherman Tree, un Séquoia géant dans le parc national de Sequoia, montrant son immense tronc élancé vers le ciel.",
+            "image_caption": "General Sherman Tree dans le parc national de Sequoia : le plus grand organisme vivant au monde — photographie Wikimedia Commons illustrative générale.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/23f4106994d12a06dd543acbedf992028d4e4ad42960fc7fc78176220751266e.jpg",
+            "image_credit": "Jim Bahn · Sherman Tree · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY 2.0 · https://creativecommons.org/licenses/by/2.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:General_Sherman_tree_looking_up.jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Séquoia géant",
+                    "url": "https://fr.wikipedia.org/wiki/S%C3%A9quoia_g%C3%A9ant"
+                }
+            ],
+            "subject_id": "Q149851",
+            "published_at": "2026-10-22",
+            "country": "Monde"
+        },
+        {
+            "id": "decouverte-bed68df6dfa3696a1c25d343",
+            "title": "La Posidonie, herbe marine essentielle de la Méditerranée",
+            "body": "La Posidonie de Méditerranée (Posidonia oceanica) est une plante sous-marine à fleurs, endémique de la mer Méditerranée. Contrairement aux algues, elle possède des racines, une tige rhizomateuse et de longues feuilles en touffes. Cet herbier marin s’étend de la surface jusqu’à 40 mètres de profondeur, formant un écosystème fondamental pour la biodiversité méditerranéenne. Il protège également les côtes de l’érosion. La Posidonie fleurit à l’automne et produit au printemps des fruits flottants nommés « olives de mer ». Ses vastes herbiers abritent de nombreuses espèces animales et végétales qui y trouvent nourriture et refuge. Ces caractéristiques soulignent l’importance écologique majeure de cette plante aquatique dans la région méditerranéenne.",
+            "category": "Nature et animaux",
+            "location": "Mer Méditerranée",
+            "image_description": "Plan rapproché montrant la plante marine Posidonia oceanica observée à La Ciotat, avec ses longues feuilles rubanées vertes.",
+            "image_caption": "Illustration documentaire générale de Posidonia oceanica à La Ciotat (Wikimedia Commons).",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/8f1d4802fd40d372af93b83598a792cce0f5d02242fc71e226b4af2d9d905470.jpg",
+            "image_credit": "Frédéric Ducarme · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Posidonia_oceanica_(L).jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Posidonia oceanica",
+                    "url": "https://fr.wikipedia.org/wiki/Posidonia_oceanica"
+                }
+            ],
+            "subject_id": "Q544137",
+            "published_at": "2026-10-22",
+            "country": "Monde"
+        },
+        {
+            "id": "decouverte-24b5284c6ce90c408d0c0d71",
+            "title": "Le baobab africain, arbre emblématique des savanes tropicales",
+            "body": "Le baobab africain (Adansonia digitata) est une espèce d’arbre caractéristique des régions tropicales sèches d’Afrique. Reconnu pour son tronc massif souvent appelé caudex, il joue un rôle central dans la culture locale, étant souvent considéré comme sacré et lieu de rassemblements traditionnels. Il est l’emblème végétal du Sénégal et de la Guinée. Son fruit, le « pain de singe », est comestible et contribue à l’alimentation humaine et animale. Ce grand arbre au port singulier incarne la biodiversité et les traditions de l’Afrique tropicale sèche, offrant un symbole naturel et culturel d’importance. L’image choisie illustre un baobab en Tanzanie, aux côtés d’un éléphant, témoignant de sa présence dans le paysage africain.",
+            "category": "Nature et animaux",
+            "location": "Afrique tropicale sèche",
+            "image_description": "Baobab africain (Adansonia digitata) accompagné d’un éléphant en Tanzanie",
+            "image_caption": "Photo documentaire générale montrant un baobab africain et un éléphant en Tanzanie",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/53aabe24f65ac44ecc4a3c39da62e3330dd0003e924c24d2407bec2d7f8651b4.jpg",
+            "image_credit": "Ferdinand Reus from Arnhem, Holland · Two old ones · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 2.0 · https://creativecommons.org/licenses/by-sa/2.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Baobab_and_elephant,_Tanzania.jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Baobab africain",
+                    "url": "https://fr.wikipedia.org/wiki/Baobab_africain"
+                }
+            ],
+            "subject_id": "Q158742",
+            "published_at": "2026-10-22",
+            "country": "Monde"
+        },
+        {
+            "id": "decouverte-c1a90c4ad308b4cc524c636d",
+            "title": "Les petits pandas : deux espèces de mammifères asiatiques en danger",
+            "body": "Les petits pandas, communément appelés pandas roux, appartiennent au genre Ailurus, unique représentant de la famille des Ailuridés. Originaires d’Asie, ils vivent dans les forêts tempérées riches en bambou, notamment de l’Himalaya au Sud-Ouest de la Chine. Longueur d’un chat, ils se distinguent par leur fourrure rousse, leur longue queue en anneaux et leurs pattes plus courtes. Solitaires et actifs surtout au crépuscule et à l’aube, ces mammifères arboricoles consomment principalement du bambou, malgré leur classification en carnivores. Depuis 2019, deux espèces distinctes sont reconnues : le Panda fuligineux, dans l’Himalaya et le sous-continent indien, et le Panda de Styan, au nord de la Birmanie et en Chine. Ces deux espèces sont menacées, notamment du fait de la destruction de leur habitat et du braconnage. Des mesures de conservation internationales sont en cours pour préserver ces animaux précieux.",
+            "category": "Nature et animaux",
+            "location": "Asie",
+            "image_description": "Mosaïque présentant deux pandas roux : le panda fuligineux et le panda de Styan, espèces distinctes du genre Ailurus.",
+            "image_caption": "Mosaïque de Pandas (Ailurus) : Le panda fuligineux (Ailurus fulgens) et le Panda de Styan (Ailurus styani) – Wikimedia Commons, illustration documentaire générale.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/e52ad0bfc3c28d85540bbd9f22eaf38cfd0b062fa6d11b97d9c186077c643241.jpg",
+            "image_credit": "Unknown authorUnknown author · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Ailurus_mosaic.jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Ailurus",
+                    "url": "https://fr.wikipedia.org/wiki/Ailurus"
+                }
+            ],
+            "subject_id": "Q19817309",
+            "published_at": "2026-10-22",
+            "country": "Monde"
+        },
+        {
+            "id": "decouverte-847d898908dc93e45d48c318",
+            "title": "Les nids, abris naturels pour une progéniture variée",
+            "body": "Un nid est une structure que construisent principalement les oiseaux afin d'abriter leurs œufs et leur progéniture. Fabriqué avec des matériaux organiques comme des brindilles, des herbes ou des plumes, il offre un refuge protecteur. Certains oiseaux, comme le faucon pèlerin, utilisent parfois des nids abandonnés tandis que d'autres, tels que le coucou, déposent leurs œufs dans le nid d'autrui. Au-delà des oiseaux, divers animaux comme les gorilles, les écureuils ou encore certains insectes sociaux, conçoivent aussi des nids adaptés à leurs besoins. Cette diversité illustre les nombreuses stratégies d'adaptation pour assurer la protection des jeunes au sein du règne animal.",
+            "category": "Nature et animaux",
+            "location": "Monde",
+            "image_description": "Femme rouge-queue noir (Phoenicurus ochruros) prenant soin de ses petits dans un nid.",
+            "image_caption": "Photographie montrant une femelle rouge-queue noir s’occupant de ses oisillons. Photo générale en illustration documentaire.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/e4209c00561f34b51624d51ae49a8a6abd6de5d41f9c2f7fcd3dbc13d3183908.jpg",
+            "image_credit": "Stefan-Xp · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Hausrotschwanz_Brutpflege_2006-05-24_211.jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Nid",
+                    "url": "https://fr.wikipedia.org/wiki/Nid"
+                }
+            ],
+            "subject_id": "Q4785",
+            "published_at": "2026-10-22",
+            "country": "Monde"
+        }
+    ]
+}

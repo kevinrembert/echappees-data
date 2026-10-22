@@ -1,0 +1,167 @@
+{
+    "schema_version": 1,
+    "articles": [
+        {
+            "id": "decouverte-b1fb68954e8ba699d7db86e2",
+            "subject_id": "Q382628",
+            "collected_at": "2026-10-22T01:10:23+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Rocamadour",
+                    "url": "https://fr.wikipedia.org/wiki/Rocamadour"
+                }
+            ],
+            "source_sha256": "10e177e53548515836b58d588accd31ff295633989444eb8a3e41509cfb0c288",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Rocamadour_vue_cote.JPG",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "original_sha1": "299d6e9b33dc0bf2fd8ed92a2407302ecaf130e8",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-1a0fe4ad110ea8b3e2f86b46",
+            "subject_id": "Q43284",
+            "collected_at": "2026-10-22T01:10:29+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Ginkgo biloba",
+                    "url": "https://fr.wikipedia.org/wiki/Ginkgo_biloba"
+                }
+            ],
+            "source_sha256": "62259d5c28348d0eb926ef1c2487199c3e5d5076d0077881459229d4a358e877",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Ginkgo_biloba0.jpg",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "original_sha1": "e7c59a3d96af56bac01ab9fd5a6609e56c0cf1a3",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-8533cd376e65a02ac9de826d",
+            "subject_id": "Q1538826",
+            "collected_at": "2026-10-22T01:10:34+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Musée des Arts et Métiers",
+                    "url": "https://fr.wikipedia.org/wiki/Mus%C3%A9e_des_Arts_et_M%C3%A9tiers"
+                }
+            ],
+            "source_sha256": "1664625f2fcc40ddb5a02823d0a734ceee5a91db9db0be82ee25cfd030f050f0",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_des_Arts_et_M%C3%A9tiers_337.jpg",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "original_sha1": "357cf7534cba586991850aedd66a2b0fdb44d97e",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-bfa2dd7ad41a87385ea8b0f1",
+            "subject_id": "Q3398126",
+            "collected_at": "2026-10-22T01:10:38+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Porcelaine de Limoges",
+                    "url": "https://fr.wikipedia.org/wiki/Porcelaine_de_Limoges"
+                }
+            ],
+            "source_sha256": "005074a1547b1e1c059d05394cb09a2936d55b856c2061ea988cb710dd474957",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Coupe_%C3%A0_la_libellule_Limoges_Manufacture_Pouyat.jpg",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "original_sha1": "f9a3dc1fe5203c6630c6d44e19a44f34417ea3f2",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-d5af921940f180fea437d335",
+            "subject_id": "Q149851",
+            "collected_at": "2026-10-22T01:10:46+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Séquoia géant",
+                    "url": "https://fr.wikipedia.org/wiki/S%C3%A9quoia_g%C3%A9ant"
+                }
+            ],
+            "source_sha256": "7a43f79a8194812b767be20bcac9c315495c319af903ac7730bc24d237aa4027",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:General_Sherman_tree_looking_up.jpg",
+            "image_license": "CC BY 2.0 · https://creativecommons.org/licenses/by/2.0/",
+            "original_sha1": "1808b51a19a441f6cc3d75b48bfcf194d9a021db",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-bed68df6dfa3696a1c25d343",
+            "subject_id": "Q544137",
+            "collected_at": "2026-10-22T01:10:50+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Posidonia oceanica",
+                    "url": "https://fr.wikipedia.org/wiki/Posidonia_oceanica"
+                }
+            ],
+            "source_sha256": "91b88e87c05253cb31dd59b39953a799072e3984aa6c14a4c854160ad80813fd",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Posidonia_oceanica_(L).jpg",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "original_sha1": "72bc266a8130d87fd45cba2ab2151910f8b75715",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-24b5284c6ce90c408d0c0d71",
+            "subject_id": "Q158742",
+            "collected_at": "2026-10-22T01:10:55+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Baobab africain",
+                    "url": "https://fr.wikipedia.org/wiki/Baobab_africain"
+                }
+            ],
+            "source_sha256": "9a0aaaa8cb3a9acec390c2dc601e019de376bb97fb16af6f246ab04e1faeb604",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Baobab_and_elephant,_Tanzania.jpg",
+            "image_license": "CC BY-SA 2.0 · https://creativecommons.org/licenses/by-sa/2.0/",
+            "original_sha1": "396c5b4d6fe2d0a164b90571fe317d58b5c88825",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-c1a90c4ad308b4cc524c636d",
+            "subject_id": "Q19817309",
+            "collected_at": "2026-10-22T01:11:00+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Ailurus",
+                    "url": "https://fr.wikipedia.org/wiki/Ailurus"
+                }
+            ],
+            "source_sha256": "e2936bc1e15f5e54a6de2242aa1e1e63bf07fef085cb52cc66fc797db6c5de91",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Ailurus_mosaic.jpg",
+            "image_license": "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/",
+            "original_sha1": "d1ca310589260803ae95e3bffd4fd2857e772438",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-847d898908dc93e45d48c318",
+            "subject_id": "Q4785",
+            "collected_at": "2026-10-22T01:11:12+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Nid",
+                    "url": "https://fr.wikipedia.org/wiki/Nid"
+                }
+            ],
+            "source_sha256": "999a1e6a513d73f54e64a58c0998ff3ed3ee774069209cd73c9ce2bc025e018a",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Hausrotschwanz_Brutpflege_2006-05-24_211.jpg",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "original_sha1": "28b6040b9e61c530798df461c522fa75c9f0081d",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        }
+    ]
+}
