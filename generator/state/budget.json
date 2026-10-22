@@ -61,6 +61,22 @@
             "output_tokens": 4648,
             "config_sha256": "1972a1858c748d8635f06494866ae123f81e07aaa4b1cbc1b70a45e4d7d4558c",
             "published_count": 8
+        },
+        "39704087582": {
+            "month": "2026-10",
+            "date": "2026-10-22",
+            "mode": "daily",
+            "status": "reserved",
+            "quota_date": "2026-10-22",
+            "quota_timezone": "Europe/Paris",
+            "count": 10,
+            "max_calls": 20,
+            "calls": 0,
+            "charged_usd": 0,
+            "reserved_usd": 0.282368,
+            "input_tokens": 0,
+            "output_tokens": 0,
+            "config_sha256": "1972a1858c748d8635f06494866ae123f81e07aaa4b1cbc1b70a45e4d7d4558c"
         }
     }
 }
