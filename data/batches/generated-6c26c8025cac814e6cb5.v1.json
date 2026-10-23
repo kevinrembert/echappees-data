@@ -1,0 +1,29 @@
+{
+    "schema_version": 1,
+    "id": "generated-6c26c8025cac814e6cb5",
+    "version": "1",
+    "articles": [
+        {
+            "id": "decouverte-d064a7312ece9207aaf13658",
+            "title": "La saison 2019-2020 du Liverpool FC, une présence continue en élite du football anglais",
+            "body": "La saison 2019-2020 marque la 128e année d'existence du Liverpool Football Club et sa 58e saison consécutive dans l'élite du football anglais, la Premier League. Cette saison, débutée le 1er juillet 2019 et s'achevant le 30 juin 2020, voit le club évoluer dans plusieurs compétitions majeures comme la FA Cup, la Carabao Cup, la Ligue des Champions, ainsi que des rencontres prestigieuses telles que le Community Shield, la Supercoupe de l'UEFA et la Coupe du monde des clubs de la FIFA. Un arrêt temporaire du football professionnel en Angleterre a été décidé le 11 mars 2020, avec une suspension prévue jusqu'au 4 avril 2020, due à la pandémie de Covid-19.",
+            "category": "Initiatives positives",
+            "location": "Monde",
+            "image_description": "Photo montrant une action de jeu entre Liverpool et Chelsea lors de la Supercoupe de l'UEFA en 2019.",
+            "image_caption": "Liverpool vs Chelsea lors de la Supercoupe de l'UEFA 2019 (photo d’illustration documentaire générale).",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/0ff92f1dad875f3d781a7e70e5a13399966a8f3f400c0f21fa95d167a7f961ae.jpg",
+            "image_credit": "Mehdi Bolourian · https://www.farsnews.com/photo/13980524000054/سوپرجام-اروپا-لیورپول-چلسی (Archive) · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Liverpool_vs._Chelsea,_UEFA_Super_Cup_2019-08-14_56.jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Saison 2019-2020 du Liverpool FC",
+                    "url": "https://fr.wikipedia.org/wiki/Saison_2019-2020_du_Liverpool_FC"
+                }
+            ],
+            "subject_id": "Q64605994",
+            "published_at": "2026-10-23",
+            "country": "Monde"
+        }
+    ]
+}

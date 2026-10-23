@@ -1,0 +1,23 @@
+{
+    "schema_version": 1,
+    "articles": [
+        {
+            "id": "decouverte-d064a7312ece9207aaf13658",
+            "subject_id": "Q64605994",
+            "collected_at": "2026-10-23T01:10:26+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Saison 2019-2020 du Liverpool FC",
+                    "url": "https://fr.wikipedia.org/wiki/Saison_2019-2020_du_Liverpool_FC"
+                }
+            ],
+            "source_sha256": "53c58ce9493703ed6b0f80a44e94c99cb43573e004e9192a35a1a19e6fa1bed3",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Liverpool_vs._Chelsea,_UEFA_Super_Cup_2019-08-14_56.jpg",
+            "image_license": "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/",
+            "original_sha1": "23c0b6cb44d1372af897e25e75269e7c24cf8dfc",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        }
+    ]
+}
