@@ -1,0 +1,77 @@
+{
+    "schema_version": 1,
+    "articles": [
+        {
+            "id": "decouverte-2423fecd174dc0d2bce0e133",
+            "subject_id": "Q149315",
+            "collected_at": "2026-10-24T01:20:22+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Silvère",
+                    "url": "https://fr.wikipedia.org/wiki/Silv%C3%A8re"
+                }
+            ],
+            "source_sha256": "a24f0cc2d631e4bbfae7715a94573512a1883c60598411bde8463d21bd6cd38f",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Silverius.png",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "fcdb7bc1393512cf01d8c35a3efd89a8a6b9dea3",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-ff31b19fff312636da3f09a4",
+            "subject_id": "Q8346979",
+            "collected_at": "2026-10-24T01:20:28+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Clotilde Cerdà i Bosch",
+                    "url": "https://fr.wikipedia.org/wiki/Clotilde_Cerd%C3%A0_i_Bosch"
+                }
+            ],
+            "source_sha256": "6df586f7b4a227fa1e6a594fd22952d80f1e78560950b7f374d5f73661c8a268",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Esmeralda_Cervantes.png",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "8ceb3ef79810726832543f5230c767a89923df58",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-6bd7659783b8e3431940449a",
+            "subject_id": "Q7208388",
+            "collected_at": "2026-10-24T01:20:34+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Pointon",
+                    "url": "https://fr.wikipedia.org/wiki/Pointon"
+                }
+            ],
+            "source_sha256": "5bff1acd54323f7fddf61829622427ae6a69a0eebfa0218d293dc337ecacf6c3",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Millthorpe_crossroads,_Pointon,_Lincs_-_geograph.org.uk_-_215128.jpg",
+            "image_license": "CC BY-SA 2.0 · https://creativecommons.org/licenses/by-sa/2.0/",
+            "original_sha1": "45ca6f909f08c191c2d814dcb3a25a960363f99e",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-dffad8d888cb5930f99b19cd",
+            "subject_id": "Q1042558",
+            "collected_at": "2026-10-24T01:20:40+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Raïon de Ielizovo",
+                    "url": "https://fr.wikipedia.org/wiki/Ra%C3%AFon_de_Ielizovo"
+                }
+            ],
+            "source_sha256": "a50749e2f7e04d7f31340a012b9562b57a31f7f78b0c30f43492db8f8fcf926f",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Elizovsky_rayon_(Kamchatka_krai).png",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "e0e183cff3215d0dfa7d67798746b440267e23b4",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        }
+    ]
+}

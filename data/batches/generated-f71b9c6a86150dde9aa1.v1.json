@@ -1,0 +1,95 @@
+{
+    "schema_version": 1,
+    "id": "generated-f71b9c6a86150dde9aa1",
+    "version": "1",
+    "articles": [
+        {
+            "id": "decouverte-2423fecd174dc0d2bce0e133",
+            "title": "Silvère, pape du VIe siècle, une vie marquée par les tensions entre Ostrogoths et Byzantins",
+            "body": "Silvère est devenu pape en 536, au cœur d'un contexte politique tendu lié aux confrontations entre les Ostrogoths et l’Empire byzantin. Fils du pape Hormisdas, il a eu un pontificat bref, marqué par son soutien perçu envers le roi ostrogoth Théodat. Cette position a conduit à sa déposition en 537 par le général byzantin Bélisaire. Après avoir été jugé, il a été exilé sur une île isolée où il est mort la même année. Silvère est considéré comme saint dans plusieurs Églises chrétiennes et sa mémoire est célébrée le 2 décembre dans le Martyrologe romain ainsi que localement le 20 juin. Ce récit illustre les enjeux religieux et politiques entre Rome, les Goths et Byzance au début du VIe siècle.",
+            "category": "Histoire et patrimoine",
+            "location": "Rome, Italie",
+            "image_description": "Médaillon représentant Silvère, 58e pape, dans une mosaïque de la basilique Saint-Paul-hors-les-Murs à Rome.",
+            "image_caption": "Médaillon de la frise des papes à Saint-Paul-hors-les-Murs illustrant Silvère, 58e pape (illustration documentaire générale).",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/a5a028fb545d933863cff9d66aa3e6d0af1629d31c865a638805da9feec3afc3.jpg",
+            "image_credit": "Unknown authorUnknown author · http://w2.vatican.va/content/vatican/fr/holy-father/silverio.html · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Silverius.png",
+            "sources": [
+                {
+                    "label": "Wikipédia · Silvère",
+                    "url": "https://fr.wikipedia.org/wiki/Silv%C3%A8re"
+                }
+            ],
+            "subject_id": "Q149315",
+            "published_at": "2026-10-24",
+            "country": "Monde"
+        },
+        {
+            "id": "decouverte-ff31b19fff312636da3f09a4",
+            "title": "Clotilde Cerdà, harpiste prodige et militante pionnière des droits humains",
+            "body": "Née en 1861 à Barcelone, Clotilde Cerdà i Bosch s'illustra dès son enfance comme harpiste prodige sous le nom de scène Esmeralda Cervantes, surnom qui lui fut attribué en hommage par Victor Hugo. Encouragée par sa mère artiste, elle développa un parcours artistique remarquable malgré le rejet de son père, l'architecte Ildefons Cerdà. Outre son talent musical, elle s'engagea activement dans la défense des droits humains, s'opposant à l'esclavage et militant pour les droits des femmes, témoignant d'une volonté forte de justice sociale. Elle s'éteignit en 1926 à Santa Cruz de Tenerife. Ce portrait illustre une figure catalane qui allia passion artistique et engagement social, incarnant une époque où quête de liberté et expression culturelle se mêlaient intimement.",
+            "category": "Histoire et patrimoine",
+            "location": "Barcelone",
+            "image_description": "Portrait en noir et blanc d'Esmeralda Cervantes, alias Clotilde Cerdà, représentée en buste avec une coiffure élégante et un regard posé.",
+            "image_caption": "Illustration documentaire générale d’Esmeralda Cervantes – Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/da1d2440548cc560e31a525a36465d2dcf9d4744178400e1e87eb0a34a73cb9e.jpg",
+            "image_credit": "Paciano Ross · La Ilustración de la Mujer n.º 11 · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Esmeralda_Cervantes.png",
+            "sources": [
+                {
+                    "label": "Wikipédia · Clotilde Cerdà i Bosch",
+                    "url": "https://fr.wikipedia.org/wiki/Clotilde_Cerd%C3%A0_i_Bosch"
+                }
+            ],
+            "subject_id": "Q8346979",
+            "published_at": "2026-10-24",
+            "country": "Monde"
+        },
+        {
+            "id": "decouverte-6bd7659783b8e3431940449a",
+            "title": "Pointon, village paisible au cœur du Lincolnshire",
+            "body": "Situé à un peu plus de 11 km au nord de Bourne, dans le district de South Kesteven du Lincolnshire, Pointon est un petit village comptant 533 habitants en 2021. Il forme avec Sempringham une paroisse civile où la majorité de la population réside dans le village. Pointon abrite Christchurch, une église construite en 1893 en bois et tôle ondulée, qui servait de chapelle d'aisance. L’église paroissiale principale dédiée à Saint André se trouve dans le voisinage de Sempringham, érigée sur une hauteur offrant une vue sur la région environnante des Fens. L’école primaire St Gilbert of Sempringham, implantée sur West Road, témoigne du caractère rural et historique de cette communauté anglaise.",
+            "category": "Villages et villes",
+            "location": "Pointon, Lincolnshire, Angleterre",
+            "image_description": "Carrefour Millthorpe à Pointon, Lincolnshire, vue vers l'est le long de la B1177 Millthorpe Road en direction de Millthorpe Drove.",
+            "image_caption": "Carrefour Millthorpe à Pointon, photographie documentaire générale.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/b26b2b5bebee67fad20f77ae916bf702095793c0c495e5ec66f5f85a637fc11d.jpg",
+            "image_credit": "Rodney Burton · From geograph.org.uk · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 2.0 · https://creativecommons.org/licenses/by-sa/2.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Millthorpe_crossroads,_Pointon,_Lincs_-_geograph.org.uk_-_215128.jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Pointon",
+                    "url": "https://fr.wikipedia.org/wiki/Pointon"
+                }
+            ],
+            "subject_id": "Q7208388",
+            "published_at": "2026-10-24",
+            "country": "Monde"
+        },
+        {
+            "id": "decouverte-dffad8d888cb5930f99b19cd",
+            "title": "Le raïon de Ielizovo, un territoire volcanique vibrant en Kamtchatka",
+            "body": "Le raïon de Ielizovo est une subdivision administrative située dans la partie sud-est de la péninsule du Kamtchatka, en Extrême-Orient russe. Cette région remarquable est connue pour son riche patrimoine naturel dont une vingtaine de volcans actifs. Parmi ses trésors naturels figurent la réserve naturelle de Kronotski, la célèbre vallée des Geysers et plusieurs volcans, qui font partie du site des Volcans du Kamtchatka inscrit au patrimoine mondial de l’UNESCO. Avec près de 60 000 habitants en 2023, Ielizovo se présente aussi comme un centre économique dynamique, en particulier dans les secteurs de l’administration et des transports. Son territoire s’épanouit sur la plaine de l'Avatcha, offrant un paysage naturel unique et protégé.",
+            "category": "Nature et animaux",
+            "location": "Raïon de Ielizovo, Kamtchatka, Russie",
+            "image_description": "Drapeau du raïon de Ielizovo dans le kraï du Kamtchatka, Russie",
+            "image_caption": "Drapeau officiel du raïon de Ielizovo, illustration documentaire générale",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/4fdab14b426528ea08318ae493b5be780f398688e9fb5f3397950bfdad13c9a3.jpg",
+            "image_credit": "М. Черников. · http://www.elizovomr.ru/index.php?option=com_docman&task=doc_download&gid=331&Itemid=61 · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Flag_of_Elizovsky_rayon_(Kamchatka_krai).png",
+            "sources": [
+                {
+                    "label": "Wikipédia · Raïon de Ielizovo",
+                    "url": "https://fr.wikipedia.org/wiki/Ra%C3%AFon_de_Ielizovo"
+                }
+            ],
+            "subject_id": "Q1042558",
+            "published_at": "2026-10-24",
+            "country": "Monde"
+        }
+    ]
+}
