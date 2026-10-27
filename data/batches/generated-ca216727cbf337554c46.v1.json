@@ -1,0 +1,73 @@
+{
+    "schema_version": 1,
+    "id": "generated-ca216727cbf337554c46",
+    "version": "1",
+    "articles": [
+        {
+            "id": "decouverte-879d34e4f107a39c5c28a85d",
+            "title": "L'art des azulejos, joyau céramique du Portugal",
+            "body": "Les azulejos sont des carreaux de faïence finement décorés, emblématiques du patrimoine artistique du Portugal. Développés dès le XVe siècle en Andalousie, ils gagnent une notoriété particulière au XVIIIe siècle au Portugal. Ces carreaux ornent aussi bien l'intérieur que la façade extérieure des bâtiments, présentant des motifs allant des formes géométriques aux compositions figuratives. Véritable expression culturelle, cet art demeure vivant dans le Sud de l'Espagne et au Portugal, où il enrichit le paysage architectural de ses couleurs et dessins variés. Un exemple remarquable de cette tradition est visible à l'église paroissiale de Cambra, qui illustre la finesse du travail sur azulejos et leur intégration esthétique dans les constructions portugaises.",
+            "category": "Gastronomie et traditions",
+            "location": "Portugal",
+            "image_description": "Façade de l'église paroissiale de Cambra ornée d'azulejos, illustration de l'art traditionnel portugais de la faïence décorée.",
+            "image_caption": "Façade de l'Igreja de São Julião à Cambra, Portugal, ornée d'azulejos (illustration documentaire).",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/c9c2427189ae650ced583990bfa57fc897daf998f084f4a156795f5175b5dee6.jpg",
+            "image_credit": "Catarina B Rodrigues · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Igreja_Paroquial_Cambra.jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Azulejos",
+                    "url": "https://fr.wikipedia.org/wiki/Azulejos"
+                }
+            ],
+            "subject_id": "Q3179385",
+            "published_at": "2026-10-27",
+            "country": "Portugal"
+        },
+        {
+            "id": "decouverte-a167eb75affd47019660e942",
+            "title": "L'Observatoire du Cerro Paranal : un géant de l'astronomie au Chili",
+            "body": "Perché à 2 635 mètres d'altitude dans le désert d'Atacama au nord du Chili, l'Observatoire du Cerro Paranal joue un rôle majeur dans l'exploration du cosmos. Ce projet européen, conduit par l'Observatoire européen austral (ESO), abrite le Very Large Telescope (VLT) composé de quatre télescopes de 8,2 mètres, complétés par quatre télescopes auxiliaires de 1,8 mètre. Il comprend aussi un télescope de 4 mètres nommé VISTA et un autre de 2,5 mètres, le VLT Survey Telescope. Ces instruments permettent l'étude détaillée des astres dans des longueurs d'onde allant de l'ultraviolet à l'infrarouge, offrant de précieuses données pour la communauté scientifique internationale.",
+            "category": "Sciences",
+            "location": "Cerro Paranal, Chili",
+            "image_description": "Plateforme de l’Observatoire du Cerro Paranal photographiée le 25 décembre 2004",
+            "image_caption": "Vue générale de la plateforme du Cerro Paranal, photographie documentaire prise en 2004",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/4e4c4b81a3d79a64309821e13c45a2d17acfad1a3d6921b7fcf5da963de66a33.jpg",
+            "image_credit": "No machine-readable author provided. Fmillour assumed (based on copyright claims). · No machine-readable source provided. Own work assumed (based on copyright claims). · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:20041225-Paranal.jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Observatoire du Cerro Paranal",
+                    "url": "https://fr.wikipedia.org/wiki/Observatoire_du_Cerro_Paranal"
+                }
+            ],
+            "subject_id": "Q10914152",
+            "published_at": "2026-10-27",
+            "country": "Chili"
+        },
+        {
+            "id": "decouverte-d824d32a0b786860f45ecf86",
+            "title": "L’ostentatio vulnerum : une expression artistique de la Passion du Christ",
+            "body": "L’ostentatio vulnerum, signifiant « la monstration des plaies » en latin, trouve son origine dans un épisode biblique où l’apôtre Thomas réclame de toucher les blessures du Christ ressuscité pour croire. Ce thème est central dans l’iconographie chrétienne et vise à renforcer la foi des croyants en illustrant la souffrance et la résurrection de Jésus. Il s'inscrit également dans la dévotion aux Cinq Plaies, très présente dans la piété catholique populaire. Cette représentation symbolise la victoire sur la mort et le pouvoir salvifique du sacrifice du Christ, et elle est souvent associée aux images de l’Homme de douleurs et du Serviteur souffrant.",
+            "category": "Histoire et patrimoine",
+            "location": "Monde",
+            "image_description": "Photo d'un élément du mobilier classé Monument Historique dans l'église Notre-Dame-de-la-Nativité à Saverne, reconnu dans la base Palissy du ministère français de la Culture.",
+            "image_caption": "Illustration documentaire générale montrant un objet patrimonial de l’église Notre-Dame-de-la-Nativité à Saverne – Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/a3555476e19bded17a95faa2b46cb9a74d68a7652039a785dd1e55d04fc4b02d.jpg",
+            "image_credit": "© Ralph Hammann - Wikimedia Commons · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Saverne_NotreDameNativit%C3%A9_100.JPG",
+            "sources": [
+                {
+                    "label": "Wikipédia · Ostentatio vulnerum",
+                    "url": "https://fr.wikipedia.org/wiki/Ostentatio_vulnerum"
+                }
+            ],
+            "subject_id": "Q126306325",
+            "published_at": "2026-10-27",
+            "country": "Monde"
+        }
+    ]
+}

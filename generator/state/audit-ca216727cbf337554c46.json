@@ -1,0 +1,59 @@
+{
+    "schema_version": 1,
+    "articles": [
+        {
+            "id": "decouverte-879d34e4f107a39c5c28a85d",
+            "subject_id": "Q3179385",
+            "collected_at": "2026-10-27T03:31:33+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Azulejos",
+                    "url": "https://fr.wikipedia.org/wiki/Azulejos"
+                }
+            ],
+            "source_sha256": "6a3f40bfbb01a7c6141fc34eda03534b73eb7184007050d914b939f8b3864409",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Igreja_Paroquial_Cambra.jpg",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "original_sha1": "e95bdeac83228139b63ca14bbed22852daee1354",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-a167eb75affd47019660e942",
+            "subject_id": "Q10914152",
+            "collected_at": "2026-10-27T03:31:40+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Observatoire du Cerro Paranal",
+                    "url": "https://fr.wikipedia.org/wiki/Observatoire_du_Cerro_Paranal"
+                }
+            ],
+            "source_sha256": "802809e15705ee33eb172d004ed3c71f15557ddf39e177f42e9d88ab5b89f5c4",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:20041225-Paranal.jpg",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "original_sha1": "bd7883563805c4d775d24584e2efd3e961677dcc",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-d824d32a0b786860f45ecf86",
+            "subject_id": "Q126306325",
+            "collected_at": "2026-10-27T03:31:50+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Ostentatio vulnerum",
+                    "url": "https://fr.wikipedia.org/wiki/Ostentatio_vulnerum"
+                }
+            ],
+            "source_sha256": "2ded941e89c2754680067c9c7c3874f1566c6a983dc3a6829fcc5341ba3d7874",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Saverne_NotreDameNativit%C3%A9_100.JPG",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "original_sha1": "f5edf18553b5d871c277372a805b0f9933d60da5",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        }
+    ]
+}
