@@ -1,0 +1,23 @@
+{
+    "schema_version": 1,
+    "articles": [
+        {
+            "id": "decouverte-6c3a5c3edd7e9186318d8fd0",
+            "subject_id": "Q8332",
+            "collected_at": "2026-10-28T07:17:47+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Renard roux",
+                    "url": "https://fr.wikipedia.org/wiki/Renard_roux"
+                }
+            ],
+            "source_sha256": "5d30913302bf4758ef215f3b6becd0dbf7cfc495e133d6e293f7097512854c2a",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Portrait_of_a_red_fox_in_Rautas_fj%C3%A4llurskog.jpg",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "original_sha1": "ced4af07d3836b123791a77446d454e6dec242d0",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        }
+    ]
+}

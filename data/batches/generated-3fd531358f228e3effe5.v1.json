@@ -1,0 +1,29 @@
+{
+    "schema_version": 1,
+    "id": "generated-3fd531358f228e3effe5",
+    "version": "1",
+    "articles": [
+        {
+            "id": "decouverte-6c3a5c3edd7e9186318d8fd0",
+            "title": "Le renard roux, un canidé omniprésent et adaptable",
+            "body": "Le renard roux (Vulpes vulpes) est l'un des mammifères carnivores les plus répandus dans l'hémisphère nord, couvrant une vaste aire allant de l'Eurasie jusqu'à l'Amérique et s'étendant en Afrique du Nord. Cet animal de taille moyenne se distingue par son pelage roux caractéristique, son museau pointu et sa queue touffue. Opportuniste, son régime alimentaire varie selon les saisons : il consomme principalement des rongeurs, des lapins, mais aussi des insectes, des poissons et des fruits. La reproduction a lieu entre décembre et février, le renard s'occupant de ses petits dans un terrier, avant leur dispersion en automne. Adapte à divers milieux, il investit même les espaces urbains, s'alimentant dans les jardins et parcs. Sa présence est riche de symboles culturels, notamment dans les contes et fables, où il est souvent perçu comme rusé.",
+            "category": "Nature et animaux",
+            "location": "Monde",
+            "image_description": "Portrait d’un renard roux dans la réserve naturelle de Rautas fjällurskog en Suède.",
+            "image_caption": "Photo documentaire générale d'un renard roux dans la nature, Rautas fjällurskog, Suède.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/e927a74483815117ecc64598ec9eaf1dffd9be2ff5cf4f3f2f351c5ea2364a70.jpg",
+            "image_credit": "ClaudiaTen · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Portrait_of_a_red_fox_in_Rautas_fj%C3%A4llurskog.jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Renard roux",
+                    "url": "https://fr.wikipedia.org/wiki/Renard_roux"
+                }
+            ],
+            "subject_id": "Q8332",
+            "published_at": "2026-10-28",
+            "country": "Monde"
+        }
+    ]
+}
