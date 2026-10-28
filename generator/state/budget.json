@@ -202,17 +202,18 @@
             "month": "2026-10",
             "date": "2026-10-28",
             "mode": "daily",
-            "status": "reserved",
+            "status": "completed",
             "quota_date": "2026-10-28",
             "quota_timezone": "Europe/Paris",
             "count": 9,
             "max_calls": 54,
-            "calls": 0,
-            "charged_usd": 0,
-            "reserved_usd": 0.762394,
-            "input_tokens": 0,
-            "output_tokens": 0,
-            "config_sha256": "0d988c284109263678836c78b3776c2a7f83343488f67821426ca05f39f0d6ec"
+            "calls": 18,
+            "charged_usd": 0.021681200000000008,
+            "reserved_usd": 0.021682,
+            "input_tokens": 37343,
+            "output_tokens": 4215,
+            "config_sha256": "0d988c284109263678836c78b3776c2a7f83343488f67821426ca05f39f0d6ec",
+            "published_count": 9
         }
     }
 }

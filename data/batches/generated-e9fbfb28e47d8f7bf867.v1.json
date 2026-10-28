@@ -1,0 +1,205 @@
+{
+    "schema_version": 1,
+    "id": "generated-e9fbfb28e47d8f7bf867",
+    "version": "1",
+    "articles": [
+        {
+            "id": "decouverte-289c1ecc44a60d350dd4ee6e",
+            "title": "L'influence du bain-marie sur la texture des crèmes aux œufs",
+            "body": "La cuisson des crèmes aux œufs révèle l'importance d'un contrôle précis de la température. Lorsqu'on cuit ce dessert dans un bain-marie, la chaleur est diffuse et modérée, permettant aux protéines d'œuf de coaguler sans durcir. En comparaison, une crème cuite directement sur la plaque ou au four sans eau développe une texture caoutchouteuse, marquée par des trous et un léger écoulement de liquide. Cette différence résulte de la coagulation rapide et excessive des protéines sous haute température, un phénomène similaire à la cuisson d'un œuf dans une poêle trop chaude. L'usage du bain-marie évite donc un excès de chaleur directe. Un exemple visuel est un flan maison, typique de ce dessert cuit en bain-marie, où la surface reste lisse et homogène, attestant d'une cuisson douce et régulière.",
+            "category": "Gastronomie et traditions",
+            "location": "Monde",
+            "image_description": "Flan maison cuit au four illustrant une crème aux œufs.",
+            "image_caption": "Flan maison photographié pour illustrer une crème aux œufs, Wikimedia Commons, illustration documentaire générale.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/90828b4681816ed88959e9e8765d5b1fdf0a3ca87c89f875923763626286dbf3.jpg",
+            "image_credit": "Cary Bass · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 2.5 · https://creativecommons.org/licenses/by-sa/2.5/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Homemade_Flan.jpg",
+            "sources": [
+                {
+                    "label": "Exploratorium · Science of Cooking",
+                    "url": "https://annex.exploratorium.edu/cooking/eggs/gentle.html"
+                }
+            ],
+            "subject_id": "source-8680f55a3643fa5f56f34bebcf6c1da8",
+            "published_at": "2026-10-28",
+            "country": "Monde"
+        },
+        {
+            "id": "decouverte-26a421928f086170a0912f37",
+            "title": "Saint-Jean-Pied-de-Port : entre patrimoine basque et point de passage historique",
+            "body": "Située dans les Pyrénées-Atlantiques, Saint-Jean-Pied-de-Port est une commune française reconnue pour son rôle historique et sa position géographique stratégique. Nichée au pied du col de Roncevaux (altitude 1 057 m), elle marque une des étapes du célèbre pèlerinage de Saint-Jacques de Compostelle, accueillant environ 60 000 marcheurs chaque année. Ancienne capitale politique de la Basse-Navarre, la ville conserve un riche patrimoine architectural et culturel basque tout en étant un centre dynamique de la région Nouvelle-Aquitaine. Labellisée parmi Les Plus Beaux Villages de France, elle conjugue avec équilibre l’attractivité touristique et l’activité locale. Son emplacement au confluent de la Nive et du Laurhibar ajoute une dimension naturelle à ce site chargé d’histoire.",
+            "category": "Villages et villes",
+            "location": "Saint-Jean-Pied-de-Port, Pyrénées-Atlantiques, France",
+            "image_description": "Vue de la ville de Saint-Jean-Pied-de-Port dans les Pyrénées-Atlantiques, avec ses maisons traditionnelles et le relief environnant",
+            "image_caption": "Photographie générale de Saint-Jean-Pied-de-Port, illustration documentaire – Wikimedia Commons",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/8327ec0e31d577380b870f3d386453cf6eb1ea91d444f5f45b421bb900c4abf6.jpg",
+            "image_credit": "Hayden Soloviev · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Saint-Jean-Pied-de-Port.jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Saint-Jean-Pied-de-Port",
+                    "url": "https://fr.wikipedia.org/wiki/Saint-Jean-Pied-de-Port"
+                }
+            ],
+            "subject_id": "Q270294",
+            "published_at": "2026-10-28",
+            "country": "France"
+        },
+        {
+            "id": "decouverte-986655213bad8dbff2efd5cc",
+            "title": "Quelle est l'histoire du Jardin botanique de Bordeaux et son rôle actuel ?",
+            "body": "Fondé en 1629 sous le nom de « Jardin des plantes », le Jardin botanique de Bordeaux, situé en Gironde, possède une longue histoire liée à l’étude et à la conservation des plantes. Initialement dédié à la culture des simples médicinales, il a migré à plusieurs reprises avant de s’implanter en 1856 dans le jardin public, avec de grandes serres détruites en 1931. Depuis 2001, il occupe un site sur la rive droite de la Garonne. Aujourd’hui, il a pour mission de sensibiliser le public à la diversité végétale et à la gestion durable des ressources naturelles, en proposant un espace pédagogique, scientifique et récréatif. Il contribue ainsi à la conservation du patrimoine végétal et à l’éveil à la nature.",
+            "category": "Initiatives positives",
+            "location": "Bordeaux, France",
+            "image_description": "Entrée du Jardin Public vue depuis le Jardin botanique de Bordeaux, représentant une perspective sur un plan d'eau et des espaces verts.",
+            "image_caption": "Photographie du Jardin botanique de Bordeaux montrant l’aménagement du plan d’eau et la végétation environnante. Illustration générale, non liée à un événement spécifique.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/3a41fb1d9040b4e967d70b0a6c4e96c2ef169f08a5022ac6b613d64c87a5b001.jpg",
+            "image_credit": "DaveM93 · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Plan_d%27eau_-_Jardin_Botanique_de_Bordeaux.jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Jardin botanique de Bordeaux",
+                    "url": "https://fr.wikipedia.org/wiki/Jardin_botanique_de_Bordeaux"
+                }
+            ],
+            "subject_id": "Q3162390",
+            "published_at": "2026-10-28",
+            "country": "France"
+        },
+        {
+            "id": "decouverte-138f2a6f7e9ab42d9eda76e1",
+            "title": "Comment choisir une farine selon la texture désirée en pâtisserie et boulangerie ?",
+            "body": "La teneur en protéines de la farine influence directement la texture des préparations. Les farines riches en protéines, comme la farine de blé complet (13-14%) ou la farine spéciale pain de 13%, conviennent bien aux pains qui demandent un gluten solide. En revanche, pour des biscuits, gâteaux ou pâtisseries, on privilégie des farines à faible teneur protéique, comme la farine tout usage (9-13%) ou la farine pour gâteaux et pâtisseries (7-9%). Une farine instantanée, avec seulement 2% de protéines, est recommandée pour épaissir sauces ou sauces sans former de grumeaux, mais pas pour la pâtisserie. Ainsi, adapter le type de farine selon la teneur en protéine permet d'obtenir la texture adéquate du produit final, qu'il soit croustillant ou fondant.",
+            "category": "Gastronomie et traditions",
+            "location": "Monde",
+            "image_description": "Différents pains et produits de boulangerie exposés ensemble.",
+            "image_caption": "Photographie documentaire générale illustrant une variété de pains et produits de boulangerie – Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/2d9d466e518237be3819ba87e20541685b6b033c6f2a9cf09587d552c0c373bd.jpg",
+            "image_credit": "The original uploader was Klaus Höpfner at German Wikipedia. (Original text: Helge Höpfner) · Fotoarchiv Höpfner · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Assorted_bread.jpg",
+            "sources": [
+                {
+                    "label": "Exploratorium · Science of Bread",
+                    "url": "https://annex.exploratorium.edu/cooking/bread/flour.html"
+                }
+            ],
+            "subject_id": "source-454d0d004042e2155b4cd85fb21bb20d",
+            "published_at": "2026-10-28",
+            "country": "Monde"
+        },
+        {
+            "id": "decouverte-041cecd2ff4e11f67ce431cd",
+            "title": "Le Pont du Gard : pourquoi un pont à trois niveaux ?",
+            "body": "Le Pont du Gard, édifice romain remarquable datant du Ier siècle, présente une structure à trois niveaux qui lui confère sa grande robustesse. Cette conception permettait de soutenir le poids de l'aqueduc tout en franchissant le Gardon avec une hauteur suffisante pour le passage des eaux et des bateaux en contrebas. Le premier niveau comporte de grandes arches solides, surmontées d'un second étage aux arches légèrement plus petites, tandis que le troisième niveau supportait le conduit de l'aqueduc. Cette hiérarchie architecturale combinait solidité et fonctionnalité hydraulique. Dès le Moyen Âge, les arches du second niveau furent aménagées pour permettre aussi le passage routier. Classé monument historique en 1840 et inscrit au patrimoine mondial de l'Unesco dès 1985, il reste un témoignage exceptionnel du génie technique romain.",
+            "category": "Histoire et patrimoine",
+            "location": "Vers-Pont-du-Gard, France",
+            "image_description": "Photographie du Pont du Gard, aqueduc romain à trois niveaux situé à Vers-Pont-du-Gard dans le Gard, France.",
+            "image_caption": "Pont du Gard, commune de Vers-Pont-du-Gard, Gard, France. Site classé au patrimoine mondial de l’Unesco. Photographie documentaire générale – Krzysztof Golik, Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/d680f6a8d52ef1c4c05b2c97ffe638cc8e71accd406a4585166f2680cf7c2e40.jpg",
+            "image_credit": "Krzysztof Golik · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Pont_du_Gard_(30).jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Pont du Gard",
+                    "url": "https://fr.wikipedia.org/wiki/Pont_du_Gard"
+                }
+            ],
+            "subject_id": "Q189764",
+            "published_at": "2026-10-28",
+            "country": "France"
+        },
+        {
+            "id": "decouverte-d121290b81ea86dfb61e3404",
+            "title": "Óbidos : une forteresse médiévale qui a traversé les siècles préservée au Portugal",
+            "body": "Située dans le district de Leiria, à 80 km au nord de Lisbonne, Óbidos est une ville portugaise réputée pour ses remparts remarquablement conservés. Son nom provient du latin « Oppidum », signifiant « ville fortifiée », rappelant son rôle stratégique depuis l'époque romaine. L'urbanisme d'Óbidos a peu évolué depuis le début de l'époque moderne. Le comblement d'un ancien golfe marin a isolé la ville du littoral, ne laissant plus qu'une lagune à proximité. Les murailles actuelles résultent d'aménagements médiévaux et de restaurations ultérieures, notamment après le séisme de 1755. Ces remparts ont protégé la cité durant plusieurs siècles, témoignant de l'importance stratégique et historique d'Óbidos dans la région.",
+            "category": "Villages et villes",
+            "location": "Óbidos, Portugal",
+            "image_description": "Vue panoramique des remparts et de la ville fortifiée d'Óbidos avec ses toits rouges sous un ciel dégagé.",
+            "image_caption": "Illustration générale de la ville médiévale fortifiée d'Óbidos au Portugal, Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/d350c4f0a6ba7d5d381f66220f1ff5b7e72e4e6e52ddb5c0b687cd09f3b5afe2.jpg",
+            "image_credit": "Lacobrigo · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:%C3%93bidos_view592.jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Óbidos",
+                    "url": "https://fr.wikipedia.org/wiki/%C3%93bidos"
+                }
+            ],
+            "subject_id": "Q275862",
+            "published_at": "2026-10-28",
+            "country": "Portugal"
+        },
+        {
+            "id": "decouverte-6a7fdbadb2722b19d0381b05",
+            "title": "À quelle altitude se situe l’observatoire du Pic du Midi et quels en sont les usages principaux ?",
+            "body": "L’observatoire du Pic du Midi se trouve au sommet du pic du Midi de Bigorre, à une altitude de 2 880 mètres, dans les Hautes-Pyrénées en France. Depuis sa création en 1881, il a d’abord été dédié à la météorologie avant de se tourner principalement vers l’astronomie. Il est célèbre pour les avancées pionnières réalisées dans l’étude du Soleil, notamment dans le développement de la coronographie. Aujourd’hui, l’observatoire poursuit des recherches scientifiques en astronomie tout en offrant un accès au grand public et aux astronomes amateurs, participant ainsi à la valorisation du tourisme scientifique en montagne. Il est rattaché à l’université Toulouse-III-Paul-Sabatier via l’observatoire Midi-Pyrénées.",
+            "category": "Sciences",
+            "location": "Pic du Midi de Bigorre, France",
+            "image_description": "Photographie de l’observatoire situé au sommet du Pic du Midi de Bigorre, prise depuis le sommet de la télécabine du Pourteilh dans la station de ski de La Mongie.",
+            "image_caption": "Le bâtiment de l’observatoire astronimique sur le Pic du Midi de Bigorre, pris en mars 2006. Illustration documentaire générale.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/e25975834c23900fc164075e73a9a7bc687db63834775185d5772d2598b491c4.jpg",
+            "image_credit": "Photo taken by Christophe Jacquet on 16 March 2006. · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 2.5 · https://creativecommons.org/licenses/by-sa/2.5/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Pic_du_Midi_de_Bigorre_Observatory.jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Observatoire du Pic du Midi",
+                    "url": "https://fr.wikipedia.org/wiki/Observatoire_du_Pic_du_Midi"
+                }
+            ],
+            "subject_id": "Q4329986",
+            "published_at": "2026-10-28",
+            "country": "France"
+        },
+        {
+            "id": "decouverte-843fe2d151762458cc8b8d4c",
+            "title": "Aveiro : l’évolution d’un ancien port maritime au Portugal",
+            "body": "Aveiro est une ville côtière dans la région Centre du Portugal, avec une population de près de 81 000 habitants en 2021. Historiquement, Aveiro était un port maritime actif aux XVe et XVIe siècles, réputé pour la pêche à la morue. Toutefois, en 1575, une tempête majeure a provoqué l’ensablement de sa lagune, conduisant à la fermeture du port. Ce phénomène naturel a transformé l’activité économique et le paysage local, forçant la ville à s’adapter à ces changements. Aujourd’hui, Aveiro reste une place importante de la région, situé dans un district parmi les plus peuplés du pays. Le vestige de son passé maritime se lit dans sa géographie et son histoire urbaine.",
+            "category": "Villages et villes",
+            "location": "Aveiro, Portugal",
+            "image_description": "Phare d’Aveiro situé sur la côte ouest du Portugal en mars 2012",
+            "image_caption": "Phare d’Aveiro sur la côte ouest portugaise. Photo Wikimedia Commons, illustration documentaire générale.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/91282f8a03cf59830105a0ff2b862115effc802c3eafd65ee99a40d7ca89d33a.jpg",
+            "image_credit": "Alvesgaspar · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Aveiro_March_2012-12.jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Aveiro",
+                    "url": "https://fr.wikipedia.org/wiki/Aveiro"
+                }
+            ],
+            "subject_id": "Q485581",
+            "published_at": "2026-10-28",
+            "country": "Portugal"
+        },
+        {
+            "id": "decouverte-ee27ecc864077edd2810e22a",
+            "title": "L’Énhydre marine et la Loutre féline : deux mammifères liés à la mer",
+            "body": "Les termes « loutre de mer » et « loutre marine » peuvent désigner deux espèces distinctes, toutes deux adaptées à la vie proche de l’eau salée. L’Énhydre marine (Enhydra lutris) se distingue par son mode de vie presque entièrement aquatique, avec un physique qui la rapproche davantage des phoques ou des otaries que des autres loutres. Elle est le seul membre du genre Enhydra. La Loutre féline (Lontra felina), quant à elle, vit exclusivement sur la côte ouest de l’Amérique du Sud. Bien que certains spécialistes emploient ces termes pour différencier précisément ces espèces, cette distinction reste discutée. Un fait marquant : l’Énhydre marine utilise souvent des algues qu’elle enroule autour d’elle pour rester en place lorsqu’elle dort dans l’eau.",
+            "category": "Nature et animaux",
+            "location": "Monde",
+            "image_description": "Un énhydre marine (Enhydra lutris) observé face à la caméra, reposant dans un groupe et enroulé dans des algues géantes.",
+            "image_caption": "California Sea Otter (Enhydra lutris) resting in a colony of a dozen sea otters and wrapped in kelp, illustration générale documentaire, Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/032263115561fc17ae017096a6766a8b65ea4c4a6d84ec08a63096f209693cd0.jpg",
+            "image_credit": "mikebaird · https://www.flickr.com/photos/mikebaird/4665154467/ · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY 2.0 · https://creativecommons.org/licenses/by/2.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Enhydra_lutris_face.jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Loutre de mer",
+                    "url": "https://fr.wikipedia.org/wiki/Loutre_de_mer"
+                }
+            ],
+            "subject_id": "frwiki-17403354",
+            "published_at": "2026-10-28",
+            "country": "Monde"
+        }
+    ]
+}

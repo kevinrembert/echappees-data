@@ -1,0 +1,167 @@
+{
+    "schema_version": 1,
+    "articles": [
+        {
+            "id": "decouverte-289c1ecc44a60d350dd4ee6e",
+            "subject_id": "source-8680f55a3643fa5f56f34bebcf6c1da8",
+            "collected_at": "2026-10-28T07:43:22+00:00",
+            "sources": [
+                {
+                    "label": "Exploratorium · Science of Cooking",
+                    "url": "https://annex.exploratorium.edu/cooking/eggs/gentle.html"
+                }
+            ],
+            "source_sha256": "990951946480bbc4d914ffd66d77eca034e75350cd9d8ed62d3594b085b6eca3",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Homemade_Flan.jpg",
+            "image_license": "CC BY-SA 2.5 · https://creativecommons.org/licenses/by-sa/2.5/",
+            "original_sha1": "929c428b13c608635cbe7b1a34832aa5614a2844",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-26a421928f086170a0912f37",
+            "subject_id": "Q270294",
+            "collected_at": "2026-10-28T07:43:27+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Saint-Jean-Pied-de-Port",
+                    "url": "https://fr.wikipedia.org/wiki/Saint-Jean-Pied-de-Port"
+                }
+            ],
+            "source_sha256": "e1a47ad60b3124d5d7cf523f7055bec98cdb1c75eb7a874b34991402c480daea",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Saint-Jean-Pied-de-Port.jpg",
+            "image_license": "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/",
+            "original_sha1": "3523d5355939ff2348dbb5a35252d2deecbd508a",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-986655213bad8dbff2efd5cc",
+            "subject_id": "Q3162390",
+            "collected_at": "2026-10-28T07:43:32+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Jardin botanique de Bordeaux",
+                    "url": "https://fr.wikipedia.org/wiki/Jardin_botanique_de_Bordeaux"
+                }
+            ],
+            "source_sha256": "38ce24f704dbadce581be26141b12834ac488ce8d2f1d95fdcf72be9d42282b2",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Plan_d%27eau_-_Jardin_Botanique_de_Bordeaux.jpg",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "original_sha1": "3fcf5780db283c1fcb18507c099fd87d9f624b98",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-138f2a6f7e9ab42d9eda76e1",
+            "subject_id": "source-454d0d004042e2155b4cd85fb21bb20d",
+            "collected_at": "2026-10-28T07:43:38+00:00",
+            "sources": [
+                {
+                    "label": "Exploratorium · Science of Bread",
+                    "url": "https://annex.exploratorium.edu/cooking/bread/flour.html"
+                }
+            ],
+            "source_sha256": "ee37c844f50fec466157531b47b85ecbda192ecd1cbaffdae85bd69cdc143277",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Assorted_bread.jpg",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "original_sha1": "c1672743c50ae2333f1da052a73bf42f3e3687c7",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-041cecd2ff4e11f67ce431cd",
+            "subject_id": "Q189764",
+            "collected_at": "2026-10-28T07:43:42+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Pont du Gard",
+                    "url": "https://fr.wikipedia.org/wiki/Pont_du_Gard"
+                }
+            ],
+            "source_sha256": "7877dfe1d34f73688ddf6b60683b33d8d74ce539751b22d316816e6afd3bcf38",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Pont_du_Gard_(30).jpg",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "original_sha1": "fc6e6de6006905201cba8f658340e314c03bdc35",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-d121290b81ea86dfb61e3404",
+            "subject_id": "Q275862",
+            "collected_at": "2026-10-28T07:43:49+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Óbidos",
+                    "url": "https://fr.wikipedia.org/wiki/%C3%93bidos"
+                }
+            ],
+            "source_sha256": "739575d470af03ca1445f72abd3085709b0731c033cd568e9f5b01fdf3cd5cc2",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:%C3%93bidos_view592.jpg",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "original_sha1": "6e213501234ae963e71d5b8459f382a33318ab11",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-6a7fdbadb2722b19d0381b05",
+            "subject_id": "Q4329986",
+            "collected_at": "2026-10-28T07:43:54+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Observatoire du Pic du Midi",
+                    "url": "https://fr.wikipedia.org/wiki/Observatoire_du_Pic_du_Midi"
+                }
+            ],
+            "source_sha256": "7d3d7b58f58b7f04e1793975d02e58c6bda6cf05a1e887848bbc9f598021f4ce",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Pic_du_Midi_de_Bigorre_Observatory.jpg",
+            "image_license": "CC BY-SA 2.5 · https://creativecommons.org/licenses/by-sa/2.5/",
+            "original_sha1": "1a99466db7ab8e427c36b83fc012b1fd4b8e0244",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-843fe2d151762458cc8b8d4c",
+            "subject_id": "Q485581",
+            "collected_at": "2026-10-28T07:44:02+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Aveiro",
+                    "url": "https://fr.wikipedia.org/wiki/Aveiro"
+                }
+            ],
+            "source_sha256": "ccc73251013a02bf2a5a0d847c4a0b5416656350dbb0033272324424e1aeb155",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Aveiro_March_2012-12.jpg",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "original_sha1": "47363a05a64c04c9cb720fc9805eb068279712a5",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-ee27ecc864077edd2810e22a",
+            "subject_id": "frwiki-17403354",
+            "collected_at": "2026-10-28T07:44:07+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Loutre de mer",
+                    "url": "https://fr.wikipedia.org/wiki/Loutre_de_mer"
+                }
+            ],
+            "source_sha256": "f6198fd184ae4f30986defb44a32c436bf839c3bed2e17ef04f777de26a2eea3",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Enhydra_lutris_face.jpg",
+            "image_license": "CC BY 2.0 · https://creativecommons.org/licenses/by/2.0/",
+            "original_sha1": "2de3dc88798c6a93767d103ccbc91f4a0e3d7481",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        }
+    ]
+}
