@@ -36,8 +36,11 @@ final class Generator {
                 foreach ($groups as &$group) if ($group !== []) $topics[] = array_shift($group);
                 unset($group);
             }
-            $knownTitles = array_map(static fn(array $a): string => $a['title'], array_values($catalog->articles));
-            $openings = array_map(static fn(array $a): string => mb_substr($a['body'], 0, 160), array_values($catalog->articles));
+            // Les lots sont listés du plus récent au plus ancien : remettre les
+            // précédents textes dans l'autre sens pour garder les plus récents en fin.
+            $history = array_reverse(array_values($catalog->articles));
+            $knownTitles = array_map(static fn(array $a): string => $a['title'], $history);
+            $openings = array_map(static fn(array $a): string => mb_substr($a['body'], 0, 160), $history);
             $usedTitles = array_fill_keys(['ainhoa', 'porto', 'machu picchu', 'récif corallien', 'glacier'], true);
             $deadline = time() + 1200; $attempts = 0; $round = 0; $tried = [];
             for ($cursor = 0; count($articles) < $entry['count'] && $attempts < 180 && time() < $deadline; $cursor++) {

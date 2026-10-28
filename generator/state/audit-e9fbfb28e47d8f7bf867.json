@@ -89,7 +89,21 @@
             "original_sha1": "fc6e6de6006905201cba8f658340e314c03bdc35",
             "model": "gpt-4.1-mini",
             "review": "automated-approved",
-            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82.",
+            "correction": {
+                "date": "2026-10-28",
+                "review": "Comparaison des faits avec la source UNESCO ; retrait des causalités non étayées.",
+                "sources": [
+                    {
+                        "label": "Wikipédia · Pont du Gard",
+                        "url": "https://fr.wikipedia.org/wiki/Pont_du_Gard"
+                    },
+                    {
+                        "label": "UNESCO · Pont du Gard",
+                        "url": "https://whc.unesco.org/en/list/344/"
+                    }
+                ]
+            }
         },
         {
             "id": "decouverte-d121290b81ea86dfb61e3404",

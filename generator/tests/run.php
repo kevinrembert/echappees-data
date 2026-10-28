@@ -57,6 +57,7 @@ final class FakeHttp implements Transport {
     public bool $distinct = false;
     public bool $discoveryUnavailable = false;
     public bool $wikiUnavailable = false;
+    public bool $badEvidence = false;
     public function request(string $url, ?array $payload = null, ?string $token = null, int $maxBytes = 4194304): array {
         global $sourceRoot;
         if ($payload !== null) {
@@ -66,6 +67,7 @@ final class FakeHttp implements Transport {
             if ($payload['text']['format']['name'] === 'echappees_article') {
                 $article = jsonFile($sourceRoot . '/data/batches/demo-a.v2.json')['articles'][1];
                 $value = array_intersect_key($article, array_flip(['title', 'body', 'category', 'location', 'image_description', 'image_caption']));
+                $value['body'] = json_decode($payload['input'], true)['document']['wiki_title'] . '. ' . $value['body'];
                 $value['title'] = 'Une découverte documentaire de test';
                 if ($this->distinct) $value['title'] = 'Article sur ' . json_decode($payload['input'], true)['document']['wiki_title'];
                 $value['category'] = 'Voyages et paysages'; $value['suitable'] = true;
@@ -77,6 +79,10 @@ final class FakeHttp implements Transport {
             } else {
                 $value = array_fill_keys(['approved', 'supported_facts', 'french', 'positive', 'photo_honest', 'not_duplicate'], $this->approve);
                 $value['reason'] = 'Fixture uniquement.';
+                $input = json_decode($payload['input'], true);
+                $quote = mb_substr($input['source']['excerpt'], 0, 80);
+                $value['evidence'] = array_map(fn($sentence)=>['claim'=>$sentence, 'quote'=>$this->badEvidence ? 'Citation absente des sources de fixture' : $quote],
+                    preg_split('/(?<=[.!?])\s+/u', trim($input['draft']['body']), -1, PREG_SPLIT_NO_EMPTY));
             }
             return ['body'=>json_encode(['status'=>'completed', 'usage'=>['input_tokens'=>1000, 'output_tokens'=>300],
                 'output'=>[['content'=>[['type'=>'output_text', 'text'=>json_encode($value, JSON_THROW_ON_ERROR)]]]]], JSON_THROW_ON_ERROR), 'type'=>'application/json'];
@@ -353,6 +359,11 @@ try {
         ensure($source['kind'] === 'culinary' && $source['sources'][0]['url'] === 'https://www.inrae.fr/fixture', 'Source primaire perdue.');
         ensure(!array_filter($http->gets, static fn($url)=>str_contains($url, 'fr.wikipedia.org')) && $http->calls === 0, 'Dépendance Wikipédia ou appel rédactionnel en collecte.');
         rejects(fn()=>(new Sources($http, config($root)))->collect(['wiki_title'=>'Invalide', 'source_url'=>'https://evil.invalid/recipe']));
+    });
+    test('Une revue approuvée avec une citation inventée ne publie pas l’article', function (): void {
+        [$root, $c, $b, $http] = prepared(); $http->badEvidence = true;
+        $report = (new Generator($root, $c, $http, $b))->run('100', 'fixture-only-not-a-secret');
+        ensure($report['published'] === 0, 'Une citation non vérifiable a été acceptée.');
     });
 } finally {
     putenv('GITHUB_ACTIONS'); putenv('GENERATION_ENABLED');
