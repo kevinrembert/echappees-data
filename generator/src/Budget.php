@@ -20,7 +20,7 @@ final class Budget {
             ensure(is_numeric($item['reserved_usd'] ?? null) && $item['reserved_usd'] >= 0, 'Réservation invalide.');
             if ($item['month'] === $month) $spent += $item['reserved_usd'];
         }
-        $calls = min($count * 2, $this->config['max_api_calls']);
+        $calls = $this->plannedCalls($count);
         $reserved = ceil($calls * $this->worstCall() * 1000000) / 1000000;
         ensure($count > 0 && $calls >= 2 && $reserved <= $this->config['run_budget_usd'] && $spent + $reserved <= $this->config['monthly_budget_usd'], 'Plafond de budget atteint.');
         $this->ledger['runs'][$run] = ['month'=>$month, 'date'=>gmdate('Y-m-d'), 'mode'=>$mode, 'status'=>'reserved',
@@ -28,6 +28,9 @@ final class Budget {
             'count'=>$count, 'max_calls'=>$calls, 'calls'=>0, 'charged_usd'=>0.0, 'reserved_usd'=>$reserved,
             'input_tokens'=>0, 'output_tokens'=>0, 'config_sha256'=>hash('sha256', json_encode($this->config, JSON_THROW_ON_ERROR))];
         $this->save(); return true;
+    }
+    public function plannedCalls(int $count): int {
+        return min($count * 6, $this->config['max_api_calls']);
     }
     public function entry(string $run): array { ensure(isset($this->ledger['runs'][$run]), 'Réservation préalable obligatoire.'); return $this->ledger['runs'][$run]; }
     public function start(string $run): void {

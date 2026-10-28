@@ -104,12 +104,13 @@ interface Transport {
 }
 
 final class Http implements Transport {
-    private const HOSTS = ['fr.wikipedia.org', 'commons.wikimedia.org', 'upload.wikimedia.org', 'thumb.wikimedia.org', 'www.nasa.gov', 'www.esa.int', 'www.cnrs.fr', 'api.openai.com'];
+    public const EDITORIAL_HOSTS = ['www.nasa.gov', 'www.esa.int', 'www.cnrs.fr', 'www.inrae.fr', 'icmpg.hub.inrae.fr', 'www.anses.fr', 'www.mangerbouger.fr', 'whc.unesco.org', 'www.kew.org', 'www.nhm.ac.uk', 'www.nps.gov', 'oceanservice.noaa.gov', 'www.exploratorium.edu', 'annex.exploratorium.edu', 'www.seriouseats.com'];
+    private const HOSTS = ['fr.wikipedia.org', 'commons.wikimedia.org', 'upload.wikimedia.org', 'thumb.wikimedia.org', 'api.openai.com', ...self::EDITORIAL_HOSTS];
     public function __construct(private readonly string $contact) {}
     public function request(string $url, ?array $payload = null, ?string $token = null, int $maxBytes = 4194304): array {
         https($url, self::HOSTS);
         ensure($token === null || $url === 'https://api.openai.com/v1/responses', 'Destination du secret invalide.');
-        $headers = ['Accept: application/json', 'User-Agent: EchappeesContent/1.0 (' . $this->contact . ')'];
+        $headers = ['Accept: application/json, text/html, application/rss+xml, application/xml', 'User-Agent: EchappeesContent/1.0 (' . $this->contact . ')'];
         if ($payload !== null) $headers[] = 'Content-Type: application/json';
         if ($token !== null) $headers[] = 'Authorization: Bearer ' . $token;
         $attempts = $payload === null ? 3 : 1; // Un POST incertain n'est jamais rejoué.
@@ -132,7 +133,7 @@ final class Http implements Transport {
             if ($tooLarge || $attempt + 1 === $attempts || !($status === 429 || $status >= 500 || $status === 0)) {
                 throw new RemoteFailure($payload !== null, $status, $body, (string)parse_url($url, PHP_URL_HOST));
             }
-            usleep(250000 * ($attempt + 1));
+            usleep(1000000 * (2 ** $attempt));
         }
         throw new RuntimeException('Requête impossible.');
     }

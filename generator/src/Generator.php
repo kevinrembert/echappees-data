@@ -27,26 +27,40 @@ final class Generator {
         try {
             $recent = jsonFile($this->root . '/generator/recent.json');
             try { $recent = [...$recent, ...$sources->recent()]; } catch (\Throwable) { echo "Flux récent indisponible : poursuite avec les sources disponibles.\n"; }
-            $topics = [...$recent, ...jsonFile($this->root . '/generator/topics.json')];
+            $externalFile = $this->root . '/generator/editorial-topics.json';
+            $topics = [...(is_file($externalFile) ? jsonFile($externalFile) : []), ...$recent, ...jsonFile($this->root . '/generator/topics.json')];
+            $groups = [];
+            foreach ($topics as $topic) $groups[$topic['category'] ?? 'Divers'][] = $topic;
+            $topics = [];
+            while (array_filter($groups)) {
+                foreach ($groups as &$group) if ($group !== []) $topics[] = array_shift($group);
+                unset($group);
+            }
             $knownTitles = array_map(static fn(array $a): string => $a['title'], array_values($catalog->articles));
+            $openings = array_map(static fn(array $a): string => mb_substr($a['body'], 0, 160), array_values($catalog->articles));
             $usedTitles = array_fill_keys(['ainhoa', 'porto', 'machu picchu', 'récif corallien', 'glacier'], true);
-            $deadline = time() + 1200; $attempts = 0; $discovered = false;
-            for ($cursor = 0; count($articles) < $entry['count'] && $attempts < 80 && time() < $deadline; $cursor++) {
+            $deadline = time() + 1200; $attempts = 0; $round = 0; $tried = [];
+            for ($cursor = 0; count($articles) < $entry['count'] && $attempts < 180 && time() < $deadline; $cursor++) {
                 if (!isset($topics[$cursor])) {
-                    if ($discovered) break;
-                    $topics = [...$topics, ...$sources->discover()]; $discovered = true;
-                    if (!isset($topics[$cursor])) break;
+                    if ($round >= 14) break;
+                    $batchRound = $round++;
+                    try { $fresh = $sources->discover($batchRound); }
+                    catch (\Throwable) { echo "Recherche de candidats indisponible : autre thème.\n"; $cursor--; continue; }
+                    $topics = [...$topics, ...$fresh];
+                    if (!isset($topics[$cursor])) { $cursor--; continue; }
                 }
-                if ($this->budget->entry($run)['calls'] >= $entry['max_calls']) break;
-                $topic = $topics[$cursor]; $titleKey = fingerprint($topic['wiki_title'] ?? '');
+                if ($this->budget->entry($run)['calls'] + 2 > $entry['max_calls']) break;
+                $topic = $topics[$cursor]; $titleKey = fingerprint($topic['topic_key'] ?? $topic['wiki_title'] ?? '');
                 if ($titleKey === '' || isset($usedTitles[$titleKey]) || isset($state['subjects']['title:' . $titleKey])) continue;
-                if (($state['failed'][$titleKey] ?? '') >= gmdate('Y-m-d', time() - 7 * 86400)) continue;
+                if (isset($tried[$titleKey])) continue;
+                if (($state['failed'][$titleKey] ?? '') >= gmdate('Y-m-d')) continue;
+                $tried[$titleKey] = true;
                 $attempts++;
                 try {
                     $source = $sources->collect($topic);
                     $id = 'decouverte-' . substr(hash('sha256', $source['subject_id']), 0, 24);
                     if (isset($state['subjects'][$source['subject_id']]) || isset($catalog->subjects[$source['subject_id']]) || isset($catalog->articles[$id])) continue;
-                    $draft = $writer->write($source, $knownTitles);
+                    $draft = $writer->write($source, $knownTitles, $openings);
                     ensure(!isset($catalog->titles[fingerprint($draft['title'])]) && !in_array(fingerprint($draft['title']), array_map(__NAMESPACE__ . '\\fingerprint', $knownTitles), true), 'Titre déjà publié.');
                     $photoUrl = $this->saveImage($source['photo']);
                     $article = ['id'=>$id, ...$draft, 'image_url'=>$photoUrl, 'image_credit'=>$source['photo']['credit'],
@@ -55,6 +69,7 @@ final class Generator {
                     if ($source['kind'] === 'recent') $article['source_published_at'] = $source['source_published_at'];
                     Catalog::validateArticle($article);
                     $articles[] = $article; $knownTitles[] = $article['title'];
+                    $openings[] = mb_substr($article['body'], 0, 160);
                     $state['subjects'][$source['subject_id']] = $id; $state['subjects']['title:' . $titleKey] = $id;
                     $usedTitles[$titleKey] = true;
                     $audit[] = ['id'=>$id, 'subject_id'=>$source['subject_id'], 'collected_at'=>gmdate(DATE_ATOM),
@@ -64,7 +79,9 @@ final class Generator {
                         'review'=>'automated-approved', 'modifications'=>'Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82.'];
                 } catch (\Throwable $error) {
                     if ($error instanceof RemoteFailure && $error->paidPost) throw $error;
-                    $skipped++; $state['failed'][$titleKey] = gmdate('Y-m-d');
+                    $skipped++;
+                    // Une panne du fournisseur ne condamne pas un sujet pendant 7 jours.
+                    if (!$error instanceof RemoteFailure) $state['failed'][$titleKey] = gmdate('Y-m-d');
                     // Ne jamais afficher les corps de réponse API ou les exceptions de transport contenant des données distantes.
                     echo 'Candidat écarté (' . $attempts . ') : ' . ($error instanceof \RuntimeException ? $error->getMessage() : 'données invalides.') . "\n";
                 }

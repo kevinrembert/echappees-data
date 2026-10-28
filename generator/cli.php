@@ -32,7 +32,7 @@ try {
     if ($command === 'plan') {
         echo json_encode(['mode'=>'daily', 'current'=>count($catalog->articles), 'daily_count'=>$config['daily_count'], 'quota_timezone'=>$config['timezone'] ?? 'UTC',
             'quota_date'=>Echappees\quotaDate($config),
-            'next_maximum'=>$count, 'worst_run_usd'=>round($count * 2 * $budget->worstCall(), 6),
+            'next_maximum'=>$count, 'worst_run_usd'=>round($budget->plannedCalls($count) * $budget->worstCall(), 6),
             'monthly_budget_usd'=>$config['monthly_budget_usd'], 'enabled'=>$config['enabled'] && getenv('GENERATION_ENABLED') === 'true'], JSON_PRETTY_PRINT) . "\n";
         exit(0);
     }
@@ -49,6 +49,9 @@ try {
         if ($entry['status'] !== 'reserved') { echo "Exécution déjà traitée : aucun appel rejoué.\n"; exit(0); }
         $report = $generator->run($run, getenv('OPENAI_API_KEY') ?: '');
         echo json_encode($report, JSON_UNESCAPED_UNICODE | JSON_THROW_ON_ERROR) . "\n";
+        if ($report['published'] < $report['target']) {
+            echo '::warning title=Quota quotidien incomplet::' . $report['published'] . '/' . $report['target'] . ' articles validés ; vérifier les motifs de rejet et la disponibilité des sources.' . "\n";
+        }
     }
 } catch (Throwable $error) {
     // Messages locaux uniquement ; les réponses HTTP et secrets ne sont pas journalisés.

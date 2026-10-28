@@ -48,9 +48,15 @@ final class FakeHttp implements Transport {
     public int $calls = 0;
     public bool $approve = true;
     public bool $badDraft = false;
+    public int $badDrafts = 0;
     public bool $timeout = false;
     public bool $recent = false;
     public array $payloads = [];
+    public array $gets = [];
+    public array $searchPages = [];
+    public bool $distinct = false;
+    public bool $discoveryUnavailable = false;
+    public bool $wikiUnavailable = false;
     public function request(string $url, ?array $payload = null, ?string $token = null, int $maxBytes = 4194304): array {
         global $sourceRoot;
         if ($payload !== null) {
@@ -61,12 +67,13 @@ final class FakeHttp implements Transport {
                 $article = jsonFile($sourceRoot . '/data/batches/demo-a.v2.json')['articles'][1];
                 $value = array_intersect_key($article, array_flip(['title', 'body', 'category', 'location', 'image_description', 'image_caption']));
                 $value['title'] = 'Une découverte documentaire de test';
+                if ($this->distinct) $value['title'] = 'Article sur ' . json_decode($payload['input'], true)['document']['wiki_title'];
                 $value['category'] = 'Voyages et paysages'; $value['suitable'] = true;
                 if ($this->recent) {
                     $value['body'] .= ' Ce texte de test cite un communiqué publié le ' . gmdate('Y-m-d') . '.';
                     $value['image_caption'] = 'Illustration documentaire générale de Porto.';
                 }
-                if ($this->badDraft) $value['body'] = 'Texte trop court.';
+                if ($this->badDraft || $this->badDrafts-- > 0) $value['body'] = 'Texte trop court.';
             } else {
                 $value = array_fill_keys(['approved', 'supported_facts', 'french', 'positive', 'photo_honest', 'not_duplicate'], $this->approve);
                 $value['reason'] = 'Fixture uniquement.';
@@ -74,13 +81,21 @@ final class FakeHttp implements Transport {
             return ['body'=>json_encode(['status'=>'completed', 'usage'=>['input_tokens'=>1000, 'output_tokens'=>300],
                 'output'=>[['content'=>[['type'=>'output_text', 'text'=>json_encode($value, JSON_THROW_ON_ERROR)]]]]], JSON_THROW_ON_ERROR), 'type'=>'application/json'];
         }
-        if ($url === 'https://www.nasa.gov/fixture') return ['body'=>'<html><head><meta property="article:published_time" content="' . gmdate('Y-m-d') . 'T00:00:00Z"></head><body><article>' . jsonFile($sourceRoot . '/data/batches/demo-a.v2.json')['articles'][1]['body'] . '</article></body></html>', 'type'=>'text/html'];
+        $this->gets[] = $url;
+        if ($url === 'https://www.nasa.gov/fixture' || $url === 'https://www.inrae.fr/fixture') return ['body'=>'<html><head><meta property="article:published_time" content="' . gmdate('Y-m-d') . 'T00:00:00Z"></head><body><article>' . jsonFile($sourceRoot . '/data/batches/demo-a.v2.json')['articles'][1]['body'] . '</article></body></html>', 'type'=>'text/html'];
         if ($url === 'https://www.nasa.gov/news-release/feed/') return ['body'=>'<rss><channel/></rss>', 'type'=>'application/rss+xml'];
         if (str_starts_with($url, 'https://upload.wikimedia.org/')) return ['body'=>file_get_contents($sourceRoot . '/data/images/porto.jpg'), 'type'=>'image/jpeg'];
         $host = parse_url($url, PHP_URL_HOST);
+        parse_str(parse_url($url, PHP_URL_QUERY) ?? '', $query);
+        if ($this->wikiUnavailable && $host === 'fr.wikipedia.org') throw new Echappees\RemoteFailure(false, 503);
+        if (($query['list'] ?? '') === 'search' || $host === 'whc.unesco.org') {
+            if ($this->discoveryUnavailable) throw new Echappees\RemoteFailure(false, 503);
+            if ($host === 'whc.unesco.org') return ['body'=>'<html><body>Aucun candidat dans cet index de fixture.</body></html>', 'type'=>'text/html'];
+            return ['body'=>json_encode(['query'=>['search'=>array_shift($this->searchPages) ?? []]]), 'type'=>'application/json'];
+        }
         $value = $host === 'commons.wikimedia.org'
             ? ['query'=>['pages'=>[['imageinfo'=>[photoInfo()]]]]]
-            : ['query'=>['pages'=>[['pageid'=>123456, 'pageprops'=>['wikibase_item'=>'Q123456'], 'title'=>'Sujet de test',
+            : ['query'=>['pages'=>[['pageid'=>123456, 'pageprops'=>['wikibase_item'=>$this->distinct ? 'Q' . sprintf('%u', crc32($query['titles'] ?? 'Fixture')) : 'Q123456'], 'title'=>$this->distinct ? ($query['titles'] ?? 'Sujet de test') : 'Sujet de test',
                 'extract'=>jsonFile($sourceRoot . '/data/batches/demo-a.v2.json')['articles'][1]['body'],
                 'fullurl'=>'https://fr.wikipedia.org/wiki/Fixture', 'pageimage'=>'Fixture.jpg']]]];
         return ['body'=>json_encode($value, JSON_THROW_ON_ERROR), 'type'=>'application/json'];
@@ -132,7 +147,7 @@ try {
     test('Les plafonds par exécution et mensuel empêchent les appels', function (): void {
         $root = fixture(); $c = config($root); $c['run_budget_usd'] = 0.001;
         rejects(fn()=>(new Budget($root . '/generator/state/a.json', $c))->reserve('1', 1, 'daily'));
-        $c['run_budget_usd'] = 1; $c['monthly_budget_usd'] = 0.04;
+        $c['run_budget_usd'] = 1; $c['monthly_budget_usd'] = 0.1;
         $b = new Budget($root . '/generator/state/b.json', $c); $b->reserve('1', 1, 'daily');
         rejects(fn()=>$b->reserve('2', 1, 'daily'));
     });
@@ -157,7 +172,9 @@ try {
         rejects(fn()=>$b->start('100'));
     });
     test('Un quota d’appels épuisé bloque les appels suivants', function (): void {
-        [$root, $c, $b] = prepared(); $b->start('100'); $b->beforeCall('100'); $b->beforeCall('100'); rejects(fn()=>$b->beforeCall('100'));
+        [$root, $c, $b] = prepared(); $b->start('100');
+        for ($i = 0; $i < $b->entry('100')['max_calls']; $i++) $b->beforeCall('100');
+        rejects(fn()=>$b->beforeCall('100'));
     });
     test('Un changement de configuration après réservation bloque la dépense', function (): void {
         [$root, $c, $b] = prepared(); $c['model'] = 'other-model';
@@ -297,10 +314,45 @@ try {
         ensure((new Budget($file, $c))->dailyUsed() === 5, 'Quota local ou reprise historique incorrect.');
         ensure(file_get_contents($file) === $before, 'Historique réécrit.');
     });
-    test('Un brouillon trop court est rejeté avant le second appel', function (): void {
+    test('Une seule correction de longueur est tentée sans relâcher le contrôle', function (): void {
         [$root, $c, $b, $http] = prepared(); $http->badDraft = true;
         $report = (new Generator($root, $c, $http, $b))->run('100', 'fixture-only-not-a-secret');
-        ensure($report['published'] === 0 && $http->calls === 1, 'Contrôle de longueur trop tardif.');
+        ensure($report['published'] === 0 && $http->calls === 2, 'Réparations non bornées ou longueur assouplie.');
+    });
+    test('Un brouillon corrigé en longueur est encore revu avant publication', function (): void {
+        [$root, $c, $b, $http] = prepared(); $http->badDrafts = 1;
+        $report = (new Generator($root, $c, $http, $b))->run('100', 'fixture-only-not-a-secret');
+        ensure($report['published'] === 1 && $http->calls === 3, 'Correction ou revue manquante.');
+        ensure($http->payloads[2]['text']['format']['name'] === 'echappees_review', 'Revue omise après correction.');
+    });
+    test('Dix articles sont atteints en renouvelant les candidats et en corrigeant un brouillon', function (): void {
+        $root = fixture(); $c = config($root); atomicJson($root . '/generator/topics.json', []);
+        $b = new Budget($root . '/generator/state/budget.json', $c); $b->reserve('200', 10, 'daily');
+        $http = new FakeHttp(); $http->distinct = true; $http->badDrafts = 1;
+        $http->searchPages = [array_map(static fn($i)=>['title'=>'Candidat ' . $i], range(1, 5)),
+            array_map(static fn($i)=>['title'=>'Candidat ' . $i], range(6, 10))];
+        $report = (new Generator($root, $c, $http, $b))->run('200', 'fixture-only-not-a-secret');
+        ensure($report['published'] === 10 && $http->calls === 21 && $b->dailyUsed() === 10, 'Quota incomplet ou correction sans marge.');
+        ensure(count((new Catalog($root))->articles) === 15 && $b->entry('200')['charged_usd'] <= 1, 'Archives ou budget non respectés.');
+    });
+    test('Une panne de recherche ne perd pas les articles déjà validés', function (): void {
+        $root = fixture(); $c = config($root); $b = new Budget($root . '/generator/state/budget.json', $c); $b->reserve('300', 2, 'daily');
+        $http = new FakeHttp(); $http->discoveryUnavailable = true;
+        $report = (new Generator($root, $c, $http, $b))->run('300', 'fixture-only-not-a-secret');
+        ensure($report['published'] === 1 && $b->dailyUsed() === 1, 'Article validé perdu sur panne de recherche.');
+    });
+    test('Un HTTP 503 ne place pas un sujet dans la liste des échecs', function (): void {
+        [$root, $c, $b, $http] = prepared(); $http->wikiUnavailable = true; $http->discoveryUnavailable = true;
+        $report = (new Generator($root, $c, $http, $b))->run('100', 'fixture-only-not-a-secret');
+        ensure($report['published'] === 0 && $http->calls === 0 && jsonFile($root . '/generator/state/subjects.json')['failed'] === [], 'Panne temporaire mémorisée comme refus éditorial.');
+    });
+    test('Une source culinaire institutionnelle se collecte sans Wikipédia et conserve ses références', function (): void {
+        $root = fixture(); $http = new FakeHttp();
+        $source = (new Sources($http, config($root)))->collect(['wiki_title'=>'Astuce vérifiée', 'kind'=>'culinary',
+            'source_url'=>'https://www.inrae.fr/fixture', 'source_label'=>'INRAE', 'photo_query'=>'lentils food', 'category'=>'Gastronomie et traditions']);
+        ensure($source['kind'] === 'culinary' && $source['sources'][0]['url'] === 'https://www.inrae.fr/fixture', 'Source primaire perdue.');
+        ensure(!array_filter($http->gets, static fn($url)=>str_contains($url, 'fr.wikipedia.org')) && $http->calls === 0, 'Dépendance Wikipédia ou appel rédactionnel en collecte.');
+        rejects(fn()=>(new Sources($http, config($root)))->collect(['wiki_title'=>'Invalide', 'source_url'=>'https://evil.invalid/recipe']));
     });
 } finally {
     putenv('GITHUB_ACTIONS'); putenv('GENERATION_ENABLED');

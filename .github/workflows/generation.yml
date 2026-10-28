@@ -1,5 +1,11 @@
 name: Enrichir le catalogue Échappées
 on:
+  push:
+    branches: [main]
+    paths:
+      - 'generator/src/**'
+      - 'generator/config.json'
+      - 'generator/editorial-topics.json'
   schedule:
     - cron: '0 1 * * *'
       timezone: Europe/Paris
@@ -52,7 +58,7 @@ jobs:
             echo 'Pour générer réellement, ajouter le secret Actions OPENAI_API_KEY dans echappees-data, définir la variable Actions GENERATION_ENABLED=true, puis lancer un nouveau workflow avec dry_run désactivé.'
           } >> "$GITHUB_STEP_SUMMARY"
       - name: Vérifier la présence du secret sans l'afficher
-        if: github.event_name == 'schedule' || inputs.dry_run == false
+        if: github.event_name != 'workflow_dispatch' || inputs.dry_run == false
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: |
@@ -61,7 +67,7 @@ jobs:
             exit 1
           fi
       - name: Réserver et enregistrer le budget avant toute dépense
-        if: github.event_name == 'schedule' || inputs.dry_run == false
+        if: github.event_name != 'workflow_dispatch' || inputs.dry_run == false
         run: |
           php generator/cli.php reserve
           git config user.name 'echappees-content[bot]'
@@ -73,13 +79,13 @@ jobs:
           fi
       - name: Collecter, rédiger et contrôler les publications
         id: generation
-        if: github.event_name == 'schedule' || inputs.dry_run == false
+        if: github.event_name != 'workflow_dispatch' || inputs.dry_run == false
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: php generator/cli.php generate
       - name: Sauvegarder le résultat et les coûts même après une erreur
         id: publish
-        if: always() && (github.event_name == 'schedule' || inputs.dry_run == false)
+        if: always() && (github.event_name != 'workflow_dispatch' || inputs.dry_run == false)
         env:
           GENERATION_OUTCOME: ${{ steps.generation.outcome }}
         run: |

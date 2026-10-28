@@ -1,0 +1,70 @@
+[
+  {
+    "wiki_title": "Cuire une crème aux œufs au bain-marie",
+    "topic_key": "cuisine bain marie creme oeufs",
+    "source_url": "https://annex.exploratorium.edu/cooking/eggs/gentle.html",
+    "source_label": "Exploratorium · Science of Cooking",
+    "photo_query": "custard flan dessert",
+    "category": "Gastronomie et traditions",
+    "kind": "culinary",
+    "country": "Monde"
+  },
+  {
+    "wiki_title": "Choisir une farine selon la texture souhaitée",
+    "topic_key": "cuisine farine proteines texture",
+    "source_url": "https://annex.exploratorium.edu/cooking/bread/flour.html",
+    "source_label": "Exploratorium · Science of Bread",
+    "photo_query": "flour bread baking",
+    "category": "Gastronomie et traditions",
+    "kind": "culinary",
+    "country": "Monde"
+  },
+  {
+    "wiki_title": "L’eau de cuisson des pâtes pour lier une sauce",
+    "topic_key": "cuisine eau pates amidon sauce",
+    "source_url": "https://www.seriouseats.com/tip-for-boiling-pasta-in-less-water-11972027",
+    "source_label": "Serious Eats · essais culinaires",
+    "photo_query": "spaghetti pasta sauce",
+    "category": "Gastronomie et traditions",
+    "kind": "culinary",
+    "country": "Monde"
+  },
+  {
+    "wiki_title": "Refroidir les légumes après les avoir blanchis",
+    "topic_key": "cuisine legumes blanchir refroidir",
+    "source_url": "https://www.seriouseats.com/blanching-vegetables-cooking-tip-11931726",
+    "source_label": "Serious Eats · essais culinaires",
+    "photo_query": "green beans vegetables cooking",
+    "category": "Gastronomie et traditions",
+    "kind": "culinary",
+    "country": "Monde"
+  },
+  {
+    "wiki_title": "Les légumineuses prêtes à cuisiner",
+    "topic_key": "cuisine legumineuses conserves preparation",
+    "source_url": "https://www.inrae.fr/dossiers/quand-grand-retour-legumineuses/cuisine-mille-declinaisons-legumineuses",
+    "source_label": "INRAE · cuisine et légumineuses",
+    "photo_query": "chickpeas lentils food",
+    "category": "Gastronomie et traditions",
+    "kind": "culinary",
+    "country": "France"
+  },
+  {
+    "wiki_title": "Rani-ki-Vav, un puits à degrés sculpté",
+    "source_url": "https://whc.unesco.org/en/list/922/",
+    "source_label": "UNESCO · Rani-ki-Vav",
+    "photo_query": "Rani ki Vav Patan",
+    "category": "Histoire et patrimoine",
+    "kind": "evergreen",
+    "country": "Inde"
+  },
+  {
+    "wiki_title": "Chaîne des Puys et faille de Limagne",
+    "source_url": "https://whc.unesco.org/en/list/1434/",
+    "source_label": "UNESCO · Chaîne des Puys",
+    "photo_query": "Chaine des Puys landscape",
+    "category": "Voyages et paysages",
+    "kind": "evergreen",
+    "country": "France"
+  }
+]
