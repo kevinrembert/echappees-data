@@ -3,6 +3,9 @@ declare(strict_types=1);
 namespace Echappees;
 
 final class Editorial {
+    public static function rescueTitle(string $title): bool {
+        return preg_match('/\b(?:sauvetages?|sauvés?|sauvées?|rescue[ds]?|rescuing|near[ -]death)\b|sauv(?:er|é|ée).{0,40}(?:noyade|flammes|accident)/iu', $title) === 1;
+    }
     public const VERSION = 'positive-v1';
     public static function limits(array $config): array { return $config['editorial_mix'] ?? []; }
     public static function eligible(array $topics, array $counts, array $limits): array {

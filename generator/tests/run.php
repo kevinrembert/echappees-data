@@ -484,6 +484,18 @@ try {
         ensure(str_contains(urldecode(implode(' ', $queries)), 'intitle:Porto') && !str_contains(urldecode(implode(' ', $queries)), 'Titre long'), 'Le titre complet remplace les mots-clés ciblés.');
     });
 
+    test('Les sauvetages sont exclus avant tout appel sans exclure la prévention', function (): void {
+        [$root, $c, $b, $http] = prepared(); $b->start('100');
+        $writer = new Writer($http, $b, $c, '100', 'fixture-only-not-a-secret');
+        foreach (['Un kangourou sauvé en mer', 'Divers rescue a kangaroo', 'Le sauvetage d’un enfant se termine bien'] as $title) {
+            rejects(fn()=>$writer->selectRecent(['title'=>$title, 'excerpt'=>'Fixture']));
+        }
+        ensure($http->calls === 0, 'Un sauvetage évident a déclenché un appel.');
+        foreach (['Un jardin partagé ouvre ses portes', 'Des zones protégées pour les dauphins', 'Save energy with community solar'] as $title) {
+            ensure(!Echappees\Editorial::rescueTitle($title), 'Une action préventive est assimilée à un sauvetage.');
+        }
+    });
+
 } finally {
     putenv('GITHUB_ACTIONS'); putenv('GENERATION_ENABLED');
     foreach ($directories as $dir) if (is_dir($dir)) removeTree($dir);
