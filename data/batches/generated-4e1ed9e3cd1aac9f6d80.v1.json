@@ -1,0 +1,183 @@
+{
+    "schema_version": 1,
+    "id": "generated-4e1ed9e3cd1aac9f6d80",
+    "version": "1",
+    "articles": [
+        {
+            "id": "decouverte-0f13e1e3842713e445cd416e",
+            "title": "Les trois types principaux de récifs coralliens et leur formation",
+            "body": "Les récifs coralliens se divisent en trois catégories : récifs frangeants, récifs barrières et atolls. Les récifs frangeants sont les plus courants et se développent directement à partir du rivage, formant une bordure côtière ou entourant les îles. Lorsqu’un récif frangeant poursuit sa croissance sur un volcan submergé, il donne naissance à un atoll, caractérisé par sa forme circulaire ou ovale délimitant une lagune ouverte au centre. Les récifs barrières, en revanche, restent éloignés du littoral, créant un espace d’eau profonde entre la côte et le récif, c’est la lagune. Ces structures jouent un rôle essentiel pour l’écosystème marin et l’économie via le tourisme, tout en protégeant les côtes. Sur la photo, on observe des poissons colorés évoluant sur un atoll dans les îles hawaïennes du Nord-Ouest.",
+            "category": "Nature et animaux",
+            "location": "Monde",
+            "image_description": "Des bancs de poissons multicolores (pennantfish, pyramid et milletseed butterflyfish) évoluent sur un récif atoll situé dans les îles hawaïennes du Nord-Ouest.",
+            "image_caption": "Photographie illustrative générale d’un récif atoll avec sa faune marine colorée, prise dans les îles hawaïennes du Nord-Ouest (source : NOAA).",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/da9cb4341fc85236d2bbdfe9210a0552c0031449d79df46f0e53cf659e1f40fc.jpg",
+            "image_credit": "NOAA's National Ocean Service · https://www.flickr.com/photos/usoceangov/4257150126/ · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY 2.0 · https://creativecommons.org/licenses/by/2.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Foreste_pluviali_del_mare.jpg",
+            "sources": [
+                {
+                    "label": "NOAA · What are the three main types of coral reefs?",
+                    "url": "https://oceanservice.noaa.gov/facts/threecorals.html"
+                }
+            ],
+            "subject_id": "source-b68d0f9877a19cdb8b934ecf6fdddaf5",
+            "published_at": "2026-10-29",
+            "country": "Monde"
+        },
+        {
+            "id": "decouverte-aa26caf08412a67fe1703052",
+            "title": "Le bruit sous-marin : obstacle pour la communication des animaux marins",
+            "body": "Le bruit océanique regroupe les sons résultant des activités humaines, comme la navigation et l’exploration énergétique, qui perturbent la perception sonore naturelle des animaux marins. Ces derniers dépendent du son pour de multiples fonctions essentielles : localiser leurs proies, reconnaître leurs congénères, éviter les prédateurs ou s’orienter dans leur milieu. Au fil du temps, l'intensification de ces bruits humains, propagés sur de grandes distances sous l’eau, a modifié le paysage sonore marin, y influant négativement. L’impact se traduit notamment par des difficultés de communication entre individus et par une altération de la réception des signaux environnementaux vitaux. Ce phénomène touche divers habitats côtiers et en haute mer, affectant la survie et le comportement d'espèces sensibles à ces changements acoustiques.",
+            "category": "Nature et animaux",
+            "location": "Océan mondial",
+            "image_description": "Image capturée depuis la Station spatiale internationale montrant une aurore australe au-dessus de la Terre, avec l’horizon courbe et des étoiles visibles dans le ciel noir de l’espace.",
+            "image_caption": "Au-dessus de l’océan mondial, une aurore australe photographiée depuis la Station spatiale internationale illustre la beauté de la planète vue de l’espace. Photo documentaire générale.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/7511efd568ffba22017749aa4c5112098e0cef866046d9d08129331afcc11670.jpg",
+            "image_credit": "ISS Expedition 23 crew · Mission: ISS023 Roll: E Frame: 58455 Mission ID on the Film or image: ISS023 · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Aurora_Australis_From_ISS.JPG",
+            "sources": [
+                {
+                    "label": "NOAA · What is ocean noise?",
+                    "url": "https://oceanservice.noaa.gov/facts/ocean-noise.html"
+                }
+            ],
+            "subject_id": "source-8f1f7af4c452c3e74c44576c7c5b1788",
+            "published_at": "2026-10-29",
+            "country": "Monde"
+        },
+        {
+            "id": "decouverte-6c4087fab5028d7627015b30",
+            "title": "De quoi sont composées les méduses ?",
+            "body": "Les méduses sont des animaux marins composés à environ 95 % d'eau, ce qui explique leur aspect translucide et leur consistance gélatineuse. Leur corps se compose de trois couches : l'épiderme externe, une couche intermédiaire appelée mésoglée, qui est une substance épaisse et élastique, et la gastroderme interne. Ces invertébrés ne possèdent ni cerveau, ni sang, ni cœur, mais possèdent un système nerveux simple, une sorte de réseau nerveux, leur permettant de détecter la lumière, l'odeur et de réagir à leur environnement. Leur symétrie radiale facilite la perception des éléments venant de toutes les directions. Les méduses appartiennent au groupe des Cnidaires, tout comme les anémones et les coraux. Certaines espèces peuvent piquer avec leurs tentacules, provoquant généralement de légères irritations chez l'humain.",
+            "category": "Nature et animaux",
+            "location": "Monde",
+            "image_description": "Méduse lunaire (Aurelia aurita) perturbant la couche d'eau de surface dans le fjord de Gullmarn à Sämstad, près de Lysekil en Suède. La photo montre une délicate stratification de l'eau après une pluie, formant un fin pycnocline visible.",
+            "image_caption": "Méduse lunaire dans le fjord de Gullmarn, Suède, photographie Wikimedia Commons illustration documentaire générale.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/1cce50cd9d6b1ee3cb1633390d18e9b557b57b7068ca4305111794c359729c2f.jpg",
+            "image_credit": "W.carter · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC0 · https://creativecommons.org/publicdomain/zero/1.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Moon_jellyfish_disturbing_the_top_water_layer_of_Gullmarn_fjord.jpg",
+            "sources": [
+                {
+                    "label": "NOAA · What are jellyfish made of?",
+                    "url": "https://oceanservice.noaa.gov/facts/jellyfish.html"
+                }
+            ],
+            "subject_id": "source-5866bdb72e3d0440879f7e039d966c8c",
+            "published_at": "2026-10-29",
+            "country": "Monde"
+        },
+        {
+            "id": "decouverte-f295a97ddce043a67f23261a",
+            "title": "Le fonctionnement fascinant des mollusques bivalves",
+            "body": "Les mollusques bivalves, tels que les palourdes, huîtres et coquilles Saint-Jacques, possèdent une coquille à deux parties reliées par une charnière. Ce coffre rigide protège un corps mou et abrite un organe appelé manteau, qui produit du carbonate de calcium pour former et agrandir cette coquille au fil de la croissance. Ces animaux respirent et se nourrissent par leurs branchies, qui filtrent l'eau pour capter le plancton. Certaines espèces disposent d’un pied pointu rétractable leur permettant de s'enfouir dans le sable ou de se déplacer lentement. Cet ensemble de mécanismes leur confère un rôle important dans la qualité des eaux et les écosystèmes côtiers, allant des tropiques jusqu’aux océans froids. Leur présence peut même s’étendre aux profondeurs abyssales, démontrant une adaptation remarquable.",
+            "category": "Nature et animaux",
+            "location": "Océans du monde",
+            "image_description": "Gros plan sur une collection dense de coquillages de type coques ou mollusques bivalves, montrant leurs motifs côtelés et leurs nuances naturelles.",
+            "image_caption": "Photographie générale de coquilles de mollusques bivalves, prise à Sattahip en Thaïlande, montrant des formes typiques de coques à motifs et couleurs variés.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/3c1fbb3ad5ba2ad79b46b8d7f94d8a2f97324a42fd40e3de3736f9a2d23a9ed3.jpg",
+            "image_credit": "PattayaPatrol · Flickr · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:DFC_4386_A_close-up_of_a_pile_of_fresh_cockles_their_ridged_shells_glinting_with_shades_of_brown_and_white.jpg",
+            "sources": [
+                {
+                    "label": "NOAA · What is a bivalve mollusk?",
+                    "url": "https://oceanservice.noaa.gov/facts/bivalve.html"
+                }
+            ],
+            "subject_id": "source-b1332115fe1ddd6dc1c8335c13763542",
+            "published_at": "2026-10-29",
+            "country": "Monde"
+        },
+        {
+            "id": "decouverte-0ce6348b24015a47fdd77df8",
+            "title": "La formation du gluten : le secret derrière l'élasticité de la pâte",
+            "body": "Dans la préparation de la pâte, le gluten joue un rôle essentiel en retenant les gaz qui permettent la levée, à l'image du caoutchouc dans un ballon. Ce réseau est formé par le pétrissage qui active deux protéines du blé, le gliadine et le gluténine. En lavant la pâte avec de l'eau, on élimine l'amidon, révélant une masse élastique de gluten pur. Les différentes farines varient en contenu en protéines : les farines à forte teneur sont adaptées aux pains à base de levure, tandis que les farines pour pâtisserie privilégient une texture plus fragile. Lors de la cuisson, cette structure de gluten gonfle sous l'action de la vapeur et se solidifie, façonnant ainsi la mie. Cette dynamique explique pourquoi la manipulation et le choix de la farine influencent la texture finale des pains et pâtisseries.",
+            "category": "Gastronomie et traditions",
+            "location": "Monde",
+            "image_description": "Photographie d'une personne pétrissant une pâte à pain sur une surface en bois.",
+            "image_caption": "Illustration générale du pétrissage de pâte, étape clé pour développer le gluten indispensable à la levée du pain.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/6b599be61b2c043a146375f88569a2806202ea2c50a3c61e50a28e5b0140e2de.jpg",
+            "image_credit": "Man vyi · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Kneading_bread_dough.jpg",
+            "sources": [
+                {
+                    "label": "Exploratorium · Science of Cooking",
+                    "url": "https://annex.exploratorium.edu/cooking/bread/activity-gluten.html"
+                }
+            ],
+            "subject_id": "source-34739cebf31a35be6a4ca4bad4c6e6d6",
+            "published_at": "2026-10-29",
+            "country": "Monde"
+        },
+        {
+            "id": "decouverte-46c9c14fd2fa330527d2188a",
+            "title": "Les poissons pélagiques : habitants des grands espaces aquatiques",
+            "body": "Les poissons pélagiques évoluent dans la colonne d'eau, loin des fonds et des rivages, que ce soit en milieu côtier ou dans l'océan ouvert. Ils se répartissent en deux catégories selon leur zone de vie : les espèces côtières fréquentent les eaux éclairées jusqu'à environ 200 mètres de profondeur, comme les sardines et les anchois, tandis que les océaniques, tels les thons ou les espadons, occupent les eaux plus profondes au-delà du plateau continental. Ces poissons migrent souvent sur de longues distances et certains vivent en bancs, ce qui favorise leur survie. Le terme «pélagique» vient de cette vaste zone aquatique, qui couvre la majeure partie de la planète. L'ampleur de cet habitat, estimé à environ 330 millions de milles cubes, souligne l'importance écologique de ces poissons, notamment en tant qu'indicateurs de la santé des écosystèmes marins.",
+            "category": "Nature et animaux",
+            "location": "Océan mondial",
+            "image_description": "Portrait d'une biologiste spécialiste de la faune aquatique prise en extérieur, Sacramento, Californie.",
+            "image_caption": "Amber Aguilera, biologiste de la faune aquatique au bureau de Sacramento (photo illustrative, Wikimedia Commons).",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/51f339582f7d9e8b2321197186a184e61244417f4ce1e8a2cc2cfa5c6418d82f.jpg",
+            "image_credit": "Pacific Southwest Region USFWS from Sacramento, US · Amber Aguilera · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Amber_Aguilera_(16680327266).jpg",
+            "sources": [
+                {
+                    "label": "NOAA · What is a pelagic fish?",
+                    "url": "https://oceanservice.noaa.gov/facts/pelagic.html"
+                }
+            ],
+            "subject_id": "source-ffb09772ebbbbf46e8d7f8f469882a4b",
+            "published_at": "2026-10-29",
+            "country": "Monde"
+        },
+        {
+            "id": "decouverte-4765944e972600bb2e93f3c2",
+            "title": "Adapter le geste au type de levure pour réussir son pain",
+            "body": "La fabrication du pain requiert l'adaptation précise du geste selon le type de levure utilisée. Trois principales variétés existent : levure sèche active, levure rapide et levure fraîche. Chacune demande une température de réhydratation spécifique, comme la levure sèche active qui se réactive idéalement entre 41 et 46 °C. De plus, la pâte doit être pétrie suffisamment longtemps pour activer le gluten, offrant élasticité et structure. Un pétrissage d'environ dix minutes est souvent nécessaire pour une pâte à base de 5 à 7 tasses de farine, jusqu’à ce que la pâte reprenne sa forme après pression. Enfin, la levée a lieu idéalement entre 25 et 28 °C pour éviter goûts désagréables et fermentation incomplète. Ces variations thermique et mécanique influencent directement la réussite d’un pain léger et aéré.",
+            "category": "Gastronomie et traditions",
+            "location": "Monde",
+            "image_description": "Allégorie en briques mesurant 15 mètres représentant la cuisson du pain, réalisée en 1962-1963, située à Haarlem",
+            "image_caption": "La cuisson du pain illustrée par une œuvre d'art en briques, Haarlem, 1962-1963, photographie documentaire générale",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/5394b065d8988c24871150a89738b69c5a752274512029559545fb8d5ffd1b92.jpg",
+            "image_credit": "Jane023 (talk) 16:36, 24 January 2011 (UTC) · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY 3.0 · https://creativecommons.org/licenses/by/3.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Levinus_Tollenaar_-_bread_dough_is_baked_in_the_oven_into_bread.jpg",
+            "sources": [
+                {
+                    "label": "Exploratorium · Science of Cooking",
+                    "url": "https://annex.exploratorium.edu/cooking/icooks/11-11-02.html"
+                }
+            ],
+            "subject_id": "source-0c3dcfdbbf17a07c43f8bd98701f8a52",
+            "published_at": "2026-10-29",
+            "country": "Monde"
+        },
+        {
+            "id": "decouverte-30e67e5ec3d0e7626c9f8408",
+            "title": "L’océan, partenaire méconnu de la santé humaine",
+            "body": "L’océan influence notre santé de multiples façons, au-delà de sa plage. Il fournit de la nourriture via la pêche, soutient des millions d’emplois et sert de régulateur climatique. En retour, la santé humaine et celle des écosystèmes marins sont liées : la pollution et les proliférations d’algues toxiques peuvent contaminer les fruits de mer et les plages, affectant notre bien-être. Les mammifères marins, vivant toute leur vie en milieu marin, permettent d’observer des indicateurs précoces de menaces potentielles, aidant la recherche et la protection. Par ailleurs, les ressources marines offrent des composés médicinaux prometteurs, essentiels pour développer des traitements. Ainsi, la compréhension et la protection de cet environnement fragile sont cruciales pour nos vies. La réserve Landels-Hill Big Creek en Californie illustre ces liens entre terre, mer et santé.",
+            "category": "Nature et animaux",
+            "location": "Océan Monde",
+            "image_description": "Paysage de la réserve Landels-Hill Big Creek à Big Sur, Californie, avec vue sur l’océan et le canyon.",
+            "image_caption": "Illustration générale : paysage de Landels-Hill Big Creek Reserve, Californie. Photographie Wikimedia Commons, domaine public.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/7d4e09f5d919033439e956169e29260cdcb821740727eae85ec37921df684f59.jpg",
+            "image_credit": "Unknown authorUnknown author · Landels-Hill Big Creek Reserve · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Big_Creek_Canyon_and_ocean.jpg",
+            "sources": [
+                {
+                    "label": "NOAA · What does the ocean have to do with human health?",
+                    "url": "https://oceanservice.noaa.gov/facts/ocean-human-health.html"
+                }
+            ],
+            "subject_id": "source-ff0f7a6b6627118343819e6a0db1d7b7",
+            "published_at": "2026-10-29",
+            "country": "Monde"
+        }
+    ]
+}

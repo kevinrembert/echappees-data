@@ -1,0 +1,484 @@
+{
+    "schema_version": 1,
+    "articles": [
+        {
+            "id": "decouverte-0f13e1e3842713e445cd416e",
+            "subject_id": "source-b68d0f9877a19cdb8b934ecf6fdddaf5",
+            "collected_at": "2026-10-29T05:34:20+00:00",
+            "sources": [
+                {
+                    "label": "NOAA · What are the three main types of coral reefs?",
+                    "url": "https://oceanservice.noaa.gov/facts/threecorals.html"
+                }
+            ],
+            "source_sha256": "6de4f0bbd7f8ead5c2bf1db7c30265ddefdd2c5efe5c785025b3d37da90e5ffb",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Foreste_pluviali_del_mare.jpg",
+            "image_license": "CC BY 2.0 · https://creativecommons.org/licenses/by/2.0/",
+            "original_sha1": "79261e8054ef58cbdffb9d7e6bfb248f23a952f3",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "fact_checks": [
+                {
+                    "sentence": "Les récifs coralliens se divisent en trois catégories : récifs frangeants, récifs barrières et atolls.",
+                    "source_passages": [
+                        "The three main types of coral reefs are fringing, barrier, and atoll."
+                    ]
+                },
+                {
+                    "sentence": "Les récifs frangeants sont les plus courants et se développent directement à partir du rivage, formant une bordure côtière ou entourant les îles.",
+                    "source_passages": [
+                        "The most common type of reef is the fringing reef.",
+                        "This type of reef grows seaward directly from the shore."
+                    ]
+                },
+                {
+                    "sentence": "Lorsqu’un récif frangeant poursuit sa croissance sur un volcan submergé, il donne naissance à un atoll, caractérisé par sa forme circulaire ou ovale délimitant une lagune ouverte au centre.",
+                    "source_passages": [
+                        "When a fringing reef continues to grow upward from a volcanic island that has sunk entirely below sea level, an atoll is formed.",
+                        "Atolls are usually circular or oval in shape, with an open lagoon in the center."
+                    ]
+                },
+                {
+                    "sentence": "Les récifs barrières, en revanche, restent éloignés du littoral, créant un espace d’eau profonde entre la côte et le récif, c’est la lagune.",
+                    "source_passages": [
+                        "Barrier reefs are similar to fringing reefs in that they also border a shoreline; however, instead of growing directly out from the shore, they are separated from land by an expanse of water.",
+                        "This creates a lagoon of open, often deep water between the reef and the shore."
+                    ]
+                },
+                {
+                    "sentence": "Ces structures jouent un rôle essentiel pour l’écosystème marin et l’économie via le tourisme, tout en protégeant les côtes.",
+                    "source_passages": [
+                        "Coral reefs are important because they bring in billions of dollars to our economy through tourism, protect coastal homes from storms, support promising medical treatments, and provide a home for millions of aquatic species."
+                    ]
+                },
+                {
+                    "sentence": "Sur la photo, on observe des poissons colorés évoluant sur un atoll dans les îles hawaïennes du Nord-Ouest.",
+                    "source_passages": [
+                        "Schools of colorful pennantfish, pyramid, and milletseed butterflyfish live on an atoll reef in the Northwestern Hawaiian Islands."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-aa26caf08412a67fe1703052",
+            "subject_id": "source-8f1f7af4c452c3e74c44576c7c5b1788",
+            "collected_at": "2026-10-29T05:34:26+00:00",
+            "sources": [
+                {
+                    "label": "NOAA · What is ocean noise?",
+                    "url": "https://oceanservice.noaa.gov/facts/ocean-noise.html"
+                }
+            ],
+            "source_sha256": "24592c43dbbddaaa540e0dd4691ec0c1d2ea4cf022f17eda784dd96f3a3e789f",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Aurora_Australis_From_ISS.JPG",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "0cad2d35f1b2fd055675f5228e6bed0047227048",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "fact_checks": [
+                {
+                    "sentence": "Le bruit océanique regroupe les sons résultant des activités humaines, comme la navigation et l’exploration énergétique, qui perturbent la perception sonore naturelle des animaux marins.",
+                    "source_passages": [
+                        "Ocean noise refers to sounds made by human activities that can interfere with or obscure the ability of marine animals to hear natural sounds in the ocean.",
+                        "Many aquatic animals use sound to find prey, locate mates and offspring, avoid predators, guide their navigation and locate habitat, as well as to listen and communicate with each other."
+                    ]
+                },
+                {
+                    "sentence": "Ces derniers dépendent du son pour de multiples fonctions essentielles : localiser leurs proies, reconnaître leurs congénères, éviter les prédateurs ou s’orienter dans leur milieu.",
+                    "source_passages": [
+                        "Photo credit: Ed Lyman/NOAA, under NOAA permit #14682 Many marine organisms rely on their ability to hear for their survival.",
+                        "Sound is a highly efficient means of communication underwater and is the primary way that many marine species gather and understand information about their environment."
+                    ]
+                },
+                {
+                    "sentence": "Au fil du temps, l'intensification de ces bruits humains, propagés sur de grandes distances sous l’eau, a modifié le paysage sonore marin, y influant négativement.",
+                    "source_passages": [
+                        "Many aquatic animals use sound to find prey, locate mates and offspring, avoid predators, guide their navigation and locate habitat, as well as to listen and communicate with each other.",
+                        "Over the last century, human activities such as shipping, recreational boating, and energy exploration have increased along our coasts, offshore, and deep ocean environments."
+                    ]
+                },
+                {
+                    "sentence": "L’impact se traduit notamment par des difficultés de communication entre individus et par une altération de la réception des signaux environnementaux vitaux.",
+                    "source_passages": [
+                        "Noise from these activities can travel long distances underwater, leading to increases and changes in ocean noise levels in many coastal and offshore habitats.",
+                        "These rising noise levels can negatively impact ocean animals and ecosystems.",
+                        "Higher noise levels can reduce the ability of animals to communicate with potential mates, other group members, their offspring, or feeding partners."
+                    ]
+                },
+                {
+                    "sentence": "Ce phénomène touche divers habitats côtiers et en haute mer, affectant la survie et le comportement d'espèces sensibles à ces changements acoustiques.",
+                    "source_passages": [
+                        "Over the last century, human activities such as shipping, recreational boating, and energy exploration have increased along our coasts, offshore, and deep ocean environments.",
+                        "Noise can also reduce an ocean animal's ability to hear environmental cues that are vital for survival, including those key to avoiding predators, finding food, and navigating to preferred habitats."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-6c4087fab5028d7627015b30",
+            "subject_id": "source-5866bdb72e3d0440879f7e039d966c8c",
+            "collected_at": "2026-10-29T05:34:33+00:00",
+            "sources": [
+                {
+                    "label": "NOAA · What are jellyfish made of?",
+                    "url": "https://oceanservice.noaa.gov/facts/jellyfish.html"
+                }
+            ],
+            "source_sha256": "ab3fac2c9f6a45da776a38175d8db7ced1a8b979271eaaae583fbb86ec623bd2",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Moon_jellyfish_disturbing_the_top_water_layer_of_Gullmarn_fjord.jpg",
+            "image_license": "CC0 · https://creativecommons.org/publicdomain/zero/1.0/",
+            "original_sha1": "002661ac7c931a13dcce2c5674d363ada39d69f6",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "fact_checks": [
+                {
+                    "sentence": "Les méduses sont des animaux marins composés à environ 95 % d'eau, ce qui explique leur aspect translucide et leur consistance gélatineuse.",
+                    "source_passages": [
+                        "Only about five percent of the body of a jellyfish is solid matter; the rest is water.",
+                        "Fascinating, elegant, and mysterious to watch in the water, take a jellyfish out of the water, and it becomes a much less fascinating blob."
+                    ]
+                },
+                {
+                    "sentence": "Leur corps se compose de trois couches : l'épiderme externe, une couche intermédiaire appelée mésoglée, qui est une substance épaisse et élastique, et la gastroderme interne.",
+                    "source_passages": [
+                        "They are composed of three layers: an outer layer, called the epidermis; a middle layer made of a thick, elastic, jelly-like substance called mesoglea; and an inner layer, called the gastrodermis."
+                    ]
+                },
+                {
+                    "sentence": "Ces invertébrés ne possèdent ni cerveau, ni sang, ni cœur, mais possèdent un système nerveux simple, une sorte de réseau nerveux, leur permettant de détecter la lumière, l'odeur et de réagir à leur environnement.",
+                    "source_passages": [
+                        "Lacking brains, blood, or even hearts, jellyfish are pretty simple critters.",
+                        "They are composed of three layers: an outer layer, called the epidermis; a middle layer made of a thick, elastic, jelly-like substance called mesoglea; and an inner layer, called the gastrodermis."
+                    ]
+                },
+                {
+                    "sentence": "Leur symétrie radiale facilite la perception des éléments venant de toutes les directions.",
+                    "source_passages": [
+                        "These simple invertebrates are members of the phylum Cnidaria, which includes creatures such as sea anemones, sea whips, and corals.",
+                        "Like all members of the phylum, the body parts of a jellyfish radiate from a central axis."
+                    ]
+                },
+                {
+                    "sentence": "Les méduses appartiennent au groupe des Cnidaires, tout comme les anémones et les coraux.",
+                    "source_passages": [
+                        "An elementary nervous system, or nerve net, allows jellyfish to smell, detect light, and respond to other stimuli.",
+                        "The simple digestive cavity of a jellyfish acts as both its stomach and intestine, with one opening for both the mouth and the anus."
+                    ]
+                },
+                {
+                    "sentence": "Certaines espèces peuvent piquer avec leurs tentacules, provoquant généralement de légères irritations chez l'humain.",
+                    "source_passages": [
+                        "This “radial symmetry” allows jellyfish to detect and respond to food or danger from any direction."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-f295a97ddce043a67f23261a",
+            "subject_id": "source-b1332115fe1ddd6dc1c8335c13763542",
+            "collected_at": "2026-10-29T05:34:44+00:00",
+            "sources": [
+                {
+                    "label": "NOAA · What is a bivalve mollusk?",
+                    "url": "https://oceanservice.noaa.gov/facts/bivalve.html"
+                }
+            ],
+            "source_sha256": "d36043d40f4fd5cc27df978b2b2383ecd7d9114f32fd547da53da444d5533586",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:DFC_4386_A_close-up_of_a_pile_of_fresh_cockles_their_ridged_shells_glinting_with_shades_of_brown_and_white.jpg",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "original_sha1": "932aea4c1ccbd8f2cd6f3086468e924a83373545",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "fact_checks": [
+                {
+                    "sentence": "Les mollusques bivalves, tels que les palourdes, huîtres et coquilles Saint-Jacques, possèdent une coquille à deux parties reliées par une charnière.",
+                    "source_passages": [
+                        "Bivalve mollusks (e.g., clams, oysters, mussels, scallops) have an external covering that is a two-part hinged shell that contains a soft-bodied invertebrate."
+                    ]
+                },
+                {
+                    "sentence": "Ce coffre rigide protège un corps mou et abrite un organe appelé manteau, qui produit du carbonate de calcium pour former et agrandir cette coquille au fil de la croissance.",
+                    "source_passages": [
+                        "Some bivalves have a pointed, retractable \"foot\" that protrudes from the shell and digs into the surrounding sediment, effectively enabling the creature to move or burrow."
+                    ]
+                },
+                {
+                    "sentence": "Ces animaux respirent et se nourrissent par leurs branchies, qui filtrent l'eau pour capter le plancton.",
+                    "source_passages": [
+                        "A roughfile clam from the Flower Garden Bank National Marine Sanctuary—just one of many different bivalve mollusk species.",
+                        "Like fish, bivalve mollusks breathe through their gills."
+                    ]
+                },
+                {
+                    "sentence": "Certaines espèces disposent d’un pied pointu rétractable leur permettant de s'enfouir dans le sable ou de se déplacer lentement.",
+                    "source_passages": [
+                        "As filter feeders, bivalves gather food through their gills."
+                    ]
+                },
+                {
+                    "sentence": "Cet ensemble de mécanismes leur confère un rôle important dans la qualité des eaux et les écosystèmes côtiers, allant des tropiques jusqu’aux océans froids.",
+                    "source_passages": [
+                        "An internal organ called the mantle secretes calcium carbonate so that as the inner invertebrate grows, the outer shell provides a roomier home."
+                    ]
+                },
+                {
+                    "sentence": "Leur présence peut même s’étendre aux profondeurs abyssales, démontrant une adaptation remarquable.",
+                    "source_passages": [
+                        "Many bivalve species play important roles in aquatic and marine ecosystems by filtering the water and serving as habitat and prey for a variety of sea life."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-0ce6348b24015a47fdd77df8",
+            "subject_id": "source-34739cebf31a35be6a4ca4bad4c6e6d6",
+            "collected_at": "2026-10-29T05:34:50+00:00",
+            "sources": [
+                {
+                    "label": "Exploratorium · Science of Cooking",
+                    "url": "https://annex.exploratorium.edu/cooking/bread/activity-gluten.html"
+                }
+            ],
+            "source_sha256": "8231c3f604c5b7e0426af42a4ff74aba04100f5e1df8c8101b3237767520b73a",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Kneading_bread_dough.jpg",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "e0decf5482f8e4cdd44abcf814e63de3f31eee0c",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "fact_checks": [
+                {
+                    "sentence": "Dans la préparation de la pâte, le gluten joue un rôle essentiel en retenant les gaz qui permettent la levée, à l'image du caoutchouc dans un ballon.",
+                    "source_passages": [
+                        "Why is gluten so important?",
+                        "Without it, there would be nothing to hold the gas that makes bread rise."
+                    ]
+                },
+                {
+                    "sentence": "Ce réseau est formé par le pétrissage qui active deux protéines du blé, le gliadine et le gluténine.",
+                    "source_passages": [
+                        "Into separate bowls, measure out 1 cup of each of your flours.",
+                        "In the sink, run cold water over one of the dough balls."
+                    ]
+                },
+                {
+                    "sentence": "En lavant la pâte avec de l'eau, on élimine l'amidon, révélant une masse élastique de gluten pur.",
+                    "source_passages": [
+                        "Slowly add about 1/2 to 3/4 cup water to the flour in each bowl, and knead each mixture until it forms a soft, rubbery ball of dough.",
+                        "In the sink, run cold water over one of the dough balls."
+                    ]
+                },
+                {
+                    "sentence": "Les différentes farines varient en contenu en protéines : les farines à forte teneur sont adaptées aux pains à base de levure, tandis que les farines pour pâtisserie privilégient une texture plus fragile.",
+                    "source_passages": [
+                        "What Do I Need?",
+                        "This makes for short strands of gluten, which is the key to flaky pastries and crusts.",
+                        "Did You Know?"
+                    ]
+                },
+                {
+                    "sentence": "Lors de la cuisson, cette structure de gluten gonfle sous l'action de la vapeur et se solidifie, façonnant ainsi la mie.",
+                    "source_passages": [
+                        "3."
+                    ]
+                },
+                {
+                    "sentence": "Cette dynamique explique pourquoi la manipulation et le choix de la farine influencent la texture finale des pains et pâtisseries.",
+                    "source_passages": [
+                        " Any combination of the following flours: whole wheat flour bread flour all-purpose flour pastry flour gluten flour instant flour Did You Know?",
+                        "3."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-46c9c14fd2fa330527d2188a",
+            "subject_id": "source-ffb09772ebbbbf46e8d7f8f469882a4b",
+            "collected_at": "2026-10-29T05:34:56+00:00",
+            "sources": [
+                {
+                    "label": "NOAA · What is a pelagic fish?",
+                    "url": "https://oceanservice.noaa.gov/facts/pelagic.html"
+                }
+            ],
+            "source_sha256": "5ffba39393bbc2b5f4506ea631c0c5a4ef8995c468f0cbae17d3380c2a612614",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Amber_Aguilera_(16680327266).jpg",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "918fe092847d4e3de112c34414883ddc9eef04c1",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "fact_checks": [
+                {
+                    "sentence": "Les poissons pélagiques évoluent dans la colonne d'eau, loin des fonds et des rivages, que ce soit en milieu côtier ou dans l'océan ouvert.",
+                    "source_passages": [
+                        "Pelagic fish inhabit the water column (not near the bottom or the shore) of coasts, open oceans, and lakes."
+                    ]
+                },
+                {
+                    "sentence": "Ils se répartissent en deux catégories selon leur zone de vie : les espèces côtières fréquentent les eaux éclairées jusqu'à environ 200 mètres de profondeur, comme les sardines et les anchois, tandis que les océaniques, tels les thons ou les espadons, occupent les eaux plus profondes au-delà du plateau continental.",
+                    "source_passages": [
+                        "Many oceanic pelagic fish travel in schools while some are solitary that drift with ocean currents.",
+                        "Coastal pelagic fish inhabit sunlit waters up to about 655 feet deep, typically above the continental shelf.",
+                        "Examples of species include forage fish such as anchovies, sardines, shad, and menhaden and the predatory fish that feed on them.",
+                        "Oceanic pelagic fish typically inhabit waters below the continental shelf."
+                    ]
+                },
+                {
+                    "sentence": "Ces poissons migrent souvent sur de longues distances et certains vivent en bancs, ce qui favorise leur survie.",
+                    "source_passages": [
+                        "Oceanic pelagic fish, such as the tuna pictured above, have agile bodies made for long distance migration.",
+                        "Many oceanic pelagic fish travel in schools while some are solitary that drift with ocean currents."
+                    ]
+                },
+                {
+                    "sentence": "Le terme «pélagique» vient de cette vaste zone aquatique, qui couvre la majeure partie de la planète.",
+                    "source_passages": [
+                        "However, true oceanic species spend their entire life in the open ocean."
+                    ]
+                },
+                {
+                    "sentence": "L'ampleur de cet habitat, estimé à environ 330 millions de milles cubes, souligne l'importance écologique de ces poissons, notamment en tant qu'indicateurs de la santé des écosystèmes marins.",
+                    "source_passages": [
+                        "Pelagic fish get their name from the area that they inhabit called the pelagic zone."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-4765944e972600bb2e93f3c2",
+            "subject_id": "source-0c3dcfdbbf17a07c43f8bd98701f8a52",
+            "collected_at": "2026-10-29T05:35:02+00:00",
+            "sources": [
+                {
+                    "label": "Exploratorium · Science of Cooking",
+                    "url": "https://annex.exploratorium.edu/cooking/icooks/11-11-02.html"
+                }
+            ],
+            "source_sha256": "71f9ab6833ba91e97ea0229587b073399c95076ab71e710316fc84129fd5ca81",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Levinus_Tollenaar_-_bread_dough_is_baked_in_the_oven_into_bread.jpg",
+            "image_license": "CC BY 3.0 · https://creativecommons.org/licenses/by/3.0/",
+            "original_sha1": "64a0b6baacefcdab668a5d31c3bd74d3f7f0748b",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "fact_checks": [
+                {
+                    "sentence": "La fabrication du pain requiert l'adaptation précise du geste selon le type de levure utilisée.",
+                    "source_passages": [
+                        "We invite you to visit the bread section of this site to read about activating yeast, to watch what's happening as you knead dough, and find recipes for a basic raised bread and the Ethiopian flatbread, Injera."
+                    ]
+                },
+                {
+                    "sentence": "Trois principales variétés existent : levure sèche active, levure rapide et levure fraîche.",
+                    "source_passages": [
+                        "At the Science of Cooking Web-site, we can help you do this."
+                    ]
+                },
+                {
+                    "sentence": "Chacune demande une température de réhydratation spécifique, comme la levure sèche active qui se réactive idéalement entre 41 et 46 °C.",
+                    "source_passages": [
+                        "A digital thermometer is a small, worthwhile investment and that takes away the guesswork.",
+                        "3."
+                    ]
+                },
+                {
+                    "sentence": "De plus, la pâte doit être pétrie suffisamment longtemps pour activer le gluten, offrant élasticité et structure.",
+                    "source_passages": [
+                        "Knead until the dough springs back when you push down with the heels of your hands.",
+                        "It usually takes about ten minutes to knead by hand dough made from 5 to 7 cups of flour."
+                    ]
+                },
+                {
+                    "sentence": "Un pétrissage d'environ dix minutes est souvent nécessaire pour une pâte à base de 5 à 7 tasses de farine, jusqu’à ce que la pâte reprenne sa forme après pression.",
+                    "source_passages": [
+                        "Insufficient kneading is the most common reason for low volume.",
+                        "That's because kneading develops gluten, which gives bread the elasticity it needs to rise."
+                    ]
+                },
+                {
+                    "sentence": "Enfin, la levée a lieu idéalement entre 25 et 28 °C pour éviter goûts désagréables et fermentation incomplète.",
+                    "source_passages": [
+                        "Kneading also incorporates and divides air bubbles, which are the basis of a fine, even texture in the finished loaf.",
+                        "4."
+                    ]
+                },
+                {
+                    "sentence": "Ces variations thermique et mécanique influencent directement la réussite d’un pain léger et aéré.",
+                    "source_passages": [
+                        "The optimal temperature for dough to rise is between 78° - 82° F (25° - 28°C)."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-30e67e5ec3d0e7626c9f8408",
+            "subject_id": "source-ff0f7a6b6627118343819e6a0db1d7b7",
+            "collected_at": "2026-10-29T05:35:08+00:00",
+            "sources": [
+                {
+                    "label": "NOAA · What does the ocean have to do with human health?",
+                    "url": "https://oceanservice.noaa.gov/facts/ocean-human-health.html"
+                }
+            ],
+            "source_sha256": "0b33c64d53c0baef4c9ceaef12ba4eafa55cca2e0d1b3cdf480108211d028f3b",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Big_Creek_Canyon_and_ocean.jpg",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "a4749cd070d91540a1c92349fb3d172a6ed98bbc",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "fact_checks": [
+                {
+                    "sentence": "L’océan influence notre santé de multiples façons, au-delà de sa plage.",
+                    "source_passages": [
+                        "What does the ocean have to do with human health?",
+                        "Our ocean and coasts affect us all!"
+                    ]
+                },
+                {
+                    "sentence": "Il fournit de la nourriture via la pêche, soutient des millions d’emplois et sert de régulateur climatique.",
+                    "source_passages": [
+                        "Consider the economy.",
+                        "Through the fishing and boating industry, tourism and recreation, and ocean transport, our coastal and marine waters support millions of jobs."
+                    ]
+                },
+                {
+                    "sentence": "En retour, la santé humaine et celle des écosystèmes marins sont liées : la pollution et les proliférations d’algues toxiques peuvent contaminer les fruits de mer et les plages, affectant notre bien-être.",
+                    "source_passages": [
+                        "Then there's travel and tourism."
+                    ]
+                },
+                {
+                    "sentence": "Les mammifères marins, vivant toute leur vie en milieu marin, permettent d’observer des indicateurs précoces de menaces potentielles, aidant la recherche et la protection.",
+                    "source_passages": [
+                        "But increasingly, the health of the ocean is intimately tied to our health.",
+                        "One sign of an ocean in distress is an increase in beach or shellfish harvesting closures across the nation."
+                    ]
+                },
+                {
+                    "sentence": "Par ailleurs, les ressources marines offrent des composés médicinaux prometteurs, essentiels pour développer des traitements.",
+                    "source_passages": [
+                        "Just as we can threaten the health of our ocean, so, too, can our ocean threaten our health."
+                    ]
+                },
+                {
+                    "sentence": "Ainsi, la compréhension et la protection de cet environnement fragile sont cruciales pour nos vies.",
+                    "source_passages": [
+                        "U.S."
+                    ]
+                },
+                {
+                    "sentence": "La réserve Landels-Hill Big Creek en Californie illustre ces liens entre terre, mer et santé.",
+                    "source_passages": [
+                        "These products and services include predictions for harmful algal blooms and harmful microbes to reduce exposure to contaminated seafood, and early warning systems for contaminated beaches and drinking water sources to protect and prevent human illness."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        }
+    ]
+}
