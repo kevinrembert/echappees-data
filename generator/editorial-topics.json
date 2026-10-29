@@ -66,5 +66,32 @@
     "category": "Voyages et paysages",
     "kind": "evergreen",
     "country": "France"
+  },
+  {
+    "wiki_title": "Pétrir pour donner de l’élasticité à une pâte",
+    "source_url": "https://annex.exploratorium.edu/cooking/bread/activity-gluten.html",
+    "source_label": "Exploratorium · Science of Cooking",
+    "photo_query": "bread dough kneading",
+    "category": "Gastronomie et traditions",
+    "kind": "culinary",
+    "country": "Monde"
+  },
+  {
+    "wiki_title": "Adapter son geste au type de levure",
+    "source_url": "https://annex.exploratorium.edu/cooking/icooks/11-11-02.html",
+    "source_label": "Exploratorium · Science of Cooking",
+    "photo_query": "baker bread dough",
+    "category": "Gastronomie et traditions",
+    "kind": "culinary",
+    "country": "Monde"
+  },
+  {
+    "wiki_title": "Comprendre les cristaux de sucre en confiserie",
+    "source_url": "https://annex.exploratorium.edu/cooking/candy/sugar.html",
+    "source_label": "Exploratorium · Science of Cooking",
+    "photo_query": "sugar crystals cooking",
+    "category": "Gastronomie et traditions",
+    "kind": "culinary",
+    "country": "Monde"
   }
 ]

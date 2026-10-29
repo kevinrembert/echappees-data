@@ -27,8 +27,10 @@ final class Generator {
         try {
             $recent = jsonFile($this->root . '/generator/recent.json');
             try { $recent = [...$recent, ...$sources->recent()]; } catch (\Throwable) { echo "Flux récent indisponible : poursuite avec les sources disponibles.\n"; }
+            $discovered = [];
+            try { $discovered = $sources->discover(0); } catch (\Throwable) { echo "Index NOAA indisponible : poursuite avec les autres sources.\n"; }
             $externalFile = $this->root . '/generator/editorial-topics.json';
-            $topics = [...(is_file($externalFile) ? jsonFile($externalFile) : []), ...$recent, ...jsonFile($this->root . '/generator/topics.json')];
+            $topics = [...(is_file($externalFile) ? jsonFile($externalFile) : []), ...$discovered, ...$recent, ...jsonFile($this->root . '/generator/topics.json')];
             $groups = [];
             foreach ($topics as $topic) $groups[$topic['category'] ?? 'Divers'][] = $topic;
             $topics = [];
@@ -42,7 +44,7 @@ final class Generator {
             $knownTitles = array_map(static fn(array $a): string => $a['title'], $history);
             $openings = array_map(static fn(array $a): string => mb_substr($a['body'], 0, 160), $history);
             $usedTitles = array_fill_keys(['ainhoa', 'porto', 'machu picchu', 'récif corallien', 'glacier'], true);
-            $deadline = time() + 1200; $attempts = 0; $round = 0; $tried = [];
+            $deadline = time() + 1200; $attempts = 0; $round = 1; $tried = [];
             for ($cursor = 0; count($articles) < $entry['count'] && $attempts < 180 && time() < $deadline; $cursor++) {
                 if (!isset($topics[$cursor])) {
                     if ($round >= 14) break;
@@ -79,7 +81,7 @@ final class Generator {
                         'sources'=>$source['sources'], 'source_sha256'=>hash('sha256', json_encode($source, JSON_THROW_ON_ERROR)),
                         'image_source_url'=>$source['photo']['source_url'], 'image_license'=>$source['photo']['license'],
                         'original_sha1'=>$source['photo']['original_sha1'], 'model'=>$this->config['model'],
-                        'review'=>'automated-approved', 'modifications'=>'Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82.'];
+                        'review'=>'automated-approved', 'fact_checks'=>$writer->factChecks(), 'modifications'=>'Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82.'];
                 } catch (\Throwable $error) {
                     if ($error instanceof RemoteFailure && $error->paidPost) throw $error;
                     $skipped++;

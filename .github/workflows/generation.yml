@@ -7,7 +7,7 @@ on:
       - 'generator/config.json'
       - 'generator/editorial-topics.json'
   schedule:
-    - cron: '0 1 * * *'
+    - cron: '17 1,5,9 * * *'
       timezone: Europe/Paris
   workflow_dispatch:
     inputs:
@@ -29,6 +29,7 @@ jobs:
     timeout-minutes: 30
     outputs:
       deploy: ${{ steps.publish.outputs.deploy }}
+      incomplete: ${{ steps.generation.outputs.incomplete }}
     env:
       GENERATION_ENABLED: ${{ vars.GENERATION_ENABLED || 'false' }}
     steps:
@@ -107,3 +108,12 @@ jobs:
     needs: generate
     if: needs.generate.outputs.deploy == 'true'
     uses: ./.github/workflows/pages.yml
+  quota:
+    needs: [generate, pages]
+    if: always() && needs.generate.result == 'success' && needs.generate.outputs.incomplete == 'true'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Signaler le quota incomplet après publication des articles validés
+        run: |
+          echo '::error title=Quota quotidien incomplet::Les articles validés ont été conservés. Le prochain passage complétera uniquement les places restantes, sous les mêmes plafonds de budget et de contrôle.'
+          exit 1

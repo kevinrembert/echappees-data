@@ -50,6 +50,8 @@ try {
         $report = $generator->run($run, getenv('OPENAI_API_KEY') ?: '');
         echo json_encode($report, JSON_UNESCAPED_UNICODE | JSON_THROW_ON_ERROR) . "\n";
         if ($report['published'] < $report['target']) {
+            $output = getenv('GITHUB_OUTPUT');
+            if ($output) file_put_contents($output, "incomplete=true\n", FILE_APPEND | LOCK_EX);
             echo '::warning title=Quota quotidien incomplet::' . $report['published'] . '/' . $report['target'] . ' articles validés ; vérifier les motifs de rejet et la disponibilité des sources.' . "\n";
         }
     }

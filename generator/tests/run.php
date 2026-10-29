@@ -58,6 +58,8 @@ final class FakeHttp implements Transport {
     public bool $discoveryUnavailable = false;
     public bool $wikiUnavailable = false;
     public bool $badEvidence = false;
+    public string $evidenceFault = '';
+    public bool $noaaIndex = false;
     public function request(string $url, ?array $payload = null, ?string $token = null, int $maxBytes = 4194304): array {
         global $sourceRoot;
         if ($payload !== null) {
@@ -80,14 +82,17 @@ final class FakeHttp implements Transport {
                 $value = array_fill_keys(['approved', 'supported_facts', 'french', 'positive', 'photo_honest', 'not_duplicate'], $this->approve);
                 $value['reason'] = 'Fixture uniquement.';
                 $input = json_decode($payload['input'], true);
-                $quote = mb_substr($input['source']['excerpt'], 0, 80);
-                $value['evidence'] = array_map(fn($sentence)=>['claim'=>$sentence, 'quote'=>$this->badEvidence ? 'Citation absente des sources de fixture' : $quote],
-                    preg_split('/(?<=[.!?])\s+/u', trim($input['draft']['body']), -1, PREG_SPLIT_NO_EMPTY));
+                $value['evidence'] = array_map(fn($index)=>['sentence_index'=>$index, 'passage_ids'=>[$this->badEvidence ? 999999 : 0]],
+                    array_keys($input['draft_sentences']));
+                if ($this->evidenceFault === 'missing') array_pop($value['evidence']);
+                if ($this->evidenceFault === 'duplicate') $value['evidence'][] = $value['evidence'][0];
+                if ($this->evidenceFault === 'empty') $value['evidence'][0]['passage_ids'] = [];
             }
             return ['body'=>json_encode(['status'=>'completed', 'usage'=>['input_tokens'=>1000, 'output_tokens'=>300],
                 'output'=>[['content'=>[['type'=>'output_text', 'text'=>json_encode($value, JSON_THROW_ON_ERROR)]]]]], JSON_THROW_ON_ERROR), 'type'=>'application/json'];
         }
         $this->gets[] = $url;
+        if (str_starts_with($url, 'https://oceanservice.noaa.gov/')) return ['body'=>$this->noaaIndex ? '<html><body><a href="/facts/biolum.html">What is bioluminescence?</a><a href="https://evil.invalid/facts/evil.html">Untrusted external topic</a><a href="/facts/oceanfacts-science.html">Index science</a></body></html>' : '<html><body></body></html>', 'type'=>'text/html'];
         if ($url === 'https://www.nasa.gov/fixture' || $url === 'https://www.inrae.fr/fixture') return ['body'=>'<html><head><meta property="article:published_time" content="' . gmdate('Y-m-d') . 'T00:00:00Z"></head><body><article>' . jsonFile($sourceRoot . '/data/batches/demo-a.v2.json')['articles'][1]['body'] . '</article></body></html>', 'type'=>'text/html'];
         if ($url === 'https://www.nasa.gov/news-release/feed/') return ['body'=>'<rss><channel/></rss>', 'type'=>'application/rss+xml'];
         if (str_starts_with($url, 'https://upload.wikimedia.org/')) return ['body'=>file_get_contents($sourceRoot . '/data/images/porto.jpg'), 'type'=>'image/jpeg'];
@@ -360,11 +365,35 @@ try {
         ensure(!array_filter($http->gets, static fn($url)=>str_contains($url, 'fr.wikipedia.org')) && $http->calls === 0, 'Dépendance Wikipédia ou appel rédactionnel en collecte.');
         rejects(fn()=>(new Sources($http, config($root)))->collect(['wiki_title'=>'Invalide', 'source_url'=>'https://evil.invalid/recipe']));
     });
-    test('Une revue approuvée avec une citation inventée ne publie pas l’article', function (): void {
+    test('Une revue approuvée avec un passage source inexistant ne publie pas l’article', function (): void {
         [$root, $c, $b, $http] = prepared(); $http->badEvidence = true;
         $report = (new Generator($root, $c, $http, $b))->run('100', 'fixture-only-not-a-secret');
-        ensure($report['published'] === 0, 'Une citation non vérifiable a été acceptée.');
+        ensure($report['published'] === 0, 'Un passage source inexistant a été accepté.');
     });
+    test('Une phrase oubliée, dupliquée ou sans passage bloque la revue', function (): void {
+        foreach (['missing', 'duplicate', 'empty'] as $fault) {
+            [$root, $c, $b, $http] = prepared(); $b->start('100'); $http->evidenceFault = $fault;
+            $source = (new Sources($http, $c))->collect(['wiki_title'=>'Fixture']);
+            rejects(fn()=>(new Writer($http, $b, $c, '100', 'fixture-only-not-a-secret'))->write($source, []));
+        }
+    });
+    test('Chaque justificatif conservé provient exactement du document fourni', function (): void {
+        [$root, $c, $b, $http] = prepared(); $b->start('100');
+        $source = (new Sources($http, $c))->collect(['wiki_title'=>'Fixture']);
+        $writer = new Writer($http, $b, $c, '100', 'fixture-only-not-a-secret');
+        $draft = $writer->write($source, []);
+        ensure(count($writer->factChecks()) > 0, 'Audit vide.');
+        foreach ($writer->factChecks() as $check) {
+            ensure(str_contains($draft['body'], $check['sentence']), 'Phrase altérée.');
+            foreach ($check['source_passages'] as $passage) ensure(str_contains(Echappees\plain($source['excerpt']), $passage), 'Passage inventé.');
+        }
+    });
+    test('Le réservoir NOAA fournit des sources primaires sans lien externe ni page index', function (): void {
+        $root = fixture(); $http = new FakeHttp(); $http->noaaIndex = true;
+        $topics = (new Sources($http, config($root)))->discover(0);
+        ensure(count($topics) === 1 && $topics[0]['source_url'] === 'https://oceanservice.noaa.gov/facts/biolum.html', 'Découverte NOAA incorrecte.');
+    });
+
 } finally {
     putenv('GITHUB_ACTIONS'); putenv('GENERATION_ENABLED');
     foreach ($directories as $dir) if (is_dir($dir)) removeTree($dir);

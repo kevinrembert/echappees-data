@@ -146,7 +146,26 @@ final class Sources {
             'license_url'=>$licenseUrl, 'original_sha1'=>$info['sha1'] ?? ''];
     }
     public function discover(int $round = 0): array {
-        if ($round === 0 || $round === 7) {
+        if ($round === 0) {
+            [, $xpath] = $this->document('https://oceanservice.noaa.gov/facts/oceanfacts-oceanlife.html');
+            $topics = [];
+            foreach ($xpath->query('//a[@href]') as $link) {
+                $href = $link->getAttribute('href');
+                $parts = parse_url($href);
+                if (!is_array($parts) || (isset($parts['host']) && $parts['host'] !== 'oceanservice.noaa.gov')) continue;
+                $path = $parts['path'] ?? '';
+                if (!str_starts_with($path, '/')) $path = '/facts/' . $path;
+                if (preg_match('~^/facts/[a-z0-9-]+\.html$~D', $path) !== 1 || str_contains($path, 'oceanfacts-')) continue;
+                $title = plain($link->textContent);
+                if (mb_strlen($title) < 10 || mb_strlen($title) > 180) continue;
+                $url = 'https://oceanservice.noaa.gov' . $path;
+                $topics[$url] = ['wiki_title'=>$title, 'source_url'=>$url, 'source_label'=>'NOAA · ' . $title,
+                    'photo_query'=>$title, 'country'=>'Monde', 'kind'=>'evergreen', 'category'=>'Nature et animaux'];
+            }
+            uksort($topics, static fn(string $a, string $b): int => strcmp(hash('sha256', gmdate('Y-m-d') . $a), hash('sha256', gmdate('Y-m-d') . $b)));
+            return array_slice(array_values($topics), 0, 20);
+        }
+        if ($round === 7) {
             [$document, $xpath] = $this->document('https://whc.unesco.org/en/list/');
             $topics = [];
             foreach ($xpath->query('//a[@href]') as $link) {
