@@ -25,3 +25,6 @@ jobs:
       - name: Diagnostic des métadonnées publiques sans appel OpenAI
         if: github.event_name == 'push'
         run: php generator/cli.php probe
+      - name: Diagnostic RSS et Atom sans appel OpenAI
+        if: github.event_name == 'push'
+        run: php generator/cli.php feeds

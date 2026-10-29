@@ -12,10 +12,15 @@ try {
     ensure(PHP_VERSION_ID >= 80400, 'PHP 8.4 ou supérieur requis.');
     foreach (['curl', 'mbstring', 'dom', 'SimpleXML', 'gd'] as $extension) ensure(extension_loaded($extension), 'Extension PHP manquante : ' . $extension);
     $command = $argv[1] ?? 'plan';
-    ensure(in_array($command, ['validate', 'plan', 'probe', 'reserve', 'generate'], true), 'Commande attendue : validate, plan, probe, reserve ou generate.');
+    ensure(in_array($command, ['validate', 'plan', 'probe', 'feeds', 'reserve', 'generate'], true), 'Commande attendue : validate, plan, probe, feeds, reserve ou generate.');
     $config = config($root); $catalog = new Catalog($root);
     if ($command === 'validate') {
         echo count($catalog->index['batches']) . ' lots, ' . count($catalog->articles) . " publications valides.\n"; exit(0);
+    }
+    if ($command === 'feeds') {
+        $topics = (new Sources(new Http($config['contact']), $config))->recent();
+        echo count($topics) . " candidats RSS/Atom, aucun appel OpenAI.\n";
+        exit(0);
     }
     if ($command === 'probe') {
         $report = (new Sources(new Http($config['contact']), $config))->probe(Echappees\jsonFile($root . '/generator/topics.json'));

@@ -1,0 +1,50 @@
+[
+  {
+    "label": "NASA",
+    "url": "https://www.nasa.gov/news-release/feed/",
+    "article_hosts": [
+      "www.nasa.gov"
+    ],
+    "category": "Sciences"
+  },
+  {
+    "label": "ESA",
+    "url": "https://www.esa.int/rssfeed/Our_Activities/Space_Science",
+    "article_hosts": [
+      "www.esa.int"
+    ],
+    "category": "Sciences"
+  },
+  {
+    "label": "CNRS · presse",
+    "url": "https://www.cnrs.fr/fr/rss/press.rss",
+    "article_hosts": [
+      "www.cnrs.fr"
+    ],
+    "category": "Sciences"
+  },
+  {
+    "label": "CNRS · vivant",
+    "url": "https://lejournal.cnrs.fr/rss/4",
+    "article_hosts": [
+      "lejournal.cnrs.fr"
+    ],
+    "category": "Nature et animaux"
+  },
+  {
+    "label": "CNRS · sociétés",
+    "url": "https://lejournal.cnrs.fr/rss/5",
+    "article_hosts": [
+      "lejournal.cnrs.fr"
+    ],
+    "category": "Histoire et patrimoine"
+  },
+  {
+    "label": "Université de Strasbourg",
+    "url": "https://www.unistra.fr/actualites/rss.xml",
+    "article_hosts": [
+      "www.unistra.fr"
+    ],
+    "category": "Initiatives positives"
+  }
+]

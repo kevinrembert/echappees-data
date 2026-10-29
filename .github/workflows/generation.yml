@@ -6,6 +6,7 @@ on:
       - 'generator/src/**'
       - 'generator/config.json'
       - 'generator/editorial-topics.json'
+      - 'generator/feeds.json'
   schedule:
     - cron: '17 1,5,9 * * *'
       timezone: Europe/Paris

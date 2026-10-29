@@ -394,6 +394,40 @@ try {
         ensure(count($topics) === 1 && $topics[0]['source_url'] === 'https://oceanservice.noaa.gov/facts/biolum.html', 'Découverte NOAA incorrecte.');
     });
 
+    test('RSS, RDF et Atom respectent dates, hôtes autorisés et déduplication', function (): void {
+        $feed = ['label'=>'Fixture', 'article_hosts'=>['www.nasa.gov'], 'category'=>'Sciences'];
+        $now = strtotime('2026-10-29T12:00:00Z');
+        $rss = '<rss><channel><item><title>Nouvelle découverte</title><link>https://www.nasa.gov/test</link><pubDate>2026-10-28</pubDate></item><item><title>Doublon de découverte</title><link>https://www.nasa.gov/test</link><pubDate>2026-10-28</pubDate></item><item><title>Ancienne découverte</title><link>https://www.nasa.gov/old</link><pubDate>2020-01-01</pubDate></item><item><title>Source non autorisée</title><link>https://evil.invalid/test</link><pubDate>2026-10-28</pubDate></item><item><title>Date future</title><link>https://www.nasa.gov/future</link><pubDate>2027-01-01</pubDate></item></channel></rss>';
+        ensure(count(Echappees\Feeds::parse($rss, $feed, 30, $now)) === 1, 'Filtrage RSS incorrect.');
+        $atom = '<feed xmlns="http://www.w3.org/2005/Atom"><entry><title>Découverte Atom</title><link rel="self" href="https://evil.invalid/self"/><link rel="alternate" href="https://www.nasa.gov/atom"/><published>2026-10-28T10:00:00Z</published><updated>2026-10-29T11:00:00Z</updated></entry></feed>';
+        $items = Echappees\Feeds::parse($atom, $feed, 30, $now);
+        ensure(count($items) === 1 && $items[0]['source_published_at'] === '2026-10-28' && $items[0]['source_url'] === 'https://www.nasa.gov/atom', 'Atom incorrect.');
+        $rdf = '<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/"><item><title>Découverte RDF</title><link>https://www.nasa.gov/rdf</link><dc:date>2026-10-28</dc:date></item></rdf:RDF>';
+        ensure(count(Echappees\Feeds::parse($rdf, $feed, 30, $now)) === 1, 'Date RDF perdue.');
+        rejects(fn()=>Echappees\Feeds::parse('<!DOCTYPE rss [<!ENTITY x SYSTEM "file:///etc/passwd">]><rss/>', $feed, 30, $now));
+        rejects(fn()=>Echappees\Feeds::parse('<html>Erreur du serveur</html>', $feed, 30, $now));
+        ensure(Echappees\Feeds::parse(str_replace(['<published>', '</published>'], ['<updated>', '</updated>'], $atom), $feed, 30, $now) === [], 'Une mise à jour a été prise pour une publication.');
+    });
+    test('Les sous-domaines CNRS partagent un fournisseur et la sélection répartit les sujets', function (): void {
+        ensure(Echappees\Feeds::provider('https://lejournal.cnrs.fr/test') === Echappees\Feeds::provider('https://www.cnrs.fr/test'), 'CNRS compté deux fois.');
+        $topics = [['source_url'=>'https://oceanservice.noaa.gov/a', 'category'=>'Sciences'], ['source_url'=>'https://www.esa.int/a', 'category'=>'Sciences']];
+        ensure(Echappees\Feeds::next($topics, ['oceanservice.noaa.gov'=>3], []) === 1, 'Le fournisseur déjà dominant est prioritaire.');
+    });
+
+    test('Un flux refusé ne bloque pas le suivant et les résumés ne sont pas des preuves', function (): void {
+        $http = new class implements Transport {
+            public function request(string $url, ?array $payload = null, ?string $token = null, int $maxBytes = 4194304): array {
+                if (str_contains($url, 'bad')) throw new Echappees\RemoteFailure(false, 403, '', 'www.nasa.gov');
+                return ['body'=>'<rss><channel><item><title>Découverte vérifiable</title><link>https://www.nasa.gov/article</link><pubDate>' . gmdate(DATE_RSS) . '</pubDate><description>Résumé insuffisant.</description></item></channel></rss>', 'type'=>'application/rss+xml'];
+            }
+        };
+        $base = ['label'=>'Fixture', 'article_hosts'=>['www.nasa.gov'], 'category'=>'Sciences'];
+        $topics = (new Echappees\Feeds($http, config(fixture())))->collect([
+            [...$base, 'url'=>'https://www.nasa.gov/bad'], [...$base, 'url'=>'https://www.nasa.gov/good'],
+        ]);
+        ensure(count($topics) === 1 && !isset($topics[0]['excerpt']) && !isset($topics[0]['body']), 'Le flux indisponible bloque la collecte ou le résumé remplace le document.');
+    });
+
 } finally {
     putenv('GITHUB_ACTIONS'); putenv('GENERATION_ENABLED');
     foreach ($directories as $dir) if (is_dir($dir)) removeTree($dir);

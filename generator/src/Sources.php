@@ -193,22 +193,6 @@ final class Sources {
             'country'=>'Monde', 'kind'=>'evergreen'], $result['query']['search'] ?? []);
     }
     public function recent(): array {
-        $xml = $this->http->request('https://www.nasa.gov/news-release/feed/', maxBytes: 2097152)['body'];
-        ensure(!str_contains(strtoupper($xml), '<!DOCTYPE') && !str_contains(strtoupper($xml), '<!ENTITY'), 'Flux XML non autorisé.');
-        $previous = libxml_use_internal_errors(true);
-        $rss = simplexml_load_string($xml, 'SimpleXMLElement', LIBXML_NONET);
-        libxml_clear_errors(); libxml_use_internal_errors($previous);
-        ensure($rss !== false, 'Flux récent invalide.');
-        $topics = [];
-        foreach ($rss->channel->item ?? [] as $item) {
-            $date = strtotime((string)$item->pubDate);
-            if (!$date || $date > time() || $date < time() - $this->config['source_max_age_days'] * 86400) continue;
-            $url = https((string)$item->link, ['www.nasa.gov']);
-            $title = mb_substr(plain((string)$item->title), 0, 180);
-            if ($title !== '') $topics[] = ['wiki_title'=>$title, 'photo_query'=>$title, 'source_label'=>'NASA · communiqué',
-                'kind'=>'recent', 'country'=>'Monde', 'source_url'=>$url, 'source_published_at'=>gmdate('Y-m-d', $date)];
-            if (count($topics) >= 5) break;
-        }
-        return $topics;
+        return (new Feeds($this->http, $this->config))->collect(jsonFile(dirname(__DIR__) . '/feeds.json'));
     }
 }

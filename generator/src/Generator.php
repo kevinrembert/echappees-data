@@ -30,20 +30,20 @@ final class Generator {
             $discovered = [];
             try { $discovered = $sources->discover(0); } catch (\Throwable) { echo "Index NOAA indisponible : poursuite avec les autres sources.\n"; }
             $externalFile = $this->root . '/generator/editorial-topics.json';
-            $topics = [...(is_file($externalFile) ? jsonFile($externalFile) : []), ...$discovered, ...$recent, ...jsonFile($this->root . '/generator/topics.json')];
-            $groups = [];
-            foreach ($topics as $topic) $groups[$topic['category'] ?? 'Divers'][] = $topic;
-            $topics = [];
-            while (array_filter($groups)) {
-                foreach ($groups as &$group) if ($group !== []) $topics[] = array_shift($group);
-                unset($group);
-            }
+            $topics = [...$recent, ...(is_file($externalFile) ? jsonFile($externalFile) : []), ...$discovered, ...jsonFile($this->root . '/generator/topics.json')];
             // Les lots sont listés du plus récent au plus ancien : remettre les
             // précédents textes dans l'autre sens pour garder les plus récents en fin.
             $history = array_reverse(array_values($catalog->articles));
             $knownTitles = array_map(static fn(array $a): string => $a['title'], $history);
             $openings = array_map(static fn(array $a): string => mb_substr($a['body'], 0, 160), $history);
             $usedTitles = array_fill_keys(['ainhoa', 'porto', 'machu picchu', 'récif corallien', 'glacier'], true);
+            $providers = []; $categories = [];
+            foreach ($catalog->articles as $article) {
+                if (($article['published_at'] ?? '') !== quotaDate($this->config)) continue;
+                $provider = Feeds::provider($article['sources'][0]['url']);
+                $providers[$provider] = ($providers[$provider] ?? 0) + 1;
+                $categories[$article['category']] = ($categories[$article['category']] ?? 0) + 1;
+            }
             $deadline = time() + 1200; $attempts = 0; $round = 1; $tried = [];
             for ($cursor = 0; count($articles) < $entry['count'] && $attempts < 180 && time() < $deadline; $cursor++) {
                 if (!isset($topics[$cursor])) {
@@ -55,6 +55,9 @@ final class Generator {
                     if (!isset($topics[$cursor])) { $cursor--; continue; }
                 }
                 if ($this->budget->entry($run)['calls'] + 2 > $entry['max_calls']) break;
+                $remaining = array_slice($topics, $cursor, null, true);
+                $next = Feeds::next($remaining, $providers, $categories);
+                [$topics[$cursor], $topics[$next]] = [$topics[$next], $topics[$cursor]];
                 $topic = $topics[$cursor]; $titleKey = fingerprint($topic['topic_key'] ?? $topic['wiki_title'] ?? '');
                 if ($titleKey === '' || isset($usedTitles[$titleKey]) || isset($state['subjects']['title:' . $titleKey])) continue;
                 if (isset($tried[$titleKey])) continue;
@@ -73,6 +76,9 @@ final class Generator {
                         'sources'=>$source['sources'], 'subject_id'=>$source['subject_id'], 'published_at'=>gmdate('Y-m-d'), 'country'=>$source['country']];
                     if ($source['kind'] === 'recent') $article['source_published_at'] = $source['source_published_at'];
                     Catalog::validateArticle($article);
+                    $provider = Feeds::provider($article['sources'][0]['url']);
+                    $providers[$provider] = ($providers[$provider] ?? 0) + 1;
+                    $categories[$article['category']] = ($categories[$article['category']] ?? 0) + 1;
                     $articles[] = $article; $knownTitles[] = $article['title'];
                     $openings[] = mb_substr($article['body'], 0, 160);
                     $state['subjects'][$source['subject_id']] = $id; $state['subjects']['title:' . $titleKey] = $id;

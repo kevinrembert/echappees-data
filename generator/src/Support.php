@@ -76,7 +76,7 @@ final class RemoteFailure extends RuntimeException {
         $service = match ($host) {
             'api.openai.com'=>'OpenAI', 'fr.wikipedia.org'=>'Wikipédia',
             'commons.wikimedia.org', 'upload.wikimedia.org', 'thumb.wikimedia.org'=>'Wikimedia Commons',
-            'www.nasa.gov'=>'NASA', default=>'Service distant',
+            'www.nasa.gov'=>'NASA', default=>($host !== '' ? $host : 'Service distant'),
         };
         $detail = '';
         if ($paidPost && $host === 'api.openai.com') {
@@ -104,7 +104,7 @@ interface Transport {
 }
 
 final class Http implements Transport {
-    public const EDITORIAL_HOSTS = ['www.nasa.gov', 'www.esa.int', 'www.cnrs.fr', 'www.inrae.fr', 'icmpg.hub.inrae.fr', 'www.anses.fr', 'www.mangerbouger.fr', 'whc.unesco.org', 'www.kew.org', 'www.nhm.ac.uk', 'www.nps.gov', 'oceanservice.noaa.gov', 'www.exploratorium.edu', 'annex.exploratorium.edu', 'www.seriouseats.com'];
+    public const EDITORIAL_HOSTS = ['lejournal.cnrs.fr', 'www.unistra.fr', 'www.nasa.gov', 'www.esa.int', 'www.cnrs.fr', 'www.inrae.fr', 'icmpg.hub.inrae.fr', 'www.anses.fr', 'www.mangerbouger.fr', 'whc.unesco.org', 'www.kew.org', 'www.nhm.ac.uk', 'www.nps.gov', 'oceanservice.noaa.gov', 'www.exploratorium.edu', 'annex.exploratorium.edu', 'www.seriouseats.com'];
     private const HOSTS = ['fr.wikipedia.org', 'commons.wikimedia.org', 'upload.wikimedia.org', 'thumb.wikimedia.org', 'api.openai.com', ...self::EDITORIAL_HOSTS];
     public function __construct(private readonly string $contact) {}
     public function request(string $url, ?array $payload = null, ?string $token = null, int $maxBytes = 4194304): array {
@@ -113,11 +113,12 @@ final class Http implements Transport {
         $headers = ['Accept: application/json, text/html, application/rss+xml, application/xml', 'User-Agent: EchappeesContent/1.0 (' . $this->contact . ')'];
         if ($payload !== null) $headers[] = 'Content-Type: application/json';
         if ($token !== null) $headers[] = 'Authorization: Bearer ' . $token;
-        $attempts = $payload === null ? 3 : 1; // Un POST incertain n'est jamais rejoué.
+        $isFeed = preg_match('~(?:/rss|/feed|\.rss$|\.xml$)~i', (string)parse_url($url, PHP_URL_PATH)) === 1;
+        $attempts = $payload === null ? ($isFeed ? 2 : 3) : 1; // Un POST incertain n'est jamais rejoué.
         for ($attempt = 0; $attempt < $attempts; $attempt++) {
             $body = ''; $tooLarge = false;
             $ch = curl_init($url);
-            curl_setopt_array($ch, [CURLOPT_HTTPHEADER=>$headers, CURLOPT_CONNECTTIMEOUT=>15, CURLOPT_TIMEOUT=>60,
+            curl_setopt_array($ch, [CURLOPT_HTTPHEADER=>$headers, CURLOPT_CONNECTTIMEOUT=>($isFeed ? 10 : 15), CURLOPT_TIMEOUT=>($isFeed ? 20 : 60),
                 CURLOPT_FOLLOWLOCATION=>false, CURLOPT_PROTOCOLS=>CURLPROTO_HTTPS, CURLOPT_SSL_VERIFYPEER=>true,
                 CURLOPT_SSL_VERIFYHOST=>2, CURLOPT_WRITEFUNCTION=>static function ($ch, string $chunk) use (&$body, &$tooLarge, $maxBytes): int {
                     if (strlen($body) + strlen($chunk) > $maxBytes) { $tooLarge = true; return 0; }
