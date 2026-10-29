@@ -15,5 +15,15 @@
   "source_max_age_days": 30,
   "contact": "https://github.com/kevinrembert/echappees-data",
   "base_url": "https://kevinrembert.github.io/echappees-data/data/",
-  "timezone": "Europe/Paris"
+  "timezone": "Europe/Paris",
+  "editorial_mix": {
+    "recent": 7,
+    "evergreen": 2,
+    "culinary": 1
+  },
+  "test_batch": {
+    "id": "positive-v1-20261029",
+    "date": "2026-10-29",
+    "count": 10
+  }
 }

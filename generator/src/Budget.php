@@ -69,9 +69,18 @@ final class Budget {
         $e['reserved_usd'] = ceil(max(0, $e['charged_usd']) * 1000000) / 1000000;
         $this->save();
     }
+    public function usedMode(string $mode): int {
+        $sum = 0;
+        foreach ($this->ledger['runs'] as $e) {
+            if ($e['mode'] !== $mode) continue;
+            $sum += $e['status'] === 'failed' ? 0 : ($e['status'] === 'completed' ? ($e['published_count'] ?? $e['count']) : $e['count']);
+        }
+        return $sum;
+    }
     public function dailyUsed(): int {
         $sum = 0;
         foreach ($this->ledger['runs'] as $e) {
+            if (str_starts_with($e['mode'] ?? 'daily', 'test:')) continue;
             if (($e['quota_date'] ?? $e['date']) !== quotaDate($this->config)) continue;
             // Le workflow ne publie aucun lot quand la génération échoue. Les anciennes
             // entrées failed n'avaient pas encore de published_count ; leurs coûts restent conservés.

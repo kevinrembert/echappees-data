@@ -68,6 +68,15 @@ function config(string $root): array {
     https(text($c, 'contact', 500));
     https($c['base_url'], ['kevinrembert.github.io']);
     ensure(str_ends_with($c['base_url'], '/echappees-data/data/'), 'Base du catalogue invalide.');
+    if (isset($c['editorial_mix'])) {
+        ensure(array_keys($c['editorial_mix']) === ['recent', 'evergreen', 'culinary'] && array_sum($c['editorial_mix']) === $c['daily_count'], 'Répartition éditoriale invalide.');
+        foreach ($c['editorial_mix'] as $value) ensure(is_int($value) && $value > 0, 'Objectif éditorial invalide.');
+    }
+    if (isset($c['test_batch'])) {
+        $test = $c['test_batch'];
+        ensure(preg_match('/^[a-z0-9-]{1,60}$/D', $test['id'] ?? '') === 1 && preg_match('/^\d{4}-\d{2}-\d{2}$/D', $test['date'] ?? '') === 1
+            && ($test['count'] ?? 0) === 10, 'Demande de lot de test invalide.');
+    }
     return $c;
 }
 
@@ -104,7 +113,7 @@ interface Transport {
 }
 
 final class Http implements Transport {
-    public const EDITORIAL_HOSTS = ['lejournal.cnrs.fr', 'www.unistra.fr', 'www.nasa.gov', 'www.esa.int', 'www.cnrs.fr', 'www.inrae.fr', 'icmpg.hub.inrae.fr', 'www.anses.fr', 'www.mangerbouger.fr', 'whc.unesco.org', 'www.kew.org', 'www.nhm.ac.uk', 'www.nps.gov', 'oceanservice.noaa.gov', 'www.exploratorium.edu', 'annex.exploratorium.edu', 'www.seriouseats.com'];
+    public const EDITORIAL_HOSTS = ['www.positive.news', 'www.goodnewsnetwork.org', 'reasonstobecheerful.world', 'www.goodgoodgood.co', 'lejournal.cnrs.fr', 'www.unistra.fr', 'www.nasa.gov', 'www.esa.int', 'www.cnrs.fr', 'www.inrae.fr', 'icmpg.hub.inrae.fr', 'www.anses.fr', 'www.mangerbouger.fr', 'whc.unesco.org', 'www.kew.org', 'www.nhm.ac.uk', 'www.nps.gov', 'oceanservice.noaa.gov', 'www.exploratorium.edu', 'annex.exploratorium.edu', 'www.seriouseats.com'];
     private const HOSTS = ['fr.wikipedia.org', 'commons.wikimedia.org', 'upload.wikimedia.org', 'thumb.wikimedia.org', 'api.openai.com', ...self::EDITORIAL_HOSTS];
     public function __construct(private readonly string $contact) {}
     public function request(string $url, ?array $payload = null, ?string $token = null, int $maxBytes = 4194304): array {

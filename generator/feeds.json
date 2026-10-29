@@ -1,5 +1,37 @@
 [
   {
+    "label": "Positive News",
+    "url": "https://www.positive.news/feed/",
+    "article_hosts": [
+      "www.positive.news"
+    ],
+    "category": "Initiatives positives"
+  },
+  {
+    "label": "Good News Network",
+    "url": "https://www.goodnewsnetwork.org/feed/",
+    "article_hosts": [
+      "www.goodnewsnetwork.org"
+    ],
+    "category": "Initiatives positives"
+  },
+  {
+    "label": "Reasons to be Cheerful",
+    "url": "https://reasonstobecheerful.world/feed/",
+    "article_hosts": [
+      "reasonstobecheerful.world"
+    ],
+    "category": "Initiatives positives"
+  },
+  {
+    "label": "Good Good Good",
+    "url": "https://www.goodgoodgood.co/articles/rss.xml",
+    "article_hosts": [
+      "www.goodgoodgood.co"
+    ],
+    "category": "Initiatives positives"
+  },
+  {
     "label": "NASA",
     "url": "https://www.nasa.gov/news-release/feed/",
     "article_hosts": [

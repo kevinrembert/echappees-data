@@ -5,11 +5,18 @@ namespace Echappees;
 final class Generator {
     public function __construct(private readonly string $root, private readonly array $config,
         private readonly Transport $http, private readonly Budget $budget) {}
+    public function mode(): string {
+        $test = $this->config['test_batch'] ?? null;
+        if ($test && $test['date'] === quotaDate($this->config) && $this->budget->usedMode('test:' . $test['id']) < $test['count']) return 'test:' . $test['id'];
+        return 'daily';
+    }
     public function count(): int {
         $catalog = new Catalog($this->root);
         $remaining = $this->config['max_catalog_articles'] - count($catalog->articles);
+        $quota = $this->mode() === 'daily' ? $this->config['daily_count'] - $this->budget->dailyUsed()
+            : $this->config['test_batch']['count'] - $this->budget->usedMode($this->mode());
         return max(0, min($remaining, $this->config['max_per_run'],
-            $this->config['daily_count'] - $this->budget->dailyUsed(), intdiv($this->config['max_api_calls'], 2)));
+            $quota, intdiv($this->config['max_api_calls'], 2)));
     }
     public function run(string $run, string $key): array {
         ensure(getenv('GITHUB_ACTIONS') === 'true', 'Les appels OpenAI sont réservés à GitHub Actions.');
@@ -37,9 +44,12 @@ final class Generator {
             $knownTitles = array_map(static fn(array $a): string => $a['title'], $history);
             $openings = array_map(static fn(array $a): string => mb_substr($a['body'], 0, 160), $history);
             $usedTitles = array_fill_keys(['ainhoa', 'porto', 'machu picchu', 'récif corallien', 'glacier'], true);
-            $providers = []; $categories = [];
+            $providers = []; $categories = []; $mix = [];
             foreach ($catalog->articles as $article) {
                 if (($article['published_at'] ?? '') !== quotaDate($this->config)) continue;
+                if (($article['editorial_policy'] ?? '') === Editorial::VERSION && ($article['editorial_batch'] ?? 'daily') === $entry['mode']) {
+                    $kind = $article['editorial_kind']; $mix[$kind] = ($mix[$kind] ?? 0) + 1;
+                }
                 $provider = Feeds::provider($article['sources'][0]['url']);
                 $providers[$provider] = ($providers[$provider] ?? 0) + 1;
                 $categories[$article['category']] = ($categories[$article['category']] ?? 0) + 1;
@@ -56,7 +66,9 @@ final class Generator {
                 }
                 if ($this->budget->entry($run)['calls'] + 2 > $entry['max_calls']) break;
                 $remaining = array_slice($topics, $cursor, null, true);
-                $next = Feeds::next($remaining, $providers, $categories);
+                $eligible = Editorial::eligible($remaining, $mix, Editorial::limits($this->config));
+                if ($eligible === []) break;
+                $next = Feeds::next($eligible, $providers, $categories);
                 [$topics[$cursor], $topics[$next]] = [$topics[$next], $topics[$cursor]];
                 $topic = $topics[$cursor]; $titleKey = fingerprint($topic['topic_key'] ?? $topic['wiki_title'] ?? '');
                 if ($titleKey === '' || isset($usedTitles[$titleKey]) || isset($state['subjects']['title:' . $titleKey])) continue;
@@ -71,7 +83,8 @@ final class Generator {
                     $draft = $writer->write($source, $knownTitles, $openings);
                     ensure(!isset($catalog->titles[fingerprint($draft['title'])]) && !in_array(fingerprint($draft['title']), array_map(__NAMESPACE__ . '\\fingerprint', $knownTitles), true), 'Titre déjà publié.');
                     $photoUrl = $this->saveImage($source['photo']);
-                    $article = ['id'=>$id, ...$draft, 'image_url'=>$photoUrl, 'image_credit'=>$source['photo']['credit'],
+                    $kind = $source['kind'];
+                    $article = ['editorial_policy'=>Editorial::VERSION, 'editorial_kind'=>$kind, 'editorial_batch'=>$entry['mode'], 'id'=>$id, ...$draft, 'image_url'=>$photoUrl, 'image_credit'=>$source['photo']['credit'],
                         'image_license'=>$source['photo']['license'], 'image_source_url'=>$source['photo']['source_url'],
                         'sources'=>$source['sources'], 'subject_id'=>$source['subject_id'], 'published_at'=>gmdate('Y-m-d'), 'country'=>$source['country']];
                     if ($source['kind'] === 'recent') $article['source_published_at'] = $source['source_published_at'];
@@ -79,6 +92,7 @@ final class Generator {
                     $provider = Feeds::provider($article['sources'][0]['url']);
                     $providers[$provider] = ($providers[$provider] ?? 0) + 1;
                     $categories[$article['category']] = ($categories[$article['category']] ?? 0) + 1;
+                    $mix[$kind] = ($mix[$kind] ?? 0) + 1;
                     $articles[] = $article; $knownTitles[] = $article['title'];
                     $openings[] = mb_substr($article['body'], 0, 160);
                     $state['subjects'][$source['subject_id']] = $id; $state['subjects']['title:' . $titleKey] = $id;
@@ -87,7 +101,7 @@ final class Generator {
                         'sources'=>$source['sources'], 'source_sha256'=>hash('sha256', json_encode($source, JSON_THROW_ON_ERROR)),
                         'image_source_url'=>$source['photo']['source_url'], 'image_license'=>$source['photo']['license'],
                         'original_sha1'=>$source['photo']['original_sha1'], 'model'=>$this->config['model'],
-                        'review'=>'automated-approved', 'fact_checks'=>$writer->factChecks(), 'modifications'=>'Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82.'];
+                        'review'=>'automated-approved', 'positive_change'=>$writer->positiveChange(), 'fact_checks'=>$writer->factChecks(), 'modifications'=>'Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82.'];
                 } catch (\Throwable $error) {
                     if ($error instanceof RemoteFailure && $error->paidPost) throw $error;
                     $skipped++;

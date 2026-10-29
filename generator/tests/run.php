@@ -27,6 +27,9 @@ function fixture(): string {
     ]]);
     foreach (glob($sourceRoot . '/data/batches/*.json') as $file) copy($file, $root . '/data/batches/' . basename($file));
     copy($sourceRoot . '/generator/config.json', $root . '/generator/config.json');
+    $fixtureConfig = jsonFile($root . '/generator/config.json');
+    unset($fixtureConfig['editorial_mix'], $fixtureConfig['test_batch']);
+    atomicJson($root . '/generator/config.json', $fixtureConfig);
     atomicJson($root . '/generator/topics.json', [['wiki_title'=>'Sujet de test', 'kind'=>'evergreen', 'category'=>'Voyages et paysages', 'country'=>'Monde']]);
     atomicJson($root . '/generator/recent.json', []);
     return $root;
@@ -61,6 +64,7 @@ final class FakeHttp implements Transport {
     public string $evidenceFault = '';
     public bool $noaaIndex = false;
     public bool $dublinDate = false;
+    public bool $noPositiveChange = false;
     public function request(string $url, ?array $payload = null, ?string $token = null, int $maxBytes = 4194304): array {
         global $sourceRoot;
         if ($payload !== null) {
@@ -73,6 +77,7 @@ final class FakeHttp implements Transport {
                 $value['body'] = json_decode($payload['input'], true)['document']['wiki_title'] . '. ' . $value['body'];
                 $value['title'] = 'Une découverte documentaire de test';
                 if ($this->distinct) $value['title'] = 'Article sur ' . json_decode($payload['input'], true)['document']['wiki_title'];
+                $value['positive_change'] = $this->noPositiveChange ? '' : 'Résultat de fixture'; $value['beneficiaries'] = 'Bénéficiaires de fixture';
                 $value['category'] = 'Voyages et paysages'; $value['suitable'] = true;
                 if ($this->recent) {
                     $value['body'] .= ' Ce texte de test cite un communiqué publié le ' . gmdate('Y-m-d') . '.';
@@ -434,6 +439,33 @@ try {
         $source = (new Sources($http, config(fixture())))->collect(['wiki_title'=>'Actualité scientifique',
             'source_url'=>'https://www.nasa.gov/fixture', 'kind'=>'recent', 'source_published_at'=>gmdate('Y-m-d')]);
         ensure($source['source_published_at'] === gmdate('Y-m-d'), 'Date non confirmée.');
+    });
+
+    test('Sept nouvelles, deux découvertes et une astuce : aucun remplissage encyclopédique', function (): void {
+        $limits = ['recent'=>7, 'evergreen'=>2, 'culinary'=>1];
+        $topics = [['kind'=>'recent'], ['kind'=>'evergreen'], ['kind'=>'culinary']];
+        ensure(array_keys(Echappees\Editorial::eligible($topics, [], $limits)) === [0], 'Les nouvelles ne sont pas prioritaires.');
+        ensure(array_keys(Echappees\Editorial::eligible($topics, ['recent'=>7], $limits)) === [1,2], 'Les compléments ne sont pas disponibles.');
+        ensure(Echappees\Editorial::eligible([['kind'=>'evergreen'], ['kind'=>'culinary']], ['evergreen'=>2, 'culinary'=>1], $limits) === [], 'Le manque de nouvelles est compensé par des sujets intemporels.');
+    });
+    test('Le lot exceptionnel est plafonné, reprend le reliquat et ne modifie pas le quota quotidien', function (): void {
+        $root = fixture(); $c = config($root);
+        $c['test_batch'] = ['id'=>'essai', 'date'=>Echappees\quotaDate($c), 'count'=>10];
+        $b = new Budget($root . '/generator/state/budget.json', $c);
+        $b->reserve('1', 10, 'daily'); $b->start('1'); $b->finish('1', 'completed', 10);
+        $generator = new Generator($root, $c, new FakeHttp(), $b);
+        ensure($generator->count() === 10 && $generator->mode() === 'test:essai', 'Essai bloqué par le quota quotidien.');
+        $b->reserve('2', 10, 'test:essai'); $b->start('2'); $b->finish('2', 'completed', 6);
+        ensure($generator->count() === 4 && $b->dailyUsed() === 10, 'Reliquat ou quota quotidien incorrect.');
+        $b->reserve('3', 4, 'test:essai'); $b->start('3'); $b->finish('3', 'completed', 4);
+        ensure($generator->count() === 0 && $generator->mode() === 'daily', 'Lot exceptionnel rejoué.');
+    });
+    test('Une actualité sans amélioration concrète est refusée avant la revue', function (): void {
+        [$root, $c, $b, $http] = prepared(); $b->start('100'); $http->recent = true; $http->noPositiveChange = true;
+        $source = (new Sources($http, $c))->collect(['wiki_title'=>'Actualité', 'source_url'=>'https://www.nasa.gov/fixture',
+            'kind'=>'recent', 'source_published_at'=>gmdate('Y-m-d')]);
+        rejects(fn()=>(new Writer($http, $b, $c, '100', 'fixture-only-not-a-secret'))->write($source, []));
+        ensure($http->calls === 1, 'Une actualité sans résultat a atteint la revue.');
     });
 
 } finally {
