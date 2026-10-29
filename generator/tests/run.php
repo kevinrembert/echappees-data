@@ -71,7 +71,9 @@ final class FakeHttp implements Transport {
             $this->calls++; $this->payloads[] = $payload;
             ensure($url === 'https://api.openai.com/v1/responses' && $token === 'fixture-only-not-a-secret', 'Mauvaise destination des appels.');
             if ($this->timeout) throw new Echappees\RemoteFailure(true, 0);
-            if ($payload['text']['format']['name'] === 'echappees_article') {
+            if ($payload['text']['format']['name'] === 'echappees_selection') {
+                $value = ['suitable'=>!$this->noPositiveChange, 'positive_change'=>'Fixture', 'beneficiaries'=>'Fixture', 'photo_query'=>'Porto buildings'];
+            } elseif ($payload['text']['format']['name'] === 'echappees_article') {
                 $article = jsonFile($sourceRoot . '/data/batches/demo-a.v2.json')['articles'][1];
                 $value = array_intersect_key($article, array_flip(['title', 'body', 'category', 'location', 'image_description', 'image_caption']));
                 $value['body'] = json_decode($payload['input'], true)['document']['wiki_title'] . '. ' . $value['body'];
@@ -466,6 +468,20 @@ try {
             'kind'=>'recent', 'source_published_at'=>gmdate('Y-m-d')]);
         rejects(fn()=>(new Writer($http, $b, $c, '100', 'fixture-only-not-a-secret'))->write($source, []));
         ensure($http->calls === 1, 'Une actualité sans résultat a atteint la revue.');
+    });
+
+    test('La sélection refuse un sujet avant de chercher une photo et fournit des mots-clés courts sinon', function (): void {
+        [$root, $c, $b, $http] = prepared(); $b->start('100');
+        $writer = new Writer($http, $b, $c, '100', 'fixture-only-not-a-secret');
+        $sources = new Sources($http, $c, $writer->selectRecent(...));
+        $topic = ['wiki_title'=>'Titre long de cette nouvelle', 'source_url'=>'https://www.nasa.gov/fixture', 'kind'=>'recent', 'source_published_at'=>gmdate('Y-m-d')];
+        $http->noPositiveChange = true;
+        rejects(fn()=>$sources->collect($topic));
+        ensure(!array_filter($http->gets, static fn($url)=>str_contains($url, 'commons.wikimedia.org')), 'Photo recherchée avant la sélection.');
+        $http->noPositiveChange = false;
+        $source = $sources->collect($topic);
+        $queries = array_filter($http->gets, static fn($url)=>str_contains($url, 'commons.wikimedia.org'));
+        ensure(str_contains(urldecode(implode(' ', $queries)), 'Porto buildings'), 'Le titre complet remplace les mots-clés ciblés.');
     });
 
 } finally {

@@ -6,7 +6,7 @@ use DOMDocument;
 use DOMXPath;
 
 final class Sources {
-    public function __construct(private readonly Transport $http, private readonly array $config) {}
+    public function __construct(private readonly Transport $http, private readonly array $config, private readonly ?\Closure $selectRecent = null) {}
     private function api(string $host, array $params): array {
         return remoteJson($this->http, 'https://' . $host . '/w/api.php?' . http_build_query(['format'=>'json', 'formatversion'=>2, ...$params], '', '&', PHP_QUERY_RFC3986));
     }
@@ -57,6 +57,10 @@ final class Sources {
             foreach ($xpath->query('//meta[@property="article:published_time" or translate(@name,"ABCDEFGHIJKLMNOPQRSTUVWXYZ","abcdefghijklmnopqrstuvwxyz")="date" or translate(@name,"ABCDEFGHIJKLMNOPQRSTUVWXYZ","abcdefghijklmnopqrstuvwxyz")="dc.date" or translate(@name,"ABCDEFGHIJKLMNOPQRSTUVWXYZ","abcdefghijklmnopqrstuvwxyz")="dc.date.issued" or @name="citation_publication_date"]/@content|//time[not(@itemprop="dateModified")]/@datetime') as $value) {
                 if (strtotime($value->nodeValue) !== false && gmdate('Y-m-d', strtotime($value->nodeValue)) === $date) $confirmed = true;
             }
+            foreach ($xpath->query('//time[not(@itemprop="dateModified") and not(@datetime)]') as $node) {
+                $visibleDate = strtotime(plain($node->textContent));
+                if ($visibleDate !== false && gmdate('Y-m-d', $visibleDate) === $date) $confirmed = true;
+            }
             $scan = static function ($value, int $depth = 0) use (&$scan, &$confirmed, $date): void {
                 if (!is_array($value) || $depth > 10) return;
                 foreach ($value as $key=>$item) {
@@ -68,16 +72,34 @@ final class Sources {
             ensure($confirmed, 'Date de publication non confirmée par la source primaire.');
         }
         foreach ($xpath->query('//script|//style|//nav|//footer|//header|//aside|//form') as $node) $node->parentNode?->removeChild($node);
-        $main = $xpath->query('//article')->item(0) ?? $xpath->query('//main')->item(0) ?? $xpath->query('//*[@id="content"]')->item(0) ?? $xpath->query('//body')->item(0);
+        $main = null; $longest = 0;
+        foreach ($xpath->query('//*[@itemprop="articleBody"]|//*[contains(concat(" ",normalize-space(@class)," ")," entry-content ")]') as $node) {
+            $length = mb_strlen(plain($node->textContent));
+            if ($length > $longest) { $main = $node; $longest = $length; }
+        }
+        if ($longest < 400) {
+            foreach ($xpath->query('//article|//main|//*[@id="content"]') as $node) {
+                $length = mb_strlen(plain($node->textContent));
+                if ($length > $longest) { $main = $node; $longest = $length; }
+            }
+        }
+        $main ??= $xpath->query('//body')->item(0);
         ensure($main !== null, 'Corps de la source introuvable.');
         $excerpt = plain($main->textContent);
         ensure(mb_strlen($excerpt) >= 400, 'Source documentaire insuffisante.');
-        $photo = $this->findPhoto($topic['photo_query'] ?? text($topic, 'wiki_title', 200));
+        $photoQuery = $topic['photo_query'] ?? text($topic, 'wiki_title', 200);
+        if ($date !== null && $this->selectRecent !== null) {
+            $photoQuery = ($this->selectRecent)(['title'=>$topic['wiki_title'], 'excerpt'=>mb_substr($excerpt, 0, 4000), 'source_published_at'=>$date]);
+        }
+        $photo = $this->findPhoto($photoQuery);
         $source = ['subject_id'=>($date === null ? 'source-' : 'news-') . substr(hash('sha256', $url), 0, 32),
             'wiki_title'=>text($topic, 'wiki_title', 200), 'excerpt'=>mb_substr($excerpt, 0, 7000),
             'sources'=>[['label'=>(isset($topic['source_label']) ? text($topic, 'source_label', 200) : parse_url($url, PHP_URL_HOST)), 'url'=>$url]], 'photo'=>$photo,
             'category'=>$topic['category'] ?? null, 'country'=>$topic['country'] ?? 'Monde', 'kind'=>$topic['kind'] ?? 'evergreen'];
-        if ($date !== null) $source['source_published_at'] = $date;
+        if ($date !== null) {
+            $source['source_published_at'] = $date;
+            $source['sources'][0]['label'] = mb_substr($source['sources'][0]['label'], 0, 170) . ' · publié le ' . $date;
+        }
         return $source;
     }
     private function findPhoto(string $query): array {
