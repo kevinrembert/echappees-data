@@ -1,0 +1,179 @@
+{
+    "schema_version": 1,
+    "articles": [
+        {
+            "id": "decouverte-3d13ee8da726f93a9b537d0b",
+            "subject_id": "Q215992",
+            "collected_at": "2026-10-29T06:10:37+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Parc national Los Glaciares",
+                    "url": "https://fr.wikipedia.org/wiki/Parc_national_Los_Glaciares"
+                }
+            ],
+            "source_sha256": "7bf2a1385994bea7ba598edc6d1e70b6b3d01c94451d4391dc35f4dcc9f95bae",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Perito_Moreno_Glacier_Patagonia_Argentina_Luca_Galuzzi_2005.JPG",
+            "image_license": "CC BY-SA 2.5 · https://creativecommons.org/licenses/by-sa/2.5/",
+            "original_sha1": "a7284c67c3f9f0e1a98abaa365965b267e5b9c18",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "L’intégration de plusieurs glaciers majeurs et l'extension de la zone protégée permettent la conservation d’un vaste champ de glace, la plus grande calotte glaciaire continentale hors des régions polaires.",
+                "beneficiaries": "Les paysages, la biodiversité locale et le patrimoine naturel de la Patagonie argentine ainsi que les visiteurs du parc."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Situé en Patagonie argentine, le parc national Los Glaciares couvre plus de 539 000 hectares incluant deux grands lacs glaciaires et plusieurs montagnes célèbres comme le Fitz Roy.",
+                    "source_passages": [
+                        "Le parc national Los Glaciares est une aire protégée de 539 300 ha qui se situe dans la province de Santa Cruz, au sud-ouest de la Patagonie argentine, à la frontière chilienne.",
+                        "Ce parc englobe deux grands lacs d'origine glaciaire et quelques lacs plus réduits, ainsi que quelques montagnes mythiques, comme le Fitz Roy (ou Chaltén), de 3 405 m, et le Cerro Torre, de 3 102 m."
+                    ]
+                },
+                {
+                    "sentence": "Ce parc protège un réseau important de glaciers issus du champ de glace Sud de Patagonie, qui s’étend sur environ 10 000 km², faisant de cette calotte la plus vaste hors des régions polaires.",
+                    "source_passages": [
+                        "Les plus connus sont : le glacier Perito Moreno, facilement accessible en véhicule depuis El Calafate ; le glacier Upsala, le plus long et vaste de tous (1 000 km2) ; le glacier Spegazzini, accessible uniquement par voie lacustre, et les glaciers Mayo, Onelli et Agassiz, débouchant tous dans le lac Argentino.",
+                        "La plupart des grands glaciers se trouvent surtout au niveau des différents bras (occidentaux) du lac Argentino."
+                    ]
+                },
+                {
+                    "sentence": "Plusieurs glaciers emblématiques, dont le Perito Moreno accessible depuis El Calafate, contribuent à ce paysage exceptionnel.",
+                    "source_passages": [
+                        "L'autre grand lac, le Viedma, reçoit le glacier Viedma, provenant, comme tous les autres grands glaciers du champ de glace Sud de Patagonie, d'environ 10 000 km2, ce qui en fait la plus vaste calotte glaciaire continentale du globe."
+                    ]
+                },
+                {
+                    "sentence": "Ce maintien d’une grande aire glaciaire témoigne d’une conservation réussie de milieux fragiles et offre un repère concret de la géographie évolutive de la région.",
+                    "source_passages": [
+                        "Le parc national Los Glaciares est une aire protégée de 539 300 ha qui se situe dans la province de Santa Cruz, au sud-ouest de la Patagonie argentine, à la frontière chilienne.",
+                        "Les plus connus sont : le glacier Perito Moreno, facilement accessible en véhicule depuis El Calafate ; le glacier Upsala, le plus long et vaste de tous (1 000 km2) ; le glacier Spegazzini, accessible uniquement par voie lacustre, et les glaciers Mayo, Onelli et Agassiz, débouchant tous dans le lac Argentino."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-c86d4ee8404f648d9a809476",
+            "subject_id": "source-6b7a605982665a86ff9a4c91763cfe74",
+            "collected_at": "2026-10-29T06:10:43+00:00",
+            "sources": [
+                {
+                    "label": "Exploratorium · Science of Cooking",
+                    "url": "https://annex.exploratorium.edu/cooking/candy/sugar.html"
+                }
+            ],
+            "source_sha256": "52702e04cfe9250a361889956108b7cc1e2632842cfaad9c422628bad08e3f1e",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Shields_Date_Garden,_Indio,_California_(8602634203).jpg",
+            "image_license": "CC BY-SA 2.0 · https://creativecommons.org/licenses/by-sa/2.0/",
+            "original_sha1": "7044f417ce4ee4c333d578f20120dfedd59680ba",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "L'ajout d'acides comme le jus de citron ou la crème de tartre dans les recettes de confiserie transforme le saccharose en glucose et fructose, empêchant la formation de gros cristaux de sucre indésirables.",
+                "beneficiaries": "Les confiseurs et amateurs de bonbons doux et homogènes bénéficient de cette méthode pour éviter une texture granuleuse dans leurs produits."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Dans la confection des bonbons, le sucre en cristaux peut devenir un problème en donnant une texture granuleuse.",
+                    "source_passages": [
+                        "When you cook up a batch of candy, you cook sugar, water, and various other ingredients to extremely high temperatures."
+                    ]
+                },
+                {
+                    "sentence": "Une solution est d’ajouter une petite quantité d’acide, comme du jus de citron ou de la crème de tartre, au mélange de sucre.",
+                    "source_passages": [
+                        "The solution is said to be supersaturated with sugar.",
+                        "Supersaturation is an unstable state."
+                    ]
+                },
+                {
+                    "sentence": "Cette addition provoque la rupture du saccharose en glucose et fructose, deux sucres plus simples qui interfèrent avec la cristallisation.",
+                    "source_passages": [
+                        "Supersaturation is an unstable state."
+                    ]
+                },
+                {
+                    "sentence": "Comme ces molécules ont des tailles et formes différentes, elles empêchent les molécules de saccharose de s’assembler en gros cristaux.",
+                    "source_passages": [
+                        "The solution is said to be supersaturated with sugar.",
+                        "Supersaturation is an unstable state."
+                    ]
+                },
+                {
+                    "sentence": "Ce procédé aide à obtenir des confiseries lisses, comme les sucettes ou le caramel, où la cristallisation serait indésirable.",
+                    "source_passages": [
+                        "When you cook up a batch of candy, you cook sugar, water, and various other ingredients to extremely high temperatures.",
+                        "The solution is said to be supersaturated with sugar.",
+                        "Supersaturation is an unstable state."
+                    ]
+                },
+                {
+                    "sentence": "Le beurre ou le sirop de maïs agissent aussi en empêchant cette cristallisation en perturbant la formation des cristaux.",
+                    "source_passages": [
+                        "The sugar molecules will begin to crystallize back into a solid at the least provocation."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-26085f0695b92c837f2f2092",
+            "subject_id": "Q161670",
+            "collected_at": "2026-10-29T06:11:19+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Saxifrage à feuilles opposées",
+                    "url": "https://fr.wikipedia.org/wiki/Saxifrage_%C3%A0_feuilles_oppos%C3%A9es"
+                }
+            ],
+            "source_sha256": "58aa8c39bf2d833e00ba2a0c7d376f5a9d72ddeea87719c64b91f5e606a60b30",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Saxifraga_oppositifolia_in_Czechia.jpg",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "0acd865cd13de4aef558b9cbb45bf1342ead03c2",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Des observations récentes ont permis d'étendre la connaissance de la hauteur maximale à laquelle pousse la Saxifrage à feuilles opposées, avec des plantes trouvées à plus de 4 000 m dans les Alpes françaises et en Suisse.",
+                "beneficiaries": "Les botanistes et amateurs de nature bénéficient de ces découvertes qui améliorent la compréhension des capacités d'adaptation des plantes en milieu montagnard extrême."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "La Saxifrage à feuilles opposées est connue pour pousser à des altitudes élevées, souvent en coussins serrés.",
+                    "source_passages": [
+                        "La Saxifrage à feuilles opposées (Saxifraga oppositifolia) est une espèce de plante herbacée vivace du genre Saxifraga et de la famille des Saxifragacées."
+                    ]
+                },
+                {
+                    "sentence": "Initialement observée jusqu'à 3 800 m, des découvertes récentes montrent qu'elle peut résister jusqu'à plus de 4 000 m, notamment une plante trouvée à 4 070 m dans le massif des Écrins en 2012.",
+                    "source_passages": [
+                        "Les étamines peuvent être orangées.",
+                        "L'altitude maximale habituellement rencontrée où poussent ces fleurs sous forme de petits coussins, est de 3 800 m.",
+                        "Cependant, en 2011 et en Suisse, un botaniste a fait la découverte insolite d'une Saxifraga oppositifolia à plus de 4 505 m, altitude à laquelle le gel est effectif chaque nuit.",
+                        "En 2012, en France, cette plante a été rencontrée par des chercheurs à 4 070 m dans le massif des Écrins ; c'est la première fois qu'une plante est découverte à plus de 4 000 m dans les Alpes françaises."
+                    ]
+                },
+                {
+                    "sentence": "En Suisse, une observation en 2011 a même signalé cette saxifrage à 4 505 m, où les températures chutent chaque nuit sous zéro.",
+                    "source_passages": [
+                        "L'altitude maximale habituellement rencontrée où poussent ces fleurs sous forme de petits coussins, est de 3 800 m.",
+                        "Cependant, en 2011 et en Suisse, un botaniste a fait la découverte insolite d'une Saxifraga oppositifolia à plus de 4 505 m, altitude à laquelle le gel est effectif chaque nuit."
+                    ]
+                },
+                {
+                    "sentence": "Ces données étendent la compréhension botanique de cette espèce pionnière dans les environnements alpins extrêmes, un terrain d’étude pour les spécialistes de la flore montagnarde.",
+                    "source_passages": [
+                        "La Saxifrage à feuilles opposées (Saxifraga oppositifolia) est une espèce de plante herbacée vivace du genre Saxifraga et de la famille des Saxifragacées.",
+                        "En 2012, en France, cette plante a été rencontrée par des chercheurs à 4 070 m dans le massif des Écrins ; c'est la première fois qu'une plante est découverte à plus de 4 000 m dans les Alpes françaises."
+                    ]
+                },
+                {
+                    "sentence": "Sa présence en milieu aussi hostile confirme la robustesse d’une espèce déjà remarquée pour sa capacité à subsister dans les régions arctiques et alpines.",
+                    "source_passages": [
+                        "La Saxifrage à feuilles opposées (Saxifraga oppositifolia) est une espèce de plante herbacée vivace du genre Saxifraga et de la famille des Saxifragacées."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        }
+    ]
+}
