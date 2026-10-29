@@ -60,6 +60,7 @@ final class FakeHttp implements Transport {
     public bool $badEvidence = false;
     public string $evidenceFault = '';
     public bool $noaaIndex = false;
+    public bool $dublinDate = false;
     public function request(string $url, ?array $payload = null, ?string $token = null, int $maxBytes = 4194304): array {
         global $sourceRoot;
         if ($payload !== null) {
@@ -93,7 +94,7 @@ final class FakeHttp implements Transport {
         }
         $this->gets[] = $url;
         if (str_starts_with($url, 'https://oceanservice.noaa.gov/')) return ['body'=>$this->noaaIndex ? '<html><body><a href="/facts/biolum.html">What is bioluminescence?</a><a href="https://evil.invalid/facts/evil.html">Untrusted external topic</a><a href="/facts/oceanfacts-science.html">Index science</a></body></html>' : '<html><body></body></html>', 'type'=>'text/html'];
-        if ($url === 'https://www.nasa.gov/fixture' || $url === 'https://www.inrae.fr/fixture') return ['body'=>'<html><head><meta property="article:published_time" content="' . gmdate('Y-m-d') . 'T00:00:00Z"></head><body><article>' . jsonFile($sourceRoot . '/data/batches/demo-a.v2.json')['articles'][1]['body'] . '</article></body></html>', 'type'=>'text/html'];
+        if ($url === 'https://www.nasa.gov/fixture' || $url === 'https://www.inrae.fr/fixture') return ['body'=>'<html><head><meta ' . ($this->dublinDate ? 'name="DC.Date"' : 'property="article:published_time"') . ' content="' . gmdate('Y-m-d') . 'T00:00:00Z"></head><body><article>' . jsonFile($sourceRoot . '/data/batches/demo-a.v2.json')['articles'][1]['body'] . '</article></body></html>', 'type'=>'text/html'];
         if ($url === 'https://www.nasa.gov/news-release/feed/') return ['body'=>'<rss><channel/></rss>', 'type'=>'application/rss+xml'];
         if (str_starts_with($url, 'https://upload.wikimedia.org/')) return ['body'=>file_get_contents($sourceRoot . '/data/images/porto.jpg'), 'type'=>'image/jpeg'];
         $host = parse_url($url, PHP_URL_HOST);
@@ -426,6 +427,13 @@ try {
             [...$base, 'url'=>'https://www.nasa.gov/bad'], [...$base, 'url'=>'https://www.nasa.gov/good'],
         ]);
         ensure(count($topics) === 1 && !isset($topics[0]['excerpt']) && !isset($topics[0]['body']), 'Le flux indisponible bloque la collecte ou le résumé remplace le document.');
+    });
+
+    test('La date Dublin Core d’un article RSS est confirmée sur sa page complète', function (): void {
+        $http = new FakeHttp(); $http->dublinDate = true;
+        $source = (new Sources($http, config(fixture())))->collect(['wiki_title'=>'Actualité scientifique',
+            'source_url'=>'https://www.nasa.gov/fixture', 'kind'=>'recent', 'source_published_at'=>gmdate('Y-m-d')]);
+        ensure($source['source_published_at'] === gmdate('Y-m-d'), 'Date non confirmée.');
     });
 
 } finally {

@@ -54,7 +54,7 @@ final class Sources {
                 && gmdate('Y-m-d', strtotime($date)) === $date && $date <= gmdate('Y-m-d')
                 && $date >= gmdate('Y-m-d', time() - 86400 * $this->config['source_max_age_days']), 'Actualité périmée ou future.');
             $confirmed = false;
-            foreach ($xpath->query('//meta[@property="article:published_time" or @name="date" or @name="DC.date.issued"]/@content|//time/@datetime') as $value) {
+            foreach ($xpath->query('//meta[@property="article:published_time" or translate(@name,"ABCDEFGHIJKLMNOPQRSTUVWXYZ","abcdefghijklmnopqrstuvwxyz")="date" or translate(@name,"ABCDEFGHIJKLMNOPQRSTUVWXYZ","abcdefghijklmnopqrstuvwxyz")="dc.date" or translate(@name,"ABCDEFGHIJKLMNOPQRSTUVWXYZ","abcdefghijklmnopqrstuvwxyz")="dc.date.issued" or @name="citation_publication_date"]/@content|//time[not(@itemprop="dateModified")]/@datetime') as $value) {
                 if (strtotime($value->nodeValue) !== false && gmdate('Y-m-d', strtotime($value->nodeValue)) === $date) $confirmed = true;
             }
             $scan = static function ($value, int $depth = 0) use (&$scan, &$confirmed, $date): void {
