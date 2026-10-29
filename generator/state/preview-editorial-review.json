@@ -7,7 +7,10 @@
     "decouverte-3dfcf336a07b7ef162fe6c47",
     "decouverte-3d13ee8da726f93a9b537d0b",
     "decouverte-c86d4ee8404f648d9a809476",
-    "decouverte-26085f0695b92c837f2f2092"
+    "decouverte-26085f0695b92c837f2f2092",
+    "decouverte-b868ad1fc6977660aa55a6d5",
+    "decouverte-019539f677bea12351a790b2",
+    "decouverte-d300e69e09f28e987f3d7956"
   ],
   "photos": [
     {
@@ -46,5 +49,6 @@
       "credit": "I.Sáček, senior · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
       "license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain"
     }
-  ]
+  ],
+  "final_review": "Correction du français, titres raccourcis et suppression des tournures emphatiques ; dix articles du lot contrôlés."
 }

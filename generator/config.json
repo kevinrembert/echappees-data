@@ -20,10 +20,5 @@
     "recent": 7,
     "evergreen": 2,
     "culinary": 1
-  },
-  "test_batch": {
-    "id": "positive-v1-20261029",
-    "date": "2026-10-29",
-    "count": 10
   }
 }
