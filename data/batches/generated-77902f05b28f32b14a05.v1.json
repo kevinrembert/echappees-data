@@ -1,0 +1,111 @@
+{
+    "schema_version": 1,
+    "id": "generated-77902f05b28f32b14a05",
+    "version": "1",
+    "articles": [
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "recent",
+            "editorial_batch": "test:positive-v1-20261029",
+            "id": "decouverte-47cd0c17da0cf3e51f3f6e9b",
+            "title": "Un sauvetage inhabituel : un kangourou récupéré à plus d’un mile en mer au large d’Australie",
+            "body": "En Australie-Méridionale, un équipage de plongeurs a secouru un jeune kangourou trouvé à près de 2,5 kilomètres de la côte dans la baie de Boston. Repéré d’abord par le capitaine du bateau, l’animal s’est laissé approcher et porter, fatigué par sa situation. L’intervention a duré plusieurs heures avant que le kangourou ne soit ramené sain et sauf sur la plage, où il a pu repartir par ses propres moyens. Cet incident, décrit comme inhabituel même pour les personnes familières des kangourous, souligne l’importance de la présence humaine attentive en milieu naturel et la capacité des sauveteurs à intervenir dans des circonstances peu communes.",
+            "category": "Initiatives positives",
+            "location": "Baie de Boston, Australie-Méridionale",
+            "image_description": "Image satellite montrant une vaste zone inondée au Queensland en Australie, prise par le satellite Terra de la NASA en février 2019.",
+            "image_caption": "Illustration documentaire générale : inondations étendues au Queensland d’après le satellite Terra de la NASA, février 2019.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/a4dc6b7e34b21eeff38ead38f4b623e7a694136cc1d81ddcd8ec5cda0ae8def0.jpg",
+            "image_credit": "MODIS Land Rapid Response Team, NASA GSFC · This image or video was catalogued by Goddard Space Flight Center of the United States National Aeronautics and Space Administration (NASA) under Photo ID: 2019-02-13. · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Floods_in_Queensland_(MODIS_2019-02-13).jpg",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-10-28",
+                    "url": "https://www.goodnewsnetwork.org/bizarre-rescue-sees-divers-save-kangaroo-that-found-itself-over-a-mile-from-dry-land/"
+                }
+            ],
+            "subject_id": "news-6d62b02438ea0f4976e352753e3d43e2",
+            "published_at": "2026-10-29",
+            "country": "Monde",
+            "source_published_at": "2026-10-28"
+        },
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "recent",
+            "editorial_batch": "test:positive-v1-20261029",
+            "id": "decouverte-a585937d59c4716562e785f8",
+            "title": "Quatre grands télescopes inaugurés aux Canaries pour observer l’Univers extrême",
+            "body": "Quatre télescopes de grande taille (LST) de l’observatoire international CTAO ont été inaugurés à La Palma, aux Canaries, marquant une avancée concrète dans l’étude des rayons gamma de très haute énergie. Ces instruments, conçus notamment avec l’expertise française du CNRS et du CEA, détectent la lumière Cherenkov produite par les rayons gamma interagissant avec l’atmosphère terrestre. Cela permet d’identifier et de localiser les phénomènes astrophysiques à l’origine de ces rayons, comme les trous noirs supermassifs ou les restes de supernovae. Ce déploiement constitue une première étape vers un observatoire très sensible qui sera complété sur un second site au Chili.",
+            "category": "Sciences",
+            "location": "Île de La Palma, Canaries",
+            "image_description": "Photographie montrant deux télescopes MAGIC de 17 mètres de diamètre à La Palma, conçus pour l’astronomie gamma, en fonctionnement nocturne.",
+            "image_caption": "Illustration documentaire générale. Image documentaire générale des télescopes MAGIC à La Palma, utilisés pour la détection des rayons gamma dans le cadre de l’astronomie Cherenkov.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/2aa6c027036aae817378cfc7033c674c7c74f7165124373d5cc32d39ea66d301.jpg",
+            "image_credit": "Serenaloporchio · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:MAGIC_telescopes_dancing_in_the_moonlight.jpg",
+            "sources": [
+                {
+                    "label": "CNRS · presse · publié le 2026-10-19",
+                    "url": "https://www.cnrs.fr/fr/presse/les-quatre-premiers-grands-telescopes-de-lobservatoire-ctao-inaugures-aux-canaries"
+                }
+            ],
+            "subject_id": "news-1214acc2ec1c21254f238f1b7ed7629f",
+            "published_at": "2026-10-29",
+            "country": "Monde",
+            "source_published_at": "2026-10-19"
+        },
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "recent",
+            "editorial_batch": "test:positive-v1-20261029",
+            "id": "decouverte-1364a27fa0e3d671bcbae374",
+            "title": "Cinq nouvelles grenouilles identifiées dans la forêt amazonienne du Pérou",
+            "body": "Une équipe de chercheurs menée par Pablo J. Venegas a récemment présenté cinq nouvelles espèces de grenouilles du groupe Pristimantis lacrimosus, découvertes dans des zones variées d’Amazonie et de montagnes du centre du Pérou. Cette avancée résulte d’expéditions menées entre 2021 et 2025, permettant d’explorer des forêts isolées et des prairies d’altitude. Les grenouilles se distinguent par des traits morphologiques, des données génétiques et, pour certaines, des caractéristiques acoustiques. L’une des espèces, Pristimantis aisatipoki, a été nommée en référence à la langue asháninka, rendant hommage à l’histoire de la région de Satipo, lieu d’origine des actions de conservation menées par l’organisation Rainforest Partnership. Jusqu’à présent, plus de 70 amphibiens et reptiles ont été recensés dans cette zone, renforçant la connaissance scientifique et les efforts de préservation sur le terrain.",
+            "category": "Initiatives positives",
+            "location": "Forêt amazonienne, Pérou",
+            "image_description": "Vue satellite de la forêt amazonienne montrant la densité de la végétation et l’étendue de la forêt tropicale en Amérique du Sud.",
+            "image_caption": "Illustration documentaire générale. Image documentaire générale de la forêt amazonienne prise par le MODIS Land Rapid Response Team, NASA GSFC. Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/aa02f39f847a9d6935e66c7afbc144828916b6bb4a3dc5d51346db3b6abc6858.jpg",
+            "image_credit": "MODIS Land Rapid Response Team, NASA GSFC · This image or video was catalogued by Goddard Space Flight Center of the United States National Aeronautics and Space Administration (NASA) under Photo ID: 2022-01-05. · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Amazon_Rainforest_(MODIS_2022-01-05).jpg",
+            "sources": [
+                {
+                    "label": "Good Good Good · publié le 2026-10-20",
+                    "url": "https://www.goodgoodgood.co/articles/new-species-frog-peruvian-amazon-venegas"
+                }
+            ],
+            "subject_id": "news-5fe3354af786e6cdbac926c24472c862",
+            "published_at": "2026-10-29",
+            "country": "Monde",
+            "source_published_at": "2026-10-20"
+        },
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "recent",
+            "editorial_batch": "test:positive-v1-20261029",
+            "id": "decouverte-3dfcf336a07b7ef162fe6c47",
+            "title": "À Akron, des citoyens renforcent l’information locale des réunions publiques",
+            "body": "À Akron, Ohio, un programme innovant mobilise des habitants pour assister aux réunions publiques et en rédiger des comptes rendus diffusés gratuitement en ligne. Ces participants volontaires, appelés Documenters, étendent la couverture médiatique locale face aux réductions de personnel dans les médias traditionnels. Grâce à leurs résumés, les citoyens d’Akron disposent d’un accès clair et concret aux débats municipaux, comme les négociations budgétaires ou décisions du conseil scolaire. Ce modèle favorise des discussions politiques nuancées et un engagement local accru, compensant la baisse des sources d’information locales observée depuis plusieurs décennies aux États-Unis. En parallèle, ce dispositif se déploie dans une vingtaine d’autres villes pour renforcer le lien entre citoyens et gouvernance locale.",
+            "category": "Initiatives positives",
+            "location": "Akron, Ohio, États-Unis",
+            "image_description": "Photographie d’un panneau indiquant la fermeture temporaire de la bibliothèque principale de Tottenham, Marcus Garvey, prise le 18 août 2015.",
+            "image_caption": "Illustration documentaire générale : fermeture temporaire d’une bibliothèque à Tottenham, image Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/3168bea3b634168d96baad4562db1593d5345e75cd375345df7c787c08352516.jpg",
+            "image_credit": "Alan Stanton · This Library is Out of Order · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 2.0 · https://creativecommons.org/licenses/by-sa/2.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:This_Library_is_Out_of_Order_(20423102814).jpg",
+            "sources": [
+                {
+                    "label": "Reasons to be Cheerful · publié le 2026-10-26",
+                    "url": "https://reasonstobecheerful.world/want-the-news-to-unite-people-let-them-report-it/"
+                }
+            ],
+            "subject_id": "news-6514868c00629b80fcdfbd51706b4318",
+            "published_at": "2026-10-29",
+            "country": "Monde",
+            "source_published_at": "2026-10-26"
+        }
+    ]
+}

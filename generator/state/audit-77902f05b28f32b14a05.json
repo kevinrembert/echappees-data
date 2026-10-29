@@ -1,0 +1,232 @@
+{
+    "schema_version": 1,
+    "articles": [
+        {
+            "id": "decouverte-47cd0c17da0cf3e51f3f6e9b",
+            "subject_id": "news-6d62b02438ea0f4976e352753e3d43e2",
+            "collected_at": "2026-10-29T06:18:15+00:00",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-10-28",
+                    "url": "https://www.goodnewsnetwork.org/bizarre-rescue-sees-divers-save-kangaroo-that-found-itself-over-a-mile-from-dry-land/"
+                }
+            ],
+            "source_sha256": "75f0a6d7a6187d2a7b4e13c5ffa3beb9148f3127933b1c4f577e2c8a54552cff",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Floods_in_Queensland_(MODIS_2019-02-13).jpg",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "2430ff8fbbbb473d0ff6318722b512c619016ef3",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Un kangourou juvénile a été sauvé en mer à plus de 2,5 km de la terre ferme grâce à l’intervention d’un équipage de plongeurs.",
+                "beneficiaries": "Le kangourou en détresse et potentiellement d’autres animaux pouvant se retrouver accidentellement en mer, grâce à la vigilance de personnes formées à leur manipulation."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "En Australie-Méridionale, un équipage de plongeurs a secouru un jeune kangourou trouvé à près de 2,5 kilomètres de la côte dans la baie de Boston.",
+                    "source_passages": [
+                        "Jake Murray and the rescued roo – supplied to ABC by Jake Murray In a story too ‘Australiana’ to believe, a scuba diver and his crew rescued a kangaroo over one and a half miles out to sea."
+                    ]
+                },
+                {
+                    "sentence": "Repéré d’abord par le capitaine du bateau, l’animal s’est laissé approcher et porter, fatigué par sa situation.",
+                    "source_passages": [
+                        "Spotted at first by the captain in the waters of Boston Bay in the state of South Australia, it was clear that the juvenile kangaroo recognized his only hope was to get onboard the boat.",
+                        "In the calm sea, the vessel’s water door allowed the crew to get right down to the level of the gently-lapping waves.",
+                        "It was exhausted to the point that driver Jake Murray was able to easily scoop him up."
+                    ]
+                },
+                {
+                    "sentence": "L’intervention a duré plusieurs heures avant que le kangourou ne soit ramené sain et sauf sur la plage, où il a pu repartir par ses propres moyens.",
+                    "source_passages": [
+                        "Mr."
+                    ]
+                },
+                {
+                    "sentence": "Cet incident, décrit comme inhabituel même pour les personnes familières des kangourous, souligne l’importance de la présence humaine attentive en milieu naturel et la capacité des sauveteurs à intervenir dans des circonstances peu communes.",
+                    "source_passages": [
+                        "Jake Murray and the rescued roo – supplied to ABC by Jake Murray In a story too ‘Australiana’ to believe, a scuba diver and his crew rescued a kangaroo over one and a half miles out to sea.",
+                        "It was exhausted to the point that driver Jake Murray was able to easily scoop him up."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-a585937d59c4716562e785f8",
+            "subject_id": "news-1214acc2ec1c21254f238f1b7ed7629f",
+            "collected_at": "2026-10-29T06:18:49+00:00",
+            "sources": [
+                {
+                    "label": "CNRS · presse · publié le 2026-10-19",
+                    "url": "https://www.cnrs.fr/fr/presse/les-quatre-premiers-grands-telescopes-de-lobservatoire-ctao-inaugures-aux-canaries"
+                }
+            ],
+            "source_sha256": "d4819a4fb67a793dbbed6272c8967f73ed89fdd66784c86dbdb9382304f00b65",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:MAGIC_telescopes_dancing_in_the_moonlight.jpg",
+            "image_license": "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/",
+            "original_sha1": "eb5fb3fb1111cbedf52e7652b75989031b116948",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La mise en service des quatre premiers grands télescopes de l’observatoire CTAO sur l’île de La Palma a permis de commencer l’observation des rayons gamma de très haute énergie, offrant un nouveau moyen d’étudier des phénomènes astrophysiques extrêmes.",
+                "beneficiaries": "Les scientifiques en astronomie gamma, notamment grâce à la contribution majeure du CNRS et du CEA, ainsi que la communauté internationale de la recherche en astrophysique."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Quatre télescopes de grande taille (LST) de l’observatoire international CTAO ont été inaugurés à La Palma, aux Canaries, marquant une avancée concrète dans l’étude des rayons gamma de très haute énergie.",
+                    "source_passages": [
+                        "© Tomohiro Inada -A +A Contact(s) CNRS - Service de Presse Presse CEA Mathieu de Naurois Thierry Stolarczyk Partager ce contenu Share on BlueskyPartager sur TwitterShare on LinkedinPartager sur FacebookSend by mailhttps://www.cnrs.fr/fr/presse/les-quatre-premiers-grands-telescopes-de-lobservatoire-ctao-inaugures-aux-canaries Imprimer https://www.cnrs.fr/fr/presse/les-quatre-premiers-grands-telescopes-de-lobservatoire-ctao-inaugures-aux-canaries Téléchargez le communiqué de presse (1.74 Mo) Astroparticules Grands instruments Technologies Les quatre premiers grands télescopes de l’observatoire CTAO inaugurés aux Canaries 19 octobre 2026 Institutionnel Univers -A +A Partager ce contenu Share on BlueskyPartager sur TwitterShare on LinkedinPartager sur FacebookSend by mailhttps://www.cnrs.fr/fr/presse/les-quatre-premiers-grands-telescopes-de-lobservatoire-ctao-inaugures-aux-canaries Quatre télescopes de grande taille (LST) de l’observatoire international CTAO viennent d’être inaugurés sur l’île de La Palma, aux Canaries.",
+                        "En permettant de détecter et d’analyser les rayons gamma, CTAO donnera accès à une meilleure compréhension de certains des phénomènes les plus énergétiques de l’Univers et des mécanismes à l’origine des rayons cosmiques."
+                    ]
+                },
+                {
+                    "sentence": "Ces instruments, conçus notamment avec l’expertise française du CNRS et du CEA, détectent la lumière Cherenkov produite par les rayons gamma interagissant avec l’atmosphère terrestre.",
+                    "source_passages": [
+                        "En permettant de détecter et d’analyser les rayons gamma, CTAO donnera accès à une meilleure compréhension de certains des phénomènes les plus énergétiques de l’Univers et des mécanismes à l’origine des rayons cosmiques.",
+                        "Le CNRS et le CEA sont fortement impliqués dans la construction de l’observatoire et la préparation de son exploitation scientifique."
+                    ]
+                },
+                {
+                    "sentence": "Cela permet d’identifier et de localiser les phénomènes astrophysiques à l’origine de ces rayons, comme les trous noirs supermassifs ou les restes de supernovae.",
+                    "source_passages": [
+                        "Le CNRS et le CEA sont fortement impliqués dans la construction de l’observatoire et la préparation de son exploitation scientifique.",
+                        "Les télescopes de CTAO, et en particulier les quatre télescopes de grande taille1, utilisent la technique d’imagerie « Cherenkov atmosphérique » qui permet de détecter ces rayons gamma à partir des faibles éclairs bleutés qu’ils produisent dans l’atmosphère."
+                    ]
+                },
+                {
+                    "sentence": "Ce déploiement constitue une première étape vers un observatoire très sensible qui sera complété sur un second site au Chili.",
+                    "source_passages": [
+                        "Cette inauguration marque une étape importante pour l’astronomie gamma de très haute énergie.",
+                        "Un nouveau regard sur les phénomènes extrêmes de l’UniversDans l’Univers, les trous noirs supermassifs au cœur de galaxies actives, les restes de supernovae ou les sursauts gamma aux durées très courtes sont à l’origine de rayons gamma aux énergies les plus extrêmes."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-1364a27fa0e3d671bcbae374",
+            "subject_id": "news-5fe3354af786e6cdbac926c24472c862",
+            "collected_at": "2026-10-29T06:19:14+00:00",
+            "sources": [
+                {
+                    "label": "Good Good Good · publié le 2026-10-20",
+                    "url": "https://www.goodgoodgood.co/articles/new-species-frog-peruvian-amazon-venegas"
+                }
+            ],
+            "source_sha256": "6f76f22da6795827ca3889a39cee086d9b2eb5beaad6cb902fc79cd6259d563c",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Amazon_Rainforest_(MODIS_2022-01-05).jpg",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "7eb29b8a541d56f0ede9b0858a9cdae008b5a388",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La découverte et la description officielle de cinq nouvelles espèces de grenouilles en Amazonie péruvienne.",
+                "beneficiaries": "Les écosystèmes de la forêt tropicale amazonienne et les chercheurs en biodiversité grâce à une connaissance accrue de la faune locale."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Une équipe de chercheurs menée par Pablo J.",
+                    "source_passages": [
+                        "Pablo J.",
+                        "Venegas is the lead herpetologist in Peru for the Rainforest Partnership.",
+                        "For nearly 20 years, the organization has worked with Indigenous communities to lead rainforest protection and anti-deforestation efforts."
+                    ]
+                },
+                {
+                    "sentence": "Venegas a récemment présenté cinq nouvelles espèces de grenouilles du groupe Pristimantis lacrimosus, découvertes dans des zones variées d’Amazonie et de montagnes du centre du Pérou.",
+                    "source_passages": [
+                        "In addition to implementing conservation projects on the ground, the Rainforest Partnership tasks scientists like Venegas with surveying the Peruvian Tropical Andes to capture the diversity of native amphibians and reptiles and assess their conservation status.",
+                        "In 2021 and 2025, Venegas led a team on ten expeditions through remote forests, isolated mountain ranges, and high-altitude grasslands of the Tropical Andes — widely considered one of the most biologically diverse regions on the planet.",
+                        "“During these surveys, they documented the richness, ecology, natural history, health, and conservation status of more than 80 amphibian and 30 reptile species,” the Rainforest Partnership stated on its website."
+                    ]
+                },
+                {
+                    "sentence": "Cette avancée résulte d’expéditions menées entre 2021 et 2025, permettant d’explorer des forêts isolées et des prairies d’altitude.",
+                    "source_passages": [
+                        "In addition to implementing conservation projects on the ground, the Rainforest Partnership tasks scientists like Venegas with surveying the Peruvian Tropical Andes to capture the diversity of native amphibians and reptiles and assess their conservation status.",
+                        "In 2021 and 2025, Venegas led a team on ten expeditions through remote forests, isolated mountain ranges, and high-altitude grasslands of the Tropical Andes — widely considered one of the most biologically diverse regions on the planet."
+                    ]
+                },
+                {
+                    "sentence": "Les grenouilles se distinguent par des traits morphologiques, des données génétiques et, pour certaines, des caractéristiques acoustiques.",
+                    "source_passages": [
+                        "García-Ayachi, Allesandro Catenazzi, and Santiago Ron — published their latest findings, formally introducing another five frog species that they discovered in the Peruvian Amazon.",
+                        "“We describe five new species of the Pristimantis lacrimosus group based on morphological traits, molecular data, and, in two species, bioacoustic [characteristics],” Venegas and his co-authors observed in the study, which was published in the scientific journal Zootaxa.",
+                        "“The five new species can be distinguished from their congeners by the combination of features such as snout shape, presence or absence of [distinct nose bumps], skin texture, size, and coloration pattern,” the researchers explained."
+                    ]
+                },
+                {
+                    "sentence": "L’une des espèces, Pristimantis aisatipoki, a été nommée en référence à la langue asháninka, rendant hommage à l’histoire de la région de Satipo, lieu d’origine des actions de conservation menées par l’organisation Rainforest Partnership.",
+                    "source_passages": [
+                        "“Discovered in 2019 during a Rainforest Partnership expedition in San Antonio, Satipo — the place where our conservation work in Peru began.“A cloud-forest inhabitant, this frog is known from three nearby localities along the Pampa Hermosa River, at elevations of 1,466–1,723 meters.",
+                        "Researchers observed individuals calling at night from leaves of small trees and shrubs.”According to the Rainforest Partnership, its name “tells a story.”“Aisatipoki comes from the Asháninka language, meaning ‘those who arrive’ or ‘those who settle,’ honoring Satipo’s history and biodiversity,” the organization explained.",
+                        "So far, the organization’s work has been featured in 26 peer-reviewed publications, with more to come."
+                    ]
+                },
+                {
+                    "sentence": "Jusqu’à présent, plus de 70 amphibiens et reptiles ont été recensés dans cette zone, renforçant la connaissance scientifique et les efforts de préservation sur le terrain.",
+                    "source_passages": [
+                        "“During these surveys, they documented the richness, ecology, natural history, health, and conservation status of more than 80 amphibian and 30 reptile species,” the Rainforest Partnership stated on its website.",
+                        "“Among them were approximately 50 frog species and 23 lizard species new to science."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-3dfcf336a07b7ef162fe6c47",
+            "subject_id": "news-6514868c00629b80fcdfbd51706b4318",
+            "collected_at": "2026-10-29T06:19:25+00:00",
+            "sources": [
+                {
+                    "label": "Reasons to be Cheerful · publié le 2026-10-26",
+                    "url": "https://reasonstobecheerful.world/want-the-news-to-unite-people-let-them-report-it/"
+                }
+            ],
+            "source_sha256": "b94a443467f8f8ab9d387c91830fe35b3b27b39ef4ad23b49682bf9a6573ded5",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:This_Library_is_Out_of_Order_(20423102814).jpg",
+            "image_license": "CC BY-SA 2.0 · https://creativecommons.org/licenses/by-sa/2.0/",
+            "original_sha1": "d77c325ff66158a19335bcbe1923a3dbfb7bc93c",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Le recours à des citoyens volontaires pour reporter les réunions locales a permis de restaurer un suivi détaillé et accessible des décisions municipales à Akron, Ohio.",
+                "beneficiaries": "Les habitants d'Akron, Ohio, ainsi que les communautés desservies par des initiatives similaires dans d'autres villes américaines, bénéficient d'une meilleure information locale."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "À Akron, Ohio, un programme innovant mobilise des habitants pour assister aux réunions publiques et en rédiger des comptes rendus diffusés gratuitement en ligne.",
+                    "source_passages": [
+                        "Want the News to Unite People?"
+                    ]
+                },
+                {
+                    "sentence": "Ces participants volontaires, appelés Documenters, étendent la couverture médiatique locale face aux réductions de personnel dans les médias traditionnels.",
+                    "source_passages": [
+                        "Want the News to Unite People?"
+                    ]
+                },
+                {
+                    "sentence": "Grâce à leurs résumés, les citoyens d’Akron disposent d’un accès clair et concret aux débats municipaux, comme les négociations budgétaires ou décisions du conseil scolaire.",
+                    "source_passages": [
+                        "Want the News to Unite People?"
+                    ]
+                },
+                {
+                    "sentence": "Ce modèle favorise des discussions politiques nuancées et un engagement local accru, compensant la baisse des sources d’information locales observée depuis plusieurs décennies aux États-Unis.",
+                    "source_passages": [
+                        "Want the News to Unite People?"
+                    ]
+                },
+                {
+                    "sentence": "En parallèle, ce dispositif se déploie dans une vingtaine d’autres villes pour renforcer le lien entre citoyens et gouvernance locale.",
+                    "source_passages": [
+                        "Want the News to Unite People?"
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        }
+    ]
+}
