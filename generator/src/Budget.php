@@ -30,7 +30,7 @@ final class Budget {
         $this->save(); return true;
     }
     public function plannedCalls(int $count): int {
-        return min($count * 6, $this->config['max_api_calls']);
+        return min($count * 8, $this->config['max_api_calls']);
     }
     public function entry(string $run): array { ensure(isset($this->ledger['runs'][$run]), 'Réservation préalable obligatoire.'); return $this->ledger['runs'][$run]; }
     public function start(string $run): void {

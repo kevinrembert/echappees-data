@@ -1,17 +1,17 @@
 {
     "schema_version": 1,
-    "version": "2026-10-29.77902f05b28f32b1",
+    "version": "2026-10-29.editorial-review-v2",
     "batches": [
         {
             "id": "generated-77902f05b28f32b14a05",
-            "version": "1",
-            "url": "batches/generated-77902f05b28f32b14a05.v1.json",
+            "version": "2",
+            "url": "batches/generated-77902f05b28f32b14a05.v2.json",
             "count": 4
         },
         {
             "id": "generated-44b958a015e80b7d640a",
-            "version": "1",
-            "url": "batches/generated-44b958a015e80b7d640a.v1.json",
+            "version": "2",
+            "url": "batches/generated-44b958a015e80b7d640a.v2.json",
             "count": 3
         },
         {

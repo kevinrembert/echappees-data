@@ -1,0 +1,50 @@
+{
+  "reviewed_at": "2026-10-29T06:28:51+00:00",
+  "reason": "Retrait des effets de nouveauté et conclusions non étayées ; photographies centrées sur le sujet et légendes explicites.",
+  "corrected_ids": [
+    "decouverte-47cd0c17da0cf3e51f3f6e9b",
+    "decouverte-1364a27fa0e3d671bcbae374",
+    "decouverte-3dfcf336a07b7ef162fe6c47",
+    "decouverte-3d13ee8da726f93a9b537d0b",
+    "decouverte-c86d4ee8404f648d9a809476",
+    "decouverte-26085f0695b92c837f2f2092"
+  ],
+  "photos": [
+    {
+      "id": "decouverte-47cd0c17da0cf3e51f3f6e9b",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Eastern_Grey_Kangaroo_Feeding_edited.jpg",
+      "credit": "Eastern_Grey_Kangaroo_Feeding.jpg: Toby Hudson derivative work: Durova ( talk ) · Eastern_Grey_Kangaroo_Feeding.jpg · Wikimedia Commons · Version mobile redimensionnée/compressée",
+      "license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+      "id": "decouverte-1364a27fa0e3d671bcbae374",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Pristimantis_antisuyu.jpg",
+      "credit": "Chávez G, García-Ayachi LA, Catenazzi A (2021) Beauty is in the eye of the beholder: Cruciform eye reveals new species of direct-developing frog (Strabomantidae, Pristimantis) in the Amazonian Andes. Evolutionary Systematics 5(1): 81-92. https://doi.org/10.3897/evolsyst.5.63674 · https://evolsyst.pensoft.net/article/63674/list/2/ (license) · Wikimedia Commons · Version mobile redimensionnée/compressée",
+      "license": "CC0 · https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "id": "decouverte-3dfcf336a07b7ef162fe6c47",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Kelly-Springfield_Tire_Company,_Akron,_Ohio.jpg",
+      "credit": "Unknown photographer · Reproduced from an original postcard published by the Rubber City Distributing Company, Akron, Ohio, and printed by Curt Teich, Chicago, Illinois · Wikimedia Commons · Version mobile redimensionnée/compressée",
+      "license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain"
+    },
+    {
+      "id": "decouverte-3d13ee8da726f93a9b537d0b",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Perito_Moreno_Glacier_Patagonia_Argentina_Luca_Galuzzi_2005.JPG",
+      "credit": "Luca Galuzzi (Lucag) · Photo taken by (Luca Galuzzi) * http://www.galuzzi.it · Wikimedia Commons · Version mobile redimensionnée/compressée",
+      "license": "CC BY-SA 2.5 · https://creativecommons.org/licenses/by-sa/2.5/"
+    },
+    {
+      "id": "decouverte-c86d4ee8404f648d9a809476",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Sugar_tongs,_sugar_bowl,_sugar_cubes.jpg",
+      "credit": "Викидим · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+      "license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/"
+    },
+    {
+      "id": "decouverte-26085f0695b92c837f2f2092",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Saxifraga_oppositifolia_in_Czechia.jpg",
+      "credit": "I.Sáček, senior · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+      "license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain"
+    }
+  ]
+}

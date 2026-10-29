@@ -91,7 +91,7 @@ final class Sources {
         if ($date !== null && $this->selectRecent !== null) {
             $photoQuery = ($this->selectRecent)(['title'=>$topic['wiki_title'], 'excerpt'=>mb_substr($excerpt, 0, 4000), 'source_published_at'=>$date]);
         }
-        $photo = $this->findPhoto($photoQuery);
+        $photo = $this->findPhoto($photoQuery, $date !== null);
         $source = ['subject_id'=>($date === null ? 'source-' : 'news-') . substr(hash('sha256', $url), 0, 32),
             'wiki_title'=>text($topic, 'wiki_title', 200), 'excerpt'=>mb_substr($excerpt, 0, 7000),
             'sources'=>[['label'=>(isset($topic['source_label']) ? text($topic, 'source_label', 200) : parse_url($url, PHP_URL_HOST)), 'url'=>$url]], 'photo'=>$photo,
@@ -102,7 +102,11 @@ final class Sources {
         }
         return $source;
     }
-    private function findPhoto(string $query): array {
+    private function findPhoto(string $query, bool $subjectInTitle = false): array {
+        if ($subjectInTitle) {
+            $words = preg_split('/[^\p{L}\p{N}]+/u', $query, -1, PREG_SPLIT_NO_EMPTY);
+            $query = implode(' ', array_map(static fn(string $word): string => 'intitle:' . $word, array_slice($words, 0, 3)));
+        }
         $result = $this->api('commons.wikimedia.org', ['action'=>'query', 'generator'=>'search', 'gsrnamespace'=>6,
             'gsrsearch'=>$query . ' filetype:bitmap', 'gsrlimit'=>8, 'prop'=>'imageinfo',
             'iiprop'=>'url|extmetadata|mime|mediatype|sha1', 'iiurlwidth'=>1280]);

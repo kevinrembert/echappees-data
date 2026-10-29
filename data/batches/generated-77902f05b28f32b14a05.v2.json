@@ -1,0 +1,111 @@
+{
+    "schema_version": 1,
+    "id": "generated-77902f05b28f32b14a05",
+    "version": "2",
+    "articles": [
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "recent",
+            "editorial_batch": "test:positive-v1-20261029",
+            "id": "decouverte-47cd0c17da0cf3e51f3f6e9b",
+            "title": "En Australie, des plongeurs ramènent un kangourou à terre",
+            "body": "Un équipage de plongeurs a rencontré un passager inattendu au large de l’Australie-Méridionale : un jeune kangourou nageait dans la baie de Boston, loin de la plage. Le capitaine l’a repéré et le bateau est revenu pour vérifier ce qu’il avait vu. L’animal était épuisé. Grâce à l’ouverture du bateau au niveau de l’eau, Jake Murray a pu le prendre dans ses bras et le hisser à bord. Le plongeur, également agriculteur, a raconté le sauvetage à ABC News Australia, cité par Good News Network. Quelques heures plus tard, le kangourou a été ramené sur la plage et a pu repartir par ses propres moyens. Le récit ne précise pas comment il s’était retrouvé si loin du rivage.",
+            "category": "Initiatives positives",
+            "location": "Baie de Boston, Australie-Méridionale",
+            "image_description": "Un kangourou, photographie d’illustration générale. Il ne s’agit pas d’une photographie du sauvetage décrit.",
+            "image_caption": "Un kangourou, photographie d’illustration générale. Il ne s’agit pas d’une photographie du sauvetage décrit.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/2dfe477083f98712d7571cee0e5eff456b500371054de4789f084a5091e7341d.jpg",
+            "image_credit": "Eastern_Grey_Kangaroo_Feeding.jpg: Toby Hudson derivative work: Durova ( talk ) · Eastern_Grey_Kangaroo_Feeding.jpg · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Eastern_Grey_Kangaroo_Feeding_edited.jpg",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-10-28",
+                    "url": "https://www.goodnewsnetwork.org/bizarre-rescue-sees-divers-save-kangaroo-that-found-itself-over-a-mile-from-dry-land/"
+                }
+            ],
+            "subject_id": "news-6d62b02438ea0f4976e352753e3d43e2",
+            "published_at": "2026-10-29",
+            "country": "Monde",
+            "source_published_at": "2026-10-28"
+        },
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "recent",
+            "editorial_batch": "test:positive-v1-20261029",
+            "id": "decouverte-a585937d59c4716562e785f8",
+            "title": "Quatre grands télescopes inaugurés aux Canaries pour observer l’Univers extrême",
+            "body": "Quatre télescopes de grande taille (LST) de l’observatoire international CTAO ont été inaugurés à La Palma, aux Canaries, marquant une avancée concrète dans l’étude des rayons gamma de très haute énergie. Ces instruments, conçus notamment avec l’expertise française du CNRS et du CEA, détectent la lumière Cherenkov produite par les rayons gamma interagissant avec l’atmosphère terrestre. Cela permet d’identifier et de localiser les phénomènes astrophysiques à l’origine de ces rayons, comme les trous noirs supermassifs ou les restes de supernovae. Ce déploiement constitue une première étape vers un observatoire très sensible qui sera complété sur un second site au Chili.",
+            "category": "Sciences",
+            "location": "Île de La Palma, Canaries",
+            "image_description": "Photographie montrant deux télescopes MAGIC de 17 mètres de diamètre à La Palma, conçus pour l’astronomie gamma, en fonctionnement nocturne.",
+            "image_caption": "Illustration documentaire générale. Image documentaire générale des télescopes MAGIC à La Palma, utilisés pour la détection des rayons gamma dans le cadre de l’astronomie Cherenkov.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/2aa6c027036aae817378cfc7033c674c7c74f7165124373d5cc32d39ea66d301.jpg",
+            "image_credit": "Serenaloporchio · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:MAGIC_telescopes_dancing_in_the_moonlight.jpg",
+            "sources": [
+                {
+                    "label": "CNRS · presse · publié le 2026-10-19",
+                    "url": "https://www.cnrs.fr/fr/presse/les-quatre-premiers-grands-telescopes-de-lobservatoire-ctao-inaugures-aux-canaries"
+                }
+            ],
+            "subject_id": "news-1214acc2ec1c21254f238f1b7ed7629f",
+            "published_at": "2026-10-29",
+            "country": "Monde",
+            "source_published_at": "2026-10-19"
+        },
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "recent",
+            "editorial_batch": "test:positive-v1-20261029",
+            "id": "decouverte-1364a27fa0e3d671bcbae374",
+            "title": "Cinq nouvelles grenouilles identifiées dans la forêt amazonienne du Pérou",
+            "body": "Une équipe de chercheurs menée par Pablo J. Venegas a récemment présenté cinq nouvelles espèces de grenouilles du groupe Pristimantis lacrimosus, découvertes dans des zones variées d’Amazonie et de montagnes du centre du Pérou. Cette avancée résulte d’expéditions menées entre 2021 et 2025, permettant d’explorer des forêts isolées et des prairies d’altitude. Les grenouilles se distinguent par des traits morphologiques, des données génétiques et, pour certaines, des caractéristiques acoustiques. L’une des espèces, Pristimantis aisatipoki, a été nommée en référence à la langue asháninka, rendant hommage à l’histoire de la région de Satipo, lieu d’origine des actions de conservation menées par l’organisation Rainforest Partnership. Jusqu’à présent, plus de 70 amphibiens et reptiles ont été recensés dans cette zone, renforçant la connaissance scientifique et les efforts de préservation sur le terrain.",
+            "category": "Initiatives positives",
+            "location": "Forêt amazonienne, Pérou",
+            "image_description": "Une grenouille du genre Pristimantis, photographie d’illustration générale. Cette image n’identifie pas les cinq espèces décrites dans l’article.",
+            "image_caption": "Une grenouille du genre Pristimantis, photographie d’illustration générale. Cette image n’identifie pas les cinq espèces décrites dans l’article.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/e851c04b0e0e775a2afa589cfd8064a1a023d830138a7692e19999ff2ff1d213.jpg",
+            "image_credit": "Chávez G, García-Ayachi LA, Catenazzi A (2021) Beauty is in the eye of the beholder: Cruciform eye reveals new species of direct-developing frog (Strabomantidae, Pristimantis) in the Amazonian Andes. Evolutionary Systematics 5(1): 81-92. https://doi.org/10.3897/evolsyst.5.63674 · https://evolsyst.pensoft.net/article/63674/list/2/ (license) · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC0 · https://creativecommons.org/publicdomain/zero/1.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Pristimantis_antisuyu.jpg",
+            "sources": [
+                {
+                    "label": "Good Good Good · publié le 2026-10-20",
+                    "url": "https://www.goodgoodgood.co/articles/new-species-frog-peruvian-amazon-venegas"
+                }
+            ],
+            "subject_id": "news-5fe3354af786e6cdbac926c24472c862",
+            "published_at": "2026-10-29",
+            "country": "Monde",
+            "source_published_at": "2026-10-20"
+        },
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "recent",
+            "editorial_batch": "test:positive-v1-20261029",
+            "id": "decouverte-3dfcf336a07b7ef162fe6c47",
+            "title": "À Akron, des habitants racontent les réunions de leur ville",
+            "body": "À Akron, dans l’Ohio, des habitants prennent des notes lors des réunions publiques, puis en tirent des résumés accessibles gratuitement en ligne. Le programme Documenters fait partie du fonctionnement du média local Signal Akron. Les participants sont formés et rémunérés pour leur travail : il ne s’agit donc pas simplement de bénévolat. Leurs comptes rendus sont relus avant publication et complètent le travail des journalistes professionnels. Les habitants peuvent ainsi retrouver ce qui s’est dit dans des réunions municipales ou scolaires. Selon le reportage de Reasons to be Cheerful, le programme dispose de plus de 400 personnes formées à Akron. La petite équipe éditoriale reste toutefois limitée dans le nombre de réunions qu’elle peut accompagner.",
+            "category": "Initiatives positives",
+            "location": "Akron, Ohio, États-Unis",
+            "image_description": "Photographie d’Akron, dans l’Ohio, utilisée comme illustration générale. Elle ne montre pas les réunions suivies par les Documenters.",
+            "image_caption": "Photographie d’Akron, dans l’Ohio, utilisée comme illustration générale. Elle ne montre pas les réunions suivies par les Documenters.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/14efe2b9f1364a6d78e8be4b7fed297a61392aadd80305324c3754217865326b.jpg",
+            "image_credit": "Unknown photographer · Reproduced from an original postcard published by the Rubber City Distributing Company, Akron, Ohio, and printed by Curt Teich, Chicago, Illinois · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Kelly-Springfield_Tire_Company,_Akron,_Ohio.jpg",
+            "sources": [
+                {
+                    "label": "Reasons to be Cheerful · publié le 2026-10-26",
+                    "url": "https://reasonstobecheerful.world/want-the-news-to-unite-people-let-them-report-it/"
+                }
+            ],
+            "subject_id": "news-6514868c00629b80fcdfbd51706b4318",
+            "published_at": "2026-10-29",
+            "country": "Monde",
+            "source_published_at": "2026-10-26"
+        }
+    ]
+}

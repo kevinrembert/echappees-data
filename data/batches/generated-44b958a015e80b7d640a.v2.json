@@ -1,0 +1,82 @@
+{
+    "schema_version": 1,
+    "id": "generated-44b958a015e80b7d640a",
+    "version": "2",
+    "articles": [
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "test:positive-v1-20261029",
+            "id": "decouverte-3d13ee8da726f93a9b537d0b",
+            "title": "Los Glaciares, entre lacs et glaciers de Patagonie",
+            "body": "Au sud-ouest de la Patagonie argentine, le parc national Los Glaciares s’étend sur 539 300 hectares, près de la frontière chilienne. Deux grands lacs d’origine glaciaire font partie de cette aire protégée, ainsi que des sommets comme le Fitz Roy et le Cerro Torre. Plusieurs glaciers se trouvent dans les bras occidentaux du lac Argentino. Parmi eux, le Perito Moreno est accessible en véhicule depuis El Calafate, tandis que le Spegazzini se rejoint par le lac. Le lac Viedma reçoit, lui, le glacier du même nom. Derrière ce nom de parc qui annonce les glaciers, les lacs occupent donc aussi une place importante dans la géographie des lieux.",
+            "category": "Voyages et paysages",
+            "location": "Patagonie, Argentine",
+            "image_description": "Vue du glacier Perito Moreno, l’un des glaciers les plus connus du parc national Los Glaciares en Patagonie, Argentine.",
+            "image_caption": "Photo documentaire générale : le glacier Perito Moreno au parc national Los Glaciares, Argentine.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/d0a52c9a6227aba86d8cb94a42731db8b270de67a98a0ad25f8e66e69c3cab0c.jpg",
+            "image_credit": "Luca Galuzzi (Lucag) · Photo taken by (Luca Galuzzi) * http://www.galuzzi.it · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 2.5 · https://creativecommons.org/licenses/by-sa/2.5/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Perito_Moreno_Glacier_Patagonia_Argentina_Luca_Galuzzi_2005.JPG",
+            "sources": [
+                {
+                    "label": "Wikipédia · Parc national Los Glaciares",
+                    "url": "https://fr.wikipedia.org/wiki/Parc_national_Los_Glaciares"
+                }
+            ],
+            "subject_id": "Q215992",
+            "published_at": "2026-10-29",
+            "country": "Argentine"
+        },
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "culinary",
+            "editorial_batch": "test:positive-v1-20261029",
+            "id": "decouverte-c86d4ee8404f648d9a809476",
+            "title": "Acides et sucres : une recette chimique pour une confiserie plus lisse",
+            "body": "Dans la confection des bonbons, le sucre en cristaux peut devenir un problème en donnant une texture granuleuse. Une solution est d’ajouter une petite quantité d’acide, comme du jus de citron ou de la crème de tartre, au mélange de sucre. Cette addition provoque la rupture du saccharose en glucose et fructose, deux sucres plus simples qui interfèrent avec la cristallisation. Comme ces molécules ont des tailles et formes différentes, elles empêchent les molécules de saccharose de s’assembler en gros cristaux. Ce procédé aide à obtenir des confiseries lisses, comme les sucettes ou le caramel, où la cristallisation serait indésirable. Le beurre ou le sirop de maïs agissent aussi en empêchant cette cristallisation en perturbant la formation des cristaux.",
+            "category": "Gastronomie et traditions",
+            "location": "Monde",
+            "image_description": "Des morceaux de sucre, photographie d’illustration générale. La préparation décrite dans le texte n’est pas représentée.",
+            "image_caption": "Des morceaux de sucre, photographie d’illustration générale. La préparation décrite dans le texte n’est pas représentée.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/fc89aeab5c68444e6a6c2b18c3955c72b4516048c3a1bed93f8367b5c8798b91.jpg",
+            "image_credit": "Викидим · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Sugar_tongs,_sugar_bowl,_sugar_cubes.jpg",
+            "sources": [
+                {
+                    "label": "Exploratorium · Science of Cooking",
+                    "url": "https://annex.exploratorium.edu/cooking/candy/sugar.html"
+                }
+            ],
+            "subject_id": "source-6b7a605982665a86ff9a4c91763cfe74",
+            "published_at": "2026-10-29",
+            "country": "Monde"
+        },
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "test:positive-v1-20261029",
+            "id": "decouverte-26085f0695b92c837f2f2092",
+            "title": "La saxifrage à feuilles opposées pousse jusque dans les hauteurs alpines",
+            "body": "De petits coussins de fleurs peuvent se rencontrer à des altitudes où on ne les attendrait pas. La saxifrage à feuilles opposées est une plante herbacée vivace, dont l’altitude maximale habituellement indiquée atteint 3 800 mètres. Des observations datées ont toutefois documenté sa présence plus haut. En Suisse, un botaniste en a trouvé à plus de 4 505 mètres en 2011, dans un environnement où il gèle chaque nuit. En 2012, des chercheurs l’ont observée à 4 070 mètres dans le massif des Écrins. La source présente cette dernière observation comme la première découverte d’une plante au-dessus de 4 000 mètres dans les Alpes françaises. Ces dates décrivent des observations anciennes, pas une annonce nouvelle.",
+            "category": "Nature et animaux",
+            "location": "Massif des Écrins, Alpes françaises",
+            "image_description": "Saxifraga oppositifolia photographiée à Brno, République tchèque.",
+            "image_caption": "Photo documentaire générale de Saxifraga oppositifolia à Brno, République tchèque, image Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/eae3814dbc040c5fda92c367aa2fc23492e57a03c3a7284849aff84b164a7756.jpg",
+            "image_credit": "I.Sáček, senior · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Saxifraga_oppositifolia_in_Czechia.jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Saxifrage à feuilles opposées",
+                    "url": "https://fr.wikipedia.org/wiki/Saxifrage_%C3%A0_feuilles_oppos%C3%A9es"
+                }
+            ],
+            "subject_id": "Q161670",
+            "published_at": "2026-10-29",
+            "country": "Monde"
+        }
+    ]
+}

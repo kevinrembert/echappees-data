@@ -28,8 +28,8 @@ final class Generator {
         $stateFile = $this->root . '/generator/state/subjects.json';
         $state = is_file($stateFile) ? jsonFile($stateFile) : ['schema_version'=>1, 'subjects'=>[], 'failed'=>[]];
         ensure(($state['schema_version'] ?? null) === 1 && is_array($state['subjects'] ?? null) && is_array($state['failed'] ?? null), 'Registre des sujets invalide.');
-        if (($state['failure_version'] ?? '') !== 'positive-selection-v2') {
-            $state['failed'] = []; $state['failure_version'] = 'positive-selection-v2';
+        if (($state['failure_version'] ?? '') !== 'positive-selection-v3') {
+            $state['failed'] = []; $state['failure_version'] = 'positive-selection-v3';
         }
         $writer = new Writer($this->http, $this->budget, $this->config, $run, $key);
         $sources = new Sources($this->http, $this->config, $writer->selectRecent(...));

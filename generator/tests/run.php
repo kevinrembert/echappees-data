@@ -166,7 +166,7 @@ try {
     test('Les plafonds par exécution et mensuel empêchent les appels', function (): void {
         $root = fixture(); $c = config($root); $c['run_budget_usd'] = 0.001;
         rejects(fn()=>(new Budget($root . '/generator/state/a.json', $c))->reserve('1', 1, 'daily'));
-        $c['run_budget_usd'] = 1; $c['monthly_budget_usd'] = 0.1;
+        $c['run_budget_usd'] = 1; $c['monthly_budget_usd'] = 0.2;
         $b = new Budget($root . '/generator/state/b.json', $c); $b->reserve('1', 1, 'daily');
         rejects(fn()=>$b->reserve('2', 1, 'daily'));
     });
@@ -481,7 +481,7 @@ try {
         $http->noPositiveChange = false;
         $source = $sources->collect($topic);
         $queries = array_filter($http->gets, static fn($url)=>str_contains($url, 'commons.wikimedia.org'));
-        ensure(str_contains(urldecode(implode(' ', $queries)), 'Porto buildings'), 'Le titre complet remplace les mots-clés ciblés.');
+        ensure(str_contains(urldecode(implode(' ', $queries)), 'intitle:Porto') && !str_contains(urldecode(implode(' ', $queries)), 'Titre long'), 'Le titre complet remplace les mots-clés ciblés.');
     });
 
 } finally {
