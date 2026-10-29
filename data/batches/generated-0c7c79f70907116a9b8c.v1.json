@@ -1,0 +1,85 @@
+{
+    "schema_version": 1,
+    "id": "generated-0c7c79f70907116a9b8c",
+    "version": "1",
+    "articles": [
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "recent",
+            "editorial_batch": "test:positive-v1-20261029",
+            "id": "decouverte-b868ad1fc6977660aa55a6d5",
+            "title": "Au Ghana, une agricultrice conjugue culture du cacao et protection des forêts",
+            "body": "Dans la région d'Atewa au Ghana, la programme Ghana Cocoa Forest REDD+ récompense les communautés pour la conservation des forêts, tout en leur offrant les moyens d'améliorer leurs récoltes de cacao. Susana Afrifa Ankrah, cultivateure et membre active du conseil de gestion local, témoigne d'une coexistence entre pratiques agricoles plus durables et préservation de la forêt tropicale. Depuis 2019, la formation locale porte sur des méthodes de culture qui protègent le sol et les arbres, participant à la lutte contre la déforestation et aux changements climatiques. En parallèle, la forêt continue de fournir des ressources essentielles comme l'air pur, le climat favorable et des remèdes traditionnels. Cette démarche fédère donc l'amélioration des moyens de subsistance et celle de l'environnement.",
+            "category": "Initiatives positives",
+            "location": "Atewa, Ghana",
+            "image_description": "Un cultivateur de cacao dans sa plantation au Ghana.",
+            "image_caption": "Une plantation de cacao au Ghana, illustration documentaire générale. Photo Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/24ba83436f170552593d7b007b3122d4bcc011bf8099cca8173c31d9a854530f.jpg",
+            "image_credit": "Rberchie · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Cocoa_farming_in_Ghana.jpg",
+            "sources": [
+                {
+                    "label": "Positive News · publié le 2026-10-22",
+                    "url": "https://www.positive.news/society/the-farmer-growing-a-future-under-ghanas-trees/"
+                }
+            ],
+            "subject_id": "news-799b1bde02907cc4ce14aee90b2acd6c",
+            "published_at": "2026-10-29",
+            "country": "Monde",
+            "source_published_at": "2026-10-22"
+        },
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "recent",
+            "editorial_batch": "test:positive-v1-20261029",
+            "id": "decouverte-019539f677bea12351a790b2",
+            "title": "Le phare d’Alexandrie révélé par les jumeaux numériques",
+            "body": "Plus de deux millénaires après sa construction, le phare d’Alexandrie, considéré comme la septième merveille du monde, livre ses secrets grâce à une enquête scientifique approfondie. Les fouilles subaquatiques menées depuis 1995 ont permis de recenser près de 5 000 blocs de pierre dans le port antique, répartis sur environ deux hectares. Grâce à la modélisation par jumeaux numériques, les chercheurs du Centre d’Études Alexandrines ont reconstitué précisément cet édifice haut de 103 mètres. Ces travaux mettent en lumière un chef-d’œuvre d’ingénierie antique capable de résister à de nombreux séismes. Cette avancée éclaire la complexité de l’architecture antique et enrichit la connaissance du patrimoine mondial.",
+            "category": "Sciences",
+            "location": "Monde",
+            "image_description": "Photographie d’un bâtiment reproduisant le phare d’Alexandrie dans le parc culturel « The Window of the World » à Changsha, Chine.",
+            "image_caption": "Illustration documentaire générale. Vue générale d’une reproduction moderne du phare d’Alexandrie, photo documentaire illustrative.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/6a5e72ce3228091704487bffc0d5faaa208184030fa0e4ca677256b42a1c6277.jpg",
+            "image_credit": "No machine-readable author provided. Dawidbernard~commonswiki assumed (based on copyright claims). · No machine-readable source provided. Own work assumed (based on copyright claims). · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Lighthouse_of_Alexandria_in_Changsha.jpg",
+            "sources": [
+                {
+                    "label": "CNRS · presse · publié le 2026-10-14",
+                    "url": "https://www.cnrs.fr/fr/presse/phare-dalexandrie-les-secrets-de-la-7e-merveille-du-monde-reveles-grace-aux-jumeaux"
+                }
+            ],
+            "subject_id": "news-24088e247e89f9bad9e79eb435d94aed",
+            "published_at": "2026-10-29",
+            "country": "Monde",
+            "source_published_at": "2026-10-14"
+        },
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "recent",
+            "editorial_batch": "test:positive-v1-20261029",
+            "id": "decouverte-d300e69e09f28e987f3d7956",
+            "title": "Des bibliothèques accessibles hors heures de service pour mieux répondre aux besoins des usagers ruraux",
+            "body": "Dans plusieurs régions rurales des États-Unis, certaines bibliothèques proposent un accès étendu permettant à leurs usagers de fréquenter les locaux même lorsque le personnel n’est pas présent. À condition d’être titulaire d’une carte de bibliothèque et de s’inscrire au programme, les visiteurs peuvent entrer grâce à un système de badge ouvrant la porte. Cette initiative répond aux contraintes horaires des habitants, souvent liées à leur travail ou à leur vie familiale, et facilite la réalisation de démarches nécessitant ponctuellement un espace calme ou un ordinateur, comme le dépôt de documents importants. Chaque bibliothèque établit ses propres règles, telles que des limites d’âge ou des plages horaires précises. À la bibliothèque de Wyoming dans le Minnesota, la démarche d’inscription inclut une présentation des consignes de sécurité et du matériel disponible.",
+            "category": "Initiatives positives",
+            "location": "États-Unis",
+            "image_description": "Entrée de la bibliothèque Burnside, montrant une porte d'accès",
+            "image_caption": "Illustration documentaire générale. Photographie documentaire générale illustrant une entrée de bibliothèque — Wikimedia Commons",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/42486514053aa9b6376ec529c69c2f0e76b4dca5db95aaf7bcf8abf7025b5105.jpg",
+            "image_credit": "Burnside Library · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Burnside_Library_entrance.JPG",
+            "sources": [
+                {
+                    "label": "Reasons to be Cheerful · publié le 2026-10-15",
+                    "url": "https://reasonstobecheerful.world/the-library-is-closed-feel-free-to-come-in/"
+                }
+            ],
+            "subject_id": "news-26ade1d71918e1d1f4922d25bb10cbfb",
+            "published_at": "2026-10-29",
+            "country": "Monde",
+            "source_published_at": "2026-10-15"
+        }
+    ]
+}

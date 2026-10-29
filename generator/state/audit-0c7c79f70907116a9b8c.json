@@ -1,0 +1,209 @@
+{
+    "schema_version": 1,
+    "articles": [
+        {
+            "id": "decouverte-b868ad1fc6977660aa55a6d5",
+            "subject_id": "news-799b1bde02907cc4ce14aee90b2acd6c",
+            "collected_at": "2026-10-29T06:31:16+00:00",
+            "sources": [
+                {
+                    "label": "Positive News · publié le 2026-10-22",
+                    "url": "https://www.positive.news/society/the-farmer-growing-a-future-under-ghanas-trees/"
+                }
+            ],
+            "source_sha256": "1035f7b65918d3de705b2b82a4b0d8c94f0f69052d40f1ae99cec46b077a39f7",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Cocoa_farming_in_Ghana.jpg",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "original_sha1": "70204144b1dfd0b748cdbe67f402730cd477bfcc",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La mise en place du Ghana Cocoa Forest REDD+ Programme a entraîné une meilleure protection des forêts dans la région de l'Atewa, tout en améliorant les pratiques agricoles des cultivateurs de cacao.",
+                "beneficiaries": "Les habitants locaux, notamment les agricultrices comme Susana Afrifa Ankrah, qui profitent d'une conservation plus durable des forêts et d'une production cacao améliorée ; la biodiversité forestière locale également préservée."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Dans la région d'Atewa au Ghana, la programme Ghana Cocoa Forest REDD+ récompense les communautés pour la conservation des forêts, tout en leur offrant les moyens d'améliorer leurs récoltes de cacao.",
+                    "source_passages": [
+                        "Her, and others like her: community leaders who are playing a key role in a pioneering scheme that is rewarding local people for protecting the forest in a way that also helps nurture their way of life.",
+                        "Community leaders like Susana Afrifa Ankrah are playing a key role in a scheme that rewards local people for protecting the forest Under the unwieldy-sounding Ghana Cocoa Forest REDD+ Programme (GCFRP), Susana and her peers are trained in ways of farming that both conserve trees and the soils on which they depend, improving cocoa yields and so livelihoods too.",
+                        "Hence the GCFRP, jointly run by Ghana’s Forestry Commission and its Cocoa Board.",
+                        "Like many Ghanaian women farmers, Susana, 62, is always ready to latch on to new ideas, and when the programme’s representatives came calling soon after its launch in 2019, she was quick to respond."
+                    ]
+                },
+                {
+                    "sentence": "Susana Afrifa Ankrah, cultivateure et membre active du conseil de gestion local, témoigne d'une coexistence entre pratiques agricoles plus durables et préservation de la forêt tropicale.",
+                    "source_passages": [
+                        "And it’s home to Susana Afrifa Ankrah, mother, grandmother and cocoa farmer – who is in no doubt of the blessings it brings to her and her family.",
+                        "Her, and others like her: community leaders who are playing a key role in a pioneering scheme that is rewarding local people for protecting the forest in a way that also helps nurture their way of life.",
+                        "Community leaders like Susana Afrifa Ankrah are playing a key role in a scheme that rewards local people for protecting the forest Under the unwieldy-sounding Ghana Cocoa Forest REDD+ Programme (GCFRP), Susana and her peers are trained in ways of farming that both conserve trees and the soils on which they depend, improving cocoa yields and so livelihoods too.",
+                        "Like many Ghanaian women farmers, Susana, 62, is always ready to latch on to new ideas, and when the programme’s representatives came calling soon after its launch in 2019, she was quick to respond."
+                    ]
+                },
+                {
+                    "sentence": "Depuis 2019, la formation locale porte sur des méthodes de culture qui protègent le sol et les arbres, participant à la lutte contre la déforestation et aux changements climatiques.",
+                    "source_passages": [
+                        "Community leaders like Susana Afrifa Ankrah are playing a key role in a scheme that rewards local people for protecting the forest Under the unwieldy-sounding Ghana Cocoa Forest REDD+ Programme (GCFRP), Susana and her peers are trained in ways of farming that both conserve trees and the soils on which they depend, improving cocoa yields and so livelihoods too.",
+                        "Part of the international UN-backed efforts to stem climate change, REDD+ (it stands for Reducing Emissions from Deforestation and Forest Degradation) channels finance via the World Bank from rich-world countries and corporations to forest nations, in return for measurable progress on curbing forest loss.",
+                        "Hence the GCFRP, jointly run by Ghana’s Forestry Commission and its Cocoa Board.",
+                        "Like many Ghanaian women farmers, Susana, 62, is always ready to latch on to new ideas, and when the programme’s representatives came calling soon after its launch in 2019, she was quick to respond."
+                    ]
+                },
+                {
+                    "sentence": "En parallèle, la forêt continue de fournir des ressources essentielles comme l'air pur, le climat favorable et des remèdes traditionnels.",
+                    "source_passages": [
+                        "And it’s home to Susana Afrifa Ankrah, mother, grandmother and cocoa farmer – who is in no doubt of the blessings it brings to her and her family.",
+                        "“The forest gives us fresh air”, she explains.",
+                        "“It cools the land.",
+                        "It helps the rains to fall.",
+                        "And if the rains are falling, then the crops will do well and we know everything will be fine.” It brings healthy fish stocks as well – “there are bigger trees at the riverbanks that protect the water; when you throw foodstuff on the surface of the water, the fishes will come out in their numbers.” And it’s a medicine cupboard, she adds.",
+                        "The local herbalists go into the trees to collect remedies for malaria, diabetes and other sicknesses."
+                    ]
+                },
+                {
+                    "sentence": "Cette démarche fédère donc l'amélioration des moyens de subsistance et celle de l'environnement.",
+                    "source_passages": [
+                        "Her, and others like her: community leaders who are playing a key role in a pioneering scheme that is rewarding local people for protecting the forest in a way that also helps nurture their way of life.",
+                        "Community leaders like Susana Afrifa Ankrah are playing a key role in a scheme that rewards local people for protecting the forest Under the unwieldy-sounding Ghana Cocoa Forest REDD+ Programme (GCFRP), Susana and her peers are trained in ways of farming that both conserve trees and the soils on which they depend, improving cocoa yields and so livelihoods too.",
+                        "Part of the international UN-backed efforts to stem climate change, REDD+ (it stands for Reducing Emissions from Deforestation and Forest Degradation) channels finance via the World Bank from rich-world countries and corporations to forest nations, in return for measurable progress on curbing forest loss.",
+                        "Hence the GCFRP, jointly run by Ghana’s Forestry Commission and its Cocoa Board.",
+                        "Like many Ghanaian women farmers, Susana, 62, is always ready to latch on to new ideas, and when the programme’s representatives came calling soon after its launch in 2019, she was quick to respond.",
+                        "So, what difference has it made on the ground?"
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-019539f677bea12351a790b2",
+            "subject_id": "news-24088e247e89f9bad9e79eb435d94aed",
+            "collected_at": "2026-10-29T06:31:46+00:00",
+            "sources": [
+                {
+                    "label": "CNRS · presse · publié le 2026-10-14",
+                    "url": "https://www.cnrs.fr/fr/presse/phare-dalexandrie-les-secrets-de-la-7e-merveille-du-monde-reveles-grace-aux-jumeaux"
+                }
+            ],
+            "source_sha256": "03b7dc1e3b1a5f0eb0085d87730cc2cb0209fb91571fb0b5e98445c3aed0a740",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Lighthouse_of_Alexandria_in_Changsha.jpg",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "5a2c9810d852b82d0b039927d739376a18fca4b8",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La reconstitution numérique et archéologique dévoile enfin les techniques de construction du phare d'Alexandrie, permettant une meilleure compréhension de cette merveille antique.",
+                "beneficiaries": "Les chercheurs, historiens de l’architecture, archéologues et le grand public profitent de ces découvertes inédites."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Plus de deux millénaires après sa construction, le phare d’Alexandrie, considéré comme la septième merveille du monde, livre ses secrets grâce à une enquête scientifique approfondie.",
+                    "source_passages": [
+                        "Plus de 2 000 ans après sa construction, le mythique phare d’Alexandrie renaît grâce à une enquête scientifique exceptionnelle et à l’apport des jumeaux numériques.",
+                        "Les derniers mystères de ce prodige architectural sont aujourd’hui levés, grâce aux recherches menées par le Centre d’Études Alexandrines, le CEAlex (CNRS/Institut français d’archéologie orientale), sous la responsabilité scientifique de l'archéologue et architecte du CNRS Isabelle Hairy, et avec le soutien de La Fondation Dassault Systèmes et de GEDEON Programmes."
+                    ]
+                },
+                {
+                    "sentence": "Les fouilles subaquatiques menées depuis 1995 ont permis de recenser près de 5 000 blocs de pierre dans le port antique, répartis sur environ deux hectares.",
+                    "source_passages": [
+                        "Isabelle Hairy, architecte-archéologue au sein du CNRS, en charge de la direction de la fouille sous-marine du Phare depuis 1997 et de la direction du projet Pharos.Une enquête scientifique hors normeDepuis l’ouverture de la première fouille archéologique subaquatique par Jean-Yves Empereur en 1995, les recherches du CEAlex se sont poursuivies sur le site du phare d’Alexandrie, considéré aujourd’hui comme le plus vaste site d’architecture immergée au monde.",
+                        "À ce jour, 4 896 blocs de pierre ont été recensés entre 4 et 9 mètres de profondeur, dans la Méditerranée, sur une superficie d’environ 2 hectares.",
+                        "En juin 2025, les équipes du CEAlex ont franchi une étape décisive avec une nouvelle campagne de fouilles hors norme, qui a permis d’extraire des eaux du port d’Alexandrie l’eau les blocs les plus imposants du phare."
+                    ]
+                },
+                {
+                    "sentence": "Grâce à la modélisation par jumeaux numériques, les chercheurs du Centre d’Études Alexandrines ont reconstitué précisément cet édifice haut de 103 mètres.",
+                    "source_passages": [
+                        "\"\"© GEDEON Programmes / CEAlex -A +A Contact(s) Estelle Torgue Isabelle Hairy Thomas Faucher Partager ce contenu Share on BlueskyPartager sur TwitterShare on LinkedinPartager sur FacebookSend by mailhttps://www.cnrs.fr/fr/presse/phare-dalexandrie-les-secrets-de-la-7e-merveille-du-monde-reveles-grace-aux-jumeaux Imprimer https://www.cnrs.fr/fr/presse/phare-dalexandrie-les-secrets-de-la-7e-merveille-du-monde-reveles-grace-aux-jumeaux Télécharger le communiqué de presse (381.22 Ko) Phare d'Alexandrie : les secrets de la 7e Merveille du Monde révélés grâce aux jumeaux numériques Paris, 14 octobre 2026 Numérique -A +A Partager ce contenu Share on BlueskyPartager sur TwitterShare on LinkedinPartager sur FacebookSend by mailhttps://www.cnrs.fr/fr/presse/phare-dalexandrie-les-secrets-de-la-7e-merveille-du-monde-reveles-grace-aux-jumeaux • Le phare d’Alexandrie livre enfin les secrets de sa construction grâce a une enquête scientifique et aux jumeaux numériques.• La reconstitution de la 7e merveille du monde dévoile un chef-d’œuvre d’ingénierie antique d’une modernité insoupçonnée.• Le documentaire « le phare d’Alexandrie, les derniers secrets » produit par Gedeon programmes relate cette incroyable épopée scientifique.",
+                        "Les derniers mystères de ce prodige architectural sont aujourd’hui levés, grâce aux recherches menées par le Centre d’Études Alexandrines, le CEAlex (CNRS/Institut français d’archéologie orientale), sous la responsabilité scientifique de l'archéologue et architecte du CNRS Isabelle Hairy, et avec le soutien de La Fondation Dassault Systèmes et de GEDEON Programmes."
+                    ]
+                },
+                {
+                    "sentence": "Ces travaux mettent en lumière un chef-d’œuvre d’ingénierie antique capable de résister à de nombreux séismes.",
+                    "source_passages": [
+                        "Pour la première fois, une reconstitution scientifiquement complète, dévoile les secrets de construction de l’une des sept merveilles du monde.Dominant la Méditerranée pendant près de 16 siècles, ce chef-d’œuvre d’ingénierie civile s’élevait à environ 103 mètres de haut.",
+                        "Il a notamment résisté à 18 séismes avant de s’éteindre définitivement, laissant derrière lui un monument dont les vestiges et les descriptions ont traversé les siècles."
+                    ]
+                },
+                {
+                    "sentence": "Cette avancée éclaire la complexité de l’architecture antique et enrichit la connaissance du patrimoine mondial.",
+                    "source_passages": [
+                        "\"\"© GEDEON Programmes / CEAlex -A +A Contact(s) Estelle Torgue Isabelle Hairy Thomas Faucher Partager ce contenu Share on BlueskyPartager sur TwitterShare on LinkedinPartager sur FacebookSend by mailhttps://www.cnrs.fr/fr/presse/phare-dalexandrie-les-secrets-de-la-7e-merveille-du-monde-reveles-grace-aux-jumeaux Imprimer https://www.cnrs.fr/fr/presse/phare-dalexandrie-les-secrets-de-la-7e-merveille-du-monde-reveles-grace-aux-jumeaux Télécharger le communiqué de presse (381.22 Ko) Phare d'Alexandrie : les secrets de la 7e Merveille du Monde révélés grâce aux jumeaux numériques Paris, 14 octobre 2026 Numérique -A +A Partager ce contenu Share on BlueskyPartager sur TwitterShare on LinkedinPartager sur FacebookSend by mailhttps://www.cnrs.fr/fr/presse/phare-dalexandrie-les-secrets-de-la-7e-merveille-du-monde-reveles-grace-aux-jumeaux • Le phare d’Alexandrie livre enfin les secrets de sa construction grâce a une enquête scientifique et aux jumeaux numériques.• La reconstitution de la 7e merveille du monde dévoile un chef-d’œuvre d’ingénierie antique d’une modernité insoupçonnée.• Le documentaire « le phare d’Alexandrie, les derniers secrets » produit par Gedeon programmes relate cette incroyable épopée scientifique.",
+                        "Les derniers mystères de ce prodige architectural sont aujourd’hui levés, grâce aux recherches menées par le Centre d’Études Alexandrines, le CEAlex (CNRS/Institut français d’archéologie orientale), sous la responsabilité scientifique de l'archéologue et architecte du CNRS Isabelle Hairy, et avec le soutien de La Fondation Dassault Systèmes et de GEDEON Programmes."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-d300e69e09f28e987f3d7956",
+            "subject_id": "news-26ade1d71918e1d1f4922d25bb10cbfb",
+            "collected_at": "2026-10-29T06:31:55+00:00",
+            "sources": [
+                {
+                    "label": "Reasons to be Cheerful · publié le 2026-10-15",
+                    "url": "https://reasonstobecheerful.world/the-library-is-closed-feel-free-to-come-in/"
+                }
+            ],
+            "source_sha256": "a1079e1ca4cab27cc6510a877c43a665f189e047388847c8ce849a000f28b513",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Burnside_Library_entrance.JPG",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "5dbe5a027df8e8138db842f9e8c5e581b6a56585",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Des bibliothèques rurales américaines ouvrent leurs locaux en dehors des heures de présence du personnel grâce à un système d'accès étendu.",
+                "beneficiaries": "Les usagers des bibliothèques, notamment ceux ayant des contraintes horaires liées au travail ou à la famille."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Dans plusieurs régions rurales des États-Unis, certaines bibliothèques proposent un accès étendu permettant à leurs usagers de fréquenter les locaux même lorsque le personnel n’est pas présent.",
+                    "source_passages": [
+                        "In communities where workspaces are scarce, libraries are welcoming visitors outside of staffed hours.",
+                        "Jiahong Pan/Daily Yonder The Wyoming branch library is home to a new ECRL initiative called “extended access,” which allows users to access a library branch when it is unstaffed.",
+                        "“We hope that it allows more people to use the facility, in particular those who may not be able to get to the library during otherwise limited hours due to work and family schedules,” ECRL executive director Carla Lydon wrote in an email."
+                    ]
+                },
+                {
+                    "sentence": "À condition d’être titulaire d’une carte de bibliothèque et de s’inscrire au programme, les visiteurs peuvent entrer grâce à un système de badge ouvrant la porte.",
+                    "source_passages": [
+                        "All they need is a library card.",
+                        "To access an unstaffed library, a person first needs a library swipe card from the local library, which will unlock the doors.",
+                        "For the ECRL, any library card associated with any of Minnesota’s 12 regional libraries will do.",
+                        "After getting a library card, users must also sign up for the extended-access program.",
+                        "Some libraries allow people to do so online, while other libraries require them to register in person.",
+                        "Some libraries also require users to participate in an in-person tour, so they can familiarize themselves with its safety features."
+                    ]
+                },
+                {
+                    "sentence": "Cette initiative répond aux contraintes horaires des habitants, souvent liées à leur travail ou à leur vie familiale, et facilite la réalisation de démarches nécessitant ponctuellement un espace calme ou un ordinateur, comme le dépôt de documents importants.",
+                    "source_passages": [
+                        "For Michael Sayen, visiting the local library after hours is a great way to get work done, or seek respite from the weather, regardless of what day it is.",
+                        "But if you have extended hours, you can come in and do the work, or cool down from a hot day or whatever you need to do,” Sayen said the day after Labor Day while working on a novel at the Wyoming, Minnesota branch of the East Central Regional Library (ECRL) in Chisago County.",
+                        "Sayen, who lives in nearby Forest Lake north of Minneapolis, adds that he has found after-hours access useful for filing time-sensitive job applications or court documents.",
+                        "“We hope that it allows more people to use the facility, in particular those who may not be able to get to the library during otherwise limited hours due to work and family schedules,” ECRL executive director Carla Lydon wrote in an email."
+                    ]
+                },
+                {
+                    "sentence": "Chaque bibliothèque établit ses propres règles, telles que des limites d’âge ou des plages horaires précises.",
+                    "source_passages": [
+                        "There also are some restrictions — for example, to have extended access to the Timberland Regional Library, users must be at least 14 years of age.",
+                        "For the Independence Public Library, at least 16 years of age.",
+                        "And, for Nevada County, Summit County, and ECRL in Minnesota, extended access is only available to members who are at least 18 years of age.",
+                        "Many libraries require visitors to leave unstaffed locations as early as 8 p.m.",
+                        "At Summit County, unstaffed libraries aren’t accessible on Sundays, even with extended access privileges."
+                    ]
+                },
+                {
+                    "sentence": "À la bibliothèque de Wyoming dans le Minnesota, la démarche d’inscription inclut une présentation des consignes de sécurité et du matériel disponible.",
+                    "source_passages": [
+                        "But if you have extended hours, you can come in and do the work, or cool down from a hot day or whatever you need to do,” Sayen said the day after Labor Day while working on a novel at the Wyoming, Minnesota branch of the East Central Regional Library (ECRL) in Chisago County.",
+                        "Jiahong Pan/Daily Yonder The Wyoming branch library is home to a new ECRL initiative called “extended access,” which allows users to access a library branch when it is unstaffed.",
+                        "At ECRL, signing up requires one to visit the Wyoming branch when it is staffed.",
+                        "The process takes about 15 minutes, and involves signing a form, sitting through a presentation on what the program is about, as well as reviewing the library’s safety features, including locations of the defibrillator, first aid kit and emergency exits."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        }
+    ]
+}
