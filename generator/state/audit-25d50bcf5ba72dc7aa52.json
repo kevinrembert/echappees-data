@@ -1,0 +1,41 @@
+{
+    "schema_version": 1,
+    "articles": [
+        {
+            "id": "decouverte-30e35e7ef41ec422c2332112",
+            "subject_id": "Q958961",
+            "collected_at": "2026-10-29T04:12:05+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Théâtre antique d'Orange",
+                    "url": "https://fr.wikipedia.org/wiki/Th%C3%A9%C3%A2tre_antique_d%27Orange"
+                }
+            ],
+            "source_sha256": "480958fb1002f956a9b0fabe1c9942678f506d97fb97fbdd9d683902d367ec6f",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Roman_Theatre_in_Orange_2008.jpg",
+            "image_license": "CC BY-SA 2.0 · https://creativecommons.org/licenses/by-sa/2.0/",
+            "original_sha1": "5512e3973a06ef11a99c83b54451dd3c085a488f",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-7e65c7412be43fa8d3442204",
+            "subject_id": "Q1421401",
+            "collected_at": "2026-10-29T04:13:01+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Pastel de nata",
+                    "url": "https://fr.wikipedia.org/wiki/Pastel_de_nata"
+                }
+            ],
+            "source_sha256": "c9c2871f4d595515c66bcc80b4d10f75f9d5af859c3a14c0931b3a27cc07b5dd",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Pasteis_de_nata_(Lissabon_2016)_(26069956686).jpg",
+            "image_license": "CC BY 2.0 · https://creativecommons.org/licenses/by/2.0/",
+            "original_sha1": "02cb6cf5ccabb5130472471b2ad8e722aa5a4304",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        }
+    ]
+}

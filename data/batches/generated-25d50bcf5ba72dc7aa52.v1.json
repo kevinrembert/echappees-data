@@ -1,0 +1,51 @@
+{
+    "schema_version": 1,
+    "id": "generated-25d50bcf5ba72dc7aa52",
+    "version": "1",
+    "articles": [
+        {
+            "id": "decouverte-30e35e7ef41ec422c2332112",
+            "title": "Le théâtre antique d'Orange : un mur de façade exceptionnel du Ier siècle av. J.-C.",
+            "body": "Le théâtre antique d’Orange, érigé sous le règne d’Auguste par des vétérans de la IIe légion de Jules César, figure parmi les théâtres romains les mieux conservés. Son élément le plus impressionnant est le mur de façade, s’étirant sur 103 mètres de long et culminant à 37 mètres de hauteur. Cette structure monumentale, construite en grand appareil de pierre, conserve l’élévation d’origine et se distingue par une sobriété architecturale marquée. Trois portes rectangulaires se dégagent au rez-de-chaussée, dont la porte royale centrale et deux portes réservées aux hôtes, séparées par une série d’arcades qui rythment la composition. Ce mur, qualifié par Louis XIV de « plus belle muraille de mon royaume », est un témoignage authentique de l’ingénierie romaine et contribue à l’unique caractère de ce théâtre antique.",
+            "category": "Histoire et patrimoine",
+            "location": "Orange, France",
+            "image_description": "Vue panoramique du théâtre antique romain d'Orange dans le sud de la France, prise en 2008 avec un champ de vision d'environ 180°.",
+            "image_caption": "Photographie documentaire générale du théâtre antique d'Orange, France, en 2008 · Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/6f000aeedf868a1b663a0cfee896e828cac3a2426b038177ef569e5ebcfd0d33.jpg",
+            "image_credit": "Benh LIEU SONG (Flickr) · Roman Theatre in Orange 2008 · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 2.0 · https://creativecommons.org/licenses/by-sa/2.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Roman_Theatre_in_Orange_2008.jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Théâtre antique d'Orange",
+                    "url": "https://fr.wikipedia.org/wiki/Th%C3%A9%C3%A2tre_antique_d%27Orange"
+                }
+            ],
+            "subject_id": "Q958961",
+            "published_at": "2026-10-29",
+            "country": "France"
+        },
+        {
+            "id": "decouverte-7e65c7412be43fa8d3442204",
+            "title": "Pastel de nata et sa version originale, le pastel de Belém, deux pâtisseries portugaises liées à l’histoire de Lisbonne",
+            "body": "Le pastel de nata, ou « tartelette à la crème », est une spécialité pâtissière du Portugal, célèbre dans tout le pays. Cette douceur peut se déguster froide ou tiède, souvent agrémentée d’un nuage de sucre glace ou d’un soupçon de cannelle. Originaire de Belém, un quartier de Lisbonne, le pastel de Belém constitue la recette authentique née au XIXe siècle dans un monastère proche. La fermeture du monastère des Hiéronymites a conduit la recette originale à être vendue depuis 1837 uniquement dans une boutique spécifique. Malgré la popularité nationale des pastéis de nata, seuls quelques maîtres pâtissiers connaissent ce secret jalousement gardé. À cette époque, Lisbonne et Belém étaient deux villes reliées par des bateaux à vapeur, facilitant la diffusion de cette pâtisserie auprès des visiteurs attirés par les sites historiques environnants.",
+            "category": "Gastronomie et traditions",
+            "location": "Belém, Lisbonne, Portugal",
+            "image_description": "Pasteis de nata pris en photo à Lisbonne en 2016, montrant plusieurs tartelettes dorées posées ensemble.",
+            "image_caption": "Illustration documentaire générale de pastéis de nata prise à Lisbonne en 2016, Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/30bf8e69ea33bd51c7e23630e1fd319b475cc62112c143d75fa0806015d0116e.jpg",
+            "image_credit": "Paul Arps from The Netherlands · Pasteis de nata (Lissabon 2016) · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY 2.0 · https://creativecommons.org/licenses/by/2.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Pasteis_de_nata_(Lissabon_2016)_(26069956686).jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Pastel de nata",
+                    "url": "https://fr.wikipedia.org/wiki/Pastel_de_nata"
+                }
+            ],
+            "subject_id": "Q1421401",
+            "published_at": "2026-10-29",
+            "country": "Portugal"
+        }
+    ]
+}
