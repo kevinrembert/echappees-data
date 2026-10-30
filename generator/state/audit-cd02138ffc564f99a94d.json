@@ -1,0 +1,252 @@
+{
+    "schema_version": 1,
+    "articles": [
+        {
+            "id": "decouverte-75269d6142fc205967573bf6",
+            "subject_id": "news-85a9133995a29f80a8a3f16fff887117",
+            "collected_at": "2026-10-30T15:02:58+00:00",
+            "sources": [
+                {
+                    "label": "Good Good Good · publié le 2026-10-22",
+                    "url": "https://www.goodgoodgood.co/articles/pittsburgh-nurses-12-week-paid-parental-leave"
+                }
+            ],
+            "source_sha256": "dc778fcb993fadeaa6d6d4a4ff11ced52f49403ae184caf6cf6796589548dc41",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Paid_parental_leave_picnic_(7174326610).jpg",
+            "image_license": "CC BY-SA 2.0 · https://creativecommons.org/licenses/by-sa/2.0/",
+            "original_sha1": "0a9bd447fe8c2d11846cd0af92d9bc6ffbdf7e68",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Le comté d'Allegheny a adopté une politique locale de congé parental payé de 12 semaines, couvrant les naissances, adoptions, placements en famille d'accueil et morts-nés, avec protection de l'emploi et des prestations de santé.",
+                "beneficiaries": "Les parents salariés à temps plein ou partiel du comté, ainsi que leurs employeurs locaux de plus de 15 employés."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "À Allegheny, en Pennsylvanie, le conseil de comté a voté une politique locale offrant 12 semaines de congé parental payé, une première aux États-Unis à ce niveau territorial.",
+                    "source_passages": [
+                        "(Courtesy of SEIU Healthcare Pennsylvania)Tuesday night, they won.The Allegheny County Council voted 11 to 4 to pass 12 weeks of paid parental leave — the first county-level paid leave policy in the nation.Under the policy, both birthing and non-birthing parents would receive three months of paid parental leave within the first year of childbirth, adoption, foster placement or a stillbirth.",
+                        "Pennsylvania isn’t one of them.The county’s policy differs from other state-level programs, and it opens the door for other counties to do the same."
+                    ]
+                },
+                {
+                    "sentence": "Cette mesure concerne les parents salariés à temps plein depuis six mois ou à temps partiel avec 625 heures travaillées, quel que soit le parent biologique.",
+                    "source_passages": [
+                        "(Courtesy of SEIU Healthcare Pennsylvania)Tuesday night, they won.The Allegheny County Council voted 11 to 4 to pass 12 weeks of paid parental leave — the first county-level paid leave policy in the nation.Under the policy, both birthing and non-birthing parents would receive three months of paid parental leave within the first year of childbirth, adoption, foster placement or a stillbirth.",
+                        "Parents would have their jobs and health benefits protected while on leave, but to qualify they need to be full-time employees for at least six months or part-time workers with a minimum of 625 logged work hours."
+                    ]
+                },
+                {
+                    "sentence": "Le dispositif protège l'emploi et la couverture santé durant le congé, et s'applique aux entreprises de 15 salariés et plus.",
+                    "source_passages": [
+                        "(Courtesy of SEIU Healthcare Pennsylvania)Tuesday night, they won.The Allegheny County Council voted 11 to 4 to pass 12 weeks of paid parental leave — the first county-level paid leave policy in the nation.Under the policy, both birthing and non-birthing parents would receive three months of paid parental leave within the first year of childbirth, adoption, foster placement or a stillbirth.",
+                        "Parents would have their jobs and health benefits protected while on leave, but to qualify they need to be full-time employees for at least six months or part-time workers with a minimum of 625 logged work hours.",
+                        "All businesses with 15 or more employees would be required to offer the benefit.The chamber Tuesday night was packed by supporters of the proposal."
+                    ]
+                },
+                {
+                    "sentence": "L’initiative a été menée par des infirmières de l’hôpital Magee-Womens à Pittsburgh, mobilisées avec des parents et des élus, et s’est imposée face à une opposition sur le financement côté employeurs.",
+                    "source_passages": [
+                        "Stone calls the parents in the middle of the day to update them — starting each call with, “Everything is OK” — and watch them come in at the end of their workday, their faces reflecting the relief of reunion.“They carry that weight of not being there,” Stone, who works at UPMC Magee-Womens Hospital in Pittsburgh, told The 19th.Five months ago, she and the other nurses at Magee, who are in the middle of negotiating a union contract, decided to do something about it.",
+                        "They came together with a coalition of working parents, advocates and some elected leaders to draft a proposal for a paid leave program in Allegheny County.",
+                        "They launched their campaign on Mother’s Day, May 10.A supporter holds a newspaper highlighting the campaign by UPMC Magee-Womens Hospital nurses for paid parental leave at a Mother’s Day kickoff event in Pittsburgh, Pennsylvania on May 10, 2026.",
+                        "Allegheny’s policy would put the onus on most employers to fund the benefit, which was the piece of the proposal that received the most pushback.",
+                        "(Courtesy of SEIU Healthcare Pennsylvania)It was an outpouring of community support that ultimately propelled the policy forward."
+                    ]
+                },
+                {
+                    "sentence": "La mesure, votée majoritairement, marque un changement pratique dans un pays où le congé parental payé était jusqu’ici absent au niveau fédéral.",
+                    "source_passages": [
+                        "(Courtesy of SEIU Healthcare Pennsylvania)Tuesday night, they won.The Allegheny County Council voted 11 to 4 to pass 12 weeks of paid parental leave — the first county-level paid leave policy in the nation.Under the policy, both birthing and non-birthing parents would receive three months of paid parental leave within the first year of childbirth, adoption, foster placement or a stillbirth.",
+                        "He was a “yes.” When the final vote was tallied, the crowd broke into an applause punctuated by shouts of “thank you!”The passage was a decisive step forward for a movement that has won every victory inch by inch.",
+                        "The United States is the only industrialized nation without a federal paid leave policy."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-277c10bf9e255bf2dec0e714",
+            "subject_id": "source-f53baed70af9b42e7c8df22d9a5ae877",
+            "collected_at": "2026-10-30T15:03:15+00:00",
+            "sources": [
+                {
+                    "label": "INRAE · cuisine et légumineuses",
+                    "url": "https://www.inrae.fr/dossiers/quand-grand-retour-legumineuses/cuisine-mille-declinaisons-legumineuses"
+                }
+            ],
+            "source_sha256": "f353abffe240c9d02914c890132b2d6fa42508ab6237d5c2edafaf608393f751",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Soybeanvarieties.jpg",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "4fcdb545b6994b72dbe31f136c79bf1c285a05b7",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La diversification des formes culinaires à base de légumineuses facilite leur intégration dans l'alimentation quotidienne des Français.",
+                "beneficiaries": "Les consommateurs français, notamment ceux cherchant à réduire leur consommation de viande ou à varier leurs sources de protéines."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Les légumineuses, riches en protéines, gagnent progressivement de la place dans la cuisine française grâce à de nombreuses transformations facilitant leur usage.",
+                    "source_passages": [
+                        "9 À quand le grand retour des légumineuses ?"
+                    ]
+                },
+                {
+                    "sentence": "Au-delà des classiques pois chiches ou lentilles séchés, désormais souvent longs à préparer, on trouve des légumineuses en conserve, prêtes à être utilisées, ainsi que des farines mixtes mêlant céréales et légumineuses pour pâtisseries ou pâtes.",
+                    "source_passages": [
+                        "Elles se conservent facilement, mais avec comme revers de médaille un temps de préparation souvent long.Conserves Juste cuites comme pour les pois chiches ou les haricots rouges, en plats préparés comme le cassoulet, les légumineuses en conserves sont la présentation la plus classique et la plus pratique à utiliser en cuisine.Aquafaba C’est le nom de l’eau de cuisson des légumineuses, en particulier des pois chiches, qui possède des propriétés similaires au blanc d’œuf, permettant de créer meringues ou mousse au chocolat.Pâtes mixtes Mélange de farines de blé et de diverses légumineuses, ces pâtes mixtes commencent à s’implanter dans les rayons.",
+                        "Le projet Vegage, porté par le Carnot Qualiment, en a testé une multitude de combinaisons entre 2014 et 2017.Pâtisseries La farine mixte céréales/légumineuses peut remplacer la farine classique dans bon nombre de recettes."
+                    ]
+                },
+                {
+                    "sentence": "Ces innovations techniques s’appuient sur des études impliquant des agriculteurs, des consommateurs et des chefs cuisiniers, qui collaborent pour créer des produits adaptés aux besoins réels.",
+                    "source_passages": [
+                        "Pulse Fiction est un programme d’ampleur (2024-2028) portant sur l’utilisation des légumineuses sous forme de produit alimentaire intermédiaire (PAI), comme les farines.",
+                        "« Nous prenons en compte les contraintes des agriculteurs, l’impact environnemental, mais aussi les freins exprimés par les consommateurs pour développer des produits qui auront réellement une chance de trouver leur place dans les assiettes des Français », explique l’une des coordinatrices Stéphanie Chambaron.",
+                        "Une anthropologue réalise pour l’heure des entretiens au sein de plusieurs foyers pour cerner leurs attentes, leurs recettes et les ustensiles dont ils disposent.",
+                        "Ces informations, complétées par des entretiens avec les agriculteurs, permettront le développement de PAI adaptés à toutes les contraintes, sous la supervision d’un chef cuisinier.",
+                        "« Nos collègues de l’unité SayFood feront ensuite goûter ces nouveaux plats à des participants dans leur restaurant expérimental, pour étudier leur acceptation cognitive et sensorielle », déroule Stéphanie Chambaron."
+                    ]
+                },
+                {
+                    "sentence": "De plus, des alternatives végétales aux produits animaux se développent à base de soja ou de pois, enrichissant ainsi les options culinaires.",
+                    "source_passages": [
+                        "Elles vont jusqu’à composer des « faux-mages » entièrement végétaux à base de soja et de noix de cajou, par exemple.Alternatives au café Avec son empreinte écologique élevée et son caractère addictif, le café n’est pas sans tache… Plusieurs start-up proposent désormais une alternative originale à base de lupin, une légumineuse d’ordinaire peu valorisée.Biscuits apéritifs Au-delà du classique houmous, les légumineuses s’invitent aussi à l’apéritif, avec des graines grillées aux épices ou sous forme de chips soufflées à base de pois, lentilles ou pois chiches, bien moins riches en matières grasses.Tofu et autres dérivés du soja Très populaire en Asie, le soja se décline lui-même sous de multiples formes : tofu (soyeux, fumé, fermenté…), mais aussi protéines texturées, sauce soja, miso, edamame (fèves de soja immatures), tempeh (soja fermenté), etc.Substituts à la viande Pour attirer flexitariens ou végans nostalgiques, les industriels ont développé toute une gamme de substituts aux produits carnés (steak, lardons, jambon ou encore nuggets), souvent à base de protéines de pois ou de soja."
+                    ]
+                },
+                {
+                    "sentence": "Ces avancées rendent les légumineuses plus accessibles au quotidien et contribuent à diversifier l’alimentation sans complexifier les préparations.",
+                    "source_passages": [
+                        "L’épopée des fabacées 1 sur 9 Les nombreux atouts des légumineuses fourragères 2 sur 9 Stratégie INRAE 2030 : la part belle aux légumineuses 3 sur 9 Au champ, des atouts à valoriser 4 sur 9 En quête de légumineuses adaptées aux nouveaux besoins 5 sur 9 Letsproseed, une recherche tous azimuts pour améliorer les protéines de légumineuses 6 sur 9 Une place à prendre dans l’assiette des Français 7 sur 9 Cuisine : les mille et une déclinaisons des légumineuses 8 sur 9 Le soja, une légumineuse à part 9 sur 9 Légumes secs Lentilles corail, pois chiches ou haricots secs : les légumineuses dans leur plus simple appareil.",
+                        "Elles se conservent facilement, mais avec comme revers de médaille un temps de préparation souvent long.Conserves Juste cuites comme pour les pois chiches ou les haricots rouges, en plats préparés comme le cassoulet, les légumineuses en conserves sont la présentation la plus classique et la plus pratique à utiliser en cuisine.Aquafaba C’est le nom de l’eau de cuisson des légumineuses, en particulier des pois chiches, qui possède des propriétés similaires au blanc d’œuf, permettant de créer meringues ou mousse au chocolat.Pâtes mixtes Mélange de farines de blé et de diverses légumineuses, ces pâtes mixtes commencent à s’implanter dans les rayons.",
+                        "Elles vont jusqu’à composer des « faux-mages » entièrement végétaux à base de soja et de noix de cajou, par exemple.Alternatives au café Avec son empreinte écologique élevée et son caractère addictif, le café n’est pas sans tache… Plusieurs start-up proposent désormais une alternative originale à base de lupin, une légumineuse d’ordinaire peu valorisée.Biscuits apéritifs Au-delà du classique houmous, les légumineuses s’invitent aussi à l’apéritif, avec des graines grillées aux épices ou sous forme de chips soufflées à base de pois, lentilles ou pois chiches, bien moins riches en matières grasses.Tofu et autres dérivés du soja Très populaire en Asie, le soja se décline lui-même sous de multiples formes : tofu (soyeux, fumé, fermenté…), mais aussi protéines texturées, sauce soja, miso, edamame (fèves de soja immatures), tempeh (soja fermenté), etc.Substituts à la viande Pour attirer flexitariens ou végans nostalgiques, les industriels ont développé toute une gamme de substituts aux produits carnés (steak, lardons, jambon ou encore nuggets), souvent à base de protéines de pois ou de soja."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-780698969952e20f064acd24",
+            "subject_id": "source-ead53e307c4ef8061fa76d1479c0aa2f",
+            "collected_at": "2026-10-30T15:03:32+00:00",
+            "sources": [
+                {
+                    "label": "NOAA · Do whales make noise?",
+                    "url": "https://oceanservice.noaa.gov/facts/whalesounds.html"
+                }
+            ],
+            "source_sha256": "3063d87440c9727ae429e0b57bf12a62b4086cbb051c15fe5d7e5e28e9baabb9",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:One_of_the_most_amazing_(5895628812).jpg",
+            "image_license": "CC BY-SA 2.0 · https://creativecommons.org/licenses/by-sa/2.0/",
+            "original_sha1": "0adc7dcb83873c70f81a893d8af91692d82a8415",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Les scientifiques ont pu comprendre les fonctions et usages variés des sons émis par les cétacés, incluant la navigation, la communication sociale et les stratégies alimentaires.",
+                "beneficiaries": "Les cétacés, en particulier les baleines, qui utilisent ces sons pour mieux se repérer, interagir entre elles et coordonner leurs activités."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Les baleines émettent plusieurs types de sons, notamment des clics, des sifflements et des appels pulsés, qui jouent chacun un rôle précis dans leur vie quotidienne.",
+                    "source_passages": [
+                        "The three main types of sounds made by whales are clicks, whistles, and pulsed calls."
+                    ]
+                },
+                {
+                    "sentence": "Les clics servent principalement à l’écholocation, leur permettant de déterminer la forme d’objets sous l’eau et d’identifier d’autres animaux, amis ou prédateurs.",
+                    "source_passages": [
+                        "Clicks are believed to be for navigation and identifying physical surroundings.",
+                        "When the sound waves bounce off of an object, they return to the whale, allowing the whale to identify the shape of the object.",
+                        "Clicks can even help to differentiate between friendly creatures and predators."
+                    ]
+                },
+                {
+                    "sentence": "Les sifflements et appels pulsés interviennent surtout dans les interactions sociales entre individus d’un même groupe, voire entre groupes différents.",
+                    "source_passages": [
+                        "Whistles and pulsed calls are used during social activities.",
+                        "Pulsed calls are more frequent and sound like squeaks, screams, and squawks to the human ear.",
+                        "Differing vocal “dialects” have been found to exist between different pods within the same whale population.",
+                        "This is most likely so that whales can differentiate between whales within their pods and strangers."
+                    ]
+                },
+                {
+                    "sentence": "En plus des sons vocaux, les baleines produisent des bruits de claquement de nageoires et de queue à la surface pour communiquer sur de plus longues distances, notamment pour signaler de l’agressivité ou rassembler des poissons.",
+                    "source_passages": [
+                        "Whales also use their tails and fins to make loud slapping noises on the surface of the water to communicate nonverbally.",
+                        "The sound can be heard for hundreds of meters below the surface and may be a warning sign of aggression or a tool to scare schools of fish together, making them an easier meal."
+                    ]
+                },
+                {
+                    "sentence": "Ces connaissances proviennent d’observations scientifiques réalisées notamment dans des sanctuaires marins où les déplacements et sons des baleines sont étudiés avec des capteurs.",
+                    "source_passages": [
+                        "In the Stellwagen Bank National Marine Sanctuary, NOAA scientists attached sensors to whales in order to track their movement patterns.",
+                        "They hope to learn about the whales’ behavior and communication as well as to observe how human interaction affects their behavior."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-25f280999af6c45098bd18a8",
+            "subject_id": "Q275639",
+            "collected_at": "2026-10-30T15:03:39+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Cinque Terre",
+                    "url": "https://fr.wikipedia.org/wiki/Cinque_Terre"
+                }
+            ],
+            "source_sha256": "794173d557c73cf50459b5c465bbcdd0fdb12e26b984d1be473ac61a8793369a",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Building_at_Cinque_Terre,_Italy.jpg",
+            "image_license": "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/",
+            "original_sha1": "cbafa75ba258eeb7ffd0a2302be79d8cedd0dc39",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La protection de l'environnement et l'entretien des terrasses agricoles traditionnelles dans les Cinque Terre ont permis de préserver à la fois le paysage et la biodiversité locale.",
+                "beneficiaries": "Les habitants des cinq villages, les touristes, ainsi que les milieux naturels et agricoles du parc national des Cinque Terre."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Les Cinque Terre, un ensemble de cinq villages construits sur des falaises escarpées de la côte ligurienne, sont aussi un parc national depuis 1999.",
+                    "source_passages": [
+                        "Les Cinque Terre comprennent cinq villages : d'ouest en est, Monterosso al Mare, Vernazza, Corniglia, Manarola et Riomaggiore qui sont rattachés au parc national des Cinque Terre créé en 1999."
+                    ]
+                },
+                {
+                    "sentence": "Ces villages historiques, comme Vernazza ou Manarola, s'étagent au-dessus de terrasses agricoles façonnées depuis des siècles.",
+                    "source_passages": [
+                        "Les Cinque Terre comprennent cinq villages : d'ouest en est, Monterosso al Mare, Vernazza, Corniglia, Manarola et Riomaggiore qui sont rattachés au parc national des Cinque Terre créé en 1999.",
+                        "Les Cinque Terre occupent un paysage accidenté et escarpé, sur lequel sont construites au fil des siècles des terrasses permettant l'agriculture."
+                    ]
+                },
+                {
+                    "sentence": "Ces aménagements soutiennent une agriculture en pente raide tout en empêchant l’érosion des sols.",
+                    "source_passages": [
+                        "Les Cinque Terre occupent un paysage accidenté et escarpé, sur lequel sont construites au fil des siècles des terrasses permettant l'agriculture."
+                    ]
+                },
+                {
+                    "sentence": "Leur entretien continu contribue à la sauvegarde d’un paysage typique et à la protection de la biodiversité locale.",
+                    "source_passages": [
+                        "Les Cinque Terre occupent un paysage accidenté et escarpé, sur lequel sont construites au fil des siècles des terrasses permettant l'agriculture."
+                    ]
+                },
+                {
+                    "sentence": "Malgré la fréquentation touristique importante, ces villages restent accessibles principalement par des sentiers ou par voie ferroviaire.",
+                    "source_passages": [
+                        "Malgré la construction d'une route et d'une voie ferroviaire au XXe siècle, leur accès reste à la fois difficile, et emprunté par un grand nombre de visiteurs obligeant à envisager des mesures de régulation."
+                    ]
+                },
+                {
+                    "sentence": "Cette cohabitation entre nature, culture et visiteurs souligne l'importance de mesures locales pour maintenir cet équilibre fragile sur les falaises méditerranéennes.",
+                    "source_passages": [
+                        "Malgré la construction d'une route et d'une voie ferroviaire au XXe siècle, leur accès reste à la fois difficile, et emprunté par un grand nombre de visiteurs obligeant à envisager des mesures de régulation."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        }
+    ]
+}

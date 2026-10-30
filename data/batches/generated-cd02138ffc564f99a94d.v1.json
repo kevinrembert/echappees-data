@@ -1,0 +1,108 @@
+{
+    "schema_version": 1,
+    "id": "generated-cd02138ffc564f99a94d",
+    "version": "1",
+    "articles": [
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-75269d6142fc205967573bf6",
+            "title": "Congé parental payé : un comté américain franchit une première étape concrète",
+            "body": "À Allegheny, en Pennsylvanie, le conseil de comté a voté une politique locale offrant 12 semaines de congé parental payé, une première aux États-Unis à ce niveau territorial. Cette mesure concerne les parents salariés à temps plein depuis six mois ou à temps partiel avec 625 heures travaillées, quel que soit le parent biologique. Le dispositif protège l'emploi et la couverture santé durant le congé, et s'applique aux entreprises de 15 salariés et plus. L’initiative a été menée par des infirmières de l’hôpital Magee-Womens à Pittsburgh, mobilisées avec des parents et des élus, et s’est imposée face à une opposition sur le financement côté employeurs. La mesure, votée majoritairement, marque un changement pratique dans un pays où le congé parental payé était jusqu’ici absent au niveau fédéral.",
+            "category": "Initiatives positives",
+            "location": "Allegheny, Pennsylvanie, États-Unis",
+            "image_description": "Un groupe de personnes lors d'un pique-nique pour soutenir le congé parental payé.",
+            "image_caption": "Illustration documentaire générale d’un pique-nique pour le congé parental payé – photo Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/ae817889431721a754aea0bcd0240d0f73596c3267aa219ee7457ba83f9a722f.jpg",
+            "image_credit": "New Zealand Tertiary Education Union from New Zealand · Paid parental leave picnic · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 2.0 · https://creativecommons.org/licenses/by-sa/2.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Paid_parental_leave_picnic_(7174326610).jpg",
+            "sources": [
+                {
+                    "label": "Good Good Good · publié le 2026-10-22",
+                    "url": "https://www.goodgoodgood.co/articles/pittsburgh-nurses-12-week-paid-parental-leave"
+                }
+            ],
+            "subject_id": "news-85a9133995a29f80a8a3f16fff887117",
+            "published_at": "2026-10-30",
+            "country": "Monde",
+            "source_published_at": "2026-10-22"
+        },
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "culinary",
+            "editorial_batch": "daily",
+            "id": "decouverte-277c10bf9e255bf2dec0e714",
+            "title": "Les légumineuses dans l’assiette : des formes nouvelles pour un usage simplifié",
+            "body": "Les légumineuses, riches en protéines, gagnent progressivement de la place dans la cuisine française grâce à de nombreuses transformations facilitant leur usage. Au-delà des classiques pois chiches ou lentilles séchés, désormais souvent longs à préparer, on trouve des légumineuses en conserve, prêtes à être utilisées, ainsi que des farines mixtes mêlant céréales et légumineuses pour pâtisseries ou pâtes. Ces innovations techniques s’appuient sur des études impliquant des agriculteurs, des consommateurs et des chefs cuisiniers, qui collaborent pour créer des produits adaptés aux besoins réels. De plus, des alternatives végétales aux produits animaux se développent à base de soja ou de pois, enrichissant ainsi les options culinaires. Ces avancées rendent les légumineuses plus accessibles au quotidien et contribuent à diversifier l’alimentation sans complexifier les préparations.",
+            "category": "Gastronomie et traditions",
+            "location": "France",
+            "image_description": "Différentes variétés de graines de soja (Glycine max) montrant une diversité de couleurs, tailles et formes, issues du National Soybean Germplasm Collection, Illinois, USA.",
+            "image_caption": "Variétés de graines de soja illustrant la diversité botanique de cette légumineuse, photo documentaire générale – Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/54a2532e94c6e44b85e295fe1153d47f15b8657ed8e1a2a7f6c90a5dba59ed8c.jpg",
+            "image_credit": "Scott Bauer · USDA Image Number K5267-7 · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Soybeanvarieties.jpg",
+            "sources": [
+                {
+                    "label": "INRAE · cuisine et légumineuses",
+                    "url": "https://www.inrae.fr/dossiers/quand-grand-retour-legumineuses/cuisine-mille-declinaisons-legumineuses"
+                }
+            ],
+            "subject_id": "source-f53baed70af9b42e7c8df22d9a5ae877",
+            "published_at": "2026-10-30",
+            "country": "France"
+        },
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "daily",
+            "id": "decouverte-780698969952e20f064acd24",
+            "title": "Comment les baleines utilisent le son pour se repérer et communiquer",
+            "body": "Les baleines émettent plusieurs types de sons, notamment des clics, des sifflements et des appels pulsés, qui jouent chacun un rôle précis dans leur vie quotidienne. Les clics servent principalement à l’écholocation, leur permettant de déterminer la forme d’objets sous l’eau et d’identifier d’autres animaux, amis ou prédateurs. Les sifflements et appels pulsés interviennent surtout dans les interactions sociales entre individus d’un même groupe, voire entre groupes différents. En plus des sons vocaux, les baleines produisent des bruits de claquement de nageoires et de queue à la surface pour communiquer sur de plus longues distances, notamment pour signaler de l’agressivité ou rassembler des poissons. Ces connaissances proviennent d’observations scientifiques réalisées notamment dans des sanctuaires marins où les déplacements et sons des baleines sont étudiés avec des capteurs.",
+            "category": "Nature et animaux",
+            "location": "Monde",
+            "image_description": "Une baleine à bosse effectuant un saut hors de l'eau, image prise en Islande.",
+            "image_caption": "Illustration documentaire générale montrant une baleine à bosse en Islande, Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/94214e26ca252266868a60c97c6abd7786fca7c054aca53eb8dfa06b017341d9.jpg",
+            "image_credit": "Helgi Halldórsson from Reykjavík, Iceland · One of the most amazing · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 2.0 · https://creativecommons.org/licenses/by-sa/2.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:One_of_the_most_amazing_(5895628812).jpg",
+            "sources": [
+                {
+                    "label": "NOAA · Do whales make noise?",
+                    "url": "https://oceanservice.noaa.gov/facts/whalesounds.html"
+                }
+            ],
+            "subject_id": "source-ead53e307c4ef8061fa76d1479c0aa2f",
+            "published_at": "2026-10-30",
+            "country": "Monde"
+        },
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "daily",
+            "id": "decouverte-25f280999af6c45098bd18a8",
+            "title": "La préservation des terrasses agricoles dans les Cinque Terre maintient un équilibre entre habitat et nature",
+            "body": "Les Cinque Terre, un ensemble de cinq villages construits sur des falaises escarpées de la côte ligurienne, sont aussi un parc national depuis 1999. Ces villages historiques, comme Vernazza ou Manarola, s'étagent au-dessus de terrasses agricoles façonnées depuis des siècles. Ces aménagements soutiennent une agriculture en pente raide tout en empêchant l’érosion des sols. Leur entretien continu contribue à la sauvegarde d’un paysage typique et à la protection de la biodiversité locale. Malgré la fréquentation touristique importante, ces villages restent accessibles principalement par des sentiers ou par voie ferroviaire. Cette cohabitation entre nature, culture et visiteurs souligne l'importance de mesures locales pour maintenir cet équilibre fragile sur les falaises méditerranéennes.",
+            "category": "Voyages et paysages",
+            "location": "Cinque Terre, Italie",
+            "image_description": "Un bâtiment près des terrasses en arrière-cour dans les Cinque Terre, Italie.",
+            "image_caption": "Une arrière-cour typique dans un village des Cinque Terre illustrant l'architecture intégrée dans le paysage escarpé. Photographie Wikimedia Commons illustrative.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/9cb2c12f6952f0154ced10f4193f68e8acca7cba4693d054705a1cbd0dac7ce0.jpg",
+            "image_credit": "Vald0506 · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Building_at_Cinque_Terre,_Italy.jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Cinque Terre",
+                    "url": "https://fr.wikipedia.org/wiki/Cinque_Terre"
+                }
+            ],
+            "subject_id": "Q275639",
+            "published_at": "2026-10-30",
+            "country": "Italie"
+        }
+    ]
+}
