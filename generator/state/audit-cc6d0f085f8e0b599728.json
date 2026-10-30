@@ -1,0 +1,314 @@
+{
+    "schema_version": 1,
+    "articles": [
+        {
+            "id": "decouverte-ced363714677aed3f9b5da4e",
+            "subject_id": "news-d0c23b2e2bb79e6d4878f237e3a4e4b6",
+            "collected_at": "2026-10-30T05:47:40+00:00",
+            "sources": [
+                {
+                    "label": "Positive News · publié le 2026-10-19",
+                    "url": "https://www.positive.news/society/volunteers-became-salmon-deer-and-earthworms-then-they-set-out-to-save-their-river/"
+                }
+            ],
+            "source_sha256": "4d1540b07c74bf5578be5100f36a75a343280ed9ed9a929e3a1ecbfc3dc7061b",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Camp_Along_Salmon_River,_Civilian_Conservation_Corps,_Company_968,_Slate_Creek_Camp_F-115,_1935_-_Slate_Creek,_Idaho_(20503827592).jpg",
+            "image_license": "CC BY 2.0 · https://creativecommons.org/licenses/by/2.0/",
+            "original_sha1": "e2d4abae943095692d9eae2a7263be31cbbae900",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Un groupe de volontaires a mieux compris les impacts humains sur la faune locale en expérimentant la vie quotidienne d’animaux du fleuve pollué Tone, ce qui a permis d’identifier et de cartographier précisément les risques pour la faune.",
+                "beneficiaries": "La faune de la rivière Tone, notamment le saumon atlantique, le cerf rouge, le faucon crécerelle, le lombric et la loutre, ainsi que la communauté locale engagée dans la restauration du milieu."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "En Somerset, une étude originale a conduit des volontaires à expérimenter la vie d’animaux tels que le saumon atlantique ou le cerf pour percevoir les effets de la pollution et des aménagements sur leur habitat.",
+                    "source_passages": [
+                        "An unusual experiment is helping a Somerset community see its landscape through the eyes of wildlife – and plot a 30-year route to change it Words by Robin Eveleigh October 19, 2026 Conservation Environment Society Share: What does a polluted river feel like to a salmon?",
+                        "“We really pushed our study participants to think about the whole animal life, not just the standard: ‘What do they eat?’ stuff,” said Phil Tovey, who devised the research to explore the threats facing wildlife on and around Somerset’s pollution-hit River Tone.",
+                        "Image: River Tone Eighteen volunteers were trained in the physiology and sensory abilities of a chosen animal – red deer, kestrel, earthworm, otter or salmon – before heading out to experience its world firsthand.",
+                        "Jake Lawy explored the river from the perspective of an Atlantic salmon, swimming through polluted, poorly oxygenated water.",
+                        "“When I put myself in the position of the salmon, I saw the impacts in my local area,” he says."
+                    ]
+                },
+                {
+                    "sentence": "Cette immersion a révélé des gênes invisibles aux approches classiques, comme la pollution de l’eau ou les vibrations d’équipements agricoles.",
+                    "source_passages": [
+                        "The aching hunger that comes with habitat destruction.",
+                        "The sensory assault of machinery and traffic.",
+                        "“It changed the whole smell register, so she couldn’t tell where she was.” Another, a soil ecologist, gave an account as an earthworm and was unexpectedly overwhelmed by the vibrations from a farm generator."
+                    ]
+                },
+                {
+                    "sentence": "Les données récoltées ont permis de créer une cartographie précise des menaces sur la faune locale.",
+                    "source_passages": [
+                        "The study, funded by the Ecological Citizen Network, has now identified and mapped risks and published them in an online database."
+                    ]
+                },
+                {
+                    "sentence": "Grâce à cette compréhension, la communauté s’est engagée dans un plan de restauration ambitieux de trente ans, qui s’appuie sur une stratégie rigoureuse calquée sur les méthodes militaires.",
+                    "source_passages": [
+                        "Drawing on his experience as a Royal Marines Commando, Tovey has helped the community develop a 30-year campaign.",
+                        "The group has adapted an open-source MoD document on planning complex, large-scale operations to map out its strategy for revitalising the river.",
+                        "“This is really serious operational planning,” said Tovey."
+                    ]
+                },
+                {
+                    "sentence": "Ce travail inédit illustre comment une meilleure perception des animaux peut guider des actions concrètes de restauration écologique.",
+                    "source_passages": [
+                        "“We really pushed our study participants to think about the whole animal life, not just the standard: ‘What do they eat?’ stuff,” said Phil Tovey, who devised the research to explore the threats facing wildlife on and around Somerset’s pollution-hit River Tone.",
+                        "The study has also inspired a distinctly unconventional approach to restoring the Tone."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-0ede9943d28de343f3b102cc",
+            "subject_id": "news-219a7bccd42609493dbbd6940e8e8427",
+            "collected_at": "2026-10-30T05:48:26+00:00",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-10-28",
+                    "url": "https://www.goodnewsnetwork.org/events061028/"
+                }
+            ],
+            "source_sha256": "db14fda0ced930da9822e71c027d9fd7086c1e76ab172b57ab9f34501006477d",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Gateway_Arch_Monument.jpg",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "original_sha1": "726fffc8f63e4fee7cb827c808f75916305a6680",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "L'achèvement de l'Arche de la Porte de l'Ouest à St. Louis a permis à quatre millions de visiteurs annuels de découvrir un monument symbolique dédié aux explorateurs américains et aux pionniers de l'Ouest.",
+                "beneficiaries": "Les visiteurs du monument et les habitants de St. Louis qui bénéficient d'un patrimoine accessible et emblématique."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Située sur la rive ouest du Mississippi, l’Arche de la Porte de l’Ouest, inaugurée il y a plus de six décennies, est un monument en acier inoxydable qui s’élève à 192 mètres.",
+                    "source_passages": [
+                        "Louis, Missouri was completed.",
+                        "Clad in stainless steel and standing 630 feet high, it is the tallest monument in the Western Hemisphere.",
+                        "The arch sits on the west bank of the Mississippi River as a tribute to the great westward explorers, Lewis and Clark, and other pioneers who began treks in St."
+                    ]
+                },
+                {
+                    "sentence": "Conçue par l’architecte Eero Saarinen, cette structure creuse est pensée pour bouger légèrement sous l’effet du vent.",
+                    "source_passages": [
+                        "READ more about the arch… (1965) Photo by Daniel Schwen, CC license The architect, Eero Saarinen, designed the arch to sway a full 18 inches, with a hollow interior where four million tourists could visit every year and gaze through high windows above the city."
+                    ]
+                },
+                {
+                    "sentence": "Elle intègre un système de fenêtres inclinées à 30 degrés permettant aux visiteurs d’admirer la ville d’en haut.",
+                    "source_passages": [
+                        "Those windows face down at a 30 degree angle, and can present quite the fright for those with a fear of heights."
+                    ]
+                },
+                {
+                    "sentence": "L’Arche symbolise un hommage aux explorateurs Lewis et Clark et aux pionniers qui sont partis de St.",
+                    "source_passages": [
+                        "The arch sits on the west bank of the Mississippi River as a tribute to the great westward explorers, Lewis and Clark, and other pioneers who began treks in St.",
+                        "Louis."
+                    ]
+                },
+                {
+                    "sentence": "Louis vers l’Ouest américain.",
+                    "source_passages": [
+                        "Louis."
+                    ]
+                },
+                {
+                    "sentence": "Aujourd’hui, quatre millions de visiteurs franchissent chaque année son intérieur, contribuant ainsi à maintenir vivante la mémoire du territoire et de son histoire.",
+                    "source_passages": [
+                        "READ more about the arch… (1965) Photo by Daniel Schwen, CC license The architect, Eero Saarinen, designed the arch to sway a full 18 inches, with a hollow interior where four million tourists could visit every year and gaze through high windows above the city."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-3e2af27528883a8c790703ce",
+            "subject_id": "news-320dd6bfcde5754afec3e48b1b2efcd9",
+            "collected_at": "2026-10-30T05:48:33+00:00",
+            "sources": [
+                {
+                    "label": "Reasons to be Cheerful · publié le 2026-10-29",
+                    "url": "https://reasonstobecheerful.world/america-student-exchange-program-empathy/"
+                }
+            ],
+            "source_sha256": "41472b3a178e8e551b6549cf51759eba1d0140f5ae764974ea7b608f5ea35708",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Future_Leaders_Exchange_Program_(FLEX)_student_participants_from_Ukraine_returning_from_an_academic_at_U.S._high_schools_in_May_2014_-_4.jpg",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "70a2aafc30eb1a67c695c1a26d41643c42e02f6f",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Le American Exchange Project a permis à des lycéens américains de découvrir des régions culturelles très différentes de la leur sans quitter les États-Unis.",
+                "beneficiaries": "Ces étudiants bénéficient d'échanges interculturels au sein même du pays, favorisant une meilleure compréhension des divers modes de vie américains."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Le programme American Exchange Project organise des échanges d'une semaine entre jeunes fraîchement diplômés de lycées américains, en les envoyant dans des communautés très différentes des leurs.",
+                    "source_passages": [
+                        "That ethos is embodied by American Exchange Project, an intercultural exchange program for youth that takes place entirely within the United States.",
+                        "The exchanges send students who have just graduated high school on weeklong sojourns to U.S.",
+                        "communities completely different from their own."
+                    ]
+                },
+                {
+                    "sentence": "Ils vivent ainsi une immersion culturelle à l'intérieur des États-Unis, entre zones rurales et grandes villes, et accueillent ensuite leurs correspondants chez eux.",
+                    "source_passages": [
+                        "communities completely different from their own.",
+                        "Participating students then host a cohort of peers in their own town, creating a true interchange of American experiences."
+                    ]
+                },
+                {
+                    "sentence": "Ces échanges favorisent des dialogues sur les différences et similitudes de leurs vies, cultivant une compréhension plus fine des diverses réalités américaines.",
+                    "source_passages": [
+                        "For many of these students, the exchange is not only an opportunity to see a different part of the country, but to have deep discussions with their new friends about how their lives are different — and the same.",
+                        "“I hadn’t really experienced something where the point of spending time together was to talk about this big, deep stuff,” says Alden Swanson, a student from Chestertown, Maryland whose exchange took place in Orem, Utah.",
+                        "“And that led to so many interesting conversations about differences, but also brought up a lot of similarities about beliefs and how we thought about the world.” Interactions like these are becoming rarer, as Americans increasingly choose to live in cities and towns where their neighbors hold views similar to their own."
+                    ]
+                },
+                {
+                    "sentence": "Par exemple, une étudiante d’Ilwaco, petite ville de Washington, a découvert la vie intense du Bronx à New York, qui lui a révélé une autre forme de cohésion sociale.",
+                    "source_passages": [
+                        "Sunny Beam, a student from Ilwaco, Washington, had never spent time in a place with a population of more than 10,000 people before her exchange sent her to the Bronx in New York City.",
+                        "“You’d think that living in a small town, everyone’s super closely knit together, but that’s not always a good thing.” The culture shock of being transported from small town to booming metropolis was offset by the hospitality she was shown by a city used to embracing people of all stripes."
+                    ]
+                },
+                {
+                    "sentence": "Dans un contexte où les Américains vivent souvent entourés de voisins partageant leurs opinions, ce programme offre une occasion concrète de diversité et d’empathie au quotidien.",
+                    "source_passages": [
+                        "“And that led to so many interesting conversations about differences, but also brought up a lot of similarities about beliefs and how we thought about the world.” Interactions like these are becoming rarer, as Americans increasingly choose to live in cities and towns where their neighbors hold views similar to their own.",
+                        "According to Bill Bishop, author of The Big Sort: Why the Clustering of Like-Minded America Is Tearing Us Apart, the share of voters living in “landslide counties” — where a presidential candidate won by 20 or more points — rose from about 26 percent in 1976 to more than 60 percent in 2016.",
+                        "People are proactively moving to communities with less political and cultural heterogeneity.",
+                        "More than two out of five Americans consider it important that their neighbors share their politics, according to Bishop.",
+                        "Instead, they’re a rare opportunity to immerse young people in an unfamiliar American context and help them build empathy for those whose communities and cultures diverge from their own."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-5b7d84140d952ccff73cae18",
+            "subject_id": "news-3c4293bde280e22426c6c8de4c8a490d",
+            "collected_at": "2026-10-30T05:48:43+00:00",
+            "sources": [
+                {
+                    "label": "Good Good Good · publié le 2026-10-28",
+                    "url": "https://www.goodgoodgood.co/articles/honey-bee-hives-immune-system"
+                }
+            ],
+            "source_sha256": "c97cf236ecefd25fba84a42d7226dc23c25efa62ac83fa3e51402029f69116c6",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Langstroth_on_the_hive_and_honey_bee_(Page_165)_BHL18288077.jpg",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "3f09bc39ed4988aa981824f3b035c70a5693dae4",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Les ruches de l’abeille domestique montrent une organisation interne qui fonctionne comme un système immunitaire collectif, avec différents matériaux et espaces du nid jouant des rôles spécifiques pour limiter la prolifération des microbes nocifs.",
+                "beneficiaries": "Les colonies d’abeilles domestiques, leur santé collective et leur résistance aux infections microbiennes."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Des chercheurs ont analysé 24 colonies d’abeilles en Nouvelle-Galles du Sud pour comprendre comment elles contrôlent naturellement les infections malgré leur densité.",
+                    "source_passages": [
+                        "Open a honey bee hive on a warm afternoon and the first thing you’ll notice is movement.Thousands of bees stream across the frames, tending brood, processing nectar and pollen, building wax, and maintaining the colony.",
+                        "A constant hum of activity and the smell of honey fill the air.But this bustling environment is also home to something much smaller: a vast community of bacteria and fungi.Some are harmless.",
+                        "Yet healthy honey bee colonies are remarkably good at keeping harmful microbes under control.",
+                        "How do they do it?Our new research, published in ISME Communications, suggests that part of the answer lies in the way the hive is organized.‍Mapping the hive’s defencesTo understand how a colony keeps microbes under control, we first need to look at the hive as a whole.The hive is not one place."
+                    ]
+                },
+                {
+                    "sentence": "Ils ont découvert que la ruche agit en système immunitaire collectif : différentes zones et substances produites par les abeilles, comme le miel, le propolis et le pollen fermenté, possèdent des propriétés antimicrobiennes spécifiques adaptées à leurs fonctions dans la ruche.",
+                    "source_passages": [
+                        "How do they do it?Our new research, published in ISME Communications, suggests that part of the answer lies in the way the hive is organized.‍Mapping the hive’s defencesTo understand how a colony keeps microbes under control, we first need to look at the hive as a whole.The hive is not one place.",
+                        "Thousands of hexagonal wax cells are packed into combs, serving as nurseries, pantries, and storerooms.At the center is the brood, tended by nurse bees.",
+                        "Bees modify these spaces with materials they collect and produce.Plant resins are turned into propolis, a sticky antimicrobial glue used to seal cracks and line parts of the hive.",
+                        "Nectar becomes honey, and pollen is fermented into “bee bread”.Each of these materials has been studied before, but we wanted to know whether they work together as part of a coordinated defense system.So we sampled 24 colonies from five apiaries in New South Wales, collecting honey, propolis, pollen, wax, and nurse and forager bees.We used DNA sequencing to map bacterial and fungal communities, tested the ability of hive materials to inhibit microorganisms, and used nuclear magnetic resonance spectroscopy (a chemical fingerprinting technique) to investigate their composition.This allowed us to look at the hive as one connected system.‍A floor plan for fighting diseaseWhat we found was striking.A healthy hive is not a sterile one.",
+                        "Many of the microorganisms living in and around a colony are harmless or beneficial, so eliminating them all would be neither possible nor desirable.Instead, the colony uses different kinds of defense in different places: selective protection around the vulnerable brood and broader antimicrobial activity in more exposed parts of the hive.Different materials also have different antimicrobial chemistry.",
+                        "For example, honey relies heavily on hydrogen peroxide — the same molecule in a bottle of antiseptic.Propolis leans on flavonoids, the same class of plant compounds that give red wine and green tea their antioxidant kick.Pollen’s defences look more like fermented food, rich in the short-chain acids produced by fermentation.Rather than relying on one all-purpose disinfectant, the colony combines multiple types of antimicrobial activity across different parts of the hive.",
+                        "In effect, the hive has a chemical floor plan for disease defense.Researchers sampled 24 bee colonies from five apiaries in New South Wales, collecting honey, propolis, pollen, wax, and nurse and forager bees."
+                    ]
+                },
+                {
+                    "sentence": "Par ailleurs, la diversité chimique de ces défenses dépend aussi du paysage floral autour de la ruche, car les abeilles y collectent les matières premières.",
+                    "source_passages": [
+                        "/ Kenya Fernandes‍The landscape becomes part of the defense systemPerhaps the most important finding emerged when we looked beyond the hive.The strongest predictor of the chemical potency of hive materials wasn’t disease history or health status.",
+                        "It was which apiary the hive came from.This points to the surrounding landscape."
+                    ]
+                },
+                {
+                    "sentence": "Cette organisation spatiale et chimique contribue concrètement à limiter les microbes nuisibles pour l’ensemble de la colonie.",
+                    "source_passages": [
+                        "Yet healthy honey bee colonies are remarkably good at keeping harmful microbes under control.",
+                        "Many of the microorganisms living in and around a colony are harmless or beneficial, so eliminating them all would be neither possible nor desirable.Instead, the colony uses different kinds of defense in different places: selective protection around the vulnerable brood and broader antimicrobial activity in more exposed parts of the hive.Different materials also have different antimicrobial chemistry.",
+                        "For example, honey relies heavily on hydrogen peroxide — the same molecule in a bottle of antiseptic.Propolis leans on flavonoids, the same class of plant compounds that give red wine and green tea their antioxidant kick.Pollen’s defences look more like fermented food, rich in the short-chain acids produced by fermentation.Rather than relying on one all-purpose disinfectant, the colony combines multiple types of antimicrobial activity across different parts of the hive.",
+                        "It was which apiary the hive came from.This points to the surrounding landscape."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-2d070172a360d1cc9a00f908",
+            "subject_id": "news-eb7b7b38675f045060605ff1350d7905",
+            "collected_at": "2026-10-30T05:49:11+00:00",
+            "sources": [
+                {
+                    "label": "Good Good Good · publié le 2026-10-24",
+                    "url": "https://www.goodgoodgood.co/articles/good-news-this-week-october-24-2026"
+                }
+            ],
+            "source_sha256": "c850206dfa29882b9932ce3bcc87a86037621b38b2657628a1d6a34611ec028b",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Wildlife_overpass_crossing_under_construction_over_highway.jpg",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "127c5e822a07f005e729ae8880e0050caa97ffda",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Depuis dix mois, la construction d’un passage supérieur pour la faune réduit de 91 % les collisions entre véhicules et animaux sur un tronçon d’autoroute reliant Denver à Colorado Springs.",
+                "beneficiaries": "La faune locale, notamment les élans et les petites espèces comme les crapauds, qui utilisent ce corridor pour traverser sans danger, et les automobilistes qui rencontrent beaucoup moins d’accidents."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Entre Denver et Colorado Springs, l’autoroute Interstate 25 traversait une zone animalière importante, où un accident d’animal par jour était fréquent.",
+                    "source_passages": [
+                        "Since 2000, prison admission rates have fallen 53%.The researchers noted the largest declines among Black men, whose prison admission rates fell by nearly two-thirds between 2000 and 2023 — it’s predicted to fall another 46% in the next decade.→ Read more‍Just 10 months in, the largest wildlife overpass in North America has reduced animal-vehicle collisions by 91%On a stretch of highway between Colorado’s two biggest cities — Denver and Colorado Springs — there was a vehicle-animal collision about once a day.",
+                        "It features a 209-by-200-foot bridge, five underpasses, and miles of fencing designed to funnel animals toward the crossings.Massive elk use the crossing, just as the smallest toads do — it connects 39,000 acres of wildlife habitat.Why is this good news?"
+                    ]
+                },
+                {
+                    "sentence": "L’installation d’un passage supérieur, le plus grand du genre en Amérique du Nord, associé à cinq passages souterrains et un réseau de clôtures, oriente la faune vers ces points sûrs pour traverser.",
+                    "source_passages": [
+                        "In the past 10 months, there have been 2 total.That 91% drop is thanks to North America’s largest wildlife overpass across six lanes of Interstate 25.",
+                        "It features a 209-by-200-foot bridge, five underpasses, and miles of fencing designed to funnel animals toward the crossings.Massive elk use the crossing, just as the smallest toads do — it connects 39,000 acres of wildlife habitat.Why is this good news?"
+                    ]
+                },
+                {
+                    "sentence": "Ce corridor relie 39 000 acres d’habitat naturel, permettant à des espèces variées, depuis les grands élans jusqu’aux plus petites amphibiens, de migrer sans risquer la route.",
+                    "source_passages": [
+                        "It features a 209-by-200-foot bridge, five underpasses, and miles of fencing designed to funnel animals toward the crossings.Massive elk use the crossing, just as the smallest toads do — it connects 39,000 acres of wildlife habitat.Why is this good news?"
+                    ]
+                },
+                {
+                    "sentence": "En dix mois, la fréquence des collisions est tombée de 91 %, passant de près d’un accident quotidien à seulement deux sur cette période.",
+                    "source_passages": [
+                        "Since 2000, prison admission rates have fallen 53%.The researchers noted the largest declines among Black men, whose prison admission rates fell by nearly two-thirds between 2000 and 2023 — it’s predicted to fall another 46% in the next decade.→ Read more‍Just 10 months in, the largest wildlife overpass in North America has reduced animal-vehicle collisions by 91%On a stretch of highway between Colorado’s two biggest cities — Denver and Colorado Springs — there was a vehicle-animal collision about once a day.",
+                        "In the past 10 months, there have been 2 total.That 91% drop is thanks to North America’s largest wildlife overpass across six lanes of Interstate 25.",
+                        "It features a 209-by-200-foot bridge, five underpasses, and miles of fencing designed to funnel animals toward the crossings.Massive elk use the crossing, just as the smallest toads do — it connects 39,000 acres of wildlife habitat.Why is this good news?"
+                    ]
+                },
+                {
+                    "sentence": "Cette mesure montre que les infrastructures dédiées peuvent améliorer la cohabitation entre la circulation humaine et l’écosystème local.",
+                    "source_passages": [
+                        "People need to get around, and so do wildlife — neither can come at the expense of the other."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        }
+    ]
+}

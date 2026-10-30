@@ -1,0 +1,137 @@
+{
+    "schema_version": 1,
+    "id": "generated-cc6d0f085f8e0b599728",
+    "version": "1",
+    "articles": [
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-ced363714677aed3f9b5da4e",
+            "title": "Des volontaires expérimentent la vie d’animaux pour sauver la rivière Tone",
+            "body": "En Somerset, une étude originale a conduit des volontaires à expérimenter la vie d’animaux tels que le saumon atlantique ou le cerf pour percevoir les effets de la pollution et des aménagements sur leur habitat. Cette immersion a révélé des gênes invisibles aux approches classiques, comme la pollution de l’eau ou les vibrations d’équipements agricoles. Les données récoltées ont permis de créer une cartographie précise des menaces sur la faune locale. Grâce à cette compréhension, la communauté s’est engagée dans un plan de restauration ambitieux de trente ans, qui s’appuie sur une stratégie rigoureuse calquée sur les méthodes militaires. Ce travail inédit illustre comment une meilleure perception des animaux peut guider des actions concrètes de restauration écologique.",
+            "category": "Initiatives positives",
+            "location": "Somerset, Royaume-Uni",
+            "image_description": "Photographie d’un camp du Civilian Conservation Corps en 1935 le long de la Salmon River à Idaho, États-Unis, illustration documentaire générale.",
+            "image_caption": "Camp Along Salmon River, Civilian Conservation Corps, Company 968, Slate Creek Camp F-115 en 1935, illustration documentaire générale Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/f26c83490dd47c397ab5d3eceaef5687a678da3f15a66b794bd51f4e3cf64d0b.jpg",
+            "image_credit": "Steve Shook from Moscow, Idaho, USA · Camp Along Salmon River, Civilian Conservation Corps, Company 968, Slate Creek Camp F-115, 1935 - Slate Creek, Idaho · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY 2.0 · https://creativecommons.org/licenses/by/2.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Camp_Along_Salmon_River,_Civilian_Conservation_Corps,_Company_968,_Slate_Creek_Camp_F-115,_1935_-_Slate_Creek,_Idaho_(20503827592).jpg",
+            "sources": [
+                {
+                    "label": "Positive News · publié le 2026-10-19",
+                    "url": "https://www.positive.news/society/volunteers-became-salmon-deer-and-earthworms-then-they-set-out-to-save-their-river/"
+                }
+            ],
+            "subject_id": "news-d0c23b2e2bb79e6d4878f237e3a4e4b6",
+            "published_at": "2026-10-30",
+            "country": "Monde",
+            "source_published_at": "2026-10-19"
+        },
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-0ede9943d28de343f3b102cc",
+            "title": "À St. Louis, l’Arche qui accueille chaque année quatre millions de visiteurs",
+            "body": "Située sur la rive ouest du Mississippi, l’Arche de la Porte de l’Ouest, inaugurée il y a plus de six décennies, est un monument en acier inoxydable qui s’élève à 192 mètres. Conçue par l’architecte Eero Saarinen, cette structure creuse est pensée pour bouger légèrement sous l’effet du vent. Elle intègre un système de fenêtres inclinées à 30 degrés permettant aux visiteurs d’admirer la ville d’en haut. L’Arche symbolise un hommage aux explorateurs Lewis et Clark et aux pionniers qui sont partis de St. Louis vers l’Ouest américain. Aujourd’hui, quatre millions de visiteurs franchissent chaque année son intérieur, contribuant ainsi à maintenir vivante la mémoire du territoire et de son histoire.",
+            "category": "Initiatives positives",
+            "location": "St. Louis, Missouri, États-Unis",
+            "image_description": "L’Arche de la Porte de l’Ouest, un monument en acier inoxydable à St. Louis",
+            "image_caption": "Illustration documentaire générale. Photographie documentaire générale de l’Arche de la Porte de l’Ouest à St. Louis, Missouri, Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/d8f9603a4ca12d864fa26c359f3a900f3033e8650c907a1a4df4ad7317fa66ab.jpg",
+            "image_credit": "Jacqdan878 · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Gateway_Arch_Monument.jpg",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-10-28",
+                    "url": "https://www.goodnewsnetwork.org/events061028/"
+                }
+            ],
+            "subject_id": "news-219a7bccd42609493dbbd6940e8e8427",
+            "published_at": "2026-10-30",
+            "country": "Monde",
+            "source_published_at": "2026-10-28"
+        },
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-3e2af27528883a8c790703ce",
+            "title": "American Exchange Project : des échanges scolaires intra-US pour élargir les horizons",
+            "body": "Le programme American Exchange Project organise des échanges d'une semaine entre jeunes fraîchement diplômés de lycées américains, en les envoyant dans des communautés très différentes des leurs. Ils vivent ainsi une immersion culturelle à l'intérieur des États-Unis, entre zones rurales et grandes villes, et accueillent ensuite leurs correspondants chez eux. Ces échanges favorisent des dialogues sur les différences et similitudes de leurs vies, cultivant une compréhension plus fine des diverses réalités américaines. Par exemple, une étudiante d’Ilwaco, petite ville de Washington, a découvert la vie intense du Bronx à New York, qui lui a révélé une autre forme de cohésion sociale. Dans un contexte où les Américains vivent souvent entourés de voisins partageant leurs opinions, ce programme offre une occasion concrète de diversité et d’empathie au quotidien.",
+            "category": "Initiatives positives",
+            "location": "États-Unis",
+            "image_description": "Future Leaders Exchange Program (FLEX) : participants ukrainiens revenant d’un séjour scolaire aux États-Unis en mai 2014",
+            "image_caption": "Illustration documentaire générale : étudiants du programme FLEX en échange scolaire aux États-Unis en 2014",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/46a56bd61cfb0dcc0ecf809ecdae67c469b6a635651500e2857f7ee6b7294090.jpg",
+            "image_credit": "usembassykyiv · https://www.flickr.com/photos/58993040@N07/14233229801/ · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Future_Leaders_Exchange_Program_(FLEX)_student_participants_from_Ukraine_returning_from_an_academic_at_U.S._high_schools_in_May_2014_-_4.jpg",
+            "sources": [
+                {
+                    "label": "Reasons to be Cheerful · publié le 2026-10-29",
+                    "url": "https://reasonstobecheerful.world/america-student-exchange-program-empathy/"
+                }
+            ],
+            "subject_id": "news-320dd6bfcde5754afec3e48b1b2efcd9",
+            "published_at": "2026-10-30",
+            "country": "Monde",
+            "source_published_at": "2026-10-29"
+        },
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-5b7d84140d952ccff73cae18",
+            "title": "Une ruche organisée, un système de défense chimique contre les maladies",
+            "body": "Des chercheurs ont analysé 24 colonies d’abeilles en Nouvelle-Galles du Sud pour comprendre comment elles contrôlent naturellement les infections malgré leur densité. Ils ont découvert que la ruche agit en système immunitaire collectif : différentes zones et substances produites par les abeilles, comme le miel, le propolis et le pollen fermenté, possèdent des propriétés antimicrobiennes spécifiques adaptées à leurs fonctions dans la ruche. Par ailleurs, la diversité chimique de ces défenses dépend aussi du paysage floral autour de la ruche, car les abeilles y collectent les matières premières. Cette organisation spatiale et chimique contribue concrètement à limiter les microbes nuisibles pour l’ensemble de la colonie.",
+            "category": "Initiatives positives",
+            "location": "Monde",
+            "image_description": "Illustration ancienne d’une ruche au format Langstroth avec des abeilles visibles sur les cadres.",
+            "image_caption": "Illustration documentaire générale d’une ruche type Langstroth et ses abeilles, Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/9e88f5d2a3ae23b9f05932930fef7a74af6ed64ba52cd26fc550a8876c83c9d4.jpg",
+            "image_credit": "Dadant, C. P.; Langstroth, L. L. · https://www.biodiversitylibrary.org/pageimage/18288077 · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Langstroth_on_the_hive_and_honey_bee_(Page_165)_BHL18288077.jpg",
+            "sources": [
+                {
+                    "label": "Good Good Good · publié le 2026-10-28",
+                    "url": "https://www.goodgoodgood.co/articles/honey-bee-hives-immune-system"
+                }
+            ],
+            "subject_id": "news-3c4293bde280e22426c6c8de4c8a490d",
+            "published_at": "2026-10-30",
+            "country": "Monde",
+            "source_published_at": "2026-10-28"
+        },
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-2d070172a360d1cc9a00f908",
+            "title": "Une passerelle pour la faune divise par dix les collisions avec des véhicules au Colorado",
+            "body": "Entre Denver et Colorado Springs, l’autoroute Interstate 25 traversait une zone animalière importante, où un accident d’animal par jour était fréquent. L’installation d’un passage supérieur, le plus grand du genre en Amérique du Nord, associé à cinq passages souterrains et un réseau de clôtures, oriente la faune vers ces points sûrs pour traverser. Ce corridor relie 39 000 acres d’habitat naturel, permettant à des espèces variées, depuis les grands élans jusqu’aux plus petites amphibiens, de migrer sans risquer la route. En dix mois, la fréquence des collisions est tombée de 91 %, passant de près d’un accident quotidien à seulement deux sur cette période. Cette mesure montre que les infrastructures dédiées peuvent améliorer la cohabitation entre la circulation humaine et l’écosystème local.",
+            "category": "Initiatives positives",
+            "location": "Colorado, États-Unis",
+            "image_description": "Passage supérieur pour la faune en construction au-dessus d’une autoroute à six voies, avec structure en béton et terrains boisés autour.",
+            "image_caption": "Illustration documentaire générale. Passage supérieur pour la faune en construction sur l’Interstate 25 entre Denver et Colorado Springs. Photographie illustrative générale. Source : Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/dba6e0d34a23e1a2b67fd796184e44698e7124467a9c981d7f2d9d6c083a98bc.jpg",
+            "image_credit": "Ryan Hagerty · http://www.public-domain-image.com/public-domain-images-pictures-free-stock-photos/miscellaneous-public-domain-images-pictures/wildlife-overpass-crossing-under-construction-over-highway.jpg · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Wildlife_overpass_crossing_under_construction_over_highway.jpg",
+            "sources": [
+                {
+                    "label": "Good Good Good · publié le 2026-10-24",
+                    "url": "https://www.goodgoodgood.co/articles/good-news-this-week-october-24-2026"
+                }
+            ],
+            "subject_id": "news-eb7b7b38675f045060605ff1350d7905",
+            "published_at": "2026-10-30",
+            "country": "Monde",
+            "source_published_at": "2026-10-24"
+        }
+    ]
+}
