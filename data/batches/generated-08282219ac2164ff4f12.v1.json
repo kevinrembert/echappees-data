@@ -1,0 +1,109 @@
+{
+    "schema_version": 1,
+    "id": "generated-08282219ac2164ff4f12",
+    "version": "1",
+    "articles": [
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-4c6b992d6181d1a29c5479da",
+            "title": "À Big Bend, une résistance commune contre une route de surveillance menace un espace naturel",
+            "body": "Dans le parc national de Big Bend au Texas, la mise en place d’une nouvelle « route de patrouille » a suscité une mobilisation unie et transpartisane. Ce chantier menaçant des plantes en danger, dont le cactus hérisson des montagnes Chisos, a poussé habitants, écologistes et élus, à surveiller les travaux et à organiser des protections des espèces menacées. Malgré le contexte d’un vaste projet de « mur intelligent » frontalier, symbolique de division, la résistance locale a révélé que le fleuve Rio Grande joue aussi un rôle d’unité. Les manifestations régulières et la coopération entre groupes politiques ont quantifié l’enjeu pour cet ultime territoire sauvage texan, soulignant le poids de la solidarité locale face à une infrastructure à grande échelle.",
+            "category": "Initiatives positives",
+            "location": "Big Bend, Texas, États-Unis",
+            "image_description": "Couches rocheuses dans les parois du canyon Santa Elena sculptées par le Rio Grande dans le parc national de Big Bend.",
+            "image_caption": "Illustration documentaire générale. Photo documentaire générale du canyon Santa Elena dans le parc national de Big Bend, Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/cbd8c68bd761d6814d64cd7fee0ecd369e341e322aefcc35078815af246a9d7c.jpg",
+            "image_credit": "Leaflet · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Big_Bend_Santa_Elena_Canyon_2006.JPG",
+            "sources": [
+                {
+                    "label": "Reasons to be Cheerful · publié le 2026-10-19",
+                    "url": "https://reasonstobecheerful.world/behind-the-remarkable-resistance-to-trumps-big-bend-wall/"
+                }
+            ],
+            "subject_id": "news-4d69bfe5dcc7e159ae0529fc1bd5b749",
+            "published_at": "2026-10-31",
+            "country": "Monde",
+            "source_published_at": "2026-10-19"
+        },
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-e8e4bcd587c11233c21a65cf",
+            "title": "Trois tribus du Michigan relancent l’omble chevalier dans leurs rivières après un siècle d’absence",
+            "body": "Depuis 2025, les tribus Grand Traverse, Little River et Little Traverse Bay, en collaboration avec l’État du Michigan, ont commencé à élever puis relâcher des ombles chevaliers issus d’œufs venus d’Alaska. Ce poisson avait disparu des eaux locales dans les années 1930, victime de la surexploitation et de la dégradation des habitats. En 2026, environ 8 000 jeunes poissons ont été libérés dans la rivière Boardman-Ottaway. Bien que les premières observations dans la nature n’aient pas encore confirmé leur survie, les responsables du programme notent une augmentation du nombre et de la taille des individus élevés comparativement à l’année précédente, malgré des conditions difficiles pour le suivi. Les chercheurs estiment qu’il faudra plusieurs années pour évaluer pleinement l’impact de ce projet de réintroduction.",
+            "category": "Initiatives positives",
+            "location": "Michigan, États-Unis",
+            "image_description": "Omble chevalier (Thymallus arcticus) provenant de la rivière Gulkana, en Alaska.",
+            "image_caption": "Illustration documentaire générale. Photo illustrative générale d’un omble chevalier prise en Alaska, utilisée pour documenter la réintroduction du poisson dans le Michigan.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/0179998526dd5d61f689ead161eac4cc237d896cb52eb77a30403a8ff27cf4c3.jpg",
+            "image_credit": "Phil Coleman · Downloaded from: USFWS: http://www.fws.gov/digitalmedia/FullRes/natdiglib/8121F351-65BF-03E7-2E788016A9D4E8C5.jpg · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:ArcticGraylingUSFWS.jpg",
+            "sources": [
+                {
+                    "label": "Good Good Good · publié le 2026-10-22",
+                    "url": "https://www.goodgoodgood.co/articles/michigan-arctic-grayling-tribes"
+                }
+            ],
+            "subject_id": "news-04f97ac669b228e165e753354cc15dcf",
+            "published_at": "2026-10-31",
+            "country": "Monde",
+            "source_published_at": "2026-10-22"
+        },
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "daily",
+            "id": "decouverte-e77b94a1a91c9b9fd360f40c",
+            "title": "L’aquaculture : une production durable de ressources marines",
+            "body": "L’aquaculture regroupe l’élevage et la récolte de poissons, coquillages, algues et autres organismes aquatiques dans divers environnements d’eau douce et marine. Grâce aux progrès technologiques, cette méthode permet aujourd’hui de cultiver plusieurs espèces en océan et estuaires, telles que les huîtres, moules, crevettes et certains poissons comme le saumon. Au-delà de fournir de la nourriture, l’aquaculture contribue à restaurer les habitats, reconstituer les populations sauvages menacées et offre une ressource commerciale durable. Par exemple, les coquillages peuvent être élevés sur fonds marins ou dans des cages flottantes, tandis que les poissons sont souvent élevés en enclos dans l’eau ou dans des bassins terrestres. Cette approche soigneusement encadrée cherche à limiter les impacts environnementaux tout en maintenant une activité viable pour les écosystèmes marins.",
+            "category": "Nature et animaux",
+            "location": "Monde",
+            "image_description": "Illustration aquarelle d’un poisson (Bidyanus bidyanus) provenant d’un département australien chargé de la pêche et l’aquaculture.",
+            "image_caption": "Représentation du poisson Bidyanus bidyanus, image générale illustrant l’aquaculture (photo Wikimedia).",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/fe620a14e1cbf3842fa304963c38f18b034a97a07402f640264a13f92cf3e1d9.jpg",
+            "image_credit": "NSW DPI · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Bidyanus_bidyanus_as_depicted_by_Fishing_and_Aquaculture,_Department_of_Primary_Industries,_New_South_Wales.jpg",
+            "sources": [
+                {
+                    "label": "NOAA · What is aquaculture?",
+                    "url": "https://oceanservice.noaa.gov/facts/aquaculture.html"
+                }
+            ],
+            "subject_id": "source-443b9b6a605eb2c9aa50ddd0a0d38d47",
+            "published_at": "2026-10-31",
+            "country": "Monde"
+        },
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "daily",
+            "id": "decouverte-5cfdfddd98ed745fdc73846c",
+            "title": "Piment d’Espelette : une culture locale préservée par une appellation protégée",
+            "body": "Introduit au Pays basque au XVIe siècle depuis le Mexique, le piment d’Espelette s’est adapté au territoire, où les paysans ont sélectionné au fil du temps la variété « Gorria ». Cette démarche a permis de conserver une production locale singulière, reconnue aujourd’hui par une appellation d’origine protégée au niveau européen. Ce statut constitue une protection officielle qui s’applique au piment cultivé dans un périmètre défini, consolidant la pérennité de la filière. Le piment d’Espelette est ainsi la seule épice française bénéficiant de ce label, un gage de maintien des pratiques agricoles et des savoir-faire du Pays basque. Ce produit emblématique reste très présent dans les cultures locales sur les balcons et dans les jardins, notamment sous forme de grappes séchant au soleil.",
+            "category": "Gastronomie et traditions",
+            "location": "Pays basque, France",
+            "image_description": "Piments d'Espelette encore accrochés à la plante, photographiés en extérieur dans un champ au Pays basque.",
+            "image_caption": "Piments d'Espelette sur pied – illustration documentaire générale – Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/fb9e384e8c6d01c4a3f2022f3942625c7872f4a61688a2a3986cc7c9eacd12bb.jpg",
+            "image_credit": "Marianne Casamance · Own work (allegedly) · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Piments_d%27Espelette_sur_pied.jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Piment d'Espelette",
+                    "url": "https://fr.wikipedia.org/wiki/Piment_d%27Espelette"
+                }
+            ],
+            "subject_id": "Q1538429",
+            "published_at": "2026-10-31",
+            "country": "France"
+        }
+    ]
+}

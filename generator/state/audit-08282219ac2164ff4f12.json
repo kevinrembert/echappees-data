@@ -1,0 +1,232 @@
+{
+    "schema_version": 1,
+    "articles": [
+        {
+            "id": "decouverte-4c6b992d6181d1a29c5479da",
+            "subject_id": "news-4d69bfe5dcc7e159ae0529fc1bd5b749",
+            "collected_at": "2026-10-31T05:40:28+00:00",
+            "sources": [
+                {
+                    "label": "Reasons to be Cheerful · publié le 2026-10-19",
+                    "url": "https://reasonstobecheerful.world/behind-the-remarkable-resistance-to-trumps-big-bend-wall/"
+                }
+            ],
+            "source_sha256": "b1a2ff89055d835febaa6eaf74e2194dd45a036308c61b098708273cfbc92a36",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Big_Bend_Santa_Elena_Canyon_2006.JPG",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "250e198647e15c9afd8853a9a87c0e81603d0962",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La mobilisation collective a permis de freiner la construction de la nouvelle route de surveillance à Big Bend, protégeant des espèces végétales menacées et un espace naturel fragile.",
+                "beneficiaries": "Les populations locales, les espèces protégées du parc national de Big Bend, notamment le cactus hérisson des montagnes Chisos et les espèces nichant dans les plantes épineuses."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Dans le parc national de Big Bend au Texas, la mise en place d’une nouvelle « route de patrouille » a suscité une mobilisation unie et transpartisane.",
+                    "source_passages": [
+                        "Construction crews were hard at work in the early stages of cutting a brand-new “patrol road” for law enforcement just feet away from an existing road to the canyon, whose 1,500-foot limestone cliffs, locals argue, form a natural border wall constructed millions of years ahead of schedule.",
+                        "Landowners and lovers of public lands from all backgrounds and across the political spectrum have been uniting under a common cause: protecting one of Texas’s last wild places."
+                    ]
+                },
+                {
+                    "sentence": "Ce chantier menaçant des plantes en danger, dont le cactus hérisson des montagnes Chisos, a poussé habitants, écologistes et élus, à surveiller les travaux et à organiser des protections des espèces menacées.",
+                    "source_passages": [
+                        "Locals sprang into action, taking shifts monitoring construction and volunteering to rescue endangered plants — including the Chisos Mountain hedgehog cactus and all the spiny plants that provide protective nests for species like the yellow-billed cuckoo — ahead of the bulldozers."
+                    ]
+                },
+                {
+                    "sentence": "Malgré le contexte d’un vaste projet de « mur intelligent » frontalier, symbolique de division, la résistance locale a révélé que le fleuve Rio Grande joue aussi un rôle d’unité.",
+                    "source_passages": [
+                        "“People think the Rio Grande divides us, but what the river actually does is unite us,” Hillary Pierce, an organizer with No Big Bend Wall, said into the bullhorn while holding a sign that said DON’T BULLDOZE MY CHURCH.",
+                        "Perhaps ironically for a political symbol aimed at highlighting the division between two countries, Trump’s wall is bringing people together.",
+                        "Landowners and lovers of public lands from all backgrounds and across the political spectrum have been uniting under a common cause: protecting one of Texas’s last wild places."
+                    ]
+                },
+                {
+                    "sentence": "Les manifestations régulières et la coopération entre groupes politiques ont quantifié l’enjeu pour cet ultime territoire sauvage texan, soulignant le poids de la solidarité locale face à une infrastructure à grande échelle.",
+                    "source_passages": [
+                        "“People think the Rio Grande divides us, but what the river actually does is unite us,” Hillary Pierce, an organizer with No Big Bend Wall, said into the bullhorn while holding a sign that said DON’T BULLDOZE MY CHURCH.",
+                        "Landowners and lovers of public lands from all backgrounds and across the political spectrum have been uniting under a common cause: protecting one of Texas’s last wild places.",
+                        "Community groups dedicated to fighting the wall popped up all over the region, held up by residents and business owners from both sides of the aisle.",
+                        "They demonstrate just outside the park entrance, carrying protest signs cut out in the shape of the javelinas, bears and birds that could be impacted by wall construction — even when temperatures soared over 100 degrees."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-e8e4bcd587c11233c21a65cf",
+            "subject_id": "news-04f97ac669b228e165e753354cc15dcf",
+            "collected_at": "2026-10-31T05:42:05+00:00",
+            "sources": [
+                {
+                    "label": "Good Good Good · publié le 2026-10-22",
+                    "url": "https://www.goodgoodgood.co/articles/michigan-arctic-grayling-tribes"
+                }
+            ],
+            "source_sha256": "a6581d29cd6b5d0c53054bbc377bacc3d3b6b4f770a8c862cb659b1b16331449",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:ArcticGraylingUSFWS.jpg",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "6efc2ab9175dd12453e13c341b559a3387e76ecc",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Trois tribus du nord du Michigan ont relancé l’élevage et la remise en liberté de l’omble chevalier, un poisson disparu localement depuis près de cent ans.",
+                "beneficiaries": "Les populations des tribus Grand Traverse Band of Ottawa and Chippewa Indians, Little River Band of Ottawa Indians et Little Traverse Bay Bands of Odawa Indians, ainsi que les écosystèmes aquatiques du nord du Michigan."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Depuis 2025, les tribus Grand Traverse, Little River et Little Traverse Bay, en collaboration avec l’État du Michigan, ont commencé à élever puis relâcher des ombles chevaliers issus d’œufs venus d’Alaska.",
+                    "source_passages": [
+                        "They’re one of three northern Michigan tribes that received grayling eggs from a state hatchery in 2025, along with the Little River Band of Ottawa Indians and the Little Traverse Bay Bands of Odawa Indians.",
+                        "This was the culmination of years of planning plus millions of dollars in combined state, federal, and private funding to restore ecosystems."
+                    ]
+                },
+                {
+                    "sentence": "Ce poisson avait disparu des eaux locales dans les années 1930, victime de la surexploitation et de la dégradation des habitats.",
+                    "source_passages": [
+                        "By the 1930s, industrial activity like logging and overfishing, along with competition from non-native fish, had decimated their numbers."
+                    ]
+                },
+                {
+                    "sentence": "En 2026, environ 8 000 jeunes poissons ont été libérés dans la rivière Boardman-Ottaway.",
+                    "source_passages": [
+                        "Vivian La/IPR NewsIn the summer and early fall, the Grand Traverse Band raised around 8,000 young grayling and released them into the Boardman-Ottaway River."
+                    ]
+                },
+                {
+                    "sentence": "Bien que les premières observations dans la nature n’aient pas encore confirmé leur survie, les responsables du programme notent une augmentation du nombre et de la taille des individus élevés comparativement à l’année précédente, malgré des conditions difficiles pour le suivi.",
+                    "source_passages": [
+                        "No released grayling have been seen in the wild.",
+                        "Flood conditions and the small number of fish they began with are complicating survey work.But the tribes remain optimistic that their restoration efforts will improve as they collect more data in the coming years.",
+                        "The eggs for Michigan’s reintroduction efforts were sourced from the Chena River in Alaska, a state where Arctic grayling are plentiful and more genetically diverse than the only remaining population in the Lower 48, in Montana’s Big Hole River.Mays is already feeling more optimistic about the number and the size of the grayling that the Grand Traverse Band raised compared to last year, when a power outage at the tribe’s rearing facility killed a majority of the grayling.“Overall, four times as many grayling,” he said.",
+                        "“We’re also stocking a higher proportion of bigger grayling this year."
+                    ]
+                },
+                {
+                    "sentence": "Les chercheurs estiment qu’il faudra plusieurs années pour évaluer pleinement l’impact de ce projet de réintroduction.",
+                    "source_passages": [
+                        "Biologists think it will be around six to eight years before they can tell if grayling reintroduction has been successful.“This is an experiment,” said Dan Mays, inland policy biologist for the Grand Traverse Band."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-e77b94a1a91c9b9fd360f40c",
+            "subject_id": "source-443b9b6a605eb2c9aa50ddd0a0d38d47",
+            "collected_at": "2026-10-31T05:42:12+00:00",
+            "sources": [
+                {
+                    "label": "NOAA · What is aquaculture?",
+                    "url": "https://oceanservice.noaa.gov/facts/aquaculture.html"
+                }
+            ],
+            "source_sha256": "d67b5886e60db2842e46ae6d83dbcb27f4133fce03f801f2096a6007d52d1ba1",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Bidyanus_bidyanus_as_depicted_by_Fishing_and_Aquaculture,_Department_of_Primary_Industries,_New_South_Wales.jpg",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "6b78695a17038257047fcbe2bbfe4c268e8034ac",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "L’aquaculture permet aujourd’hui de produire de manière responsable et durable plusieurs espèces marines, contribuant à restaurer des habitats et reconstituer des populations menacées.",
+                "beneficiaries": "Les milieux marins, les espèces aquatiques cultivées et les consommateurs d’aliments issus de l’aquaculture bénéficient de ces pratiques."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "L’aquaculture regroupe l’élevage et la récolte de poissons, coquillages, algues et autres organismes aquatiques dans divers environnements d’eau douce et marine.",
+                    "source_passages": [
+                        "Aquaculture is the breeding, rearing, and harvesting of fish, shellfish, algae, and other organisms in all types of water environments."
+                    ]
+                },
+                {
+                    "sentence": "Grâce aux progrès technologiques, cette méthode permet aujourd’hui de cultiver plusieurs espèces en océan et estuaires, telles que les huîtres, moules, crevettes et certains poissons comme le saumon.",
+                    "source_passages": [
+                        "Transcript As the demand for seafood has increased, technology has made it possible to grow food in coastal marine waters and the open ocean.",
+                        "NOAA efforts primarily focus on marine aquaculture, which refers to farming species that live in the ocean and estuaries.",
+                        "In the United States, marine aquaculture produces numerous species including oysters, clams, mussels, shrimp, seaweeds, and fish such as salmon, black sea bass, sablefish, yellowtail, and pompano."
+                    ]
+                },
+                {
+                    "sentence": "Au-delà de fournir de la nourriture, l’aquaculture contribue à restaurer les habitats, reconstituer les populations sauvages menacées et offre une ressource commerciale durable.",
+                    "source_passages": [
+                        "Aquaculture is a method used to produce food and other commercial products, restore habitat and replenish wild stocks, and rebuild populations of threatened and endangered species.",
+                        "aquaculture is an environmentally responsible source of food and commercial products, helps to create healthier habitats, and is used to rebuild stocks of threatened or endangered species."
+                    ]
+                },
+                {
+                    "sentence": "Par exemple, les coquillages peuvent être élevés sur fonds marins ou dans des cages flottantes, tandis que les poissons sont souvent élevés en enclos dans l’eau ou dans des bassins terrestres.",
+                    "source_passages": [
+                        "There are many ways to farm marine shellfish, including “seeding” small shellfish on the seafloor or by growing them in bottom or floating cages.",
+                        "Marine fish farming is typically done in net pens in the water or in tanks on land."
+                    ]
+                },
+                {
+                    "sentence": "Cette approche soigneusement encadrée cherche à limiter les impacts environnementaux tout en maintenant une activité viable pour les écosystèmes marins.",
+                    "source_passages": [
+                        "NOAA is committed to supporting an aquaculture industry that is economically, environmentally and socially sustainable.",
+                        "NOAA experts and partners work to understand the environmental effects of aquaculture in different settings and provide best management practices to help reduce the risk of negative impacts."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-5cfdfddd98ed745fdc73846c",
+            "subject_id": "Q1538429",
+            "collected_at": "2026-10-31T05:42:21+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Piment d'Espelette",
+                    "url": "https://fr.wikipedia.org/wiki/Piment_d%27Espelette"
+                }
+            ],
+            "source_sha256": "36352c55a0175517b95ca3c2ccf1ee6c5f36d9e74d3b7a3c37a6d1fd893e4cae",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Piments_d%27Espelette_sur_pied.jpg",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "original_sha1": "b8be48a7ab707ccd014b0d4f5e8e67d19ccfcecd",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La culture et la sélection rigoureuse du piment d'Espelette dans le Pays basque ont permis la préservation d'une variété locale spécifique, reconnue officiellement par une appellation d'origine protégée de l'Union européenne.",
+                "beneficiaries": "les agriculteurs du Pays basque, les consommateurs et la tradition locale de production agricole"
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Introduit au Pays basque au XVIe siècle depuis le Mexique, le piment d’Espelette s’est adapté au territoire, où les paysans ont sélectionné au fil du temps la variété « Gorria ».",
+                    "source_passages": [
+                        "== Histoire == Venue du Mexique, cette variété de piment a été introduite au Pays basque au XVIe siècle par le navigateur espagnol Juan Sebastián Elcano originaire de Getaria.",
+                        "En 1650, les paysans commencent à cultiver des piments (« biperra » en basque) à Espelette.",
+                        "De récolte en récolte, ils sélectionnent la semence et nomment populairement leur variété de plant de Capsicum annuum « gorria »."
+                    ]
+                },
+                {
+                    "sentence": "Cette démarche a permis de conserver une production locale singulière, reconnue aujourd’hui par une appellation d’origine protégée au niveau européen.",
+                    "source_passages": [
+                        "Ces appellations d'origine sont préservées via le système de l'Union européenne « Appellation d'origine protégée » quand elles sont employées pour le commerce."
+                    ]
+                },
+                {
+                    "sentence": "Ce statut constitue une protection officielle qui s’applique au piment cultivé dans un périmètre défini, consolidant la pérennité de la filière.",
+                    "source_passages": [
+                        "Ces appellations d'origine sont préservées via le système de l'Union européenne « Appellation d'origine protégée » quand elles sont employées pour le commerce."
+                    ]
+                },
+                {
+                    "sentence": "Le piment d’Espelette est ainsi la seule épice française bénéficiant de ce label, un gage de maintien des pratiques agricoles et des savoir-faire du Pays basque.",
+                    "source_passages": [
+                        "Il s'agit d'ailleurs de la seule épice bénéficiant de ce label en France."
+                    ]
+                },
+                {
+                    "sentence": "Ce produit emblématique reste très présent dans les cultures locales sur les balcons et dans les jardins, notamment sous forme de grappes séchant au soleil.",
+                    "source_passages": [
+                        "Et partout sur leurs balcons de bois, séchaient les citrouilles jaune d'or, les gerbes de haricots roses ; partout sur leurs murs..."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        }
+    ]
+}
