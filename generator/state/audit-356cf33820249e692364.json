@@ -1,0 +1,60 @@
+{
+    "schema_version": 1,
+    "articles": [
+        {
+            "id": "decouverte-64c560e885bb3d0760e6015e",
+            "subject_id": "news-3dba783cfe6d0a459eb53305b711b7f2",
+            "collected_at": "2026-10-31T14:31:31+00:00",
+            "sources": [
+                {
+                    "label": "Good Good Good · publié le 2026-10-31",
+                    "url": "https://www.goodgoodgood.co/articles/good-news-this-week-october-31-2026"
+                }
+            ],
+            "source_sha256": "520773e605c2a8fb1feba7109cd8f07e91093d9bbc2288dc67d18eb072309fea",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Paid_parental_leave_picnic_(7174326610).jpg",
+            "image_license": "CC BY-SA 2.0 · https://creativecommons.org/licenses/by-sa/2.0/",
+            "original_sha1": "0a9bd447fe8c2d11846cd0af92d9bc6ffbdf7e68",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Le comté d'Allegheny en Pennsylvanie a adopté la première politique locale aux États-Unis garantissant 12 semaines de congé parental payé pour tous les parents, avec protection de l'emploi et des soins de santé.",
+                "beneficiaries": "Les parents qui vivent dans le comté d'Allegheny, qu'ils soient donneurs d'enfant ou non, ainsi que leurs familles."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "En Pennsylvanie, le conseil du comté d'Allegheny a voté une mesure offrant à tous les parents 12 semaines de congé parental payé, une première à l'échelle locale aux États-Unis.",
+                    "source_passages": [
+                        "Here are the highlights for this week!If you want to get good news in your inbox every day, join the Goodnewsletter — the free daily newsletter designed to leave you feeling hopeful.‍The Best Positive News We’re Celebrating This Week —Nurses in Pennsylvania fought to secure the nation’s first countywide 12-week paid parental leave policyAfter watching parents return to work while their babies were still in intensive care, Pittsburgh nurses joined with a coalition of working parents, advocates, and some elected leaders to draft a proposal for a paid leave program in Allegheny County.And they just won — the Allegheny County Council voted 11 to 4 to pass 12 weeks of paid parental leave — the first county-level paid leave policy in the nation.Both birthing and non-birthing parents will receive three months of paid parental leave within the first year of childbirth, adoption, foster placement, or a stillbirth, with job and health benefits protection.Why is this good news?"
+                    ]
+                },
+                {
+                    "sentence": "Cette initiative garantit un congé rémunéré dans la première année suivant une naissance, adoption, placement en famille d'accueil ou un décès périnatal, avec maintien du poste et des prestations santé.",
+                    "source_passages": [
+                        "Here are the highlights for this week!If you want to get good news in your inbox every day, join the Goodnewsletter — the free daily newsletter designed to leave you feeling hopeful.‍The Best Positive News We’re Celebrating This Week —Nurses in Pennsylvania fought to secure the nation’s first countywide 12-week paid parental leave policyAfter watching parents return to work while their babies were still in intensive care, Pittsburgh nurses joined with a coalition of working parents, advocates, and some elected leaders to draft a proposal for a paid leave program in Allegheny County.And they just won — the Allegheny County Council voted 11 to 4 to pass 12 weeks of paid parental leave — the first county-level paid leave policy in the nation.Both birthing and non-birthing parents will receive three months of paid parental leave within the first year of childbirth, adoption, foster placement, or a stillbirth, with job and health benefits protection.Why is this good news?"
+                    ]
+                },
+                {
+                    "sentence": "Ce dispositif résulte de la mobilisation d'infirmières, de parents et d'élus, sensibilisés à la réalité des familles confrontées à un retour au travail alors que leurs bébés sont en unité de soins intensifs.",
+                    "source_passages": [
+                        "Here are the highlights for this week!If you want to get good news in your inbox every day, join the Goodnewsletter — the free daily newsletter designed to leave you feeling hopeful.‍The Best Positive News We’re Celebrating This Week —Nurses in Pennsylvania fought to secure the nation’s first countywide 12-week paid parental leave policyAfter watching parents return to work while their babies were still in intensive care, Pittsburgh nurses joined with a coalition of working parents, advocates, and some elected leaders to draft a proposal for a paid leave program in Allegheny County.And they just won — the Allegheny County Council voted 11 to 4 to pass 12 weeks of paid parental leave — the first county-level paid leave policy in the nation.Both birthing and non-birthing parents will receive three months of paid parental leave within the first year of childbirth, adoption, foster placement, or a stillbirth, with job and health benefits protection.Why is this good news?"
+                    ]
+                },
+                {
+                    "sentence": "Ce modèle local pourrait inspirer d'autres collectivités, dans un pays qui jusqu'ici ne prévoyait aucune telle politique au niveau national.",
+                    "source_passages": [
+                        "Here are the highlights for this week!If you want to get good news in your inbox every day, join the Goodnewsletter — the free daily newsletter designed to leave you feeling hopeful.‍The Best Positive News We’re Celebrating This Week —Nurses in Pennsylvania fought to secure the nation’s first countywide 12-week paid parental leave policyAfter watching parents return to work while their babies were still in intensive care, Pittsburgh nurses joined with a coalition of working parents, advocates, and some elected leaders to draft a proposal for a paid leave program in Allegheny County.And they just won — the Allegheny County Council voted 11 to 4 to pass 12 weeks of paid parental leave — the first county-level paid leave policy in the nation.Both birthing and non-birthing parents will receive three months of paid parental leave within the first year of childbirth, adoption, foster placement, or a stillbirth, with job and health benefits protection.Why is this good news?",
+                        "The United States is the only industrialized nation in the world that doesn’t offer any parental leave."
+                    ]
+                },
+                {
+                    "sentence": "Le vote a eu lieu à l'automne 2026, apportant une nouvelle norme en matière de congé parental aux États-Unis.",
+                    "source_passages": [
+                        "Here are the highlights for this week!If you want to get good news in your inbox every day, join the Goodnewsletter — the free daily newsletter designed to leave you feeling hopeful.‍The Best Positive News We’re Celebrating This Week —Nurses in Pennsylvania fought to secure the nation’s first countywide 12-week paid parental leave policyAfter watching parents return to work while their babies were still in intensive care, Pittsburgh nurses joined with a coalition of working parents, advocates, and some elected leaders to draft a proposal for a paid leave program in Allegheny County.And they just won — the Allegheny County Council voted 11 to 4 to pass 12 weeks of paid parental leave — the first county-level paid leave policy in the nation.Both birthing and non-birthing parents will receive three months of paid parental leave within the first year of childbirth, adoption, foster placement, or a stillbirth, with job and health benefits protection.Why is this good news?"
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        }
+    ]
+}

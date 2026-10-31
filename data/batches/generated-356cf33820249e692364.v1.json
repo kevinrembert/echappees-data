@@ -1,0 +1,33 @@
+{
+    "schema_version": 1,
+    "id": "generated-356cf33820249e692364",
+    "version": "1",
+    "articles": [
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-64c560e885bb3d0760e6015e",
+            "title": "Aux États-Unis, Allegheny inaugure un congé parental payé de 12 semaines au niveau local",
+            "body": "En Pennsylvanie, le conseil du comté d'Allegheny a voté une mesure offrant à tous les parents 12 semaines de congé parental payé, une première à l'échelle locale aux États-Unis. Cette initiative garantit un congé rémunéré dans la première année suivant une naissance, adoption, placement en famille d'accueil ou un décès périnatal, avec maintien du poste et des prestations santé. Ce dispositif résulte de la mobilisation d'infirmières, de parents et d'élus, sensibilisés à la réalité des familles confrontées à un retour au travail alors que leurs bébés sont en unité de soins intensifs. Ce modèle local pourrait inspirer d'autres collectivités, dans un pays qui jusqu'ici ne prévoyait aucune telle politique au niveau national. Le vote a eu lieu à l'automne 2026, apportant une nouvelle norme en matière de congé parental aux États-Unis.",
+            "category": "Initiatives positives",
+            "location": "Comté d'Allegheny, Pennsylvanie, États-Unis",
+            "image_description": "Manifestation ou rassemblement derrière une table avec des personnes assises lors d'un pique-nique pour le congé parental payé",
+            "image_caption": "Un pique-nique organisé pour soutenir le congé parental payé, illustration documentaire générale (Wikimedia Commons)",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/ae817889431721a754aea0bcd0240d0f73596c3267aa219ee7457ba83f9a722f.jpg",
+            "image_credit": "New Zealand Tertiary Education Union from New Zealand · Paid parental leave picnic · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 2.0 · https://creativecommons.org/licenses/by-sa/2.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Paid_parental_leave_picnic_(7174326610).jpg",
+            "sources": [
+                {
+                    "label": "Good Good Good · publié le 2026-10-31",
+                    "url": "https://www.goodgoodgood.co/articles/good-news-this-week-october-31-2026"
+                }
+            ],
+            "subject_id": "news-3dba783cfe6d0a459eb53305b711b7f2",
+            "published_at": "2026-10-31",
+            "country": "Monde",
+            "source_published_at": "2026-10-31"
+        }
+    ]
+}
