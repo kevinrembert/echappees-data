@@ -1,0 +1,192 @@
+{
+    "schema_version": 1,
+    "articles": [
+        {
+            "id": "decouverte-1dbf691c957dea34e0cc7cca",
+            "subject_id": "news-0184b1e50faed31089310fb3e6e6b31f",
+            "collected_at": "2026-11-01T06:02:31+00:00",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-10-31",
+                    "url": "https://www.goodnewsnetwork.org/b-vitamin-supplement-can-treat-psoriasis/"
+                }
+            ],
+            "source_sha256": "c70426d7fd3b872ff5b85e97d4bf74d1686875d50cdc7eadb61debe7a51f62ef",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Topical_therapy_for_management_of_psoriasis_by_region_of_the_skin.jpg",
+            "image_license": "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/",
+            "original_sha1": "1ebf4f69332a062fc6afb972750ceaa2187f880b",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Un complément alimentaire à base de pantéthine, dérivé de la vitamine B5, a permis d’atténuer les symptômes du psoriasis chez des patients lors d’un essai clinique mené sur 24 personnes, et a empêché le développement de cette maladie chez des souris expérimentales.",
+                "beneficiaries": "les patients atteints de psoriasis, une maladie auto-immune chronique de la peau, particulièrement ceux présentant un taux de cholestérol sanguin élevé, ainsi que les modèles animaux utilisés dans la recherche."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Une étude chinoise a exploré l’effet du pantéthine, un dérivé de la vitamine B5, sur le psoriasis, maladie autoimmune sans traitement curatif.",
+                    "source_passages": [
+                        "Now researchers in China have discovered that the vitamin B5 derivative called pantethine limits the activity of immune cells that are key contributors to autoimmune diseases such as psoriasis.",
+                        "Their findings, published in the Journal of Experimental Medicine (JEM), show that pantethine helped alleviate the symptoms of psoriasis in a small human trial—and also entirely prevented its development \\in mice."
+                    ]
+                },
+                {
+                    "sentence": "Le pantéthine inhibe l’activité de cellules immunitaires appelées cellules dendritiques, réputées centrales dans la réaction inflammatoire de cette pathologie.",
+                    "source_passages": [
+                        "Now researchers in China have discovered that the vitamin B5 derivative called pantethine limits the activity of immune cells that are key contributors to autoimmune diseases such as psoriasis.",
+                        "The Beijing team explained that dendritic cells are specialized immune cells that help to coordinate the different parts of the immune system.",
+                        "They can engulf and present foreign antigens to activate highly-specific T-cells, as well as secrete a range of immune signaling molecules to recruit other types of immune cells, promoting inflammation.",
+                        "Because of their central role in directing immune responses, aberrant activation of dendritic cells is believed to underlie several autoimmune diseases, including psoriasis.",
+                        "The levels of metabolic enzymes known as Vanins are elevated in the dendritic cells of patients with psoriasis and several other autoimmune diseases.",
+                        "If you can deplete those enzymes, you can inhibit dendritic cell activation and limit their ability to activate T-cells.",
+                        "(In fact, treating mice with a drug that inhibits Vanins prevented the animals from developing psoriasis.) Pantethine is a widely available nutritional supplement often used to lower cholesterol levels due to its ability to inhibit cholesterol synthesis.",
+                        "His team at the State Key Laboratory of Biomedical Analysis said cholesterol had previously been shown to promote the activation of dendritic cells, and high blood cholesterol is a ‘major risk factor for the development of psoriasis’.",
+                        "They determined that increased Vanin activity in dendritic cells reduces panthetine levels, leading to increased cholesterol synthesis and dendritic cell hyperactivation.",
+                        "Replenishing pantethine levels reversed the process, lowering the accumulation of cholesterol and suppressing dendritic cell activation.",
+                        "“Insufficient pantethine levels may be the crucial contributor to hyperactivation of dendritic cells, and autoimmune inflammation following the up-regulation of Vanins,” said Zhang."
+                    ]
+                },
+                {
+                    "sentence": "Lors d’un essai clinique impliquant 24 patients, un groupe a reçu un traitement complémentaire au pantéthine sur 12 semaines, constatant une amélioration des lésions cutanées, surtout chez ceux avec un cholestérol sanguin élevé.",
+                    "source_passages": [
+                        "RELATED: Itching Solution: New Approach Could Treat Inflammatory Skin Conditions Like Eczema with ‘Huge Benefits’ The small ‘proof-of-concept’ trial treated 24 psoriasis patients with ointment, but half of the patients also received pantethine tablets.",
+                        "Over the course of 12 weeks, patients given the additional pantethine treatment showed improved symptoms, particularly if they had elevated blood cholesterol levels to begin with."
+                    ]
+                },
+                {
+                    "sentence": "Par ailleurs, des expériences sur des souris ont montré que ce complément pouvait prévenir complètement l’apparition de la maladie.",
+                    "source_passages": [
+                        "Their findings, published in the Journal of Experimental Medicine (JEM), show that pantethine helped alleviate the symptoms of psoriasis in a small human trial—and also entirely prevented its development \\in mice."
+                    ]
+                },
+                {
+                    "sentence": "Ces résultats suggèrent que réguler le métabolisme lipidique des cellules immunitaires influe sur leur activation, modifiant ainsi la progression du psoriasis.",
+                    "source_passages": [
+                        "His team at the State Key Laboratory of Biomedical Analysis said cholesterol had previously been shown to promote the activation of dendritic cells, and high blood cholesterol is a ‘major risk factor for the development of psoriasis’.",
+                        "They determined that increased Vanin activity in dendritic cells reduces panthetine levels, leading to increased cholesterol synthesis and dendritic cell hyperactivation.",
+                        "Replenishing pantethine levels reversed the process, lowering the accumulation of cholesterol and suppressing dendritic cell activation.",
+                        "“Insufficient pantethine levels may be the crucial contributor to hyperactivation of dendritic cells, and autoimmune inflammation following the up-regulation of Vanins,” said Zhang."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-9a42606b0f5aa6922a4fc1b7",
+            "subject_id": "source-91c1c2c9ea032d4988a52f980424c109",
+            "collected_at": "2026-11-01T06:03:45+00:00",
+            "sources": [
+                {
+                    "label": "NOAA · Are sea cucumbers vegetables?",
+                    "url": "https://oceanservice.noaa.gov/facts/seacuke.html"
+                }
+            ],
+            "source_sha256": "7a710020ad578c93e2a7eed07e03d5ba19dbdfcf90e1aed51cd8400e77edba78",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Harvest_Festival_in_countryside_-_vegetable_1st.jpg",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "original_sha1": "1eef2189f9aeed66a56bd634ed1d6b6f6871276f",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La compréhension claire que les concombres de mer sont des animaux et non des légumes, avec un rôle concret dans le cycle nutritif océanique.",
+                "beneficiaries": "Les océans et leurs écosystèmes, ainsi que les personnes intéressées par la biologie marine."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Les concombres de mer, bien qu’appelés ainsi, ne sont pas des légumes mais des animaux marins appartenant au groupe des échinodermes, comme les étoiles de mer.",
+                    "source_passages": [
+                        "Sea cucumbers are animals, not vegetables.",
+                        "These squishy invertebrates are echinoderms, making them distant relatives to starfish and urchins."
+                    ]
+                },
+                {
+                    "sentence": "Ils vivent exclusivement en milieu salé et dépassent les mille espèces dans le monde.",
+                    "source_passages": [
+                        "Found only in salt water, more than a thousand species of sea cucumbers exist around the world."
+                    ]
+                },
+                {
+                    "sentence": "Ces organismes jouent un rôle de nettoyeurs des fonds marins en consommant des particules minuscules d’algues et d’animaux microscopiques.",
+                    "source_passages": [
+                        "Most sea cucumbers are scavengers, moving along the seafloor and feeding on tiny particles of algae or microscopic marine animals collected with tube feet that surround their mouths.",
+                        "Most sea cucumbers are scavengers, moving along the seafloor and feeding on tiny particles of algae or microscopic marine animals collected with tube feet that surround their mouths."
+                    ]
+                },
+                {
+                    "sentence": "En broyant ces particules, ils facilitent leur décomposition par des bactéries, contribuant ainsi au cycle des nutriments dans l’océan.",
+                    "source_passages": [
+                        "The particles they grind down to smaller pieces are further broken down by bacteria and become part of the ocean's nutrient cycle."
+                    ]
+                },
+                {
+                    "sentence": "Ce fonctionnement rappelle le rôle des vers de terre sur terre.",
+                    "source_passages": [
+                        "This is a similar role to that which earthworms perform on land."
+                    ]
+                },
+                {
+                    "sentence": "En plus, les concombres de mer sont intégrés dans la chaîne alimentaire marine et sont également consommés dans certaines cultures, notamment en Asie.",
+                    "source_passages": [
+                        "Sea cucumbers are enjoyed as meals for other critters such as fish and crabs.",
+                        "In some places, especially Asia, sea cucumbers are considered a delicacy and are enjoyed by humans."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-b7081f36efa17551c215f1b4",
+            "subject_id": "Q49444",
+            "collected_at": "2026-11-01T06:03:51+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Liège (matériau)",
+                    "url": "https://fr.wikipedia.org/wiki/Li%C3%A8ge_(mat%C3%A9riau)"
+                }
+            ],
+            "source_sha256": "5ff8da6b7de27fccaf0933c9e354cd843cd88a1256c25f5e421d29ed010aeb85",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Quercus_suber_corc.JPG",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "original_sha1": "80028f75c2909195a7d002d9c21e1e805bce5c76",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "L'exploitation durable du chêne-liège contribue à un puits de carbone efficace.",
+                "beneficiaries": "les forêts de chênes-lièges et l'environnement par leur rôle dans la séquestration du carbone"
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Le liège est un matériau récolté à partir de l'écorce du chêne-liège, un arbre qui présente la particularité d’être le seul à produire du suber en quantité exploitable.",
+                    "source_passages": [
+                        "Le liège est un produit agricole et un matériau cellulaire, produit à partir de l'écorce du chêne-liège.",
+                        "Cet arbre est actuellement le seul produisant des quantités exploitables de suber, même si ce tissu végétal est présent dans toutes les plantes vasculaires et parfois en quantité remarquée comme chez le phellodendron."
+                    ]
+                },
+                {
+                    "sentence": "Ce tissu végétal cellulaire assure naturellement la protection de l’arbre contre les insectes, les intempéries et le froid, tout en lui permettant de respirer grâce à des canaux appelés lenticelles.",
+                    "source_passages": [
+                        "Le suber protège l'arbre des insectes, du froid, des intempéries, et des incendies, tout en lui permettant de respirer, par de minces canaux appelés lenticelles (les trous du liège et de certains fruits)."
+                    ]
+                },
+                {
+                    "sentence": "Par ailleurs, cette espèce joue un rôle important dans la lutte contre le changement climatique.",
+                    "source_passages": [
+                        "Le chêne-liège est un puits de carbone d’autant plus efficace que l’arbre est exploité pour produire du liège."
+                    ]
+                },
+                {
+                    "sentence": "En effet, le chêne-liège est un puits de carbone, dont l’efficacité est accrue précisément lorsque l’arbre est exploité pour la production de liège, favorisant ainsi le renouvellement de son écorce.",
+                    "source_passages": [
+                        "Le chêne-liège est un puits de carbone d’autant plus efficace que l’arbre est exploité pour produire du liège."
+                    ]
+                },
+                {
+                    "sentence": "Cette exploitation durable soutient à la fois l’économie locale et la régulation environnementale.",
+                    "source_passages": [
+                        "Le chêne-liège est un puits de carbone d’autant plus efficace que l’arbre est exploité pour produire du liège."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        }
+    ]
+}

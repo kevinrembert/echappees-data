@@ -1,0 +1,83 @@
+{
+    "schema_version": 1,
+    "id": "generated-10d6c29006a2ad3a45db",
+    "version": "1",
+    "articles": [
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-1dbf691c957dea34e0cc7cca",
+            "title": "Le pantéthine, un complément vitaminique, atténue les symptômes du psoriasis dans un essai clinique",
+            "body": "Une étude chinoise a exploré l’effet du pantéthine, un dérivé de la vitamine B5, sur le psoriasis, maladie autoimmune sans traitement curatif. Le pantéthine inhibe l’activité de cellules immunitaires appelées cellules dendritiques, réputées centrales dans la réaction inflammatoire de cette pathologie. Lors d’un essai clinique impliquant 24 patients, un groupe a reçu un traitement complémentaire au pantéthine sur 12 semaines, constatant une amélioration des lésions cutanées, surtout chez ceux avec un cholestérol sanguin élevé. Par ailleurs, des expériences sur des souris ont montré que ce complément pouvait prévenir complètement l’apparition de la maladie. Ces résultats suggèrent que réguler le métabolisme lipidique des cellules immunitaires influe sur leur activation, modifiant ainsi la progression du psoriasis.",
+            "category": "Initiatives positives",
+            "location": "Monde",
+            "image_description": "Thérapie locale pour la gestion du psoriasis sur différentes parties du corps.",
+            "image_caption": "Illustration documentaire générale de traitements topiques pour le psoriasis. Wikimedia Commons, image compressée.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/ce80e9c907bd6349cea11d2eecf4de2816259c50cdba974a4efe45794c26b25c.jpg",
+            "image_credit": "Uva L, Miguel D, Pinheiro C, Antunes J, Cruz D, Ferreira J, Filipe P. · https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3508578/ · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Topical_therapy_for_management_of_psoriasis_by_region_of_the_skin.jpg",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-10-31",
+                    "url": "https://www.goodnewsnetwork.org/b-vitamin-supplement-can-treat-psoriasis/"
+                }
+            ],
+            "subject_id": "news-0184b1e50faed31089310fb3e6e6b31f",
+            "published_at": "2026-11-01",
+            "country": "Monde",
+            "source_published_at": "2026-10-31"
+        },
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "daily",
+            "id": "decouverte-9a42606b0f5aa6922a4fc1b7",
+            "title": "Les concombres de mer : des animaux marins qui participent au cycle nutritif",
+            "body": "Les concombres de mer, bien qu’appelés ainsi, ne sont pas des légumes mais des animaux marins appartenant au groupe des échinodermes, comme les étoiles de mer. Ils vivent exclusivement en milieu salé et dépassent les mille espèces dans le monde. Ces organismes jouent un rôle de nettoyeurs des fonds marins en consommant des particules minuscules d’algues et d’animaux microscopiques. En broyant ces particules, ils facilitent leur décomposition par des bactéries, contribuant ainsi au cycle des nutriments dans l’océan. Ce fonctionnement rappelle le rôle des vers de terre sur terre. En plus, les concombres de mer sont intégrés dans la chaîne alimentaire marine et sont également consommés dans certaines cultures, notamment en Asie.",
+            "category": "Nature et animaux",
+            "location": "Monde",
+            "image_description": "Photo prise lors d’un festival des récoltes dans une campagne du Nord-Est de la Chine, montrant des légumes frais, dont des concombres en extérieur.",
+            "image_caption": "Illustration documentaire générale montrant des légumes lors d’un festival agricole en Chine, Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/6658249ecde7a55cfe376ad5cc0f6d1d5297bf8143c07e0e21ffe56781c711f5.jpg",
+            "image_credit": "Jason M. C., Han · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Harvest_Festival_in_countryside_-_vegetable_1st.jpg",
+            "sources": [
+                {
+                    "label": "NOAA · Are sea cucumbers vegetables?",
+                    "url": "https://oceanservice.noaa.gov/facts/seacuke.html"
+                }
+            ],
+            "subject_id": "source-91c1c2c9ea032d4988a52f980424c109",
+            "published_at": "2026-11-01",
+            "country": "Monde"
+        },
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "daily",
+            "id": "decouverte-b7081f36efa17551c215f1b4",
+            "title": "Le chêne-liège, un producteur naturel de liège et un puits de carbone actif",
+            "body": "Le liège est un matériau récolté à partir de l'écorce du chêne-liège, un arbre qui présente la particularité d’être le seul à produire du suber en quantité exploitable. Ce tissu végétal cellulaire assure naturellement la protection de l’arbre contre les insectes, les intempéries et le froid, tout en lui permettant de respirer grâce à des canaux appelés lenticelles. Par ailleurs, cette espèce joue un rôle important dans la lutte contre le changement climatique. En effet, le chêne-liège est un puits de carbone, dont l’efficacité est accrue précisément lorsque l’arbre est exploité pour la production de liège, favorisant ainsi le renouvellement de son écorce. Cette exploitation durable soutient à la fois l’économie locale et la régulation environnementale.",
+            "category": "Nature et animaux",
+            "location": "Portugal",
+            "image_description": "Tas de liège récolté, Algarve, Portugal.",
+            "image_caption": "Illustration documentaire générale d'un tas de liège récolté en Algarve, Portugal, montrant la matière première issue du chêne-liège.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/f06ab10dd44c35e88dd9d253c03ccf5fd64bb9d4f911ce8fcabce67d118ebcf5.jpg",
+            "image_credit": "Carsten Niehaus de:Korkeiche · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Quercus_suber_corc.JPG",
+            "sources": [
+                {
+                    "label": "Wikipédia · Liège (matériau)",
+                    "url": "https://fr.wikipedia.org/wiki/Li%C3%A8ge_(mat%C3%A9riau)"
+                }
+            ],
+            "subject_id": "Q49444",
+            "published_at": "2026-11-01",
+            "country": "Portugal"
+        }
+    ]
+}
