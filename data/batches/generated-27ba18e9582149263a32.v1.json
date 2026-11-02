@@ -1,0 +1,33 @@
+{
+    "schema_version": 1,
+    "id": "generated-27ba18e9582149263a32",
+    "version": "1",
+    "articles": [
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-9d5c86d0dbaba4e2f55a4cf7",
+            "title": "Premier shérif afro-américain aux États-Unis : une nouvelle étape en 1971",
+            "body": "En 1971, Arnold Cream, connu sous le nom de Jersey Joe Walcott, a marqué l’histoire en devenant le premier Afro-Américain élu shérif aux États-Unis. Élu dans le comté de Camden (New Jersey) avec une large majorité, il s’est engagé à utiliser son autorité pour aider et réhabiliter les personnes en difficulté, notamment les jeunes délinquants. Son expérience dans les établissements correctionnels et son passé de champion de boxe professionnel ont nourri son approche sociale du poste. Cette élection a modifié localement la représentation politique et les missions policières en y incluant une dimension de soutien communautaire, bénéficiant ainsi aux résidents du comté. La photographie associée illustre Jersey Joe Walcott lors d’une apparition télévisée en 1962, avant son engagement politique.",
+            "category": "Initiatives positives",
+            "location": "Comté de Camden, New Jersey, États-Unis",
+            "image_description": "Photographie en noir et blanc de Jersey Joe Walcott et Robert Culp, extraite du programme télévisé Cain's Hundred en 1962.",
+            "image_caption": "Photo documentaire de Jersey Joe Walcott lors du programme Cain's Hundred en 1962 — Wikimedia Commons, illustration générale.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/97780a6ce53070c9da8c1d90c5ea023014d23f612a025533283cc121f5a4fac4.jpg",
+            "image_credit": "NBC Television · eBay item photo front photo back · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Jersey_Joe_Walcott_Robert_Culp_Cain%27s_Hundred_1962.jpg",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-02",
+                    "url": "https://www.goodnewsnetwork.org/events061102/"
+                }
+            ],
+            "subject_id": "news-fbf9c437b8f44b316d2c58d0a5de8438",
+            "published_at": "2026-11-02",
+            "country": "Monde",
+            "source_published_at": "2026-11-02"
+        }
+    ]
+}

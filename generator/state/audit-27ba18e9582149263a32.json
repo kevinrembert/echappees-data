@@ -1,0 +1,65 @@
+{
+    "schema_version": 1,
+    "articles": [
+        {
+            "id": "decouverte-9d5c86d0dbaba4e2f55a4cf7",
+            "subject_id": "news-fbf9c437b8f44b316d2c58d0a5de8438",
+            "collected_at": "2026-11-02T18:22:05+00:00",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-02",
+                    "url": "https://www.goodnewsnetwork.org/events061102/"
+                }
+            ],
+            "source_sha256": "e3a0d758dd1eb09fd63012ffe59d973aa580e718692f4fc7ece2762c4bd59f80",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Jersey_Joe_Walcott_Robert_Culp_Cain%27s_Hundred_1962.jpg",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "eb4463512e3a9bc25b8003e33e0bd6a6e5c50aa2",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Jersey Joe Walcott est devenu aux États-Unis le premier shérif afro-américain élu, avec un mandat axé sur l’aide sociale et la réhabilitation.",
+                "beneficiaries": "Les habitants du comté de Camden dans le New Jersey, notamment les jeunes en difficulté bénéficiant des actions du shérif."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "En 1971, Arnold Cream, connu sous le nom de Jersey Joe Walcott, a marqué l’histoire en devenant le premier Afro-Américain élu shérif aux États-Unis.",
+                    "source_passages": [
+                        "Home This Day In History Good News in History, November 2 65 years ago today, Jersey Joe Walcott, the Hall of Famer heavyweight boxer and three-time organization champ, became the first African American to be elected as a Sheriff in the United States.",
+                        "Elected on Tuesday, November 2 by a two-to-one margin, he ran as a Democrat and said he wanted to use the position to “help people and rehabilitate them.” READ a little more… (1971) Jersey Joe Walcott in 1937.",
+                        "Walcott was sheriff of Camden County, New Jersey."
+                    ]
+                },
+                {
+                    "sentence": "Élu dans le comté de Camden (New Jersey) avec une large majorité, il s’est engagé à utiliser son autorité pour aider et réhabiliter les personnes en difficulté, notamment les jeunes délinquants.",
+                    "source_passages": [
+                        "Elected on Tuesday, November 2 by a two-to-one margin, he ran as a Democrat and said he wanted to use the position to “help people and rehabilitate them.” READ a little more… (1971) Jersey Joe Walcott in 1937.",
+                        "Walcott, whose real name was Arnold Cream, said he developed an interest in working with delinquent children after he lost the heavyweight belt to Rocky Marciano and started working in correctional facilities."
+                    ]
+                },
+                {
+                    "sentence": "Son expérience dans les établissements correctionnels et son passé de champion de boxe professionnel ont nourri son approche sociale du poste.",
+                    "source_passages": [
+                        "Walcott, whose real name was Arnold Cream, said he developed an interest in working with delinquent children after he lost the heavyweight belt to Rocky Marciano and started working in correctional facilities.",
+                        "Home This Day In History Good News in History, November 2 65 years ago today, Jersey Joe Walcott, the Hall of Famer heavyweight boxer and three-time organization champ, became the first African American to be elected as a Sheriff in the United States."
+                    ]
+                },
+                {
+                    "sentence": "Cette élection a modifié localement la représentation politique et les missions policières en y incluant une dimension de soutien communautaire, bénéficiant ainsi aux résidents du comté.",
+                    "source_passages": [
+                        "Home This Day In History Good News in History, November 2 65 years ago today, Jersey Joe Walcott, the Hall of Famer heavyweight boxer and three-time organization champ, became the first African American to be elected as a Sheriff in the United States.",
+                        "Elected on Tuesday, November 2 by a two-to-one margin, he ran as a Democrat and said he wanted to use the position to “help people and rehabilitate them.” READ a little more… (1971) Jersey Joe Walcott in 1937.",
+                        "Walcott was sheriff of Camden County, New Jersey."
+                    ]
+                },
+                {
+                    "sentence": "La photographie associée illustre Jersey Joe Walcott lors d’une apparition télévisée en 1962, avant son engagement politique.",
+                    "source_passages": [
+                        "Home This Day In History Good News in History, November 2 65 years ago today, Jersey Joe Walcott, the Hall of Famer heavyweight boxer and three-time organization champ, became the first African American to be elected as a Sheriff in the United States."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        }
+    ]
+}
