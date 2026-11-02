@@ -1,0 +1,380 @@
+{
+    "schema_version": 1,
+    "articles": [
+        {
+            "id": "decouverte-dc318c1c13745f3c06988e7b",
+            "subject_id": "news-17a57ef256194700974c2d056dd9a38b",
+            "collected_at": "2026-11-02T06:00:19+00:00",
+            "sources": [
+                {
+                    "label": "Positive News · publié le 2026-10-30",
+                    "url": "https://www.positive.news/society/good-news-stories-from-week-44-of-2026/"
+                }
+            ],
+            "source_sha256": "43c9b45139a96740b32033d86e914f06658bacf0b4e3a765725fae10f41373fa",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Tamshiyacu_Tahuayo_Regional_Conservation_Area_Iquitos_Amazon_Rainforest_Peru.jpg",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "original_sha1": "d9118745ecf4eca2cb4502927c88ee79e52117d0",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La réélection du président brésilien Luiz Inácio Lula da Silva a permis de consolider les mesures de protection de la forêt amazonienne, avec une réduction de la déforestation de 29 % durant son précédent mandat.",
+                "beneficiaries": "La forêt amazonienne et les communautés indigènes qui en dépendent ainsi que le climat mondial."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "La récente élection présidentielle brésilienne a vu le retour au pouvoir de Luiz Inácio Lula da Silva, qui avait déjà engagé des actions pour protéger l’Amazonie.",
+                    "source_passages": [
+                        "What went right this week: the good news that matters There was renewed hope for the Amazon rainforest, a groundbreaking vaccine showed promise for skin cancer survivors, and the UK government closed a nicotine loophole, plus more good news Words by Robin Eveleigh October 30, 2026 Energy Environment Innovation Politics Society World Share: There was renewed hope for the Amazon rainforest, a groundbreaking vaccine showed promise for skin cancer survivors, and the UK government closed a nicotine loophole, plus more good news This week’s good news roundup An election win inspired optimism for the world’s largest rainforest Environmentalists and climate activists have hailed the re-election of Brazilian president Luiz Inácio Lula da Silva as a hopeful moment for the Amazon rainforest and Indigenous communities.",
+                        "The left-wing president, better known as Lula, defeated his far-right rival, Flávio Bolsonaro, in a dramatic comeback after trailing in the first round of voting."
+                    ]
+                },
+                {
+                    "sentence": "Sous son mandat précédent, des politiques de conservation avaient permis une baisse de 29 % de la déforestation par rapport à la période antérieure.",
+                    "source_passages": [
+                        "New conservation measures introduced under his last presidency helped reduce deforestation by 29%, compared to rates seen during his predecessor’s time in office, according to analysis by the University of Cambridge."
+                    ]
+                },
+                {
+                    "sentence": "Cette réélection renouvelle l’espoir pour la forêt tropicale et les populations indigènes qui y vivent.",
+                    "source_passages": [
+                        "What went right this week: the good news that matters There was renewed hope for the Amazon rainforest, a groundbreaking vaccine showed promise for skin cancer survivors, and the UK government closed a nicotine loophole, plus more good news Words by Robin Eveleigh October 30, 2026 Energy Environment Innovation Politics Society World Share: There was renewed hope for the Amazon rainforest, a groundbreaking vaccine showed promise for skin cancer survivors, and the UK government closed a nicotine loophole, plus more good news This week’s good news roundup An election win inspired optimism for the world’s largest rainforest Environmentalists and climate activists have hailed the re-election of Brazilian president Luiz Inácio Lula da Silva as a hopeful moment for the Amazon rainforest and Indigenous communities.",
+                        "Lula’s win has been met with relief and renewed optimism among campaigners, although they caution that challenges remain.",
+                        "Luiza Rabelo, political advisor at the international NGO, Forests of the World, said it was “a beacon of hope for the Amazon and the global climate."
+                    ]
+                },
+                {
+                    "sentence": "Toutefois, des obstacles subsistent, notamment la pression exercée par le Congrès, toujours influencé par des intérêts opposés à la protection environnementale.",
+                    "source_passages": [
+                        "Greenpeace Brazil said Lula’s re-election was “important for the whole world,” but warned that strong right-wing influence in Brazil’s National Congress continued to threaten environmental protections."
+                    ]
+                },
+                {
+                    "sentence": "Le contexte appelle à un soutien international accru afin de maintenir et d’amplifier ces avancées environnementales.",
+                    "source_passages": [
+                        "Meanwhile, Anders Haug Larsen, director of international advocacy at Rainforest Foundation Norway, called on Lula’s international allies to back his Amazon mission: “Hope is a scarce commodity these days.",
+                        "The international community must grasp this opportunity to strengthen efforts towards zero deforestation in the Amazon.",
+                        "Lula’s government is facing a more hostile Congress than previously, making international support even more crucial.” Image: Ildo Frazao London said goodbye to cars on Oxford Street One of the world’s most iconic shopping streets took a step towards a greener, more people-friendly future this week as part of ‘transformational’ plans to attract more visitors, create jobs and boost growth in the UK capital."
+                    ]
+                },
+                {
+                    "sentence": "L’effort a déjà entraîné un recul de la déforestation, calculé par l’université de Cambridge, un indicateur concret de ces progrès.",
+                    "source_passages": [
+                        "New conservation measures introduced under his last presidency helped reduce deforestation by 29%, compared to rates seen during his predecessor’s time in office, according to analysis by the University of Cambridge."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-0bfb5ecc1333e5af9438d54b",
+            "subject_id": "news-45c3417fb9024ed3070f694f739056a9",
+            "collected_at": "2026-11-02T06:01:22+00:00",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-01",
+                    "url": "https://www.goodnewsnetwork.org/high-school-fills-football-field-with-groceries-for-nj-food-banks/"
+                }
+            ],
+            "source_sha256": "d986c96f6e5302e2f2ad3a141d5b0f353217ee355945e55e2c5bf5f05d96a333",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:November_15,_2012_Volunteers_at_the_Food_Bank_of_Delaware_sort_through_donations._(8266408915).jpg",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "5afd617b94ff6205e20d562ba63dc1c286e7c0d8",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Plus de 250 000 livres d'aliments ont été collectées lors de la 2e édition du défi 100-Yard Food Drive Challenge à Howell High School, permettant de réapprovisionner 30 banques alimentaires dans le New Jersey.",
+                "beneficiaries": "Les familles en situation d'insécurité alimentaire dans tout l'État du New Jersey bénéficient des dons distribués par les banques alimentaires partenaires."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Des centaines d’élèves du New Jersey ont rassemblé plus de 250 000 livres de denrées lors de la deuxième édition du 100-Yard Food Drive Challenge.",
+                    "source_passages": [
+                        "Football field full of food bank donations in New Jersey – Credit: Tommy Pantaleo for Dermer Dreams Hundreds of New Jersey students collected over a quarter million pounds of food during the second annual 100-Yard Food Drive Challenge last week."
+                    ]
+                },
+                {
+                    "sentence": "L’intégralité du terrain de football de Howell High School a été couverte de sacs de dons jaunes, preuve de l’ampleur de la mobilisation.",
+                    "source_passages": [
+                        "Thousands of bright yellow donation bags covered Howell High School’s football field from end zone to end zone—with the extraordinary effort marking the largest food drive in the nonprofit Dermer Dreams’ history."
+                    ]
+                },
+                {
+                    "sentence": "Cette initiative organisée par l’association Dermer Dreams a permis de collecter et de distribuer ces aliments à 30 banques alimentaires d’État.",
+                    "source_passages": [
+                        "“All the food collected is now at 30 food banks and will help families across the state.” The Howell High School football team joined volunteers to carry all the bags to rented trucks for transporting to food bank partners, including Lunch Break, Fulfill, Howell Food Bank, and Open Door in Freehold."
+                    ]
+                },
+                {
+                    "sentence": "L’action a réuni écoles, entreprises, familles et bénévoles, soulignant une dynamique collective efficace face à l’insécurité alimentaire locale.",
+                    "source_passages": [
+                        "What began with students collecting food in their neighborhoods grew into a powerful demonstration of community generosity, uniting schools, businesses, families, and volunteers across New Jersey."
+                    ]
+                },
+                {
+                    "sentence": "Les joueurs de l’équipe de football du lycée ont participé physiquement au transport des denrées vers les camions, facilitant leur acheminement aux bénéficiaires.",
+                    "source_passages": [
+                        "“All the food collected is now at 30 food banks and will help families across the state.” The Howell High School football team joined volunteers to carry all the bags to rented trucks for transporting to food bank partners, including Lunch Break, Fulfill, Howell Food Bank, and Open Door in Freehold.",
+                        "Howell HS football players help with food bank donations in NJ – Credit: Tommy Pantaleo / Dermer Dreams Field of Dreams “Every bag represents a young person who chose to make a difference in someone’s life,” said Dan’s wife Alyse, who also works with the nonprofit started in 2019 when the New York City-raised property manager moved to New Jersey."
+                    ]
+                },
+                {
+                    "sentence": "Il s’agit de l’une des plus importantes collectes jamais réalisées par cette organisation centrée sur l’engagement jeune pour la solidarité.",
+                    "source_passages": [
+                        "Thousands of bright yellow donation bags covered Howell High School’s football field from end zone to end zone—with the extraordinary effort marking the largest food drive in the nonprofit Dermer Dreams’ history.",
+                        "Howell HS football players help with food bank donations in NJ – Credit: Tommy Pantaleo / Dermer Dreams Field of Dreams “Every bag represents a young person who chose to make a difference in someone’s life,” said Dan’s wife Alyse, who also works with the nonprofit started in 2019 when the New York City-raised property manager moved to New Jersey."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-eb2e4e9fe6856e9997a1a9c3",
+            "subject_id": "news-8a4d93c8659c5373cb12f722b01fefb0",
+            "collected_at": "2026-11-02T06:01:41+00:00",
+            "sources": [
+                {
+                    "label": "Good Good Good · publié le 2026-10-31",
+                    "url": "https://www.goodgoodgood.co/articles/top-good-news-stories-october-2026-instagram"
+                }
+            ],
+            "source_sha256": "7c992f81e47dc79c599e486cdbaa3ec761c18e881d9bcb85d227bbc0aa43a025",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:%22INDIAN_LAND_SCANDAL%22_native_american_in_art,_from-_Bob_Satterfield_cartoon_about_Uncle_Sam%27s_1903_Christmas_presents_(cropped).jpg",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "21d076121e6a975f798ce606effe6769ae8f0242",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "11 000 acres de terres ancestrales ont été restituées à la tribu Penobscot dans le Maine, marquant la première étape d'un transfert total prévu de 30 000 acres.",
+                "beneficiaries": "la tribu Penobscot et ses membres"
+            },
+            "fact_checks": [
+                {
+                    "sentence": "La tribu amérindienne Penobscot a récemment récupéré 11 000 acres de ses terres ancestrales dans le Maine, suite à un achat réalisé par l’association Trust for Public Land.",
+                    "source_passages": [
+                        "11,000 acres of ancestral homeland were just returned to a Native tribe in Maine177,435 views · 12,577 likes · 2,011 shares · 464 savesImage: Chris Bennett/Trust for Public LandThe first phase in what will be one of the largest land returns between a U.S.",
+                        "nonprofit and tribal nation, the Penobscot Nation will receive a total 30,000 acres.Maine’s Penobscot Nation just received 11,000 acres of its ancestral homeland, the first phase in a land transfer that will eventually return around 30,000 acres to the tribal nation.When the swath of land initially came up for sale, the Trust for Public Land purchased it with the goal of returning it to the tribe."
+                    ]
+                },
+                {
+                    "sentence": "Cette initiative constitue la première phase d’un transfert plus vaste, qui portera au total à environ 30 000 acres la surface de terres restituées à la tribu.",
+                    "source_passages": [
+                        "11,000 acres of ancestral homeland were just returned to a Native tribe in Maine177,435 views · 12,577 likes · 2,011 shares · 464 savesImage: Chris Bennett/Trust for Public LandThe first phase in what will be one of the largest land returns between a U.S.",
+                        "nonprofit and tribal nation, the Penobscot Nation will receive a total 30,000 acres.Maine’s Penobscot Nation just received 11,000 acres of its ancestral homeland, the first phase in a land transfer that will eventually return around 30,000 acres to the tribal nation.When the swath of land initially came up for sale, the Trust for Public Land purchased it with the goal of returning it to the tribe."
+                    ]
+                },
+                {
+                    "sentence": "Ce retour progressif s'inscrit dans l’un des plus grands transferts de terrain entre une organisation à but non lucratif américaine et une nation tribale.",
+                    "source_passages": [
+                        "11,000 acres of ancestral homeland were just returned to a Native tribe in Maine177,435 views · 12,577 likes · 2,011 shares · 464 savesImage: Chris Bennett/Trust for Public LandThe first phase in what will be one of the largest land returns between a U.S.",
+                        "nonprofit and tribal nation, the Penobscot Nation will receive a total 30,000 acres.Maine’s Penobscot Nation just received 11,000 acres of its ancestral homeland, the first phase in a land transfer that will eventually return around 30,000 acres to the tribal nation.When the swath of land initially came up for sale, the Trust for Public Land purchased it with the goal of returning it to the tribe."
+                    ]
+                },
+                {
+                    "sentence": "La restitution de ces terres reconnecte ainsi la communauté Penobscot à son territoire historique.",
+                    "source_passages": [
+                        "11,000 acres of ancestral homeland were just returned to a Native tribe in Maine177,435 views · 12,577 likes · 2,011 shares · 464 savesImage: Chris Bennett/Trust for Public LandThe first phase in what will be one of the largest land returns between a U.S.",
+                        "nonprofit and tribal nation, the Penobscot Nation will receive a total 30,000 acres.Maine’s Penobscot Nation just received 11,000 acres of its ancestral homeland, the first phase in a land transfer that will eventually return around 30,000 acres to the tribal nation.When the swath of land initially came up for sale, the Trust for Public Land purchased it with the goal of returning it to the tribe."
+                    ]
+                },
+                {
+                    "sentence": "Un jalon concret marque cette avancée : l’acquisition initiale des 11 000 acres, achevée grâce au soutien du Trust for Public Land.",
+                    "source_passages": [
+                        "11,000 acres of ancestral homeland were just returned to a Native tribe in Maine177,435 views · 12,577 likes · 2,011 shares · 464 savesImage: Chris Bennett/Trust for Public LandThe first phase in what will be one of the largest land returns between a U.S.",
+                        "nonprofit and tribal nation, the Penobscot Nation will receive a total 30,000 acres.Maine’s Penobscot Nation just received 11,000 acres of its ancestral homeland, the first phase in a land transfer that will eventually return around 30,000 acres to the tribal nation.When the swath of land initially came up for sale, the Trust for Public Land purchased it with the goal of returning it to the tribe."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-7ce328a986dd4d9b1df10129",
+            "subject_id": "news-b363188280e2ff58a6668c251875af6e",
+            "collected_at": "2026-11-02T06:01:53+00:00",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-10-30",
+                    "url": "https://www.goodnewsnetwork.org/best-spud-harvest-in-a-decade-clears-the-gloom-of-crops-failing-from-scorching-summer/"
+                }
+            ],
+            "source_sha256": "6e9cdd234e35d6dc030d3659017a253a843c551736f6502318d1820edfd644cb",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:JEW_WORKERS_HARVESTING_POTATOES_IN_AN_AGRICULTURAL_FIELD_IN_KFAR_SABA._%D7%A4%D7%95%D7%A2%D7%9C%D7%99%D7%9D_%D7%99%D7%94%D7%95%D7%93%D7%99%D7%9D_%D7%A2%D7%95%D7%91%D7%93%D7%99%D7%9D_%D7%91%D7%90%D7%A1%D7%99%D7%A3_%D7%AA%D7%A4%D7%95%D7%97%D7%99_%D7%90%D7%93%D7%9E%D7%94,_%D7%91%D7%A9%D7%93%D7%94_%D7%97%D7%A7%D7%9C%D7%90%D7%99_%D7%91%D7%9B%D7%A4%D7%A8_%D7%A1%D7%91%D7%90.D623-004.jpg",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "50b43f1ebc9cb6715451f2f5ec938c9f15ac7e05",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La récolte de pommes de terre à Hokkaido a atteint son meilleur niveau depuis dix ans, avec un volume estimé à 250 000 tonnes, égalant ainsi les quotas habituels.",
+                "beneficiaries": "Les agriculteurs de la région d'Hokkaido au Japon et, plus largement, le secteur agricole nippon bénéficient de cette production renforcée malgré un climat mondial difficile."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "En 2026, l'île japonaise de Hokkaido a produit 250 000 tonnes de pommes de terre, soit son meilleur résultat en une décennie.",
+                    "source_passages": [
+                        "Major potato product manufacturer Calbee estimates it will reach its previously usual quotas of 250,000 tons of Hokkaido potatoes, a figure that can help the mind comprehend the scope of this potato typhoon.",
+                        "The combination of all these factors meant that for the region which produces 80% of all Japan’s potatoes, it was the best year in a decade, and reminiscent of the recent “potato flood” in Germany, where millions of these vegetables had to be simply given away to whoever wanted them."
+                    ]
+                },
+                {
+                    "sentence": "Cette performance contraste avec les difficultés agricoles mondiales liées à la chaleur et à la sécheresse, notamment en France et en Italie.",
+                    "source_passages": [
+                        "Across the world, rising summer temperatures and extended droughts have battered traditional agricultural powerhouses like southern France and northern Italy.",
+                        "Amid a summer of crop failures, a spud-tacular potato harvest in Japan showed that banner years are still in the almanac even as climate uncertainty continues to make farming more challenging."
+                    ]
+                },
+                {
+                    "sentence": "La région a en effet bénéficié d'une combinaison favorable de températures modérées et de précipitations régulières.",
+                    "source_passages": [
+                        "A potato industry outlet reports that the ideal mixture of temperatures and rainfall means that Japan’s northern island of Hokkaido is virtually the only region across the Northern Hemisphere that’s increased its production."
+                    ]
+                },
+                {
+                    "sentence": "Par exemple, Sapporo a connu seulement quatre jours au-dessus de 30 °C, contre seize l'année précédente.",
+                    "source_passages": [
+                        "Yet this year, the island’s capital of Sapporo experienced only 4 days above 86°F, compared to 16 such days last year."
+                    ]
+                },
+                {
+                    "sentence": "Ce contexte a permis aux tubercules de se former de manière plus dense et sphérique, tout en améliorant leur conservation.",
+                    "source_passages": [
+                        "Faster and more significant cooling over autumn meant the beloved tubers formed denser, more spherical shapes, while also making the ground firmer for machinery to drive over.",
+                        "These cooler temperatures also help improve the potatoes’ storage and shelf life."
+                    ]
+                },
+                {
+                    "sentence": "L'absence d'intempéries majeures a facilité le travail mécanique dans les champs, contribuant à cette réussite pour ce territoire qui produit 80 % des pommes de terre japonaises.",
+                    "source_passages": [
+                        "RESILIENT AG: This Year’s Nice Rice Price Marks an 18-year Low Amid a Doubling of Per-Acre Yield Furthermore, Hokkaido didn’t experience any deluges that can lead to outbreaks of pests or diseases and render fields impassable for tractors and the like.",
+                        "The combination of all these factors meant that for the region which produces 80% of all Japan’s potatoes, it was the best year in a decade, and reminiscent of the recent “potato flood” in Germany, where millions of these vegetables had to be simply given away to whoever wanted them."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-99d8060b8a7dd54c922dc1f4",
+            "subject_id": "source-eb23aac709af8e465ebf2a30e8864188",
+            "collected_at": "2026-11-02T06:02:28+00:00",
+            "sources": [
+                {
+                    "label": "NOAA · How do people use kelp?",
+                    "url": "https://oceanservice.noaa.gov/facts/pplkelp.html"
+                }
+            ],
+            "source_sha256": "47b8a8f693df897b913eb0cbb90c8fb3dc910021bea8a15ca746764312df667d",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Flickr_-_Saeima_-_Muzeju_nakts_Saeim%C4%81_(56).jpg",
+            "image_license": "CC BY-SA 2.0 · https://creativecommons.org/licenses/by-sa/2.0/",
+            "original_sha1": "905b39512d242291aa443655ebf9538e0ef41a34",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "L’exploitation raisonnée des forêts de varech permet de fournir un ingrédient naturel, l’alginate, utilisé dans divers produits alimentaires et cosmétiques.",
+                "beneficiaries": "Les producteurs aquacoles, les industries alimentaires et cosmétiques, ainsi que les écosystèmes marins liés aux forêts de varech."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Dans plusieurs régions côtières, les forêts de varech sont exploitées pour obtenir l’alginate, un agent émulsifiant et liant extrait de ces algues.",
+                    "source_passages": [
+                        "Algin, an emulsifying and bonding agent, is extracted from kelp and used in these products."
+                    ]
+                },
+                {
+                    "sentence": "Ce composé naturel entre dans la fabrication de nombreux produits, comme les dentifrices, shampooings, desserts et même certains médicaments.",
+                    "source_passages": [
+                        "Kelp is used to make many products: toothpastes, shampoos, salad dressings, puddings, cakes, dairy products, frozen foods, and even pharmaceuticals.",
+                        "Algin, an emulsifying and bonding agent, is extracted from kelp and used in these products."
+                    ]
+                },
+                {
+                    "sentence": "L’aquaculture de varech s’appuie souvent sur des fermes utilisant des ressources marines déjà présentes, intégrant ainsi cette culture dans les systèmes locaux.",
+                    "source_passages": [
+                        "Kelp farms allow growers to make use of existing aquaculture resources in their areas."
+                    ]
+                },
+                {
+                    "sentence": "Par ailleurs, les forêts de varech constituent un habitat clé, abritant de nombreuses espèces marines allant des poissons aux mammifères marins.",
+                    "source_passages": [
+                        "Kelp forests are extremely biologically productive habitats for a huge range of sea creatures including fish, urchins, sea otters, sea lions, and even some whales."
+                    ]
+                },
+                {
+                    "sentence": "Leur maintien, souvent assuré par des zones marines protégées surveillées scientifiquement, est essentiel pour équilibrer les écosystèmes côtiers tout en soutenant des activités économiques durables.",
+                    "source_passages": [
+                        "Today, many kelp forests are located in marine protected areas and are studied by NOAA scientists."
+                    ]
+                },
+                {
+                    "sentence": "Cette double fonction écologique et économique illustre le mécanisme par lequel la gestion raisonnée des varechs profite à la fois à la nature et aux filières humaines.",
+                    "source_passages": [
+                        "Because of this, kelp forests are critical for fishing and recreation industries."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-fdd19eaf762e7271c3153e3d",
+            "subject_id": "Q242176",
+            "collected_at": "2026-11-02T06:02:35+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Yaku-shima",
+                    "url": "https://fr.wikipedia.org/wiki/Yaku-shima"
+                }
+            ],
+            "source_sha256": "e9406fbc73190a54e9af2e601d59f3b66efc0df4e1b1a5feadc9b386472d6a36",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Yakushima.jpg",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "1a199342d87ccfb2181484fcbc28cfd2651e22f5",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Depuis 1980, Yakushima est reconnue réserve de biosphère par l'Unesco, et depuis 2012, une partie de l'île bénéficie de la protection d'un parc national.",
+                "beneficiaries": "Les écosystèmes naturels de l'île, ainsi que les habitants du bourg de Yakushima et de l’île voisine Kuchinoerabu-jima."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Située au sud de Kyūshū, l'île Yakushima s'étend sur 505 km² et héberge environ 13 000 habitants.",
+                    "source_passages": [
+                        "Yaku-shima (屋久島, Yakushima, île Yaku) est une île de l’archipel Ōsumi, située au sud de Kyūshū au Japon, dépendant de la préfecture de Kagoshima.",
+                        "== Géographie == De forme pentagonale, la superficie d'Yaku-shima est de 505 km2.",
+                        "On y trouve le bourg de Yakushima, peuplé de 13 000 habitants, dont dépend également la centaine d'habitants de Kuchinoerabu-jima."
+                    ]
+                },
+                {
+                    "sentence": "Sa reconnaissance comme réserve de biosphère par l'Unesco depuis 1980 témoigne d'une volonté de préserver sa riche biodiversité.",
+                    "source_passages": [
+                        "== Environnement == === Réserve de biosphère === Yakushima est désignée réserve de biosphère par l'Unesco en 1980."
+                    ]
+                },
+                {
+                    "sentence": "En renforçant cette protection, un parc national a été établi sur l'île en 2012.",
+                    "source_passages": [
+                        "=== Parc national === Yakushima est protégée par un parc national depuis 2012."
+                    ]
+                },
+                {
+                    "sentence": "Ces statuts protègent notamment les forêts anciennes et les écosystèmes insulaires.",
+                    "source_passages": [
+                        "== Environnement == === Réserve de biosphère === Yakushima est désignée réserve de biosphère par l'Unesco en 1980.",
+                        "=== Parc national === Yakushima est protégée par un parc national depuis 2012."
+                    ]
+                },
+                {
+                    "sentence": "L'île est accessible rapidement depuis Kagoshima, par hydroptère ou avion, facilitant ainsi la gestion et la fréquentation raisonnée du site tout en limitant l'impact humain.",
+                    "source_passages": [
+                        "=== Climat === == Moyens d'accès == Les deux moyens les plus rapides pour accéder à cette île sont : l'hydroptère Boeing Jetfoil nommé toppī — jeu de mots avec poisson volant en japonais — qui met environ deux heures (à une vitesse de croisière de 80 km/h) de Kagoshima à l'un des deux ports desservis sur l'île : Miyanoura (宮之浦) au nord ou Anbō (安房) à l'est ; l'avion, par la JAC, filiale de la JAL desservant les îles, à partir de l'aéroport de Kagoshima.",
+                        "Il faut compter quarante minutes d'avion."
+                    ]
+                },
+                {
+                    "sentence": "En 2023, la partie nord-ouest de Yakushima est également reconnue comme site Ramsar, soulignant l'importance de ses zones humides pour la conservation.",
+                    "source_passages": [
+                        "=== Site Ramsar === La partie nord-ouest de l'île constitue un site Ramsar..."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        }
+    ]
+}
