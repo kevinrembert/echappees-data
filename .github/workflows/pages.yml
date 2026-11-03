@@ -2,7 +2,7 @@ name: Publier les données sur GitHub Pages
 on:
   push:
     branches: [main]
-    paths: ['data/**', 'site/**', '.github/workflows/pages.yml']
+    paths: ['data/**', 'index.html', 'assets/**', 'contact/**', 'legal/**', '_config.yml', '.github/workflows/pages.yml']
   workflow_dispatch:
   workflow_call:
 permissions:
@@ -35,7 +35,7 @@ jobs:
         run: |
           mkdir -p _site/data
           cp -a data/. _site/data/
-          cp -a site/. _site/
+          cp -a index.html assets contact legal _site/
           touch _site/.nojekyll
       - uses: actions/upload-pages-artifact@56afc609e74202658d3ffba0e8f6dda462b719fa # v3
         with:

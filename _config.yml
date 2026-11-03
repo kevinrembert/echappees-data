@@ -1,0 +1,4 @@
+exclude:
+  - generator
+  - README.md
+  - _site
