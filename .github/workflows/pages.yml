@@ -2,7 +2,7 @@ name: Publier les données sur GitHub Pages
 on:
   push:
     branches: [main]
-    paths: ['data/**', '.github/workflows/pages.yml']
+    paths: ['data/**', 'site/**', '.github/workflows/pages.yml']
   workflow_dispatch:
   workflow_call:
 permissions:
@@ -31,10 +31,11 @@ jobs:
         run: php generator/cli.php validate
       - id: pages
         uses: actions/configure-pages@983d7736d9b0ae728b81ab479565c72886d7745b # v5
-      - name: Préparer uniquement les données publiques
+      - name: Préparer le site et les données publiques
         run: |
           mkdir -p _site/data
           cp -a data/. _site/data/
+          cp -a site/. _site/
           touch _site/.nojekyll
       - uses: actions/upload-pages-artifact@56afc609e74202658d3ffba0e8f6dda462b719fa # v3
         with:
