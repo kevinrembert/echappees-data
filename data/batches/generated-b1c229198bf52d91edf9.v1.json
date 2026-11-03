@@ -1,0 +1,83 @@
+{
+    "schema_version": 1,
+    "id": "generated-b1c229198bf52d91edf9",
+    "version": "1",
+    "articles": [
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-1cb3b2972ecfda701f5dcb75",
+            "title": "Un bond du nombre de naissances pour les baleines franches de l’Atlantique Nord en Floride",
+            "body": "Chaque année sur Amelia Island, en Floride, un festival souligne le retour migratoire des baleines franches de l’Atlantique Nord vers leurs sites de reproduction subtropicaux. Cette saison a enregistré le plus grand nombre de naissances de baleineaux depuis 2009, indiquant une légère hausse de la population de cette espèce menacée. Avec moins de 70 femelles reproductrices restantes, cette amélioration concerne directement les mères et leurs petits, essentiels à la survie de l’espèce. Le festival, mêlant ateliers éducatifs et rencontres avec des spécialistes, promeut la protection locale de ces mammifères marins. Le programme pour enfants encourage les gestes concrets pour limiter les déchets marins et naviguer de manière responsable, contribuant ainsi à cet équilibre fragile.",
+            "category": "Initiatives positives",
+            "location": "Amelia Island, Floride, États-Unis",
+            "image_description": "Vertèbre ankylosée d'une baleine franche de l’Atlantique Nord récupérée dans la Tamise à Greenwich.",
+            "image_caption": "Photo documentaire d’une vertèbre ankylosée de baleine franche de l’Atlantique Nord, illustration générale de l’espèce lors du festival d’Amelia Island.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/6fa71df0cbb4456315217559a1d1eb320f21ded37fbd6d685f0474b9fb89d924.jpg",
+            "image_credit": "Brutal Deluxe · Initially on en.wikipedia, which stated : Brutal Deluxe created this work entirely by myself. · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:North_Atlantic_right_whale_Ankylosis_Picture_0119.jpg",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-02",
+                    "url": "https://www.goodnewsnetwork.org/whale-festival-to-kick-off-amelia-island-in-florida-to-celebrate-the-return-of-the-right-whale/"
+                }
+            ],
+            "subject_id": "news-a68334f1ac78e7f8569f894221abca4d",
+            "published_at": "2026-11-03",
+            "country": "Monde",
+            "source_published_at": "2026-11-02"
+        },
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "daily",
+            "id": "decouverte-b5653fe2a33a1e93833bf391",
+            "title": "Quel rôle jouent les phytoplanctons dans les écosystèmes marins ?",
+            "body": "Les phytoplanctons sont des algues microscopiques qui vivent en surface des océans, où la lumière pénètre. Comme les plantes terrestres, ils photosynthétisent grâce à la chlorophylle et utilisent des nutriments inorganiques pour produire des protéines, lipides et glucides. Ils forment la base de plusieurs réseaux alimentaires aquatiques, fournissant de la nourriture à une diversité d'organismes marins tels que crevettes, escargots ou méduses. Leur mobilité varie selon les groupes : les dinoflagellés peuvent se déplacer avec un flagelle, tandis que les diatomées dérivent avec les courants marins. Cette production primordiale maintient l'équilibre de l'écosystème, à condition que la croissance reste contrôlée pour éviter la prolifération nocive des algues.",
+            "category": "Nature et animaux",
+            "location": "Monde",
+            "image_description": "Image satellite natural-color montrant un panache de phytoplanctons et de fumée près de l'île de Cape Barren en Australie, capturée par le satellite Suomi NPP.",
+            "image_caption": "Illustration documentaire générale : phytoplanctons visibles depuis l'espace près de Cape Barren Island, Australie, image NASA Suomi NPP.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/60b35da0d97fdecd5bd2ddc7d2e864c4bfed1a5b56c915ee128012f2b7da51c8.jpg",
+            "image_credit": "NASA Goddard Space Flight Center from Greenbelt, MD, USA · NASA Spots an \"Eye\" of Smoke and Phytoplankton near Cape Barren Island · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:NASA_Spots_an_%22Eye%22_of_Smoke_and_Phytoplankton_near_Cape_Barren_Island_(31382679142).jpg",
+            "sources": [
+                {
+                    "label": "NOAA · What are phytoplankton?",
+                    "url": "https://oceanservice.noaa.gov/facts/phyto.html"
+                }
+            ],
+            "subject_id": "source-0e9deba963d337f11e6915270a5e74ea",
+            "published_at": "2026-11-03",
+            "country": "Monde"
+        },
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "daily",
+            "id": "decouverte-7b1ee2c62391d4efa117f3da",
+            "title": "Sintra : un équilibre protégé entre nature et patrimoine reconnu par l’UNESCO",
+            "body": "Située à 25 km au nord-ouest de Lisbonne, Sintra rassemble autour de ses quelque 33 000 habitants un territoire enrichi par vingt divisions administratives, dont la plus peuplée compte plus de 66 000 habitants. Depuis 1995, la ville bénéficie d’un classement UNESCO, témoignant de l’harmonie entre son paysage naturel et son héritage culturel. Une histoire humaine qui remonte au Néolithique, avec une occupation attestée sur le site du château Maure, illustre la permanence de cette relation entre l’humain et l’environnement. Cette protection du paysage culturel s’appuie sur une coexistence entre sites archéologiques, édifices historiques et espaces naturels, situation qui profite à la communauté locale et renforce l’attractivité touristique de Sintra. La tour néo-manueline de l’hôtel de ville incarne cette tradition architecturale liée à l’histoire du lieu.",
+            "category": "Villages et villes",
+            "location": "Sintra, Portugal",
+            "image_description": "Tour néo-manueline du bâtiment abritant l’hôtel de ville de Sintra, Portugal",
+            "image_caption": "Illustration documentaire : tour néo-manueline de l’hôtel de ville de Sintra, photo Wikimedia Commons",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/2def4e893120f5cd2c541391be6d65fd873fdc8573180fb1fe7a0192c81abbc9.jpg",
+            "image_credit": "Alvesgaspar · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Sintra_February_2015-4a.jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Sintra",
+                    "url": "https://fr.wikipedia.org/wiki/Sintra"
+                }
+            ],
+            "subject_id": "Q190187",
+            "published_at": "2026-11-03",
+            "country": "Portugal"
+        }
+    ]
+}

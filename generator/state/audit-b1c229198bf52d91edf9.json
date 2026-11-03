@@ -1,0 +1,183 @@
+{
+    "schema_version": 1,
+    "articles": [
+        {
+            "id": "decouverte-1cb3b2972ecfda701f5dcb75",
+            "subject_id": "news-a68334f1ac78e7f8569f894221abca4d",
+            "collected_at": "2026-11-03T06:46:11+00:00",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-02",
+                    "url": "https://www.goodnewsnetwork.org/whale-festival-to-kick-off-amelia-island-in-florida-to-celebrate-the-return-of-the-right-whale/"
+                }
+            ],
+            "source_sha256": "45a00d7b343b67924bc76892d8a26d2061d475c46f44e721fd71388560f5f889",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:North_Atlantic_right_whale_Ankylosis_Picture_0119.jpg",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "5041e15e859451de7093a131674559504965d3a5",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Le nombre de baleineaux de baleines franches de l’Atlantique Nord n’a jamais été aussi élevé depuis 2009 sur la côte sud-est des États-Unis.",
+                "beneficiaries": "Les baleines franches de l’Atlantique Nord, en particulier les mères et leurs petits dans leur zone de mise bas."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Chaque année sur Amelia Island, en Floride, un festival souligne le retour migratoire des baleines franches de l’Atlantique Nord vers leurs sites de reproduction subtropicaux.",
+                    "source_passages": [
+                        "Northeast Florida’s barrier island describes itself as a natural gem, and a great excuse to visit is happening this weekend in the form of the annual Right Whale Festival.",
+                        "Held every year since 2009, it celebrates the moment on the calendar when one of the largest whale species migrates back south to its subtropical breeding grounds."
+                    ]
+                },
+                {
+                    "sentence": "Cette saison a enregistré le plus grand nombre de naissances de baleineaux depuis 2009, indiquant une légère hausse de la population de cette espèce menacée.",
+                    "source_passages": [
+                        "“With fewer than 70 reproductive females remaining, we have an incredible responsibility to protect the mothers and calves right here in our backyard.” Munday is right to highlight the whale’s precarious existence, but as GNN has reported, the creature has demonstrated slow growth in its population numbers.",
+                        "For example, this year’s calving season along the southeast coastline of America has seen the most North Atlantic right whale calves born in a single year since 2009."
+                    ]
+                },
+                {
+                    "sentence": "Avec moins de 70 femelles reproductrices restantes, cette amélioration concerne directement les mères et leurs petits, essentiels à la survie de l’espèce.",
+                    "source_passages": [
+                        "“The North Atlantic right whale is facing extinction, and our Southeast coast is their only known calving ground,” said Cheryl Munday, Right Whale Festival Coordinator.",
+                        "“With fewer than 70 reproductive females remaining, we have an incredible responsibility to protect the mothers and calves right here in our backyard.” Munday is right to highlight the whale’s precarious existence, but as GNN has reported, the creature has demonstrated slow growth in its population numbers."
+                    ]
+                },
+                {
+                    "sentence": "Le festival, mêlant ateliers éducatifs et rencontres avec des spécialistes, promeut la protection locale de ces mammifères marins.",
+                    "source_passages": [
+                        "Kicking off Friday morning on Fernandina Beach’s Main Beach Park and running through the end of Sunday, the festival combines conservation education with family-friendly activities, live entertainment.",
+                        "It also offers visitors a chance to connect directly with experts working to protect marine wildlife through workshops from the organizers Clearwater Marine Aquarium and the National Oceanic and Atmospheric Administration."
+                    ]
+                },
+                {
+                    "sentence": "Le programme pour enfants encourage les gestes concrets pour limiter les déchets marins et naviguer de manière responsable, contribuant ainsi à cet équilibre fragile.",
+                    "source_passages": [
+                        "This year’s children’s program features a special Right Whale Festival Passport, encouraging young visitors to explore exhibits, interact with conservation organizations, and discover fascinating facts about right whales and their habitat.",
+                        "Children will learn how they can help protect marine mammals through everyday actions, including reducing marine debris, practicing responsible boating and sharing conservation messages with others."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-b5653fe2a33a1e93833bf391",
+            "subject_id": "source-0e9deba963d337f11e6915270a5e74ea",
+            "collected_at": "2026-11-03T06:47:17+00:00",
+            "sources": [
+                {
+                    "label": "NOAA · What are phytoplankton?",
+                    "url": "https://oceanservice.noaa.gov/facts/phyto.html"
+                }
+            ],
+            "source_sha256": "e80f35d1791f105b62c80aa9fefc05023048d6a2cded76ee4d3d512ea97dfbd1",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:NASA_Spots_an_%22Eye%22_of_Smoke_and_Phytoplankton_near_Cape_Barren_Island_(31382679142).jpg",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "6cb43f02c7573f93a4b37260276fb8d40fac0ded",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Des phytoplanctons microscopiques, base de la chaîne alimentaire marine, continuent de soutenir un large éventail d'espèces marines en convertissant la lumière solaire et les nutriments en matière organique.",
+                "beneficiaries": "De nombreuses espèces marines, notamment crevettes, escargots et méduses, ainsi que l'ensemble de la vie marine dépendant de cette alimentation."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Les phytoplanctons sont des algues microscopiques qui vivent en surface des océans, où la lumière pénètre.",
+                    "source_passages": [
+                        "Phytoplankton are microscopic marine algae.",
+                        "Most phytoplankton are buoyant and float in the upper part of the ocean, where sunlight penetrates the water."
+                    ]
+                },
+                {
+                    "sentence": "Comme les plantes terrestres, ils photosynthétisent grâce à la chlorophylle et utilisent des nutriments inorganiques pour produire des protéines, lipides et glucides.",
+                    "source_passages": [
+                        "Phytoplankton, also known as microalgae, are similar to terrestrial plants in that they contain chlorophyll and require sunlight in order to live and grow.",
+                        "Phytoplankton also require inorganic nutrients such as nitrates, phosphates, and sulfur which they convert into proteins, fats, and carbohydrates."
+                    ]
+                },
+                {
+                    "sentence": "Ils forment la base de plusieurs réseaux alimentaires aquatiques, fournissant de la nourriture à une diversité d'organismes marins tels que crevettes, escargots ou méduses.",
+                    "source_passages": [
+                        "Phytoplankton is the base of several aquatic food webs.",
+                        "In a balanced ecosystem, they provide food for a wide range of sea creatures.",
+                        "In a balanced ecosystem, phytoplankton provide food for a wide range of sea creatures including shrimp, snails, and jellyfish."
+                    ]
+                },
+                {
+                    "sentence": "Leur mobilité varie selon les groupes : les dinoflagellés peuvent se déplacer avec un flagelle, tandis que les diatomées dérivent avec les courants marins.",
+                    "source_passages": [
+                        "The two main classes of phytoplankton are dinoflagellates and diatoms.",
+                        "Dinoflagellates use a whip-like tail, or flagella, to move through the water and their bodies are covered with complex shells.",
+                        "Diatoms also have shells, but they are made of a different substance and their structure is rigid and made of interlocking parts.",
+                        "Diatoms do not rely on flagella to move through the water and instead rely on ocean currents to travel through the water."
+                    ]
+                },
+                {
+                    "sentence": "Cette production primordiale maintient l'équilibre de l'écosystème, à condition que la croissance reste contrôlée pour éviter la prolifération nocive des algues.",
+                    "source_passages": [
+                        "In a balanced ecosystem, they provide food for a wide range of sea creatures.",
+                        "In a balanced ecosystem, phytoplankton provide food for a wide range of sea creatures including shrimp, snails, and jellyfish.",
+                        "When too many nutrients are available, phytoplankton may grow out of control and form harmful algal blooms (HABs)."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-7b1ee2c62391d4efa117f3da",
+            "subject_id": "Q190187",
+            "collected_at": "2026-11-03T06:47:23+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Sintra",
+                    "url": "https://fr.wikipedia.org/wiki/Sintra"
+                }
+            ],
+            "source_sha256": "22c72fbd338ed15df1fd99f260a9d091947f13f9ab3946d4c0e2212025ef700a",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Sintra_February_2015-4a.jpg",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "original_sha1": "512f7286d7832868093a1950160f58731c9e4426",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La coexistence maitrisée entre le patrimoine bâti remarquable et un environnement naturel préservé à Sintra.",
+                "beneficiaries": "les habitants de Sintra, les visiteurs, et l’écosystème local"
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Située à 25 km au nord-ouest de Lisbonne, Sintra rassemble autour de ses quelque 33 000 habitants un territoire enrichi par vingt divisions administratives, dont la plus peuplée compte plus de 66 000 habitants.",
+                    "source_passages": [
+                        "Sintra (anciennement Cintra) est une ville et un municipio portugais située à 25 km au nord-ouest de Lisbonne dans le district de Lisbonne (région du Grand Lisbonne).",
+                        "La population de la ville est de 33 000 habitants, celle du municipio (commune ou municipalité) est de 377 835 habitants.",
+                        "Sintra est le deuxième « município » le plus peuplé du Portugal et comprend dans son territoire 20 freguesia dont la plus peuplée est celle de Algueirão-Mem Martins avec 66 250 habitants."
+                    ]
+                },
+                {
+                    "sentence": "Depuis 1995, la ville bénéficie d’un classement UNESCO, témoignant de l’harmonie entre son paysage naturel et son héritage culturel.",
+                    "source_passages": [
+                        "L’harmonie parfaite entre la nature et le patrimoine de la ville a conduit l’UNESCO à classer la ville au Patrimoine Culturel de l’Humanité, dans la catégorie paysage culturel, en 1995."
+                    ]
+                },
+                {
+                    "sentence": "Une histoire humaine qui remonte au Néolithique, avec une occupation attestée sur le site du château Maure, illustre la permanence de cette relation entre l’humain et l’environnement.",
+                    "source_passages": [
+                        "== Histoire == === Préhistoire === Le Monument préhistorique de Praia das Maçãs Le site du château Maure surplombant la ville est occupée depuis au moins le Néolithique."
+                    ]
+                },
+                {
+                    "sentence": "Cette protection du paysage culturel s’appuie sur une coexistence entre sites archéologiques, édifices historiques et espaces naturels, situation qui profite à la communauté locale et renforce l’attractivité touristique de Sintra.",
+                    "source_passages": [
+                        "L’harmonie parfaite entre la nature et le patrimoine de la ville a conduit l’UNESCO à classer la ville au Patrimoine Culturel de l’Humanité, dans la catégorie paysage culturel, en 1995."
+                    ]
+                },
+                {
+                    "sentence": "La tour néo-manueline de l’hôtel de ville incarne cette tradition architecturale liée à l’histoire du lieu.",
+                    "source_passages": [
+                        "Sintra (anciennement Cintra) est une ville et un municipio portugais située à 25 km au nord-ouest de Lisbonne dans le district de Lisbonne (région du Grand Lisbonne)."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        }
+    ]
+}
