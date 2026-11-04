@@ -1,0 +1,83 @@
+{
+    "schema_version": 1,
+    "id": "generated-063e28f9cb6418bab63d",
+    "version": "1",
+    "articles": [
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-daf39c26fd2ed09b237b92a6",
+            "title": "Un étudiant crée un chocolat 100 % britannique pour promouvoir la culture locale de cacao",
+            "body": "À l'Université de Reading, une étudiante en master a confectionné six tablettes de chocolat entièrement réalisées avec du cacao cultivé dans les serres universitaires, ainsi qu'avec du lait et du sucre produits au Royaume-Uni. Ce projet s'inscrit dans les efforts de l'International Cocoa Quarantine Centre pour développer des variétés de cacaoyers capables de résister aux effets du changement climatique, aux maladies et aux ravageurs. Les plants sont cultivés en quarantaine, ce qui garantit l'absence de maladies, puis envoyés à des instituts de recherche internationaux pour améliorer la productivité des cultures chez les petits exploitants. Cette démarche illustre une adaptation concrète aux défis actuels de la filière cacao face aux variations climatiques et aux risques sanitaires.",
+            "category": "Initiatives positives",
+            "location": "Reading, Royaume-Uni",
+            "image_description": "Photographie ancienne montrant la fabrication de chocolat dans une usine américaine, image d'illustration générale.",
+            "image_caption": "Illustration documentaire générale. Préparation du chocolat dans une usine à Brooklyn, photo d'archive illustrant le processus de fabrication (source Wikimedia Commons).",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/2fafb7521d7941ca7704b419e2b6fdeb32f2f35c0826b917191487ead22bba15.jpg",
+            "image_credit": "Unknown authorUnknown author or not provided · U.S. National Archives and Records Administration · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Industries_of_War_-_Candy_-_MAKING_CHOCOLATE_FOR_THE_AMERICAN_SOLIDER._Mixing_Cocoa_at_the_Pirika_chocolate_Company_Plant_in_Brooklyn_-_NARA_-_31486470.jpg",
+            "sources": [
+                {
+                    "label": "Positive News · publié le 2026-11-04",
+                    "url": "https://www.positive.news/society/who-needs-a-golden-ticket-the-race-to-future-proof-chocolate/"
+                }
+            ],
+            "subject_id": "news-f3428284b3c9e74044fc673e053d0924",
+            "published_at": "2026-11-04",
+            "country": "Monde",
+            "source_published_at": "2026-11-04"
+        },
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "daily",
+            "id": "decouverte-61d31f6d08a3fa4437c88d90",
+            "title": "Le plancton, une ressource naturelle clé pour la biodiversité marine",
+            "body": "Le plancton, regroupant phytoplancton et zooplancton, est indispensable à la vie marine. Sa distribution varie selon la proximité des terres et des apports nutritifs, particulièrement importants près des embouchures fluviales, où sa concentration est notablement élevée. Cette abondance favorise la richesse des peuplements de poissons, base essentielle des chaînes alimentaires marines. Outre son rôle de nourriture, le plancton agit comme un fertilisant naturel, stimulateur de la production océanique. Cette cartographie mondiale du plancton, réalisée à partir d’images satellites, permet de mieux cibler les zones nécessitant une attention pour préserver cet équilibre fragile. Ce détail concret éclaire l’importance de la gestion locale des écosystèmes côtiers, où le maintien des flux naturels contribue à la santé du milieu marin.",
+            "category": "Nature et animaux",
+            "location": "Monde",
+            "image_description": "Carte schématique illustrant l’abondance planctonique mondiale dans les océans, basée sur une image extraite d’un ouvrage scientifique.",
+            "image_caption": "Illustration documentaire générale de la répartition mondiale du plancton, indicateur de la richesse des poissons et des écosystèmes marins. Wikimedia Commons",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/e5a9aa3cc52b84d7cd5e20dbee40deb74f2f3e9de794ad52660dbecf74d8148c.jpg",
+            "image_credit": "KVDP · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:World_plankton_prevailence.PNG",
+            "sources": [
+                {
+                    "label": "NOAA · What are plankton?",
+                    "url": "https://oceanservice.noaa.gov/facts/plankton.html"
+                }
+            ],
+            "subject_id": "source-59bb4f376808b02cb6b0e0966ef8d56c",
+            "published_at": "2026-11-04",
+            "country": "Monde"
+        },
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "daily",
+            "id": "decouverte-9021f3388971fb80c8d242c8",
+            "title": "Le monastère des Hiéronymites, un témoignage préservé des explorations portugaises",
+            "body": "Situé à Lisbonne dans le quartier de Belém, le monastère des Hiéronymites illustre le style manuélin et symbolise la richesse née des grandes explorations portugaises. Édifié au début du XVIe siècle à l’initiative du roi Manuel Ier, ce monastère a d’abord reposé sur un ermitage dédié à la Vierge de Bethléem. Sa construction, appuyée par une bulle papale dès 1496, visait à accueillir les religieux de l’ordre de Saint-Jérôme. Aujourd’hui, ce site conserve un patrimoine historique précieux, servant de point de repère culturel à Lisbonne et attirant de nombreux visiteurs intéressés par cette époque et ce style artistique particulier. Son emplacement, au bord du fleuve Tage, accentue son lien avec l’histoire maritime du Portugal.",
+            "category": "Histoire et patrimoine",
+            "location": "Lisbonne, Portugal",
+            "image_description": "Vue extérieure du monastère des Hiéronymites à Lisbonne, représentation architecturale majeure du style manuélin.",
+            "image_caption": "Illustration générale : Le monastère des Hiéronymites à Lisbonne, monument emblématique du Portugal, Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/d6d924400cb221263ee6e44b7ccdc86f059cd60abf13226b2a0b92194040999f.jpg",
+            "image_credit": "Holger Uwe Schmitt · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:1502_legte_K%C3%B6nig_Manuel_I._den_Grundstein_f%C3%BCr_das_Hieronymus_Kloster_in_Lissabon._06.jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Monastère des Hiéronymites",
+                    "url": "https://fr.wikipedia.org/wiki/Monast%C3%A8re_des_Hi%C3%A9ronymites"
+                }
+            ],
+            "subject_id": "Q272781",
+            "published_at": "2026-11-04",
+            "country": "Portugal"
+        }
+    ]
+}

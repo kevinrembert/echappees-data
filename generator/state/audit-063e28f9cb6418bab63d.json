@@ -1,0 +1,187 @@
+{
+    "schema_version": 1,
+    "articles": [
+        {
+            "id": "decouverte-daf39c26fd2ed09b237b92a6",
+            "subject_id": "news-f3428284b3c9e74044fc673e053d0924",
+            "collected_at": "2026-11-04T16:19:20+00:00",
+            "sources": [
+                {
+                    "label": "Positive News · publié le 2026-11-04",
+                    "url": "https://www.positive.news/society/who-needs-a-golden-ticket-the-race-to-future-proof-chocolate/"
+                }
+            ],
+            "source_sha256": "85642b3affa3ed494206136ed6708b1946e7946a96b0fad714f101f997e8445e",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Industries_of_War_-_Candy_-_MAKING_CHOCOLATE_FOR_THE_AMERICAN_SOLIDER._Mixing_Cocoa_at_the_Pirika_chocolate_Company_Plant_in_Brooklyn_-_NARA_-_31486470.jpg",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "235b699a4733889f5d8ee03b9e0ff1749433f204",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La production de chocolat 100 % issu de fèves de cacao cultivées au Royaume-Uni montre que la culture locale de cacao est réalisable et soutient la recherche sur des variétés résistantes au changement climatique.",
+                "beneficiaries": "les agriculteurs de cacao et les chercheurs impliqués dans le développement de cultures durables, ainsi que les consommateurs intéressés par un chocolat produit localement et durablement."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "À l'Université de Reading, une étudiante en master a confectionné six tablettes de chocolat entièrement réalisées avec du cacao cultivé dans les serres universitaires, ainsi qu'avec du lait et du sucre produits au Royaume-Uni.",
+                    "source_passages": [
+                        "Her name is Maha Khan and she’s made a chocolate bar entirely from British-grown ingredients, right down to the cocoa beans themselves.",
+                        "Khan is a master’s student studying food security at the University of Reading (UoR), with a focus on chocolate and the increasingly precarious livelihoods of cocoa growers.",
+                        "Khan harvested cocoa pods from UoR’s greenhouses and used British-made milk and sugar to craft a strictly limited run of just six chocolate bars, named The Reading 100 in honour of the university’s centenary.",
+                        "“It’s great to be the person who joined the dots.” Maha Khan has made a chocolate bar entirely from British-grown ingredients."
+                    ]
+                },
+                {
+                    "sentence": "Ce projet s'inscrit dans les efforts de l'International Cocoa Quarantine Centre pour développer des variétés de cacaoyers capables de résister aux effets du changement climatique, aux maladies et aux ravageurs.",
+                    "source_passages": [
+                        "The university is home to the International Cocoa Quarantine Centre (ICQC), a safe haven of more than 300 types of cocoa plants, shielded from the pests and diseases found in the world’s cocoa-growing regions.",
+                        "The ICQC has a hand in helping cocoa regions rise to these new challenges.",
+                        "Plants are nurtured in its greenhouses under quarantine for two years to ensure they are free of disease.",
+                        "Its scientists can control temperature, water and CO2 availability to simulate current and possible future climatic conditions and explore which varieties thrive."
+                    ]
+                },
+                {
+                    "sentence": "Les plants sont cultivés en quarantaine, ce qui garantit l'absence de maladies, puis envoyés à des instituts de recherche internationaux pour améliorer la productivité des cultures chez les petits exploitants.",
+                    "source_passages": [
+                        "The university is home to the International Cocoa Quarantine Centre (ICQC), a safe haven of more than 300 types of cocoa plants, shielded from the pests and diseases found in the world’s cocoa-growing regions.",
+                        "The ICQC has a hand in helping cocoa regions rise to these new challenges.",
+                        "Plants are nurtured in its greenhouses under quarantine for two years to ensure they are free of disease.",
+                        "Its scientists can control temperature, water and CO2 availability to simulate current and possible future climatic conditions and explore which varieties thrive.",
+                        "Cuttings are then sent to other research institutes around the world, where they can be used in breeding programmes to develop cocoa plants with higher yields and better tolerance to climate change and pests.",
+                        "“This material ends up in the hands of the smallholder farmers to use and improve their productivity as they mitigate all the challenges of cocoa growing,” Khan said."
+                    ]
+                },
+                {
+                    "sentence": "Cette démarche illustre une adaptation concrète aux défis actuels de la filière cacao face aux variations climatiques et aux risques sanitaires.",
+                    "source_passages": [
+                        "Image: University of Reading But there’s more to Khan’s stunt than a bit of confectionery kudos: in recent years, extreme heat in cocoa-growing regions has led to stunted plants and poor harvests, sending prices skyrocketing.",
+                        "West Africa produces around two-thirds of the world’s cocoa, but in some nations, including Ghana, ageing treestock, disease and fertiliser shortages have led to dwindling yields.",
+                        "The ICQC has a hand in helping cocoa regions rise to these new challenges.",
+                        "Cuttings are then sent to other research institutes around the world, where they can be used in breeding programmes to develop cocoa plants with higher yields and better tolerance to climate change and pests.",
+                        "“This material ends up in the hands of the smallholder farmers to use and improve their productivity as they mitigate all the challenges of cocoa growing,” Khan said."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-61d31f6d08a3fa4437c88d90",
+            "subject_id": "source-59bb4f376808b02cb6b0e0966ef8d56c",
+            "collected_at": "2026-11-04T16:19:29+00:00",
+            "sources": [
+                {
+                    "label": "NOAA · What are plankton?",
+                    "url": "https://oceanservice.noaa.gov/facts/plankton.html"
+                }
+            ],
+            "source_sha256": "9895480d67a951f2aa277415f40f4d5ffd39346452110b311e22c7b8f6d67574",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:World_plankton_prevailence.PNG",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "6a92cf7ac771f04e5603fbb0ad4526f986b44699",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La richesse et la distribution mondiale du plancton, notamment près des embouchures des rivières, illustrent son rôle clé dans le soutien des populations de poissons et la fertilisation naturelle des océans.",
+                "beneficiaries": "Les écosystèmes marins et les communautés humaines dépendant des ressources halieutiques bénéficient de cette abondance planctonique."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Le plancton, regroupant phytoplancton et zooplancton, est indispensable à la vie marine.",
+                    "source_passages": [
+                        "But the most basic categories divide plankton into two groups: phytoplankton (plants) and zooplankton (animals).",
+                        "Phytoplankton are microscopic plants, but they play a huge role in the marine food web.",
+                        "Like plants on land, phytoplankton perform photosynthesis to convert the sun’s rays into energy to support them, and they take in carbon dioxide and produce oxygen.",
+                        "Because they need the sun’s energy, phytoplankton are found near the water’s surface."
+                    ]
+                },
+                {
+                    "sentence": "Sa distribution varie selon la proximité des terres et des apports nutritifs, particulièrement importants près des embouchures fluviales, où sa concentration est notablement élevée.",
+                    "source_passages": [
+                        "Plankton are incredibly important to the ocean ecosystem, and very sensitive to changes in their environment, including in the temperature, salinity, pH level, and nutrient concentration of the water."
+                    ]
+                },
+                {
+                    "sentence": "Cette abondance favorise la richesse des peuplements de poissons, base essentielle des chaînes alimentaires marines.",
+                    "source_passages": [
+                        "Most zooplankton eat phytoplankton, and most are, in turn, eaten by larger animals (or by each other).",
+                        "Krill may be the most well-known type of zooplankton; they are a major component of the diet of humpback, right, and blue whales."
+                    ]
+                },
+                {
+                    "sentence": "Outre son rôle de nourriture, le plancton agit comme un fertilisant naturel, stimulateur de la production océanique.",
+                    "source_passages": [
+                        "What are plankton?"
+                    ]
+                },
+                {
+                    "sentence": "Cette cartographie mondiale du plancton, réalisée à partir d’images satellites, permet de mieux cibler les zones nécessitant une attention pour préserver cet équilibre fragile.",
+                    "source_passages": [
+                        "Phytoplankton blooms in the Barents Sea, shown in natural color from NASA's Aqua satellite on July 10, 2014."
+                    ]
+                },
+                {
+                    "sentence": "Ce détail concret éclaire l’importance de la gestion locale des écosystèmes côtiers, où le maintien des flux naturels contribue à la santé du milieu marin.",
+                    "source_passages": [
+                        "Plankton are incredibly important to the ocean ecosystem, and very sensitive to changes in their environment, including in the temperature, salinity, pH level, and nutrient concentration of the water."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-9021f3388971fb80c8d242c8",
+            "subject_id": "Q272781",
+            "collected_at": "2026-11-04T16:19:35+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Monastère des Hiéronymites",
+                    "url": "https://fr.wikipedia.org/wiki/Monast%C3%A8re_des_Hi%C3%A9ronymites"
+                }
+            ],
+            "source_sha256": "22955775092de541e0e771c1de29d9b845f5c73670b9fdb77c90a777bf5174f0",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:1502_legte_K%C3%B6nig_Manuel_I._den_Grundstein_f%C3%BCr_das_Hieronymus_Kloster_in_Lissabon._06.jpg",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "original_sha1": "46d9b311ba3d94896fb8022d5355b247a1b96138",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Le monastère des Hiéronymites est une réalisation architecturale majeure qui reflète la richesse historique des découvertes portugaises et valorise le patrimoine culturel local.",
+                "beneficiaries": "Les visiteurs, les habitants de Lisbonne et les passionnés d'histoire bénéficient de la conservation et de la mise en valeur de ce monument emblématique."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Situé à Lisbonne dans le quartier de Belém, le monastère des Hiéronymites illustre le style manuélin et symbolise la richesse née des grandes explorations portugaises.",
+                    "source_passages": [
+                        "Le monastère des Hiéronymites (en portugais : Mosteiro dos Jerónimos) est un monastère portugais de l'ordre de Saint-Jérôme, témoignage monumental de la richesse des découvertes portugaises à travers le monde.",
+                        "Comme la tour de Belém, il est un exemple significatif du style manuélin."
+                    ]
+                },
+                {
+                    "sentence": "Édifié au début du XVIe siècle à l’initiative du roi Manuel Ier, ce monastère a d’abord reposé sur un ermitage dédié à la Vierge de Bethléem.",
+                    "source_passages": [
+                        "== Histoire == C'est sur l'emplacement d'un ermitage dédié à la vierge de Bethléem (Belém), fondé par Henri le Navigateur, que le roi Manuel Ier entreprend en 1502 (selon l'histoire officielle en remerciement pour le retour de Vasco de Gama de son premier voyage en Inde en août 1499), de bâtir un magnifique monastère destiné aux religieux de l'ordre des Hiéronymites."
+                    ]
+                },
+                {
+                    "sentence": "Sa construction, appuyée par une bulle papale dès 1496, visait à accueillir les religieux de l’ordre de Saint-Jérôme.",
+                    "source_passages": [
+                        "En réalité, la fondation du grand monastère est planifiée avant le départ de Vasco de Gama, puisque la bulle papale autorisant sa construction date du 23 juin 1496."
+                    ]
+                },
+                {
+                    "sentence": "Aujourd’hui, ce site conserve un patrimoine historique précieux, servant de point de repère culturel à Lisbonne et attirant de nombreux visiteurs intéressés par cette époque et ce style artistique particulier.",
+                    "source_passages": [
+                        "Le monastère des Hiéronymites (en portugais : Mosteiro dos Jerónimos) est un monastère portugais de l'ordre de Saint-Jérôme, témoignage monumental de la richesse des découvertes portugaises à travers le monde."
+                    ]
+                },
+                {
+                    "sentence": "Son emplacement, au bord du fleuve Tage, accentue son lien avec l’histoire maritime du Portugal.",
+                    "source_passages": [
+                        "== Situation == Le monastère est situé à l'ouest de Lisbonne au Portugal, dans le quartier de Belém, à l'embouchure du fleuve Tage."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        }
+    ]
+}
