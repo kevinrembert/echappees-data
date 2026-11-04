@@ -1,0 +1,310 @@
+{
+    "schema_version": 1,
+    "articles": [
+        {
+            "id": "decouverte-79b1d5c355d1343b62a83a85",
+            "subject_id": "news-2a4c2058ae1525b376c91b06a19ebf36",
+            "collected_at": "2026-11-04T06:20:20+00:00",
+            "sources": [
+                {
+                    "label": "Positive News · publié le 2026-11-03",
+                    "url": "https://www.positive.news/society/what-if-we-stopped-treating-social-care-like-a-service/"
+                }
+            ],
+            "source_sha256": "5be3f04651afc13ed86bf148e5e996570514a23b9c2b42168f3bf7344ed82bc9",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Village_women_in_a_communal_spirit_prepare_local_animals_feed_for_their_community.jpg",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "original_sha1": "9db2f44d4374ea5717f48e71a4277b43a32022ce",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Le village de Botton a développé un mode de vie communautaire où le soutien social n'est plus une prestation mais une relation partagée, impliquant personnes avec et sans handicap.",
+                "beneficiaries": "Les résidents du village de Botton, notamment les personnes en situation de handicap mental, et les membres de la communauté locale."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Dans le village anglais de Botton, une communauté a instauré un mode de vie fondé sur la coparticipation et la responsabilité partagée, remettant en question la conception traditionnelle des soins sociaux comme un service.",
+                    "source_passages": [
+                        "This village shows the way A village in England has created a social care community based on communal living and shared responsibility.",
+                        "It sparks questions about how social care has historically functioned – and what a brighter future might look like Within an hour of arriving in Botton, a small, picturesque village in the UK’s North York Moors, I was standing in a farm field shovelling hay.",
+                        "Officially Richard was “providing care” and the learning-disabled residents of the community (often referred to as villagers) were “receiving care”, with volunteers helping the co-workers along the way.",
+                        "On the ground, though, I could already see that the structure of the community served to sideline this distinction rather than reinforce it.",
+                        "The entrance to the village of Botton in the North Yorkshire Moors National Park.",
+                        "The Esk Valley Camphill Community, based at Botton Village, is part of the Camphill movement – an international network of communities built on the belief that people with and without learning disabilities can live and work together as genuine community members, rather than as service users and service providers.",
+                        "Watch the trailer Over the following decades it grew into a community of around three to 400 people at its peak.",
+                        "Today, around 120 residents continue this way of life across 19 households, now operating as Esk Valley Camphill Community, one of two organisations based in the village, alongside the Camphill Village Trust."
+                    ]
+                },
+                {
+                    "sentence": "Depuis 1955, ce lieu réunit environ 120 habitants, dont des personnes ayant un handicap mental, qui vivent et travaillent ensemble en tant que membres d’une communauté unie.",
+                    "source_passages": [
+                        "This village shows the way A village in England has created a social care community based on communal living and shared responsibility.",
+                        "The Esk Valley Camphill Community, based at Botton Village, is part of the Camphill movement – an international network of communities built on the belief that people with and without learning disabilities can live and work together as genuine community members, rather than as service users and service providers.",
+                        "Watch the trailer Over the following decades it grew into a community of around three to 400 people at its peak.",
+                        "Today, around 120 residents continue this way of life across 19 households, now operating as Esk Valley Camphill Community, one of two organisations based in the village, alongside the Camphill Village Trust."
+                    ]
+                },
+                {
+                    "sentence": "Plutôt que des relations d’aide formalisées entre soignants et bénéficiaires, ce système favorise l’entraide et les échanges au quotidien.",
+                    "source_passages": [
+                        "Officially Richard was “providing care” and the learning-disabled residents of the community (often referred to as villagers) were “receiving care”, with volunteers helping the co-workers along the way.",
+                        "On the ground, though, I could already see that the structure of the community served to sideline this distinction rather than reinforce it.",
+                        "Image: Thomas Moore On the side where I stayed: care as long-term communal life, in which support grows out of relationships rather than being delivered through them.",
+                        "The Esk Valley Camphill Community, based at Botton Village, is part of the Camphill movement – an international network of communities built on the belief that people with and without learning disabilities can live and work together as genuine community members, rather than as service users and service providers."
+                    ]
+                },
+                {
+                    "sentence": "Cette organisation se distingue d’un modèle professionnel conventionnel en valorisant les interactions humaines dans un cadre communautaire.",
+                    "source_passages": [
+                        "Officially Richard was “providing care” and the learning-disabled residents of the community (often referred to as villagers) were “receiving care”, with volunteers helping the co-workers along the way.",
+                        "On the ground, though, I could already see that the structure of the community served to sideline this distinction rather than reinforce it.",
+                        "Image: Thomas Moore On the side where I stayed: care as long-term communal life, in which support grows out of relationships rather than being delivered through them.",
+                        "The Esk Valley Camphill Community, based at Botton Village, is part of the Camphill movement – an international network of communities built on the belief that people with and without learning disabilities can live and work together as genuine community members, rather than as service users and service providers."
+                    ]
+                },
+                {
+                    "sentence": "L’exemple de Botton illustre une alternative concrète qui modifie le vécu et l’environnement des personnes concernées, au-delà du simple soin formel.",
+                    "source_passages": [
+                        "Officially Richard was “providing care” and the learning-disabled residents of the community (often referred to as villagers) were “receiving care”, with volunteers helping the co-workers along the way.",
+                        "On the ground, though, I could already see that the structure of the community served to sideline this distinction rather than reinforce it.",
+                        "The Esk Valley Camphill Community, based at Botton Village, is part of the Camphill movement – an international network of communities built on the belief that people with and without learning disabilities can live and work together as genuine community members, rather than as service users and service providers."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-6885f3562c6d9c4b8118f477",
+            "subject_id": "news-34f22bf329a5a13eb5584bb17c9d79df",
+            "collected_at": "2026-11-04T06:20:42+00:00",
+            "sources": [
+                {
+                    "label": "CNRS · presse · publié le 2026-10-21",
+                    "url": "https://www.cnrs.fr/fr/presse/transfert-de-technologies-le-cnrs-confirme-son-leadership-parmi-les-institutions-de"
+                }
+            ],
+            "source_sha256": "b2e8188a5f863bee0c51a3f81961da3cf9fee610ee5532ef1838fc361ab4cf1f",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:2019_Patent_Innovation_Entrepreneurship_Rapid_Research_(PIERR)_program.jpg",
+            "image_license": "CC BY 2.0 · https://creativecommons.org/licenses/by/2.0/",
+            "original_sha1": "61b6e0a5c49cb1a221d0b9c1454a60392ccde630",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Le CNRS a maintenu sa position de leader européen en matière de transferts technologiques, avec 729 demandes de brevets déposées en 2025, confirmant son rôle majeur dans l'innovation publique en Europe.",
+                "beneficiaries": "Les chercheurs et laboratoires français, ainsi que le tissu industriel européen, bénéficient de ce dynamisme accru en valorisation des inventions issues de la recherche publique."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "En 2025, le CNRS a de nouveau pris la tête des institutions de recherche publique européennes en nombre de demandes de brevets, avec 729 dépôts selon les données de l’Office européen des brevets.",
+                    "source_passages": [
+                        "© Frédérique PLAS / CNRS Images -A +A Contact(s) CNRS - Service de Presse Partager ce contenu Share on BlueskyPartager sur TwitterShare on LinkedinPartager sur FacebookSend by mailCopier le lien de la page Imprimer Imprimer la page Innovation Institutionnel Transfert de technologies : le CNRS confirme son leadership parmi les institutions de recherche publique européennes en 2025 21 octobre 2026 Institutionnel -A +A Partager ce contenu Share on BlueskyPartager sur TwitterShare on LinkedinPartager sur FacebookSend by mailCopier le lien de la page Le CNRS confirme son rôle clé en matière d’innovation en se classant premier parmi les institutions de recherche publique européennes à l’origine de demandes de brevets en 2025, selon les nouvelles données de l’Office européen des brevets (OEB) parues le 22 octobre 2026.",
+                        "Avec 729 demandes déposées l’an dernier, l’organisme français consolide son leadership historique en matière de transfert de technologies en Europe : le rapport de l’OEB publié en 2025 annonçait déjà sa première place pour les dépôts réalisés entre 2001 et 2020 dans la même catégorie.Le CNRS se distingue particulièrement dans des domaines stratégiques tels que la pharmacie (168, soit 22% du portefeuille)1."
+                    ]
+                },
+                {
+                    "sentence": "Cette performance souligne son engagement soutenu dans le transfert des découvertes scientifiques vers les applications industrielles, particulièrement dans des secteurs stratégiques comme la pharmacie, l’énergie, l’instrumentation et les biotechnologies.",
+                    "source_passages": [
+                        "Avec 729 demandes déposées l’an dernier, l’organisme français consolide son leadership historique en matière de transfert de technologies en Europe : le rapport de l’OEB publié en 2025 annonçait déjà sa première place pour les dépôts réalisés entre 2001 et 2020 dans la même catégorie.Le CNRS se distingue particulièrement dans des domaines stratégiques tels que la pharmacie (168, soit 22% du portefeuille)1.",
+                        "» Consulter le rapport : « Le défi du transfert de technologie en Europe : faire de la recherche un succès commercial » Note1 - Le CNRS se distingue également dans les domaines de l’énergie/machinerie/électricité/appareils (105 demandes, soit 14 % du portefeuille), l’instrumentation (93 demandes, soit 12 %) et les biotechnologies (85 demandes, soit 11 %)."
+                    ]
+                },
+                {
+                    "sentence": "Le CNRS s’appuie sur un portefeuille large de brevets, avec un tiers en copropriété avec des partenaires industriels, renforçant ainsi la collaboration entre recherche publique et entreprises.",
+                    "source_passages": [
+                        "Fort de son engagement historique en faveur de la protection et de la valorisation des inventions de ses laboratoires, le CNRS, via sa filiale CNRS Innovation, s’appuie sur un portefeuille de près de 9 000 familles de brevets en 2025, dont un tiers en copropriété avec des partenaires industriels."
+                    ]
+                },
+                {
+                    "sentence": "Cette dynamique bénéficie à la communauté scientifique française et contribue au développement économique et technologique au sein de l’Europe.",
+                    "source_passages": [
+                        "Par ailleurs, selon l’outil « Deep Tech Finder » de l’OEB, la France se classe au deuxième rang européen pour le nombre de spin-offs issues de la recherche, derrière le Royaume-Uni.Pour Mehdi Gmar, directeur général délégué à l’innovation du CNRS : « Accélérer le transfert des découvertes scientifiques vers les entreprises est aujourd’hui un enjeu majeur pour transformer les connaissances issues de la recherche publique en innovations concrètes.",
+                        "Notre priorité est désormais de renforcer cette dynamique pour amplifier l’impact économique et sociétal de la recherche et contribuer à la souveraineté technologique européenne."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-6c94f7251d0b5fa4ab8c99be",
+            "subject_id": "news-716eac45c9c578646cb6ead586769f97",
+            "collected_at": "2026-11-04T06:21:18+00:00",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-01",
+                    "url": "https://www.goodnewsnetwork.org/housing-nonprofit-funds-16-5-million-in-eviction-relief-for-renters/"
+                }
+            ],
+            "source_sha256": "0ea3144ee91c0a0735e8cad49aca65a7f3f2640b46513bee6a6add6952b20054",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Affordable_Housing_Apartments_Being_Built_on_Canons_Close_-_geograph.org.uk_-_5655170.jpg",
+            "image_license": "CC BY-SA 2.0 · https://creativecommons.org/licenses/by-sa/2.0/",
+            "original_sha1": "2cf8aa7905bb66721e504896d7ec9f6dec0e3494",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Le fonds d’aide aux expulsions lancé par une association à Atlanta a permis de verser plus de 16,5 millions de dollars pour soutenir le paiement des loyers.",
+                "beneficiaries": "Plus de 5 500 familles locataires à Atlanta ont ainsi pu rester dans leur logement malgré des difficultés financières temporaires."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Une organisation d’Atlanta a financé plus de 16,5 millions de dollars d’aide pour éviter les expulsions locatives depuis le début de la pandémie.",
+                    "source_passages": [
+                        "Home All News USA Housing Nonprofit Funds $16.5 Million in Eviction Relief to Assist Renters Kids in the Star-C Program The Atlanta-based nonprofit that launched an Eviction Relief Fund during the COVID pandemic has now assisted over 5,500 families so they could stay in their apartments.",
+                        "What started as a $50,000 GoFundMe campaign has now surpassed $16.5 million for rent payments to help bridge the gap for those in need."
+                    ]
+                },
+                {
+                    "sentence": "La Star-C Program, fondée par une propriétaire d’immeubles abordables, a soutenu plus de 5 500 familles qui rencontrent des difficultés à payer leur loyer.",
+                    "source_passages": [
+                        "Home All News USA Housing Nonprofit Funds $16.5 Million in Eviction Relief to Assist Renters Kids in the Star-C Program The Atlanta-based nonprofit that launched an Eviction Relief Fund during the COVID pandemic has now assisted over 5,500 families so they could stay in their apartments.",
+                        "Marjy Stagmeier, a landlord of affordable housing in the Georgia capital city, is helping ease the burden on tenants through fundraising for the nonprofit she founded, the Star-C Program."
+                    ]
+                },
+                {
+                    "sentence": "Ce fonds ne se limite pas à l’aide financière : il met aussi en relation les locataires avec des programmes pour enfants, des services médicaux ou encore une aide alimentaire.",
+                    "source_passages": [
+                        "But the Eviction Relief Fund also connects tenants with other resources—like after school programs, summer camps, medical services, Cub Scouts, playgrounds, and food assistance."
+                    ]
+                },
+                {
+                    "sentence": "Cette initiative rassemble désormais 330 communautés d’appartements représentant 64 000 logements, avec des bailleurs soucieux de maintenir des loyers accessibles.",
+                    "source_passages": [
+                        "To date, over 330 apartment communities representing 64,000 apartment units have signed into the Star-C platform.",
+                        "Star-C partners with conscientious apartment owners who are committed to keeping rents affordable for families living on incomes at the poverty level or up to 80% of area median income."
+                    ]
+                },
+                {
+                    "sentence": "Son action montre comment un réseau local peut répondre concrètement à la pression croissante sur les ménages modestes face à l’inflation et aux hausses de loyers.",
+                    "source_passages": [
+                        "“While the eviction assistance during COVID was helpful, monthly rent increases and inflation on household essentials have outpaced salary increases, creating a financial burden on tenants who are now making tough choices between food, rent, and utilities.” Stagmeier and her partners studied the eviction crisis in Atlanta and determined lack of payment is not only an income issue."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-d2925edc69b0c0184fdaa5f9",
+            "subject_id": "news-f783331b586f8f046c2d81e560603aee",
+            "collected_at": "2026-11-04T06:21:44+00:00",
+            "sources": [
+                {
+                    "label": "Positive News · publié le 2026-11-02",
+                    "url": "https://www.positive.news/society/the-womens-boxing-nights-helping-abuse-survivors/"
+                }
+            ],
+            "source_sha256": "5322ddc221549f20009ef0dac26cbb3ff08ffc350a79b2609d5153fe189b0209",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Women_boxing.jpg",
+            "image_license": "CC BY 2.0 · https://creativecommons.org/licenses/by/2.0/",
+            "original_sha1": "de7b5f4bf102f65455221ded112968782a9133d5",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Des soirées de boxe féminines ont permis de financer des cours gratuits de boxe pour des femmes ayant subi des violences domestiques, renforçant leur confiance en elles et leur autonomie.",
+                "beneficiaries": "Des femmes survivantes de violences conjugales à Londres ont bénéficié de ces cours gratuits et de la possibilité de s'affronter lors d'événements dédiés."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Depuis quelques années, un programme de boxe réservé aux femmes a offert un nouvel espace de confiance à celles ayant vécu des relations abusives.",
+                    "source_passages": [
+                        "The women’s boxing nights helping abuse survivors A new series of all-female fight nights aims to fund free boxing classes that help women rebuild their confidence after abusive relationships Words by Sarah Keenlyside November 2, 2026 Body & Mind Health Society Share: A new series of all-female fight nights aims to fund free boxing classes that help women rebuild their confidence after abusive relationships “The Fight Forward programme literally saved my life,” explains Saria, 40, raising her voice above the sound of gloves hitting punchbags and fellow boxers chatting at the 12×3 boxing gym in Aldgate, east London.",
+                        "Two years ago, after leaving one abusive relationship and then finding herself in another, Saria was struggling.",
+                        "She signed up for her first boxing camp, run by former Team GB boxer and European gold medallist Lesley Sackey, who had begun offering free classes to survivors of domestic abuse.",
+                        "“Doing that camp gave me the strength to fight for myself in that relationship, to get myself out of it, and to have confidence,” she recalls."
+                    ]
+                },
+                {
+                    "sentence": "Dans un gymnase d'Aldgate, à Londres, près de quarante participantes ont suivi des entraînements gratuits, organisés par Fight Forward CIC et soutenus par des soirées de boxe caritatives.",
+                    "source_passages": [
+                        "The women’s boxing nights helping abuse survivors A new series of all-female fight nights aims to fund free boxing classes that help women rebuild their confidence after abusive relationships Words by Sarah Keenlyside November 2, 2026 Body & Mind Health Society Share: A new series of all-female fight nights aims to fund free boxing classes that help women rebuild their confidence after abusive relationships “The Fight Forward programme literally saved my life,” explains Saria, 40, raising her voice above the sound of gloves hitting punchbags and fellow boxers chatting at the 12×3 boxing gym in Aldgate, east London.",
+                        "She signed up for her first boxing camp, run by former Team GB boxer and European gold medallist Lesley Sackey, who had begun offering free classes to survivors of domestic abuse.",
+                        "﻿﻿﻿﻿ Founded by Sackey alongside three-time national boxing champion Shelly Sweeney and impact media entrepreneur Poppy Mason-Watts, Fight Back Promotions aims to turn ticketed events into a sustainable source of funding for Fight Forward CIC, the not-for-profit organisation behind Saria’s training programme.",
+                        "A quarter of the profits from each event will support Fight Forward’s classes and programmes for women affected by domestic abuse.",
+                        "Image: Fight Back Just fewer than 40 women have now completed the structured boxing programme, with organisers gath 2026-11-02"
+                    ]
+                },
+                {
+                    "sentence": "Ces événements, initiés par Fight Back Promotions, permettent de financer des cours et d'offrir aux femmes l'opportunité de monter sur le ring dans des conditions équitables, tenant compte notamment des spécificités liées au cycle menstruel.",
+                    "source_passages": [
+                        "It will be the inaugural event staged by a new venture called Fight Back Promotions.",
+                        "﻿﻿﻿﻿ Founded by Sackey alongside three-time national boxing champion Shelly Sweeney and impact media entrepreneur Poppy Mason-Watts, Fight Back Promotions aims to turn ticketed events into a sustainable source of funding for Fight Forward CIC, the not-for-profit organisation behind Saria’s training programme.",
+                        "A quarter of the profits from each event will support Fight Forward’s classes and programmes for women affected by domestic abuse.",
+                        "Watch the trailer Serving women better “means taking into account fair matching,” Sackey explains.",
+                        "“It also means allowances around period weight.",
+                        "That’s a massive thing.",
+                        "Boxing is a weight-class sport, and we know that when it’s our cycle, we can put on up to 2kg in water weight.",
+                        "She hopes the first fight night will fund free places for another 40 to 60 women, with the team aiming to stage two events a year."
+                    ]
+                },
+                {
+                    "sentence": "Cette initiative répond à un besoin de justice sportive et sociale, tout en offrant un cadre sécurisant et stimulant, au-delà du seul maintien en forme.",
+                    "source_passages": [
+                        "The women’s boxing nights helping abuse survivors A new series of all-female fight nights aims to fund free boxing classes that help women rebuild their confidence after abusive relationships Words by Sarah Keenlyside November 2, 2026 Body & Mind Health Society Share: A new series of all-female fight nights aims to fund free boxing classes that help women rebuild their confidence after abusive relationships “The Fight Forward programme literally saved my life,” explains Saria, 40, raising her voice above the sound of gloves hitting punchbags and fellow boxers chatting at the 12×3 boxing gym in Aldgate, east London.",
+                        "﻿﻿﻿﻿ Founded by Sackey alongside three-time national boxing champion Shelly Sweeney and impact media entrepreneur Poppy Mason-Watts, Fight Back Promotions aims to turn ticketed events into a sustainable source of funding for Fight Forward CIC, the not-for-profit organisation behind Saria’s training programme.",
+                        "A quarter of the profits from each event will support Fight Forward’s classes and programmes for women affected by domestic abuse.",
+                        "Watch the trailer Serving women better “means taking into account fair matching,” Sackey explains.",
+                        "Meanwhile, the latest figures from the ONS suggest that around one in eight women aged 16 and over in England and Wales experienced domestic abuse, sexual victimisation or stalking in the past year."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-0c970ff67053772ab798efea",
+            "subject_id": "news-938c36019e629d5b2c6ee717ada2dbc0",
+            "collected_at": "2026-11-04T06:21:57+00:00",
+            "sources": [
+                {
+                    "label": "Positive News · publié le 2026-10-26",
+                    "url": "https://www.positive.news/society/free-tool-helps-young-men-to-take-responsibility-for-sexual-harm/"
+                }
+            ],
+            "source_sha256": "328176ab5aeed77d31ca04d6fe9848e5cd254e0fa811ac4d5f9b3bb41a8f401d",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:MU_2160_H_1_-_The_sexual_education_of_the_young_woman_(1).jpg",
+            "image_license": "CC0 · https://creativecommons.org/publicdomain/zero/1.0/",
+            "original_sha1": "325dafec317d343e0b2089f856fc631b673fa013",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Plus de 94 000 jeunes hommes ont utilisé un outil numérique gratuit pour réfléchir à leur comportement sexuel et assumer d’éventuels torts.",
+                "beneficiaries": "Jeunes hommes susceptibles d’avoir causé un préjudice sexuel, grâce à un accompagnement les encourageant à prendre leurs responsabilités et à apprendre à s’excuser."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Lancé il y a six mois, un outil digital nommé Vibe Check accompagne plus de 94 000 jeunes hommes dans le monde, dont nombreux au Royaume-Uni, pour réfléchir à leur comportement sexuel.",
+                    "source_passages": [
+                        "Being open to that reality encourages them to take responsibility and make amends.” More than 94,000 people have used Vibe Check since it launched in April, and the tool’s biggest audience outside of the US is the UK."
+                    ]
+                },
+                {
+                    "sentence": "Développé par SafeBae, ce dispositif ne vise pas les victimes, mais ceux dont le comportement a pu dépasser les limites du consentement.",
+                    "source_passages": [
+                        "Image: SafeBae And while most sexual violence resources are designed with survivors in mind, Vibe Check is built for possible perpetrators, people whose behaviour might have crossed a line, offering a route to reflection and – ultimately – accountability.",
+                        "“With our tool, it’s about holding true: maybe this young person didn’t mean to do harm."
+                    ]
+                },
+                {
+                    "sentence": "Plutôt que d’utiliser l’intelligence artificielle, le programme propose un arbre de décision avec des mises en situation, complété par des exercices issus de la thérapie cognitive comportementale.",
+                    "source_passages": [
+                        "Instead of AI, which research shows often affirms and validates harmful and illegal behaviour, Vibe Check is built around a ‘decision tree’ format, which guides young people through scenarios where they might have violated consent.",
+                        "Exercises based on cognitive behavioural therapy encourage reflection on harmful behaviour, and the tool offers learning around boundaries and making an apology."
+                    ]
+                },
+                {
+                    "sentence": "L’objectif est d’encourager la prise de responsabilité et le dialogue, en proposant notamment une préparation au processus d’excuse ou à une éventuelle procédure disciplinaire.",
+                    "source_passages": [
+                        "Exercises based on cognitive behavioural therapy encourage reflection on harmful behaviour, and the tool offers learning around boundaries and making an apology.",
+                        "Davis said the feedback has been “overwhelmingly positive” in terms of equipping young people with the skills to apologise, own up, or even prepare for a disciplinary process."
+                    ]
+                },
+                {
+                    "sentence": "Ce support offre une alternative aux conseils parfois nuisibles rencontrés sur des forums en ligne, tout en aidant ces jeunes à réintégrer la société de manière constructive.",
+                    "source_passages": [
+                        "Given the rising popularity of the manosphere and those online communities, I knew we had to do something rather quickly.” The result of Davis’ sleepless nights is Vibe Check, a free digital tool that provides an alternative to the harmful advice found either on faceless forums or dished out by AI chatbots.",
+                        "Given the rising popularity of the manosphere and those online communities, I knew we had to do something rather quickly SafeBae now plans to adapt the model for young people who are being sextorted.",
+                        "“It has that same guilt motivation.” Above all, Davis hopes Vibe Check is filling the gap between outright condemnation and denial, giving young people a space to take responsibility – before darker corners of the web teach them otherwise."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        }
+    ]
+}
