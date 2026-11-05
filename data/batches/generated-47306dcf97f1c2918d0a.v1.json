@@ -1,0 +1,135 @@
+{
+    "schema_version": 1,
+    "id": "generated-47306dcf97f1c2918d0a",
+    "version": "1",
+    "articles": [
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-654f72b6f0105dd42e2311f5",
+            "title": "Italie : un recul marqué des homicides, résultat d’une baisse de la violence mafieuse",
+            "body": "En 2023, l’Italie a enregistré l’un des taux d’homicide les plus bas de l’Union européenne, à 0,57 par 100 000 habitants. Ce déclin reflète notamment la chute significative des violences liées aux organisations mafieuses — Cosa Nostra, Camorra et ’Ndrangheta — qui ont vu leur nombre d’homicides diminuer de 80 % depuis 1985. Après des années de violences intenses dans les années 1980-1990, cette évolution marque un net recul des actes criminels graves. La répartition régionale montre que loin des zones rurales du sud les plus touchées, les taux s’égalise désormais sur l’ensemble du territoire. Par ailleurs, d’autres formes de violence, telles que les féminicides, ont également reculé, témoignant d’une amélioration globale de la sécurité intérieure en Italie.",
+            "category": "Initiatives positives",
+            "location": "Italie",
+            "image_description": "Carte du taux de criminalité par région en Italie selon le ministère de l'Intérieur en 2005.",
+            "image_caption": "Carte des taux de criminalité par région en Italie, données du ministère de l’Intérieur, 2005. Illustration documentaire générale.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/718a3fca9b7ee41faa73e92d8302e35bc732db0015c198d6cdbddc65b816ab65.jpg",
+            "image_credit": "Daygum · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Crime_Rate_by_Region_in_Italy.png",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-04",
+                    "url": "https://www.goodnewsnetwork.org/italy-sees-collapse-in-its-homicide-rate-to-3rd-lowest-in-the-eu/"
+                }
+            ],
+            "subject_id": "news-73eaafa1f841daeab0a0eb8dde28dad2",
+            "published_at": "2026-11-05",
+            "country": "Monde",
+            "source_published_at": "2026-11-04"
+        },
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-d727a602264b4c81ae3803d9",
+            "title": "Des étudiants NASA Space Grant amplifient l’innovation en exploration spatiale lors de la tournée américaine",
+            "body": "Lors de sa tournée \"Inspiration Tour\", l’administrateur de la NASA a rencontré de nombreux groupes d’étudiants impliqués dans des programmes Space Grant dans plusieurs universités américaines. Ces étudiants ont présenté des travaux en lien direct avec la NASA, dont des projets de recherche sur des satellites, des technologies CubeSat, et des activités STEM liées aux futures explorations lunaires. La visite a favorisé un dialogue enrichi, donnant aux étudiants l’occasion de s’informer sur les programmes Artemis et de tester leurs compétences dans des projets concrets. Ces échanges soulignent l’importance des collaborations entre universités et agences spatiales pour faire progresser la recherche et préparer la relève professionnelle dans le secteur spatial.",
+            "category": "Sciences",
+            "location": "États-Unis",
+            "image_description": "Carlos Garcia-Galan, adjoint du programme Gateway de la NASA, s’exprime lors du symposium de recherche étudiante du consortium Arizona NASA Space Grant en 2025.",
+            "image_caption": "Illustration documentaire générale montrant une intervention lors du symposium des programmes Space Grant en Arizona. Crédits : NASA Johnson Space Center / Arizona State University/Charlie Leight.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/a86c3ebf786a73c4609dd8aa0c9584924c78f2a5571dcd5e414fb9aca085d0ac.jpg",
+            "image_credit": "NASA Johnson Space Center / Arizona State University/Charlie Leight · This image or video was catalogued by Lyndon B. Johnson Space Center of the United States National Aeronautics and Space Administration (NASA) under Photo ID: jsc2025e042501. · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Gateway%E2%80%99s_Keynote_Address_at_the_2025_Arizona_NASA_Space_Grant_Consortium%27s_Statewide_Student_Research_Symposium_(jsc2025e042501).jpg",
+            "sources": [
+                {
+                    "label": "NASA · publié le 2026-11-04",
+                    "url": "https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour/"
+                }
+            ],
+            "subject_id": "news-c8e96499cc64f9630b45be31853cb924",
+            "published_at": "2026-11-05",
+            "country": "Monde",
+            "source_published_at": "2026-11-04"
+        },
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-4e5182f4b7716401318ad8cd",
+            "title": "Aux États-Unis, des électeurs dépassent les clivages partisans lors des élections de 2026",
+            "body": "Lors des élections intermédiaires de 2026 aux États-Unis, un nombre significatif d’électeurs a voté en dépassant leurs allégeances partisanes habituelles. Dans des États comme le Texas, la Floride ou le Kansas, des jeunes, des Latinos et même des électeurs républicains ont parfois choisi des candidats démocrates. Ce phénomène remet en question l’idée d’un pays trop polarisé pour voir des fluctuations majeures dans les résultats électoraux. Par exemple, au Texas, une mobilisation commune contre un projet de mur frontalier dans le parc national Big Bend a favorisé l’union au-delà des partis. Ces comportements électoraux montrent que les individus peuvent choisir en fonction de leurs convictions plutôt que d’une appartenance fixe. Le taux de participation renforcé a aussi joué un rôle dans ces évolutions.",
+            "category": "Initiatives positives",
+            "location": "États-Unis",
+            "image_description": "Bulletin de vote lors de l’élection parlementaire ukrainienne du 21 juillet 2019, district 219",
+            "image_caption": "Illustration documentaire générale : bulletin de vote lors d’une élection en Ukraine, Wikimedia Commons",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/f3ddd253ee6efaac2203a798a9e3f6588688b7b46f456ebb4dbd7d3b6ba7c2b9.jpg",
+            "image_credit": "Jbuket · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Voting_ballot_in_district_219_of_the_Ukrainian_Parliamentary_Election.jpg",
+            "sources": [
+                {
+                    "label": "Reasons to be Cheerful · publié le 2026-11-04",
+                    "url": "https://reasonstobecheerful.world/midterm-elections-transcend-tribalism/"
+                }
+            ],
+            "subject_id": "news-6c1268f294533562f198d1074a8432b8",
+            "published_at": "2026-11-05",
+            "country": "Monde",
+            "source_published_at": "2026-11-04"
+        },
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "daily",
+            "id": "decouverte-53e5d4ae5cc6dbf0db710ce2",
+            "title": "Les bébés tortues marines éclorent ensemble pour augmenter leurs chances en mer",
+            "body": "Les tortues marines femelles pondent leurs œufs dans le sable chaud des plages, où ils incubent environ 60 jours. À l’éclosion, les petites tortues sortent presque en même temps du nid, phénomène appelé \"turtle boil\", ce qui leur permet de déjouer les prédateurs en masse. Elles se dirigent vers l’océan en suivant la pente de la plage et les reflets de la lune et des étoiles. Cette synchronisation améliore la survie des jeunes tortues face aux oiseaux, renards et autres prédateurs les attendant sur le littoral. Une fois dans l’eau, elles rejoignent les sargasses flottantes où elles passent leurs premières années à se cacher et grandir.",
+            "category": "Nature et animaux",
+            "location": "Plages tropicales du monde",
+            "image_description": "Jeune tortue luth crachant du sable en étant relâchée dans la nature par des conservationnistes, illustrant le début de sa vie marine.",
+            "image_caption": "Photographie documentaire générale d’une tortue luth juvénile relâchée dans la nature – Wikimedia Commons",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/f8388f8f1fb63595bc7090dd2215f152770b9dabddf064405590dae3ebe70407.jpg",
+            "image_credit": "jimmyweee · Look ma, I can fly! · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY 2.0 · https://creativecommons.org/licenses/by/2.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Look_ma,_I_can_fly!_(183138247).jpg",
+            "sources": [
+                {
+                    "label": "NOAA · How do sea turtles hatch?",
+                    "url": "https://oceanservice.noaa.gov/facts/turtle-hatch.html"
+                }
+            ],
+            "subject_id": "source-4c07e7ec172bbd166ab80d83ddf5fcca",
+            "published_at": "2026-11-05",
+            "country": "Monde"
+        },
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "daily",
+            "id": "decouverte-0ee2e1ad1b1bc016580e3d13",
+            "title": "Espelette, un village au cœur du Haut-Labourd préservant son identité basque",
+            "body": "Situé dans les Pyrénées-Atlantiques, Espelette appartient à la région culturelle du Pays basque, plus précisément au Haut-Labourd, une des six zones définies par l'Académie de la langue basque depuis 1999. Sa position frontalière avec l'Espagne et sa proximité avec des villes comme Bayonne ou Cambo-les-Bains en font un village ancré dans un bassin de vie dynamique. Cette situation favorise la continuité des traditions basques et le maintien d’un cadre de vie propre à cette région. Le découpage en zones linguistiques établit un mécanisme de reconnaissance et de valorisation des spécificités locales, participant à la conservation d’une identité marquée par l’histoire et la géographie.",
+            "category": "Villages et villes",
+            "location": "Espelette, France",
+            "image_description": "Vue du château d'Espelette, un édifice historique dans le village",
+            "image_caption": "Une photographie générale du château d'Espelette, illustration documentaire (Crédit A1AA1A, Wikimedia Commons)",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/98817bb08241dd59146a59a9e856fa28977f373ec3f453716e61442cfacbc710.jpg",
+            "image_credit": "A1AA1A · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Espelette_-_Ch%C3%A2teau.jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Espelette",
+                    "url": "https://fr.wikipedia.org/wiki/Espelette"
+                }
+            ],
+            "subject_id": "Q236575",
+            "published_at": "2026-11-05",
+            "country": "France"
+        }
+    ]
+}
