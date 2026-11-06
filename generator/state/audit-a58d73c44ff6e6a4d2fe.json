@@ -1,0 +1,128 @@
+{
+    "schema_version": 1,
+    "articles": [
+        {
+            "id": "decouverte-a4fc25edecc4e0c5f65be7d4",
+            "subject_id": "news-4d52ddd5dbcf9efbfa832d55fd4876aa",
+            "collected_at": "2026-11-06T15:55:39+00:00",
+            "sources": [
+                {
+                    "label": "CNRS · presse · publié le 2026-11-06",
+                    "url": "https://www.cnrs.fr/fr/presse/le-lait-cru-entre-au-patrimoine-culturel-immateriel-de-la-france-une-reconnaissance"
+                }
+            ],
+            "source_sha256": "862587a1d4e3776edf8f92a85ae00364da79061bf58afc3573d30ded7e049eea",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Les_Fr%C3%A8res_Marchand_Raw_Milk_Cheese_from_City_super.jpg",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "original_sha1": "2232fc8e499d318be72885958036e5c5adb8e5ad",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Les savoir-faire liés à la fabrication fromagère au lait cru ont été officiellement reconnus au patrimoine culturel immatériel de la France.",
+                "beneficiaries": "Les producteurs de fromages au lait cru ainsi que leurs communautés, impliqués de l’élevage à la commercialisation, bénéficient de cette reconnaissance."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "En novembre 2026, les pratiques traditionnelles liées à la fabrication fromagère au lait cru ont été inscrites à l’Inventaire national du patrimoine culturel immatériel.",
+                    "source_passages": [
+                        "© Pixabay -A +A Contact(s) CNRS - Service de Presse Service communication EHESS Bureau de presse MNHN Marylène Bezamat Partager ce contenu Share on BlueskyPartager sur TwitterShare on LinkedinPartager sur FacebookSend by mailCopier le lien de la page Imprimer Imprimer la page Télécharger le communiqué de presse (373.27 Ko) Alimentation Société Institutionnel Le lait cru entre au patrimoine culturel immatériel de la France : une reconnaissance historique pour les savoir-faire fromagers 06 novembre 2026 Sociétés -A +A Partager ce contenu Share on BlueskyPartager sur TwitterShare on LinkedinPartager sur FacebookSend by mailCopier le lien de la page Les « Savoir-faire autour des fabrications fromagères au lait cru » sont inscrits à l’Inventaire national du patrimoine culturel immatériel.",
+                        "Cette inscription est l’aboutissement d’une démarche collective initiée en 2020 et portée par Élise Demeulenaere, directrice de recherche du CNRS au Centre Alexandre-Koyré (CNRS/EHESS/MNHN), en collaboration avec le Conseil national des appellations d’origine laitières (CNAOL) et l’ensemble des acteurs mobilisés autour du projet."
+                    ]
+                },
+                {
+                    "sentence": "Ce classement résulte d’un travail collectif engagé dès 2020, impliquant chercheurs, acteurs de la filière et organismes officiels.",
+                    "source_passages": [
+                        "Cette inscription est l’aboutissement d’une démarche collective initiée en 2020 et portée par Élise Demeulenaere, directrice de recherche du CNRS au Centre Alexandre-Koyré (CNRS/EHESS/MNHN), en collaboration avec le Conseil national des appellations d’origine laitières (CNAOL) et l’ensemble des acteurs mobilisés autour du projet."
+                    ]
+                },
+                {
+                    "sentence": "Cette reconnaissance valorise le rôle des producteurs qui assurent la continuité de ces savoir-faire précis, depuis l’élevage des animaux jusqu’à l’affinage et la commercialisation des fromages.",
+                    "source_passages": [
+                        "Une reconnaissance majeure pour les femmes et les hommes qui, de l’élevage à l’affinage et jusqu’à la commercialisation, font vivre et transmettent un patrimoine fromager d’une exceptionnelle richesse."
+                    ]
+                },
+                {
+                    "sentence": "Elle souligne l’importance culturelle et sociale de ces gestes transmis depuis longtemps, tout en offrant un cadre pour leur préservation et leur promotion.",
+                    "source_passages": [
+                        "© Pixabay -A +A Contact(s) CNRS - Service de Presse Service communication EHESS Bureau de presse MNHN Marylène Bezamat Partager ce contenu Share on BlueskyPartager sur TwitterShare on LinkedinPartager sur FacebookSend by mailCopier le lien de la page Imprimer Imprimer la page Télécharger le communiqué de presse (373.27 Ko) Alimentation Société Institutionnel Le lait cru entre au patrimoine culturel immatériel de la France : une reconnaissance historique pour les savoir-faire fromagers 06 novembre 2026 Sociétés -A +A Partager ce contenu Share on BlueskyPartager sur TwitterShare on LinkedinPartager sur FacebookSend by mailCopier le lien de la page Les « Savoir-faire autour des fabrications fromagères au lait cru » sont inscrits à l’Inventaire national du patrimoine culturel immatériel.",
+                        "Une reconnaissance majeure pour les femmes et les hommes qui, de l’élevage à l’affinage et jusqu’à la commercialisation, font vivre et transmettent un patrimoine fromager d’une exceptionnelle richesse."
+                    ]
+                },
+                {
+                    "sentence": "Cette inscription témoigne également de la diversité fromagère française et du lien étroit entre traditions agricoles et alimentation.",
+                    "source_passages": [
+                        "© Pixabay -A +A Contact(s) CNRS - Service de Presse Service communication EHESS Bureau de presse MNHN Marylène Bezamat Partager ce contenu Share on BlueskyPartager sur TwitterShare on LinkedinPartager sur FacebookSend by mailCopier le lien de la page Imprimer Imprimer la page Télécharger le communiqué de presse (373.27 Ko) Alimentation Société Institutionnel Le lait cru entre au patrimoine culturel immatériel de la France : une reconnaissance historique pour les savoir-faire fromagers 06 novembre 2026 Sociétés -A +A Partager ce contenu Share on BlueskyPartager sur TwitterShare on LinkedinPartager sur FacebookSend by mailCopier le lien de la page Les « Savoir-faire autour des fabrications fromagères au lait cru » sont inscrits à l’Inventaire national du patrimoine culturel immatériel.",
+                        "Une reconnaissance majeure pour les femmes et les hommes qui, de l’élevage à l’affinage et jusqu’à la commercialisation, font vivre et transmettent un patrimoine fromager d’une exceptionnelle richesse."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-8936e86d2b032f8775788fa6",
+            "subject_id": "news-3b16679f2e6be889c9686b7ae1a353f1",
+            "collected_at": "2026-11-06T15:55:47+00:00",
+            "sources": [
+                {
+                    "label": "Reasons to be Cheerful · publié le 2026-11-06",
+                    "url": "https://reasonstobecheerful.world/the-spark-community-land-trusts/"
+                }
+            ],
+            "source_sha256": "a5fc00c145cff9adbc36536020fda3c8371fa243060a4499225541dc8e822ea0",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Cwm_Harry_Land_Trust_community_garden_-_geograph.org.uk_-_2706154.jpg",
+            "image_license": "CC BY-SA 2.0 · https://creativecommons.org/licenses/by-sa/2.0/",
+            "original_sha1": "4dbbe8b9944657eb332de8ca1dbcec69e723515c",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La création d'une community land trust a permis à Smoketown, un quartier historique de Louisville, de préserver des logements abordables et d’empêcher la spéculation immobilière.",
+                "beneficiaries": "Les habitants historiques de Smoketown, notamment les résidents de longue date de ce quartier à forte identité culturelle noire."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "À Louisville, dans le quartier de Smoketown, un groupe de résidents a initié la création d’une community land trust (CLT) pour contrer la montée des prix immobiliers et la perte de logements abordables.",
+                    "source_passages": [
+                        "In this issue 🏘️ The power of community land trusts 🧊 Cool roofs, cooler homes 🧓 The perks of intergenerational roommates A community takes back its land In 2019, Nachand Trabue began noticing investors’ “We buy houses” signs all over her corner of Louisville, Kentucky.",
+                        "A historically Black neighborhood since the Civil War, Smoketown has deep roots and a long, proud past — including the city’s first Black library and first Black dentist, and as the birthplace of Muhammed Ali.",
+                        "But increasingly, long-term residents were getting priced out of their own community.",
+                        "For those like Trabue, a fourth-generation resident who remembered Smoketown in its thriving heyday, the change in their community was especially galling.",
+                        "At the same time, “the Smoketown Originals started to come together,” says Boyd, referring to a community organization of older residents with deep roots in the neighborhood.",
+                        "“They went to the churches, the community centers, the youth centers.” They started pushing the city to do a housing needs assessment and got in touch with Grounded Solutions, a national nonprofit for affordable housing, to decide whether a community land trust would be a viable option."
+                    ]
+                },
+                {
+                    "sentence": "Ce modèle consiste à ce qu’une organisation communautaire achète et possède le terrain, tandis que les habitations restent abordables car vendues ou louées sans la hausse du prix du foncier.",
+                    "source_passages": [
+                        "Community land trusts (CLTs) are grassroots nonprofits that provide long-term affordable housing by buying and developing land on behalf of the community.",
+                        "When selling or renting homes, the CLT retains ownership of the land they’re built on, which makes the homes cheaper and keeps the land itself under community control.",
+                        "Crucially, CLTs also preserve affordability long-term by requiring owners to sell at an affordable price."
+                    ]
+                },
+                {
+                    "sentence": "Depuis la formalisation de la CLT en 2023, des premiers logements ont été construits, donnant un contrôle durable à la population locale.",
+                    "source_passages": [
+                        "The CLT’s first houses were recently completed, and more plots have already been chosen.",
+                        "By 2023 the CLT was formalized and Boyd was brought onboard as the executive director."
+                    ]
+                },
+                {
+                    "sentence": "Cette démarche s’est appuyée sur une mobilisation collective du quartier, notamment des anciens résidents mobilisés autour de leur patrimoine et de leur quartier, qui est le berceau de figures historiques telles que Muhammad Ali.",
+                    "source_passages": [
+                        "A historically Black neighborhood since the Civil War, Smoketown has deep roots and a long, proud past — including the city’s first Black library and first Black dentist, and as the birthplace of Muhammed Ali.",
+                        "For those like Trabue, a fourth-generation resident who remembered Smoketown in its thriving heyday, the change in their community was especially galling.",
+                        "At the same time, “the Smoketown Originals started to come together,” says Boyd, referring to a community organization of older residents with deep roots in the neighborhood."
+                    ]
+                },
+                {
+                    "sentence": "Cette action communautaire limite la spéculation et maintient des logements accessibles au bénéfice des habitants historiques.",
+                    "source_passages": [
+                        "But increasingly, long-term residents were getting priced out of their own community.",
+                        "Community land trusts (CLTs) are grassroots nonprofits that provide long-term affordable housing by buying and developing land on behalf of the community.",
+                        "Crucially, CLTs also preserve affordability long-term by requiring owners to sell at an affordable price."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        }
+    ]
+}

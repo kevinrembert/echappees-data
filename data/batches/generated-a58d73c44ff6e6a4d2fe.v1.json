@@ -1,0 +1,59 @@
+{
+    "schema_version": 1,
+    "id": "generated-a58d73c44ff6e6a4d2fe",
+    "version": "1",
+    "articles": [
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-a4fc25edecc4e0c5f65be7d4",
+            "title": "Les fromages au lait cru inscrits au patrimoine culturel immatériel de la France",
+            "body": "En novembre 2026, les pratiques traditionnelles liées à la fabrication fromagère au lait cru ont été inscrites à l’Inventaire national du patrimoine culturel immatériel. Ce classement résulte d’un travail collectif engagé dès 2020, impliquant chercheurs, acteurs de la filière et organismes officiels. Cette reconnaissance valorise le rôle des producteurs qui assurent la continuité de ces savoir-faire précis, depuis l’élevage des animaux jusqu’à l’affinage et la commercialisation des fromages. Elle souligne l’importance culturelle et sociale de ces gestes transmis depuis longtemps, tout en offrant un cadre pour leur préservation et leur promotion. Cette inscription témoigne également de la diversité fromagère française et du lien étroit entre traditions agricoles et alimentation.",
+            "category": "Sciences",
+            "location": "France",
+            "image_description": "Fromage au lait cru de type Mont d'Or AOP présenté dans un supermarché à Hong Kong.",
+            "image_caption": "Fromage Mont d'Or au lait cru, illustration documentaire générale d’un produit concerné par le patrimoine fromager immatériel – photo Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/c02e31bb78db0cc956d6433621b93d259886aa87b1e7c01a6fd9dd8bbcd5260b.jpg",
+            "image_credit": "Peachyeung316 · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Les_Fr%C3%A8res_Marchand_Raw_Milk_Cheese_from_City_super.jpg",
+            "sources": [
+                {
+                    "label": "CNRS · presse · publié le 2026-11-06",
+                    "url": "https://www.cnrs.fr/fr/presse/le-lait-cru-entre-au-patrimoine-culturel-immateriel-de-la-france-une-reconnaissance"
+                }
+            ],
+            "subject_id": "news-4d52ddd5dbcf9efbfa832d55fd4876aa",
+            "published_at": "2026-11-06",
+            "country": "Monde",
+            "source_published_at": "2026-11-06"
+        },
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-8936e86d2b032f8775788fa6",
+            "title": "Smoketown à Louisville : un modèle communautaire pour garder des logements abordables",
+            "body": "À Louisville, dans le quartier de Smoketown, un groupe de résidents a initié la création d’une community land trust (CLT) pour contrer la montée des prix immobiliers et la perte de logements abordables. Ce modèle consiste à ce qu’une organisation communautaire achète et possède le terrain, tandis que les habitations restent abordables car vendues ou louées sans la hausse du prix du foncier. Depuis la formalisation de la CLT en 2023, des premiers logements ont été construits, donnant un contrôle durable à la population locale. Cette démarche s’est appuyée sur une mobilisation collective du quartier, notamment des anciens résidents mobilisés autour de leur patrimoine et de leur quartier, qui est le berceau de figures historiques telles que Muhammad Ali. Cette action communautaire limite la spéculation et maintient des logements accessibles au bénéfice des habitants historiques.",
+            "category": "Initiatives positives",
+            "location": "Louisville, États-Unis",
+            "image_description": "Jardin communautaire géré par une community land trust au Royaume-Uni, exemplaire de ce type de gestion du foncier communautaire",
+            "image_caption": "Jardin communautaire de la community land trust Cwm Harry, illustration documentaire générale du modèle des community land trusts",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/0f06989d798433fb483cbc8ae23f648969347179bfe84f2a7f864360aaeac4f8.jpg",
+            "image_credit": "Penny Mayes · Geograph Britain and Ireland · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 2.0 · https://creativecommons.org/licenses/by-sa/2.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Cwm_Harry_Land_Trust_community_garden_-_geograph.org.uk_-_2706154.jpg",
+            "sources": [
+                {
+                    "label": "Reasons to be Cheerful · publié le 2026-11-06",
+                    "url": "https://reasonstobecheerful.world/the-spark-community-land-trusts/"
+                }
+            ],
+            "subject_id": "news-3b16679f2e6be889c9686b7ae1a353f1",
+            "published_at": "2026-11-06",
+            "country": "Monde",
+            "source_published_at": "2026-11-06"
+        }
+    ]
+}
