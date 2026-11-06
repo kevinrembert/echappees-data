@@ -1,0 +1,161 @@
+{
+    "schema_version": 1,
+    "id": "generated-f0b8e8ee592f94b5f34c",
+    "version": "1",
+    "articles": [
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-79e3c3e385a6a6499f8f1ad9",
+            "title": "Recolonisation des sternes caugek sur la côte sud de l’Angleterre après leur disparition due à la grippe aviaire",
+            "body": "Après l’effondrement de la colonie de sternes caugek à cause de la grippe aviaire en 2022, des actions de protection menées par la Royal Society for the Protection of Birds ont permis un redressement notable. La population est passée de zéro à 756 oiseaux à Pagham, entre Brighton et Southampton. Ces efforts comprennent la mise en place de clôtures anti-prédateurs, la surveillance des rats, et la gestion végétale pour favoriser la nidification. Des patrouilles sensibilisent aussi les visiteurs et encouragent un exercice canin éloigné des sites de reproduction. Parallèlement, plusieurs espèces locales d’oiseaux de rivage bénéficient également de ces mesures dans le cadre du projet Solent Seascape, dédié à la restauration des habitats côtiers sur 128 000 acres.",
+            "category": "Initiatives positives",
+            "location": "Côte sud de l’Angleterre",
+            "image_description": "Sterne caugek (Thalasseus sandvicensis) non reproductrice en vol à Cirkewwa Point, Malte",
+            "image_caption": "Photo documentaire générale : sterne caugek en vol, illustration pour l’article – Wikimedia Commons, Charles J. Sharp",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/ec6d5920942fb7d6ffed23682d12baca6e7e4122f11a9faf0307e22c17c6c415.jpg",
+            "image_credit": "Charles J. Sharp · Own work, from Sharp Photography, sharpphotography.co.uk · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Sandwich_tern_(Thalasseus_sandvicensis)_non_breeding_in_flight_Malta.jpg",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-05",
+                    "url": "https://www.goodnewsnetwork.org/miracle-recovery-sees-seabirds-reclaim-former-colony-after-avian-flu-wiped-them-out/"
+                }
+            ],
+            "subject_id": "news-bfb47fb8550ebc781805021eecf1d50c",
+            "published_at": "2026-11-06",
+            "country": "Monde",
+            "source_published_at": "2026-11-05"
+        },
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-6514ac9b2271454de2e7e743",
+            "title": "Aux États-Unis, des étudiants instaurent un dialogue apaisé pour contrer la polarisation sur les campus",
+            "body": "Face aux tensions sur les campus, des groupes d’étudiants américains ont mis en place des rencontres organisées où chacun peut exprimer ses convictions politiques dans le respect et sans chercher à convaincre à tout prix. À l’Université du Michigan, des débats rassemblent régulièrement des étudiants aux opinions différentes, y compris lors de sujets sensibles. De même, à Columbia, un groupe nouvellement formé a réussi à réunir près de 200 participants autour de discussions sur des questions conflictuelles, malgré l’absence de soutien officiel. Ces espaces favorisent l’écoute et réduisent l’autocensure sur des thèmes comme la religion, le genre ou la race. Fondée en 2017, l’association BridgeUSA compte 146 chapitres qui forment des étudiants à faciliter ces dialogues, proposant une méthode pour contrer la polarisation en milieu universitaire.",
+            "category": "Initiatives positives",
+            "location": "États-Unis",
+            "image_description": "Débat présidentiel étudiant lors des élections du syndicat d’étudiants à l’Université de Warwick en 2012, illustration documentaire générale.",
+            "image_caption": "Débat présidentiel étudiant lors des élections du syndicat d’étudiants à l’Université de Warwick en 2012, illustration documentaire générale Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/80378ea359306b39b82a06e76d850bffc3ecc4ff4f97435f656e6300e73cab18.jpg",
+            "image_credit": "SIBE https://www.flickr.com/photos/studentinteractivebroadcastingentranet · https://www.flickr.com/photos/studentinteractivebroadcastingentranet/6965357239/in/photostream · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY 2.0 · https://creativecommons.org/licenses/by/2.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Piazza_Presidential_Debate,_during_University_of_Warwick_Student_Union_Elections_2012,_a_live_TV_broadcast_by_SIBE.jpg",
+            "sources": [
+                {
+                    "label": "Reasons to be Cheerful · publié le 2026-11-02",
+                    "url": "https://reasonstobecheerful.world/students-addressing-campus-polarization-healthy-debate/"
+                }
+            ],
+            "subject_id": "news-3c7d534d18b6ed3bf4e64176c86c1f68",
+            "published_at": "2026-11-06",
+            "country": "Monde",
+            "source_published_at": "2026-11-02"
+        },
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-f18adbf85b3d81ec565a302d",
+            "title": "Les castors réintroduits dans la région du Loch Ness après cinq siècles d’absence",
+            "body": "Après une pause de près de 500 ans, les castors retrouvent leur place dans le bassin de la rivière Ness, comprenant le célèbre Loch Ness, en Écosse. En octobre, NatureScot a accordé une licence à deux associations pour relâcher jusqu’à quinze familles de castors sur trois ans. L’évaluation a conclu que ces animaux favorisent la biodiversité en développant des milieux humides où d’autres espèces prospèrent, tout en contribuant à réguler les flux d’eau. Plus de 73 % des habitants consultés ont soutenu cette initiative. Les castors proviendront essentiellement de zones écossaises où leur présence impacte négativement l’agriculture, en espérant ainsi un retour durable dans leur habitat historique. Cette réintroduction devrait aussi permettre un équilibre à long terme entre nature et activités humaines dans la région.",
+            "category": "Initiatives positives",
+            "location": "Loch Ness, Écosse",
+            "image_description": "Pont ferroviaire au-dessus de la River Beaver à New Brighton, Pennsylvania, aux États-Unis.",
+            "image_caption": "Illustration documentaire générale. Photographie documentaire générale : le pont ferroviaire de la Beaver River, illustrant le castor, un animal clé pour l’écosystème, Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/4008d0fa0aee1cd90810159f117cfb460d4981fa2302b18bff9661c94ab9c729.jpg",
+            "image_credit": "Jet Lowe · http://lcweb2.loc.gov/pnp/habshaer/pa/pa3700/pa3717/photos/361935pv.jpg · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Beaver_River_RR_Bridge_HAER_PA1.jpg",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-03",
+                    "url": "https://www.goodnewsnetwork.org/loch-ness-is-about-to-welcome-a-new-monster-the-beaver-500-years-since-it-last-lived-there/"
+                }
+            ],
+            "subject_id": "news-6fecf6cfab40324d42661ec39ac358d1",
+            "published_at": "2026-11-06",
+            "country": "Monde",
+            "source_published_at": "2026-11-03"
+        },
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-9c64f260f1826356e27d069e",
+            "title": "Rénovation et réouverture de l’Opéra d’État de Vienne, un symbole culturel préservé",
+            "body": "En 1955, l’Opéra d’État de Vienne a rouvert après avoir été détruit par un bombardement en 1945. La restauration a respecté le style néo-Renaissance original, tout en intégrant des améliorations contemporaines comme un nouveau parquet en bois pour améliorer l’acoustique. Plusieurs éléments historiques ont été sauvegardés, notamment le foyer avec ses fresques et les escaliers principaux, offrant un équilibre entre protection du patrimoine et modernisation. La réouverture s’est faite avec une représentation de \"Fidelio\" de Beethoven, soulignant l’attachement à la grande tradition musicale viennoise. Ce lieu continue d’alimenter la vie culturelle de la ville et de fournir des musiciens à l’Orchestre Philharmonique de Vienne.",
+            "category": "Initiatives positives",
+            "location": "Vienne, Autriche",
+            "image_description": "L’Opéra d’État de Vienne photographié pendant l’heure bleue.",
+            "image_caption": "Vue extérieure de l’Opéra d’État de Vienne, illustration documentaire générale.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/3618c5cb2bacf0cf32ace3d86b7abd3bbc8bbbdf1f242e110e2d3753eb2c6bd2.jpg",
+            "image_credit": "Granada · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:20180109_Vienna_State_Opera_at_blue_hour_850_9387.jpg",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-05",
+                    "url": "https://www.goodnewsnetwork.org/events061105/"
+                }
+            ],
+            "subject_id": "news-f09283f0837f4d5bb0e1e6422802bce3",
+            "published_at": "2026-11-06",
+            "country": "Monde",
+            "source_published_at": "2026-11-05"
+        },
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "daily",
+            "id": "decouverte-7b61fd28d5ce8899460deee2",
+            "title": "Les forêts de varech, forêts océaniques qui abritent une biodiversité foisonnante",
+            "body": "Les forêts de varech sont constituées d’algues brunes géantes qui poussent rapidement dans les eaux côtières froides et peu profondes, pouvant atteindre jusqu’à 45 cm par jour. Ces formations forment des structures semblables à des arbres sous-marins, fournissant à la fois de la nourriture et un refuge sûr à une grande diversité d’espèces marines. De nombreux poissons, invertébrés et mammifères marins, ainsi que des oiseaux, utilisent les frondes épaisses du varech pour se protéger des prédateurs et des tempêtes. Le varech est donc un élément clé de l’écosystème côtier, à la fois abri et garde-manger. La surveillance régulière par les scientifiques permet de suivre l’évolution de ces forêts et d’identifier les changements liés aux facteurs naturels ou humains.",
+            "category": "Nature et animaux",
+            "location": "Monde",
+            "image_description": "Plusieurs poissons vivent parmi les algues de varech dans la réserve marine de la baie de Monterey.",
+            "image_caption": "Illustration documentaire générale : poissons dans une forêt de varech au Monterey Bay National Marine Sanctuary (photo Wikimedia).",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/36a41574449a91b9f169af6cbe74d18acac7c1cafce0b6822d884f131db8845c.jpg",
+            "image_credit": "National Marine Sanctuaries · MBNMS - Fish In Kelp Forest · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:MBNMS_-_Fish_In_Kelp_Forest_(31363169882).jpg",
+            "sources": [
+                {
+                    "label": "NOAA · What is a kelp forest?",
+                    "url": "https://oceanservice.noaa.gov/facts/kelp.html"
+                }
+            ],
+            "subject_id": "source-eafd87c526309b0684558f11092fbeb6",
+            "published_at": "2026-11-06",
+            "country": "Monde"
+        },
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "daily",
+            "id": "decouverte-9e41ed974c0fe95860be1e4c",
+            "title": "Comment la création du CERN a fédéré la recherche européenne en physique des particules",
+            "body": "Au sortir de la Seconde Guerre mondiale, la recherche en physique en Europe était quasiment arrêtée. En 1949, l'idée d'un laboratoire scientifique européen a été proposée pour relancer cette discipline. Cette initiative a abouti, en 1952, à la création du CERN, situé près de Genève, à cheval sur la frontière franco-suisse. Aujourd'hui, le CERN rassemble physiciens et ingénieurs autour d'équipements sophistiqués pour étudier la physique des particules. Son implantation sur plusieurs communes françaises et suisses illustre une coopération transfrontalière concrète. Cette organisation a permis de mutualiser les ressources et expertises, donnant une nouvelle dynamique à la recherche fondamentale en Europe, avec des infrastructures étendues sous plusieurs communes.",
+            "category": "Sciences",
+            "location": "Genève, Suisse et communes françaises proches",
+            "image_description": "Vue aérienne du CERN avec ses infrastructures d'accélérateurs souterrains visibles en surface près de la frontière franco-suisse.",
+            "image_caption": "Photographie documentaire générale du CERN prise depuis les airs, illustration des installations (Crédit : Brücke-Osteuropa, Wikimedia Commons, CC0)",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/5dbf81d36bd1d5fedcc7200d3345aba5c1335fe2d0e4b6be42b391caa7604418.jpg",
+            "image_credit": "Brücke-Osteuropa · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC0 · https://creativecommons.org/publicdomain/zero/1.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:CERN-aerial_1.jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Organisation européenne pour la recherche nucléaire",
+                    "url": "https://fr.wikipedia.org/wiki/Organisation_europ%C3%A9enne_pour_la_recherche_nucl%C3%A9aire"
+                }
+            ],
+            "subject_id": "Q42944",
+            "published_at": "2026-11-06",
+            "country": "Suisse et France"
+        }
+    ]
+}

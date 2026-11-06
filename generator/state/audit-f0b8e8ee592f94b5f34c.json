@@ -1,0 +1,370 @@
+{
+    "schema_version": 1,
+    "articles": [
+        {
+            "id": "decouverte-79e3c3e385a6a6499f8f1ad9",
+            "subject_id": "news-bfb47fb8550ebc781805021eecf1d50c",
+            "collected_at": "2026-11-06T06:43:05+00:00",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-05",
+                    "url": "https://www.goodnewsnetwork.org/miracle-recovery-sees-seabirds-reclaim-former-colony-after-avian-flu-wiped-them-out/"
+                }
+            ],
+            "source_sha256": "57eefc982c8cff7a7c68909bb902231aa555fae24ccc51bb3419ccab7a4390e9",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Sandwich_tern_(Thalasseus_sandvicensis)_non_breeding_in_flight_Malta.jpg",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "original_sha1": "a79974aa03ef378e5eeece6719983448d008c203",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La colonie de sternes caugek sur la côte sud de l’Angleterre est passée de zéro à 756 oiseaux en trois ans, grâce à un travail de conservation ciblé.",
+                "beneficiaries": "Les sternes caugek, ainsi que d’autres oiseaux de rivage comme les petites sternes, les pluviers argentés, les mouettes rieuses et les huîtriers-pies qui ont vu leur population augmenter dans cette zone."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Après l’effondrement de la colonie de sternes caugek à cause de la grippe aviaire en 2022, des actions de protection menées par la Royal Society for the Protection of Birds ont permis un redressement notable.",
+                    "source_passages": [
+                        "“In 2022, sandwich terns, black-headed gulls, and Mediterranean gulls were hit severely by HPAI/bird flu, leading to the abandonment of their breeding colony at Pagham harbor,” said Wez Smith, senior project manager for the RSPB.",
+                        "Home All News Animals Seabird Sees Miracle Recovery After Avian Flu Wiped Them Out – credit, David Kinchin / Smith RSPB Thanks to dedicated conservation efforts, sandwich terns have reclaimed a colony England’s south coast 3 years after they were wiped out by avian flu."
+                    ]
+                },
+                {
+                    "sentence": "La population est passée de zéro à 756 oiseaux à Pagham, entre Brighton et Southampton.",
+                    "source_passages": [
+                        "Today, in what seems like a miracle, the birds have multiplied from 0 to 756.",
+                        "Home All News Animals Seabird Sees Miracle Recovery After Avian Flu Wiped Them Out – credit, David Kinchin / Smith RSPB Thanks to dedicated conservation efforts, sandwich terns have reclaimed a colony England’s south coast 3 years after they were wiped out by avian flu."
+                    ]
+                },
+                {
+                    "sentence": "Ces efforts comprennent la mise en place de clôtures anti-prédateurs, la surveillance des rats, et la gestion végétale pour favoriser la nidification.",
+                    "source_passages": [
+                        "The Guardian reported that such efforts involve the establishment of predator-proof fencing to protect ground-nesting birds, monitoring for the presence of rats, and the selective removal of vegetation to encourage nesting behavior."
+                    ]
+                },
+                {
+                    "sentence": "Des patrouilles sensibilisent aussi les visiteurs et encouragent un exercice canin éloigné des sites de reproduction.",
+                    "source_passages": [
+                        "BRITISH BIRDLIFE: First Puffin Chick in 30 Years Spotted Emerging From Cliffs Along England’s South Coast “Volunteers and rangers have also carried out patrols to raise awareness among visitors and local people of the vulnerability of ground-nesting birds to disturbance, with dog-friendly exercise areas provided away from the nesting birds,” the outlet added."
+                    ]
+                },
+                {
+                    "sentence": "Parallèlement, plusieurs espèces locales d’oiseaux de rivage bénéficient également de ces mesures dans le cadre du projet Solent Seascape, dédié à la restauration des habitats côtiers sur 128 000 acres.",
+                    "source_passages": [
+                        "In addition to the sandwich terns, little terns, ringed plovers, black-headed gulls, and oystercatchers have all increased in number thanks to the same conservation work from the Royal Society for the Protection of Birds that helped encourage the sandwich terns to repopulate the area.",
+                        "All of these areas and exercises are part of the Solent Seascape project—which works to restore multiple habitats across the Solent, a diverse estuarine system between the Isle of Wight and mainland England.",
+                        "“It’s taken several years of dedicated conservation action, but the situation began to ‘tern’ around last year, and the site is now thriving with record-breaking populations using it.” Located between Brighton and Southampton on Britain’s Channel coastline, the Pagham colony was only the keystone in a 128,000-acre stretch of coastal habitat that has been the focus of conservation efforts by RSPB and other volunteers."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-6514ac9b2271454de2e7e743",
+            "subject_id": "news-3c7d534d18b6ed3bf4e64176c86c1f68",
+            "collected_at": "2026-11-06T06:43:43+00:00",
+            "sources": [
+                {
+                    "label": "Reasons to be Cheerful · publié le 2026-11-02",
+                    "url": "https://reasonstobecheerful.world/students-addressing-campus-polarization-healthy-debate/"
+                }
+            ],
+            "source_sha256": "3588edd840d559403208883098941002d5ab96af12d76e6e081902c38e6aa36d",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Piazza_Presidential_Debate,_during_University_of_Warwick_Student_Union_Elections_2012,_a_live_TV_broadcast_by_SIBE.jpg",
+            "image_license": "CC BY 2.0 · https://creativecommons.org/licenses/by/2.0/",
+            "original_sha1": "1983b10fb4f02d1b97d899812aa7983c89a27c6f",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Des étudiants de plusieurs universités américaines ont créé des espaces de dialogue structuré où des opinions politiques opposées sont échangées dans le respect, sans pression pour s'entendre.",
+                "beneficiaries": "Les étudiants des campus universitaires, notamment à l'Université du Michigan et à Columbia, qui participent à ces échanges apaisés."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Face aux tensions sur les campus, des groupes d’étudiants américains ont mis en place des rencontres organisées où chacun peut exprimer ses convictions politiques dans le respect et sans chercher à convaincre à tout prix.",
+                    "source_passages": [
+                        "The Student Movement Addressing Campus Polarization Head On From Columbia to Michigan, students with opposing views are coming together for healthy debate — and no pressure to reach agreement.",
+                        "Courtesy of BridgeUSA BridgeUSA at UMich is the University of Michigan’s chapter of BridgeUSA, a student movement built around structured political dialogue, welcoming different views as long as they are expressed with basic respect.",
+                        "Instead of debating for a quick win, students explain their beliefs, listen to others and stay in the room without needing to reach agreement."
+                    ]
+                },
+                {
+                    "sentence": "À l’Université du Michigan, des débats rassemblent régulièrement des étudiants aux opinions différentes, y compris lors de sujets sensibles.",
+                    "source_passages": [
+                        "The Student Movement Addressing Campus Polarization Head On From Columbia to Michigan, students with opposing views are coming together for healthy debate — and no pressure to reach agreement.",
+                        "Courtesy of BridgeUSA BridgeUSA at UMich is the University of Michigan’s chapter of BridgeUSA, a student movement built around structured political dialogue, welcoming different views as long as they are expressed with basic respect.",
+                        "Instead of debating for a quick win, students explain their beliefs, listen to others and stay in the room without needing to reach agreement."
+                    ]
+                },
+                {
+                    "sentence": "De même, à Columbia, un groupe nouvellement formé a réussi à réunir près de 200 participants autour de discussions sur des questions conflictuelles, malgré l’absence de soutien officiel.",
+                    "source_passages": [
+                        "In spring 2024, pro-Palestine protests erupted at Columbia University in New York, leading to intensified disputes over campus speech, safety and protest, and prompting some to ask whether students with opposing views should engage with one another at all.",
+                        "But a group of students believed that kind of conversation was sorely needed, so they established a BridgeUSA chapter and organized a discussion about Israel and Palestine, an event Meel says university administrators declined to support because they feared negative publicity.",
+                        "The students proceeded anyway, and within a year Bridge Columbia convened a gathering of at least 200 students."
+                    ]
+                },
+                {
+                    "sentence": "Ces espaces favorisent l’écoute et réduisent l’autocensure sur des thèmes comme la religion, le genre ou la race.",
+                    "source_passages": [
+                        "A 2024 Knight Foundation-Ipsos study of more than 1,500 college students between the ages of 18 and 24 found that two in three said they self-censored on topics such as gender, religion, race and LGBTQ+ issues during classroom discussions.",
+                        "A similar proportion reported that they believed such self-censorship limited educationally valuable conversations on campus."
+                    ]
+                },
+                {
+                    "sentence": "Fondée en 2017, l’association BridgeUSA compte 146 chapitres qui forment des étudiants à faciliter ces dialogues, proposant une méthode pour contrer la polarisation en milieu universitaire.",
+                    "source_passages": [
+                        "The organization has grown rapidly, from that first chapter in 2017, to 24 by 2020, to 146 today.",
+                        "BridgeUSA — which was founded in 2017 at UC Berkeley after protests over a conservative speaker turned violent — works to facilitate those conversations."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-f18adbf85b3d81ec565a302d",
+            "subject_id": "news-6fecf6cfab40324d42661ec39ac358d1",
+            "collected_at": "2026-11-06T06:44:05+00:00",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-03",
+                    "url": "https://www.goodnewsnetwork.org/loch-ness-is-about-to-welcome-a-new-monster-the-beaver-500-years-since-it-last-lived-there/"
+                }
+            ],
+            "source_sha256": "d2faa5be0b3bf3fed2ded9c2b14f389e6e29565276b68e269b24c9eb94fd2f07",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Beaver_River_RR_Bridge_HAER_PA1.jpg",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "8f67e1c70cd98b673f5bb42ab048c2e75d4d30c4",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Après environ 500 ans d’absence, les castors ont été réintroduits avec l’autorisation des autorités écossaises dans le bassin de la rivière Ness, autour du Loch Ness, augmentant la biodiversité locale et créant des habitats favorables à diverses espèces.",
+                "beneficiaries": "Les écosystèmes aquatiques et riverains autour du Loch Ness en Écosse bénéficient de la présence renouvelée des castors, ainsi que les communautés locales impliquées dans la gestion environnementale."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Après une pause de près de 500 ans, les castors retrouvent leur place dans le bassin de la rivière Ness, comprenant le célèbre Loch Ness, en Écosse.",
+                    "source_passages": [
+                        "Beavers were last sighted in the area around Scotland’s most famous lake between 1526 and 1527.",
+                        "Now, literally 500 years later, these key ecosystem engineers will be reintroduced to the local environment."
+                    ]
+                },
+                {
+                    "sentence": "En octobre, NatureScot a accordé une licence à deux associations pour relâcher jusqu’à quinze familles de castors sur trois ans.",
+                    "source_passages": [
+                        "The news came on October 30th, when the national conservation authority NatureScot granted a license to a pair of nonprofits, Trees for Life and the Beaver Trust, to release up to 15 beaver families over 3 years in the River Ness catchment area, which includes the lake."
+                    ]
+                },
+                {
+                    "sentence": "L’évaluation a conclu que ces animaux favorisent la biodiversité en développant des milieux humides où d’autres espèces prospèrent, tout en contribuant à réguler les flux d’eau.",
+                    "source_passages": [
+                        "NatureScot’s statement detailed that the assessment concluded beavers could significantly boost biodiversity in the catchment, with the landscape at low risk of negative impacts from beaver activity.",
+                        "“Beavers can bring many benefits for nature and people, creating habitats such as ponds and wetlands where other species thrive, as well as moderating water flows in times of flood and water scarcity,” said Robbie Kernahan, NatureScot Director for Wildlife Management."
+                    ]
+                },
+                {
+                    "sentence": "Plus de 73 % des habitants consultés ont soutenu cette initiative.",
+                    "source_passages": [
+                        "Responses to the consultation process between the nonprofits and the community were positive, with more than 73% of respondents expressing support afterwards."
+                    ]
+                },
+                {
+                    "sentence": "Les castors proviendront essentiellement de zones écossaises où leur présence impacte négativement l’agriculture, en espérant ainsi un retour durable dans leur habitat historique.",
+                    "source_passages": [
+                        "Qualifying animals will typically be taken from other locations in Scotland where they are having a deleterious impact on prime agricultural land, or are not settling well into the area they were released."
+                    ]
+                },
+                {
+                    "sentence": "Cette réintroduction devrait aussi permettre un équilibre à long terme entre nature et activités humaines dans la région.",
+                    "source_passages": [
+                        "“Beavers can bring many benefits for nature and people, creating habitats such as ponds and wetlands where other species thrive, as well as moderating water flows in times of flood and water scarcity,” said Robbie Kernahan, NatureScot Director for Wildlife Management.",
+                        "We have assessed the monitoring and mitigation plans set out by the applicants and believe that, along with our existing Beaver Mitigation Scheme, any potential conflicts that may arise can be resolved.” Beavers have again lived wild in Scotland since they were reintroduced in 2009."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-9c64f260f1826356e27d069e",
+            "subject_id": "news-f09283f0837f4d5bb0e1e6422802bce3",
+            "collected_at": "2026-11-06T06:44:14+00:00",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-05",
+                    "url": "https://www.goodnewsnetwork.org/events061105/"
+                }
+            ],
+            "source_sha256": "96f9d1ebd588b51130f40b100c5e089fe3c37fe60e2fd3191fd9eeef26ace3c5",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:20180109_Vienna_State_Opera_at_blue_hour_850_9387.jpg",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "original_sha1": "17e6fb00928aca4ae66f6289573152a20dd1589d",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La Wiener Staatsoper a été restaurée après sa destruction pendant la Seconde Guerre mondiale, rouvrant ses portes en 1955 avec des améliorations modernes tout en conservant son architecture historique.",
+                "beneficiaries": "Les mélomanes, les musiciens de l'Orchestre Philharmonique de Vienne, ainsi que la ville de Vienne et ses habitants qui bénéficient d'un lieu culturel restauré et actif."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "En 1955, l’Opéra d’État de Vienne a rouvert après avoir été détruit par un bombardement en 1945.",
+                    "source_passages": [
+                        "Home This Day In History Good News in History, November 5 71 years ago, the Vienna State Opera reopened having been destroyed during World War II.",
+                        "In March 1945, the opera was set alight by an American bombardment.",
+                        "The auditorium and stage were destroyed by flames, as well as almost the entire décor and props for more than 120 operas with around 150,000 costumes."
+                    ]
+                },
+                {
+                    "sentence": "La restauration a respecté le style néo-Renaissance original, tout en intégrant des améliorations contemporaines comme un nouveau parquet en bois pour améliorer l’acoustique.",
+                    "source_passages": [
+                        "The State Opera was built in the Neo-Renaissance style by the Czech architect and contractor Josef Hlávka.",
+                        "It was rebuilt largely according to the original, unpopular design, but with modern improvements and finishings to reflect the stye of the day including new wooden flooring to help with acoustics."
+                    ]
+                },
+                {
+                    "sentence": "Plusieurs éléments historiques ont été sauvegardés, notamment le foyer avec ses fresques et les escaliers principaux, offrant un équilibre entre protection du patrimoine et modernisation.",
+                    "source_passages": [
+                        "The front section, which had been walled off as a precaution, however, remained intact including the foyer, with frescoes by Moritz von Schwind, the main stairways, the vestibule and the tea room."
+                    ]
+                },
+                {
+                    "sentence": "La réouverture s’est faite avec une représentation de \"Fidelio\" de Beethoven, soulignant l’attachement à la grande tradition musicale viennoise.",
+                    "source_passages": [
+                        "It opened with a performance of Beethoven’s Fidelio, the only opera the great composer ever wrote."
+                    ]
+                },
+                {
+                    "sentence": "Ce lieu continue d’alimenter la vie culturelle de la ville et de fournir des musiciens à l’Orchestre Philharmonique de Vienne.",
+                    "source_passages": [
+                        "Few cities have contributed more to classical music than the capital of Austria, and the State Opera hall has sourced many musicians to the Vienna Philharmonic orchestra, and hosted Gustav Mahler as its artistic director for many years."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-7b61fd28d5ce8899460deee2",
+            "subject_id": "source-eafd87c526309b0684558f11092fbeb6",
+            "collected_at": "2026-11-06T06:44:24+00:00",
+            "sources": [
+                {
+                    "label": "NOAA · What is a kelp forest?",
+                    "url": "https://oceanservice.noaa.gov/facts/kelp.html"
+                }
+            ],
+            "source_sha256": "d2d5ac68a5f26769b19404eb24a622d6b3d3c88b6a13cf00ed3d8e67131c80ae",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:MBNMS_-_Fish_In_Kelp_Forest_(31363169882).jpg",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "2deed1ae4370b1e1ca7b71a1c672aa1e7657eb1d",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Les forêts de varech offrent un habitat riche et protégé pour des milliers d’espèces marines qui y trouvent nourriture et refuge.",
+                "beneficiaries": "des milliers d’espèces marines, poissons, invertébrés, mammifères marins et oiseaux qui habitent et se nourrissent dans les forêts de varech."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Les forêts de varech sont constituées d’algues brunes géantes qui poussent rapidement dans les eaux côtières froides et peu profondes, pouvant atteindre jusqu’à 45 cm par jour.",
+                    "source_passages": [
+                        "Kelp forests provide food and shelter for thousands of species In ideal conditions, kelp can grow up to 18 inches per day, and in stark contrast to the colorful and slow-growing corals, the giant kelp canopies tower above the ocean floor.",
+                        "Kelp are large brown algae that live in cool, relatively shallow waters close to the shore."
+                    ]
+                },
+                {
+                    "sentence": "Ces formations forment des structures semblables à des arbres sous-marins, fournissant à la fois de la nourriture et un refuge sûr à une grande diversité d’espèces marines.",
+                    "source_passages": [
+                        "Like trees in a forest, these giant algae provide food and shelter for many organisms.",
+                        "They grow in dense groupings much like a forest on land.",
+                        "These underwater towers of kelp provide food and shelter for thousands of fish, invertebrates, and marine mammal species."
+                    ]
+                },
+                {
+                    "sentence": "De nombreux poissons, invertébrés et mammifères marins, ainsi que des oiseaux, utilisent les frondes épaisses du varech pour se protéger des prédateurs et des tempêtes.",
+                    "source_passages": [
+                        "These underwater towers of kelp provide food and shelter for thousands of fish, invertebrates, and marine mammal species.",
+                        "Many organisms use the thick blades as a safe shelter for their young from predators or even rough storms.",
+                        "Among the many mammals and birds that use kelp forests for protection or feeding are seals, sea lions, whales, sea otters, gulls, terns, snowy egrets, great blue herons, cormorants, and shore birds."
+                    ]
+                },
+                {
+                    "sentence": "Le varech est donc un élément clé de l’écosystème côtier, à la fois abri et garde-manger.",
+                    "source_passages": [
+                        "Like trees in a forest, these giant algae provide food and shelter for many organisms.",
+                        "These underwater towers of kelp provide food and shelter for thousands of fish, invertebrates, and marine mammal species."
+                    ]
+                },
+                {
+                    "sentence": "La surveillance régulière par les scientifiques permet de suivre l’évolution de ces forêts et d’identifier les changements liés aux facteurs naturels ou humains.",
+                    "source_passages": [
+                        "NOAA scientists study kelp forests by visiting the same locations over and over to assess the presence and abundance of a variety of organisms.",
+                        "Monitoring allows marine scientists to determine if the kelp forest is changing over time and to identify the cause of those changes, whether natural or human."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-9e41ed974c0fe95860be1e4c",
+            "subject_id": "Q42944",
+            "collected_at": "2026-11-06T06:44:31+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Organisation européenne pour la recherche nucléaire",
+                    "url": "https://fr.wikipedia.org/wiki/Organisation_europ%C3%A9enne_pour_la_recherche_nucl%C3%A9aire"
+                }
+            ],
+            "source_sha256": "724233a20cbebe3c533c3f140115038c0af1abb9b2c344c16af50d7aaa224db8",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:CERN-aerial_1.jpg",
+            "image_license": "CC0 · https://creativecommons.org/publicdomain/zero/1.0/",
+            "original_sha1": "af6bb08ee4059a24720debfe333869efebe70a14",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La création du CERN a permis de réunir des chercheurs européens autour d'infrastructures communes pour la physique des particules.",
+                "beneficiaries": "les chercheurs en physique des particules en Europe ainsi que les territoires autour de Genève"
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Au sortir de la Seconde Guerre mondiale, la recherche en physique en Europe était quasiment arrêtée.",
+                    "source_passages": [
+                        "== Histoire == === Création === Au lendemain de la Seconde Guerre mondiale, la recherche européenne en physique est quasi inexistante, alors qu'elle était au sommet de sa gloire quelques années auparavant."
+                    ]
+                },
+                {
+                    "sentence": "En 1949, l'idée d'un laboratoire scientifique européen a été proposée pour relancer cette discipline.",
+                    "source_passages": [
+                        "C'est dans ce contexte que le physicien français Louis de Broglie lance l'idée, lors de la conférence européenne de la culture tenue à Lausanne en 1949, de créer un laboratoire scientifique européen."
+                    ]
+                },
+                {
+                    "sentence": "Cette initiative a abouti, en 1952, à la création du CERN, situé près de Genève, à cheval sur la frontière franco-suisse.",
+                    "source_passages": [
+                        "L’Organisation européenne pour la recherche nucléaire, aussi appelée laboratoire européen pour la physique des particules et couramment désignée sous l'acronyme CERN (du nom du Conseil européen pour la recherche nucléaire, organe provisoire institué en 1952), est le plus grand centre de recherche en physique des particules du monde.",
+                        "C'est dans ce contexte que le physicien français Louis de Broglie lance l'idée, lors de la conférence européenne de la culture tenue à Lausanne en 1949, de créer un laboratoire scientifique européen.",
+                        "En 1952, avec le soutien de l'UNESCO, qui favorise la création de laboratoires scientifiques régionaux (et notamment l'appui du physicien Pierre Auger, qui dirige alors à l'UNESCO le département...",
+                        "Il se situe à quelques kilomètres de Genève, en Suisse, à cheval sur la frontière franco-suisse, sur les communes de Meyrin, Prévessin-Moëns et Saint-Genis-Pouilly."
+                    ]
+                },
+                {
+                    "sentence": "Aujourd'hui, le CERN rassemble physiciens et ingénieurs autour d'équipements sophistiqués pour étudier la physique des particules.",
+                    "source_passages": [
+                        "L’Organisation européenne pour la recherche nucléaire, aussi appelée laboratoire européen pour la physique des particules et couramment désignée sous l'acronyme CERN (du nom du Conseil européen pour la recherche nucléaire, organe provisoire institué en 1952), est le plus grand centre de recherche en physique des particules du monde."
+                    ]
+                },
+                {
+                    "sentence": "Son implantation sur plusieurs communes françaises et suisses illustre une coopération transfrontalière concrète.",
+                    "source_passages": [
+                        "Il se situe à quelques kilomètres de Genève, en Suisse, à cheval sur la frontière franco-suisse, sur les communes de Meyrin, Prévessin-Moëns et Saint-Genis-Pouilly.",
+                        "Les anneaux des accélérateurs s'étendent sous les communes françaises de Saint-Genis-Pouilly et Ferney-Voltaire."
+                    ]
+                },
+                {
+                    "sentence": "Cette organisation a permis de mutualiser les ressources et expertises, donnant une nouvelle dynamique à la recherche fondamentale en Europe, avec des infrastructures étendues sous plusieurs communes.",
+                    "source_passages": [
+                        "L’Organisation européenne pour la recherche nucléaire, aussi appelée laboratoire européen pour la physique des particules et couramment désignée sous l'acronyme CERN (du nom du Conseil européen pour la recherche nucléaire, organe provisoire institué en 1952), est le plus grand centre de recherche en physique des particules du monde."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        }
+    ]
+}
