@@ -1,0 +1,269 @@
+{
+    "schema_version": 1,
+    "articles": [
+        {
+            "id": "decouverte-9c612feaa1a68d4a574bbf03",
+            "subject_id": "news-ffbe6b27a8f899e2dc88ba32b21a9638",
+            "collected_at": "2026-11-07T05:57:42+00:00",
+            "sources": [
+                {
+                    "label": "Reasons to be Cheerful · publié le 2026-10-28",
+                    "url": "https://reasonstobecheerful.world/what-were-reading-americans-want-the-same-things/"
+                }
+            ],
+            "source_sha256": "c34c80bbba712d74d40e0894021da1d2ad4a1f1f7d508c17c0c71e2119f04f49",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Exposed_urban_tree_at_sea_front_City_of_Vancouver_in_Canada.jpg",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "original_sha1": "ee8b2eb8fddfd105b0746fe55dcdbebb4eb5b416",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Atteinte des objectifs d'extension du couvert arboré dans 144 villes américaines, ce qui pourrait prévenir plus de 67 000 décès prématurés.",
+                "beneficiaries": "Les habitants urbains de ces villes américaines, qui bénéficient d'une meilleure qualité de vie et santé grâce aux arbres en milieu urbain."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Une étude récente estime que les 144 plus grandes villes des États-Unis ont désormais la possibilité d’atteindre leurs objectifs en matière de couverture arborée.",
+                    "source_passages": [
+                        "The study found that if 144 U.S.",
+                        "cities reach their tree canopy goals, more than 67,000 premature deaths could be avoided, while another recent study found that just maintaining existing urban trees and green spaces prevents more than 133,000 premature deaths."
+                    ]
+                },
+                {
+                    "sentence": "Cela représenterait un impact sanitaire significatif : plus de 67 000 décès prématurés pourraient être évités grâce à l'augmentation des arbres en milieu urbain.",
+                    "source_passages": [
+                        "The study found that if 144 U.S."
+                    ]
+                },
+                {
+                    "sentence": "Par ailleurs, maintenir la végétation déjà existante éviterait au moins 133 000 morts prématurées.",
+                    "source_passages": [
+                        "cities reach their tree canopy goals, more than 67,000 premature deaths could be avoided, while another recent study found that just maintaining existing urban trees and green spaces prevents more than 133,000 premature deaths."
+                    ]
+                },
+                {
+                    "sentence": "Cette amélioration concrète montre le lien direct entre espaces verts et santé publique.",
+                    "source_passages": [
+                        "The study found that if 144 U.S.",
+                        "cities reach their tree canopy goals, more than 67,000 premature deaths could be avoided, while another recent study found that just maintaining existing urban trees and green spaces prevents more than 133,000 premature deaths."
+                    ]
+                },
+                {
+                    "sentence": "Selon une écologue urbaine, changer la manière dont les espaces verts sont considérés dans les villes nécessite un changement de mentalité similaire à celui des infrastructures publiques traditionnelles.",
+                    "source_passages": [
+                        "As Diane Pataki, an urban ecologist at Arizona State University, tells bioGraphic, making green spaces a public health priority requires a mindset shift."
+                    ]
+                },
+                {
+                    "sentence": "Cette reconnaissance éclaire le rôle souvent sous-estimé des arbres dans nos environnements quotidiens.",
+                    "source_passages": [
+                        "As Diane Pataki, an urban ecologist at Arizona State University, tells bioGraphic, making green spaces a public health priority requires a mindset shift."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-89794ced647eae156e658187",
+            "subject_id": "news-4831551d9b49ae715a06ac0815117860",
+            "collected_at": "2026-11-07T05:58:23+00:00",
+            "sources": [
+                {
+                    "label": "Good Good Good · publié le 2026-10-28",
+                    "url": "https://www.goodgoodgood.co/articles/dolores-huerta-farmworker-rights"
+                }
+            ],
+            "source_sha256": "34b5f63df5c365cf326748a7967ee4676c01fbf93862ef4a88ef1436b63049ca",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:The_Soviet_Union_1971_CPA_4049_stamp_(Farmworkers_and_Wheatfield_(Agricultural_Production)).jpg",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "46acb863266518e5e13df8e27dc5b3a94b4955e9",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La revendication du droit des travailleurs agricoles a débouché sur des avancées concrètes dans les conditions de travail, grâce à l'organisation syndicale et les campagnes de boycott.",
+                "beneficiaries": "les ouvriers agricoles, en particulier les travailleurs migrants mexicains et philippins, ainsi que les femmes au sein de ces communautés"
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Dolores Huerta, cofondatrice de la National Farm Workers Association, s’est engagée pendant plus de sept décennies pour défendre les droits des travailleurs agricoles aux États-Unis.",
+                    "source_passages": [
+                        "This story was originally published by The 19th‍Dolores Huerta, who rose to national prominence as the co-founder of the National Farm Workers Association and was known for her advocacy for women farmworkers, died on Wednesday.",
+                        "I thought I could do more by organizing farmworkers than by trying to teach their hungry children.”She left the school to work at the Community Service Organization, a Latino civil rights group.",
+                        "In 1955 she helped start the Stockton chapter of the organization, which is where she met Chávez, a rising Chicano leader.",
+                        "The two went on to create the National Farm Workers Association (NFWA).One of the first major actions she undertook was helping organize the Delano Grape Strike in 1965, a five-year strike that was started by Filipino workers who were fighting for higher wages."
+                    ]
+                },
+                {
+                    "sentence": "Elle a contribué à organiser la grève des vendanges à Delano en 1965, qui a rassemblé ouvriers philippins et mexicains, aboutissant à la création de l’Union des Travailleurs Agricoles.",
+                    "source_passages": [
+                        "The two went on to create the National Farm Workers Association (NFWA).One of the first major actions she undertook was helping organize the Delano Grape Strike in 1965, a five-year strike that was started by Filipino workers who were fighting for higher wages.",
+                        "About a week into the strike, NFWA joined the movement with 1,200 Mexican laborers.",
+                        "The two groups representing the strikers eventually merged to become the United Farm Workers (UFW), a labor union.As part of the UFW’s work to fight for better working conditions and union contracts, Huerta went to New York to organize a national boycott against table grapes."
+                    ]
+                },
+                {
+                    "sentence": "Huerta a mené des campagnes de boycott nationales, notamment contre les raisins de table, pour faire pression sur les employeurs.",
+                    "source_passages": [
+                        "The two groups representing the strikers eventually merged to become the United Farm Workers (UFW), a labor union.As part of the UFW’s work to fight for better working conditions and union contracts, Huerta went to New York to organize a national boycott against table grapes."
+                    ]
+                },
+                {
+                    "sentence": "Elle a aussi mis en lumière les difficultés spécifiques des femmes ouvrières confrontées à des risques comme les agressions sexuelles.",
+                    "source_passages": [
+                        "Alexandria Ocasio-Cortez and former President Barack Obama.Rafa213/Wikimedia Commons (CC BY-SA 4.0)Over the years, Huerta began to focus more on the women farmworkers in the movement, and in 1974 she helped found the Coalition of Labor Union Women.",
+                        "She worked to raise awareness about the specific dangers they faced in the fields, including an epidemic of sexual assault.",
+                        "In a 2013 interview with “Frontline” she talked about how farmworker women were often subject to threats and assault in the fields and were scared to speak up due to their immigration status or threats to their employment."
+                    ]
+                },
+                {
+                    "sentence": "Son slogan « ¡Sí Se Puede!",
+                    "source_passages": [
+                        "It was Huerta who coined the ¡Sí Se Puede!",
+                        "chant, which means “yes, it can be done” and came to define the farmworker movement — but the phrase has been erroneously credited to him over the years."
+                    ]
+                },
+                {
+                    "sentence": "» est devenu une expression emblématique des luttes sociales.",
+                    "source_passages": [
+                        "It was Huerta who coined the ¡Sí Se Puede!",
+                        "chant, which means “yes, it can be done” and came to define the farmworker movement — but the phrase has been erroneously credited to him over the years.",
+                        "The phrase continues to be a rallying cry of activists across the country, and more recently has been used by politicians like Rep."
+                    ]
+                },
+                {
+                    "sentence": "Ces actions ont permis d’obtenir des contrats négociés et une meilleure reconnaissance du travail agricole aux États-Unis.",
+                    "source_passages": [
+                        "The two groups representing the strikers eventually merged to become the United Farm Workers (UFW), a labor union.As part of the UFW’s work to fight for better working conditions and union contracts, Huerta went to New York to organize a national boycott against table grapes.",
+                        "There she met the feminist leader Gloria Steinem, who in 1968 flew out to California to march with the striking farmworkers.While Huerta was the lead negotiator for the grape worker contracts that resulted from the organizing, her contributions and leadership during the strikes and subsequent boycotts were often overshadowed by Chávez."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-3a4180be6c784062a6361922",
+            "subject_id": "source-925a1b2e8e1e67c500141bc45d827156",
+            "collected_at": "2026-11-07T05:58:35+00:00",
+            "sources": [
+                {
+                    "label": "NOAA · What is an artificial reef?",
+                    "url": "https://oceanservice.noaa.gov/facts/artificial-reef.html"
+                }
+            ],
+            "source_sha256": "34c594cc1a914b1b285ee90d04f02e435c9e2a5e7be21b3608c92101dafc9f05",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:CINMS_--_Winfield_Scott_Shipwreck_(36373149185).jpg",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "bc2934be7e81d201743841aa51303d30c1d6f0a3",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Des structures immergées créées par l’homme favorisent le développement d’habitats marins riches, contribuant à la biodiversité locale.",
+                "beneficiaries": "les espèces marines colonisant ces récifs artificiels, ainsi que les pêcheurs et plongeurs bénéficiant de ces nouveaux écosystèmes"
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Les récifs artificiels sont des structures conçues pour reproduire certaines fonctions des récifs naturels.",
+                    "source_passages": [
+                        "An artificial reef is a manmade structure that may mimic some of the characteristics of a natural reef."
+                    ]
+                },
+                {
+                    "sentence": "Par exemple, des navires désaffectés coulés volontairement, comme l’USS Spiegel Grove près de Key Largo, offrent un support durable où s’installent coraux, éponges et diverses espèces marines.",
+                    "source_passages": [
+                        "In June 2002, the retired USS Spiegel Grove was sunk in waters off Key Largo.",
+                        "At 510 feet (155.45 meters) long, the ship was, at the time, the largest vessel ever intentionally scuttled for the purpose of creating an artificial reef.",
+                        "Submerged shipwrecks are the most common form of artificial reef.",
+                        "The ship’s superstructure is now home to colorful sponges, corals, and hydroids, providing food and habitat for a variety of sea creatures.",
+                        "Coast Guard Cutter Duane, which served on the seas for half a century before its final assignment as an underwater haven for sea life."
+                    ]
+                },
+                {
+                    "sentence": "Ces habitats créés attirent poissons et invertébrés, renforçant la richesse biologique locale.",
+                    "source_passages": [
+                        "Marine resource managers also create artificial reefs in underwater areas that require a structure to enhance the habitat for reef organisms, including soft and stony corals and the fishes and invertebrates that live among them.",
+                        "The ship’s superstructure is now home to colorful sponges, corals, and hydroids, providing food and habitat for a variety of sea creatures."
+                    ]
+                },
+                {
+                    "sentence": "De plus, ils attirent pêcheurs et plongeurs, apportant un bénéfice économique régional.",
+                    "source_passages": [
+                        "Planned manmade reefs may provide local economic benefits because they attract fish to a known location and are therefore popular attractions for commercial and recreational fishermen, divers, and snorkelers."
+                    ]
+                },
+                {
+                    "sentence": "Plusieurs matériaux sont employés pour ces récifs, allant de pierres à des structures en béton ou acier.",
+                    "source_passages": [
+                        "Materials used to construct artificial reefs have included rocks, cinder blocks, and even wood and old tires.",
+                        "Nowadays, several companies specialize in the design, manufacture, and deployment of long-lasting artificial reefs that are typically constructed of limestone, steel, and concrete."
+                    ]
+                },
+                {
+                    "sentence": "Si cette démarche bénéficie clairement à des écosystèmes fragiles, elle soulève aussi des enjeux liés à la gestion des déchets marins, nécessitant un suivi strict.",
+                    "source_passages": [
+                        "However, the increase in illegal dumping for the purpose of creating habitat has led to significant poaching in the Florida Keys and subsequent high-profile arrests by NOAA’s Office of Law Enforcement.",
+                        "Marine debris continues to be an ongoing problem in these sensitive environmental areas, and NOAA’s Marine Debris Program has helped provide funding to remove debris in the Florida Keys."
+                    ]
+                },
+                {
+                    "sentence": "Un exemple visible est l’épave du Winfield Scott dans le sanctuaire marin des îles Channel, aujourd’hui refuge sous-marin pour de nombreuses espèces.",
+                    "source_passages": [
+                        "Can you spot the sunken ship?",
+                        "Submerged shipwrecks are the most common form of artificial reef.",
+                        "The ship’s superstructure is now home to colorful sponges, corals, and hydroids, providing food and habitat for a variety of sea creatures."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-d41f9e053ec7bd445ff38604",
+            "subject_id": "Q193989",
+            "collected_at": "2026-11-07T05:58:40+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Geirangerfjord",
+                    "url": "https://fr.wikipedia.org/wiki/Geirangerfjord"
+                }
+            ],
+            "source_sha256": "e910124d43c7c8b79f79ded2768d67321772afda804b8b46d85752163c6a27d9",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:GeirangerFjord.jpg",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "original_sha1": "431eefc7d0f918e99813f6243ba4df8ea74c72f7",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La protection du Geirangerfjord et sa reconnaissance comme patrimoine mondial de l’UNESCO ont contribué à maintenir son environnement naturel préservé.",
+                "beneficiaries": "Les habitants du village de Geiranger, les touristes appréciant ce site, et l’écosystème local du fjord."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Le Geirangerfjord, situé dans la municipalité de Stranda en Norvège, s’étire sur environ quinze kilomètres et abrite le village de Geiranger à son extrémité.",
+                    "source_passages": [
+                        "Le Geirangerfjord (Geirangerfjorden) ou fjord de Geiranger est un fjord dépendant de la municipalité de Stranda au sud du comté de Møre og Romsdal en Norvège.",
+                        "Il s'agit d'une extension du lac Storfjord sur une quinzaine de kilomètres, au fond de laquelle se trouve le village de Geiranger."
+                    ]
+                },
+                {
+                    "sentence": "Ce fjord est un site majeur pour le tourisme, accessible aux navires de croisière ainsi qu’à l’express côtier Hurtigruten durant l’été, reliant notamment Ålesund et Molde.",
+                    "source_passages": [
+                        "== Description == Le fjord est l'une des principales attractions touristiques du pays, et il est accessible par les bateaux de haute mer, y compris de gros paquebots de croisière.",
+                        "L'express côtier (Hurtigruten) y fait un détour quotidiennement lors de ses voyages sud-nord entre les escales d'Ålesund et de Molde lors du service d'été."
+                    ]
+                },
+                {
+                    "sentence": "Depuis 2005, il bénéficie d’une inscription au patrimoine mondial de l’UNESCO, aux côtés du Nærøyfjord, ce qui participe à la conservation de ses paysages et de sa biodiversité.",
+                    "source_passages": [
+                        "Il est inscrit avec le Nærøyfjord sur la liste du patrimoine mondial de l'UNESCO depuis 2005 dans la catégorie des fjords de l'Ouest de la Norvège."
+                    ]
+                },
+                {
+                    "sentence": "Le maintien de ses chutes emblématiques, telles que les cascades des sept sœurs, témoigne d’un équilibre entre fréquentation touristique et préservation naturelle.",
+                    "source_passages": [
+                        "== Annexes == === Articles connexes === Fjords de l'Ouest de la Norvège Sju Søstre, « cascades des sept sœurs » s'écoulant dans le fjord === Liens externes === (de + en + no) Site officiel == Notes et références == Portail de la Norvège Portail du monde maritime"
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        }
+    ]
+}
