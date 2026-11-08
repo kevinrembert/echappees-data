@@ -1,0 +1,83 @@
+{
+    "schema_version": 1,
+    "id": "generated-7b86af28bb5244c6e962",
+    "version": "1",
+    "articles": [
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-5954762229ab98ea8459a881",
+            "title": "À Rufford, un maire utilise un traceur GPS pour retrouver des pierres anciennes volées",
+            "body": "À Rufford, un petit village du Lancashire, plusieurs pierres taillées datant du XVIIIe siècle ont été dérobées au fil des mois sur un mur historique longeant une route. Faute de moyens policiers suffisants, le maire Matthew Smith a placé discrètement un traceur GPS AirTag dans une pierre déjà instable pour identifier le voleur. Alerté par le déplacement, il a averti la police qui a ainsi pu intercepter le suspect et récupérer une grande partie des pierres, estimées à environ 40 000 livres, dispersées dans plusieurs lieux. Cette initiative locale a permis de protéger un élément clé du patrimoine rural, renforçant la solidarité entre habitants face au vol et à la dégradation de leur environnement.",
+            "category": "Initiatives positives",
+            "location": "Rufford, Lancashire, Angleterre",
+            "image_description": "Mur en pierres anciennes construit par des travailleurs sud-pacifiques à Mon Repos dans les années 1880.",
+            "image_caption": "Illustration générale d’un mur en pierres anciennes, photo Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/81977735c8e42765eecb58562bec6dc1b30818f77d74c314e10afd591349a5d1.jpg",
+            "image_credit": "zpunout · https://web.archive.org/web/20161030043508/http://www.panoramio.com/photo/102334069 · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Historic_stone_wall_built_by_South_Sea_Islanders_in_the_1880%27s._Mon_Repos_-_panoramio.jpg",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-07",
+                    "url": "https://www.goodnewsnetwork.org/mayor-uses-airtag-to-catch-capstone-thief/"
+                }
+            ],
+            "subject_id": "news-9e8c127b806929c1e0a9522e347053fc",
+            "published_at": "2026-11-08",
+            "country": "Monde",
+            "source_published_at": "2026-11-07"
+        },
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "daily",
+            "id": "decouverte-5ec92a6611c9b525bdf4d7dc",
+            "title": "Dissolution des coquilles de pteropodes confirmée en laboratoire : un indicateur concret de l’acidification marine future",
+            "body": "Des expériences menées par le laboratoire de visualisation environnementale de la NOAA ont montré qu'en 45 jours, la coquille d'un pteropode se dissout complètement en eau de mer dont la composition chimique correspond à celle projetée pour les océans en 2100. Cette observation concrète illustre l'effet de l'augmentation du CO2 atmosphérique capté par l'océan, qui acidifie les eaux et réduit la disponibilité des ions carbonate, essentiels à la construction des structures calcaires de nombreux organismes marins. Ces résultats permettent aux chercheurs d’évaluer plus précisément les risques pour les écosystèmes marins et la biodiversité liés à l’acidification, en appui aux données de terrain et modélisations.",
+            "category": "Nature et animaux",
+            "location": "Océans du monde",
+            "image_description": "Coquille de pteropode dissoute en laboratoire après 45 jours dans une eau de mer dont la chimie correspond aux projections pour l'année 2100.",
+            "image_caption": "Illustration documentaire générale : coquille de pteropode dissoute en eau de mer acidifiée simulant les conditions océanographiques futures – NOAA Environmental Visualization Laboratory (EVL) · Wikimedia Commons",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/fedb3b5ffede85afee81b6e338a6518f687b0024497452141e08fceed81c2dc5.jpg",
+            "image_credit": "NOAA Environmental Visualization Laboratory (EVL) · Impacts of ocean acidification - NOAA · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Pterapod_shell_dissolved_in_seawater_adjusted_to_an_ocean_chemistry_projected_for_the_year_2100.jpg",
+            "sources": [
+                {
+                    "label": "NOAA · What is ocean acidification?",
+                    "url": "https://oceanservice.noaa.gov/facts/acidification.html"
+                }
+            ],
+            "subject_id": "source-76381da0daa6ed32b1820099fb970b79",
+            "published_at": "2026-11-08",
+            "country": "Monde"
+        },
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "daily",
+            "id": "decouverte-fdab276c60f0daeea8922319",
+            "title": "La Cité de l’espace à Toulouse franchit le cap des 8 millions de visiteurs",
+            "body": "Inaugurée en 1997, la Cité de l'espace à Toulouse propose aux visiteurs une immersion dans l’univers spatial à travers une promenade où sont exposés des engins grandeur nature, comme la fusée Ariane 5 de 53 mètres ou le module lunaire d’Apollo. Depuis son ouverture, le centre cumule plus de 8 millions de visiteurs, preuve de son attractivité et de son rôle dans la diffusion scientifique accessible. La présence d’objets authentiques ou leurs répliques, tels que des pierres de Lune ou le rover Chang’e 4, offre un contact direct avec l’exploration spatiale. Cette fréquentation témoignée illustre une appropriation concrète de la culture spatiale par le public, soutenue par diverses institutions nationales.",
+            "category": "Sciences",
+            "location": "Toulouse, France",
+            "image_description": "Vue d’un radar installé dans le parc de la Cité de l’Espace à Toulouse, illustrant les infrastructures technologiques du lieu.",
+            "image_caption": "Photographie documentaire générale du parc de la Cité de l’Espace à Toulouse, avec une installation radar en évidence.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/e362f6c0af005785bbbc4dc3f2fe5528efcf502d1336220f211fa979c76cff40.jpg",
+            "image_credit": "Celeda · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Radar_%C3%A0_la_Cit%C3%A9_de_l%27Espace.jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Cité de l'espace",
+                    "url": "https://fr.wikipedia.org/wiki/Cit%C3%A9_de_l%27espace"
+                }
+            ],
+            "subject_id": "Q1094325",
+            "published_at": "2026-11-08",
+            "country": "France"
+        }
+    ]
+}
