@@ -1,0 +1,33 @@
+{
+    "schema_version": 1,
+    "id": "generated-869b874e3d9aa6c3fe16",
+    "version": "1",
+    "articles": [
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-9d64733b6fbe697c837f56a3",
+            "title": "Le Royaume-Uni met fin définitivement à la peine de mort, un cap historique dans la justice",
+            "body": "En 1965, le Royaume-Uni a formellement adopté le Murder Act, supprimant la peine de mort pour la majorité des crimes et instituant des peines de réclusion à perpétuité. Cette loi symbolique n'a cependant été pleinement achevée qu'en 1998 avec l'adoption des lois relatives aux droits de l'homme qui ont aboli totalement la peine capitale, y compris les exceptions militaires restantes. Depuis 1964, aucune exécution n'a eu lieu sur le territoire britannique, ce qui montre une évolution effective vers une justice sans recourir à la mort. Cette transition marque un changement de fond de la politique pénale, avec des résultats concrets : la justice privilégie désormais l'emprisonnement dans une société démocratique respectueuse des droits humains. Une photographie d’ensemble du Parlement de Westminster, centre symbolique de ces décisions, illustre cette transformation.",
+            "category": "Initiatives positives",
+            "location": "Royaume-Uni",
+            "image_description": "Houses of Parliament from Parliament Square. This image shows the Houses of Parliament viewed from Parliament Square in London, capturing the iconic political landmark where the abolition of the death penalty was legislated.",
+            "image_caption": "Illustration documentaire générale. Photo documentaire générale du Palais de Westminster, lieu du Parlement britannique où les lois abrogeant la peine de mort ont été adoptées.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/f1a99aef07586273da26c8d4202946418134170d1ff55cc1d1e66d630cda5427.jpg",
+            "image_credit": "Robert Lamb · From geograph.org.uk · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 2.0 · https://creativecommons.org/licenses/by-sa/2.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Houses_of_Parliament_from_Parliament_Square_-_geograph.org.uk_-_1380029.jpg",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-08",
+                    "url": "https://www.goodnewsnetwork.org/events061108/"
+                }
+            ],
+            "subject_id": "news-8faf9030eb4dcb2efb9bb24ea8fbe377",
+            "published_at": "2026-11-08",
+            "country": "Monde",
+            "source_published_at": "2026-11-08"
+        }
+    ]
+}

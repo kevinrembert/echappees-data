@@ -1,0 +1,64 @@
+{
+    "schema_version": 1,
+    "articles": [
+        {
+            "id": "decouverte-9d64733b6fbe697c837f56a3",
+            "subject_id": "news-8faf9030eb4dcb2efb9bb24ea8fbe377",
+            "collected_at": "2026-11-08T15:11:38+00:00",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-08",
+                    "url": "https://www.goodnewsnetwork.org/events061108/"
+                }
+            ],
+            "source_sha256": "b7c69771c6cdd854fbe39add7a2bebfec51e76775af918c58cf46885b7b699d0",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Houses_of_Parliament_from_Parliament_Square_-_geograph.org.uk_-_1380029.jpg",
+            "image_license": "CC BY-SA 2.0 · https://creativecommons.org/licenses/by-sa/2.0/",
+            "original_sha1": "fa1bf33ae0032bcc6009a20bbc8389cfa591f8cb",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Le Royaume-Uni a aboli définitivement la peine de mort en 1998, remplaçant les exécutions par des peines d'emprisonnement à perpétuité dans presque tous les cas, ce qui n'a pas été remis en cause depuis.",
+                "beneficiaries": "Les personnes condamnées à de lourdes peines, les citoyens britanniques en général, et la société qui adopte une justice sans exécutions capitales."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "En 1965, le Royaume-Uni a formellement adopté le Murder Act, supprimant la peine de mort pour la majorité des crimes et instituant des peines de réclusion à perpétuité.",
+                    "source_passages": [
+                        "Home This Day In History Good News in History, November 8 61 years ago today, the ironically-named Murder Act of 1965 is given Royal Assent, formally abolishing the death penalty in the United Kingdom for almost all crimes.",
+                        "Introduced by MP for Liverpool Sydney Silverman, it replaced hanging with mandatory sentences of life-imprisonment in all but 4 cases."
+                    ]
+                },
+                {
+                    "sentence": "Cette loi symbolique n'a cependant été pleinement achevée qu'en 1998 avec l'adoption des lois relatives aux droits de l'homme qui ont aboli totalement la peine capitale, y compris les exceptions militaires restantes.",
+                    "source_passages": [
+                        "The death penalty was not fully abolished in the United Kingdom until 1998 by the Human Rights Act 1998 and the Crime and Disorder Act 1998."
+                    ]
+                },
+                {
+                    "sentence": "Depuis 1964, aucune exécution n'a eu lieu sur le territoire britannique, ce qui montre une évolution effective vers une justice sans recourir à la mort.",
+                    "source_passages": [
+                        "No executions have occurred in the United Kingdom since the Murder Act of 1965.",
+                        "The last were on August 13th, 1964, when Peter Allen and Gwynne Evans were hanged for murdering John Alan West during a theft four months earlier."
+                    ]
+                },
+                {
+                    "sentence": "Cette transition marque un changement de fond de la politique pénale, avec des résultats concrets : la justice privilégie désormais l'emprisonnement dans une société démocratique respectueuse des droits humains.",
+                    "source_passages": [
+                        "Home This Day In History Good News in History, November 8 61 years ago today, the ironically-named Murder Act of 1965 is given Royal Assent, formally abolishing the death penalty in the United Kingdom for almost all crimes.",
+                        "Introduced by MP for Liverpool Sydney Silverman, it replaced hanging with mandatory sentences of life-imprisonment in all but 4 cases.",
+                        "The death penalty was not fully abolished in the United Kingdom until 1998 by the Human Rights Act 1998 and the Crime and Disorder Act 1998.",
+                        "No executions have occurred in the United Kingdom since the Murder Act of 1965."
+                    ]
+                },
+                {
+                    "sentence": "Une photographie d’ensemble du Parlement de Westminster, centre symbolique de ces décisions, illustre cette transformation.",
+                    "source_passages": [
+                        "READ more… (1965) Palace of Westminster, UK Parliament – credit, Terr Ott, CC 2.0."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        }
+    ]
+}

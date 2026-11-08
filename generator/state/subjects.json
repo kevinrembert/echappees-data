@@ -252,7 +252,9 @@
         "source-76381da0daa6ed32b1820099fb970b79": "decouverte-5ec92a6611c9b525bdf4d7dc",
         "title:what is ocean acidification": "decouverte-5ec92a6611c9b525bdf4d7dc",
         "Q1094325": "decouverte-fdab276c60f0daeea8922319",
-        "title:cité de l espace": "decouverte-fdab276c60f0daeea8922319"
+        "title:cité de l espace": "decouverte-fdab276c60f0daeea8922319",
+        "news-8faf9030eb4dcb2efb9bb24ea8fbe377": "decouverte-9d64733b6fbe697c837f56a3",
+        "title:good news in history november 8": "decouverte-9d64733b6fbe697c837f56a3"
     },
     "failed": {
         "caltech names artemis ii commander reid wiseman as nasa jpl deputy": "2026-10-29",
@@ -427,7 +429,8 @@
         "baby saved after racing heartbeat detected by family doberman": "2026-11-08",
         "what are brain corals": "2026-11-08",
         "how do hurricanes affect sea life": "2026-11-08",
-        "how does overfishing affect coral reefs": "2026-11-08"
+        "how does overfishing affect coral reefs": "2026-11-08",
+        "lucky bird found in storm drain a mile from home after passing driver happens to spot it hopping in": "2026-11-08"
     },
     "failure_version": "positive-selection-v3"
 }
