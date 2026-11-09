@@ -1,0 +1,369 @@
+{
+    "schema_version": 1,
+    "articles": [
+        {
+            "id": "decouverte-4e1019b45e711fe0904b2247",
+            "subject_id": "news-7cb161c7152a0d8ac3445a007f21b7fb",
+            "collected_at": "2026-11-09T06:25:19+00:00",
+            "sources": [
+                {
+                    "label": "Good Good Good · publié le 2026-11-09",
+                    "url": "https://www.goodgoodgood.co/articles/minnesota-new-mexico-native-american"
+                }
+            ],
+            "source_sha256": "c25b7c7aaa78071630177dd0d2a8ae8e2892322b552ff8fe4e511d80468f58a3",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:-Native_American_Woman_in_Camp_with_Racks_of_Drying_Meat-_MET_DP115226.jpg",
+            "image_license": "CC0 · https://creativecommons.org/publicdomain/zero/1.0/",
+            "original_sha1": "78bc70fbfa66c908b0ce1a702a002ee34e5c91d9",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Deux femmes amérindiennes ont été élues à des postes politiques majeurs : Deb Haaland comme gouverneure du Nouveau-Mexique et Peggy Flanagan sénatrice du Minnesota.",
+                "beneficiaries": "Les populations amérindiennes des États-Unis, ainsi que les électeurs du Nouveau-Mexique et du Minnesota, qui voient leur représentation locale s'élargir."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Lors des élections de mi-mandat, Deb Haaland, membre de la tribu Laguna Pueblo, devient la première gouverneure amérindienne après sa victoire au Nouveau-Mexique.",
+                    "source_passages": [
+                        "Democrat Deb Haaland is projected to become the first Native woman governor after winning her race in New Mexico, and Democrat Peggy Flanagan is set to become the first Native woman to secure a U.S.",
+                        "Senate seat after her victory in Minnesota, according to Decision Desk HQ.Haaland, a Laguna Pueblo member and a former secretary of the Interior, easily defeated Republican Gregg Hull."
+                    ]
+                },
+                {
+                    "sentence": "Elle succède à d'autres femmes ayant dirigé l'État et s'engage notamment sur l'amélioration de l’éducation publique et la maîtrise du coût de la vie.",
+                    "source_passages": [
+                        "Democrat Deb Haaland is projected to become the first Native woman governor after winning her race in New Mexico, and Democrat Peggy Flanagan is set to become the first Native woman to secure a U.S.",
+                        "Haaland promised voters she would improve the state of public education in New Mexico and would tackle the rising cost of living, having experienced economic instability herself before launching a small salsa-making business.",
+                        "She is the third consecutive woman to hold the office in the state.Voters in New Mexico also made history by marking the first time a state has elected two women of color to New Mexico’s top jobs: Stephanie Garcia Richard will serve as Haaland’s lieutenant governor; previously, she was the first woman and first Latina to be elected as the state’s commissioner of public lands.Flanagan, Minnesota’s lieutenant governor, is Ojibwe and a member of the White Earth Nation."
+                    ]
+                },
+                {
+                    "sentence": "Par ailleurs, Peggy Flanagan, appartenant à la nation Ojibwe, remporte un siège de sénatrice américaine pour le Minnesota, devenant la première femme amérindienne au Sénat.",
+                    "source_passages": [
+                        "Democrat Deb Haaland is projected to become the first Native woman governor after winning her race in New Mexico, and Democrat Peggy Flanagan is set to become the first Native woman to secure a U.S.",
+                        "She is the third consecutive woman to hold the office in the state.Voters in New Mexico also made history by marking the first time a state has elected two women of color to New Mexico’s top jobs: Stephanie Garcia Richard will serve as Haaland’s lieutenant governor; previously, she was the first woman and first Latina to be elected as the state’s commissioner of public lands.Flanagan, Minnesota’s lieutenant governor, is Ojibwe and a member of the White Earth Nation."
+                    ]
+                },
+                {
+                    "sentence": "Ces succès électoraux donnent davantage de poids politique aux communautés autochtones, qui représentent environ 1,5 % de la population américaine.",
+                    "source_passages": [
+                        "She, too, would make Senate history alongside Flanagan by bringing representation for Native American women to the chamber.Native American women make up about 1.5 percent of the U.S."
+                    ]
+                },
+                {
+                    "sentence": "Ces élues ont déjà poursuivi des actions pour contrer la violence envers les femmes amérindiennes, un enjeu important au sein de leurs mandats.",
+                    "source_passages": [
+                        "In their time in public office, both Flanagan and Haaland made strides to address the epidemic of violence facing Native Americans, particularly women.In Alaska, a hyper-competitive race for an open U.S."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-d7629f8ce18307bc070465ed",
+            "subject_id": "news-14d79ccd973dfa7a6825e611c0488a41",
+            "collected_at": "2026-11-09T06:25:39+00:00",
+            "sources": [
+                {
+                    "label": "CNRS · presse · publié le 2026-10-20",
+                    "url": "https://www.cnrs.fr/fr/presse/medailles-de-la-mediation-scientifique-le-cnrs-et-france-universites-annoncent-les-laureats"
+                }
+            ],
+            "source_sha256": "3643d5c516dc31345638918deecefe571705be1f11c94ec7554e93ea7a680e67",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Climate_and_weather.jpg",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "original_sha1": "1a6035d933284feb911025057e5ca8db9c4264e1",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Le Journal Météo-Climat a intégré depuis mars 2023 une information quotidienne fiable sur le changement climatique, basée sur la collaboration entre plus de 200 experts scientifiques et journalistes.",
+                "beneficiaries": "Le grand public français bénéficie d’un accès renouvelé à une compréhension claire et rigoureuse des enjeux climatiques dans leur vie quotidienne."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Depuis mars 2023, Le Journal Météo-Climat diffusé chaque jour sur France Télévisions, a modifié l’approche médiatique du changement climatique.",
+                    "source_passages": [
+                        "» Prix de la diffusion des connaissances : Le Journal Météo-Climat : sanctuariser la place des faits scientifiques dans le débat sociétal Diffusé quotidiennement sur France Télévisions depuis mars 2023, Le Journal Météo Climat a transformé la manière dont le grand public appréhende les enjeux climatiques."
+                    ]
+                },
+                {
+                    "sentence": "Ce programme pionnier s’appuie sur un partenariat inédit entre journalistes et scientifiques, mobilisant plus de 200 experts pour assurer la qualité et la précision des informations transmises.",
+                    "source_passages": [
+                        "Ce projet pionnier intègre systématiquement le changement climatique et ses dimensions scientifiques.",
+                        "Grâce à une convergence inédite entre scientifiques et journalistes, plus de 200 experts de disciplines variées (climatologues, biologi 2026-10-20"
+                    ]
+                },
+                {
+                    "sentence": "Cette collaboration permet d’intégrer systématiquement des données scientifiques dans les bulletins météo, reflétant les réalités vécues par la population.",
+                    "source_passages": [
+                        "Ce programme permet ainsi de refléter le changement climatique vécu au quotidien par les Français.",
+                        "Grâce à une convergence inédite entre scientifiques et journalistes, plus de 200 experts de disciplines variées (climatologues, biologi 2026-10-20"
+                    ]
+                },
+                {
+                    "sentence": "Le projet a reçu en 2026 le prix de la diffusion des connaissances des Médailles de la médiation scientifique, co-organisées par le CNRS et France Universités.",
+                    "source_passages": [
+                        "Les projets distingués sont les suivants :Le Journal Météo-Climat est récompensé par le prix de la diffusion des connaissances Récif’Art reçoit le prix de la co-création des connaissances L’Odyssée musicale du cerveau remporte le prix du partage des connaissances La science questionne le monde et contribue à mieux le comprendre.",
+                        "» Prix de la diffusion des connaissances : Le Journal Météo-Climat : sanctuariser la place des faits scientifiques dans le débat sociétal Diffusé quotidiennement sur France Télévisions depuis mars 2023, Le Journal Météo Climat a transformé la manière dont le grand public appréhende les enjeux climatiques."
+                    ]
+                },
+                {
+                    "sentence": "Cette distinction reconnait la consolidation d’un espace d’échange où le climat est traité avec rigueur, contribuant à une meilleure compréhension collective des défis environnementaux.",
+                    "source_passages": [
+                        "» Prix de la diffusion des connaissances : Le Journal Météo-Climat : sanctuariser la place des faits scientifiques dans le débat sociétal Diffusé quotidiennement sur France Télévisions depuis mars 2023, Le Journal Météo Climat a transformé la manière dont le grand public appréhende les enjeux climatiques."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-27092b0fee64998a518b368d",
+            "subject_id": "news-bff73e62e8d76dc50dc9b17f27e1b4dc",
+            "collected_at": "2026-11-09T06:26:08+00:00",
+            "sources": [
+                {
+                    "label": "Good Good Good · publié le 2026-11-09",
+                    "url": "https://www.goodgoodgood.co/articles/virginia-ban-same-sex-marriage"
+                }
+            ],
+            "source_sha256": "02cf9874942d280fbdec30269a309422ebf145fcdb4c51bab39ede66d1405ae8",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Rally_for_LGBT_equality_and_same-sex_marriage_(4838408271).jpg",
+            "image_license": "CC BY 2.0 · https://creativecommons.org/licenses/by/2.0/",
+            "original_sha1": "9aec5e6e4df4c2dbda0a1359118d58e23bfee86b",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La Constitution de Virginie a été amendée pour supprimer officiellement l'interdiction du mariage entre personnes de même sexe.",
+                "beneficiaries": "Les couples de même sexe en Virginie, qui bénéficient désormais d'une reconnaissance constitutionnelle de leur droit au mariage."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "En novembre 2026, les électeurs de Virginie ont validé un amendement constitutionnel abolissant la clause qui définissait le mariage comme l'union entre un homme et une femme.",
+                    "source_passages": [
+                        "This story was originally published by The 19thVirginia voters on Tuesday approved a constitutional amendment officially repealing the state’s ban on same-sex marriage, nearly 20 years to the day after it was adopted in 2006.With more than 95 percent of the vote in, Virginia’s Question 2 passed with 57 percent of the vote, according to Decision Desk HQ.",
+                        "The 2006 measure, which legally defined marriage as a union between “one man and one woman,” also passed that year with 57 percent of the vote.The initiative’s success is a substantial victory for Virginia’s marriage equality advocates, who spent years lobbying the legislature to put the proposal before voters."
+                    ]
+                },
+                {
+                    "sentence": "Adopté à 57 % des voix, ce changement formalise dans la Constitution de l'État l'égalité matrimoniale, près de 20 ans après l'adoption de l'interdiction initiale en 2006.",
+                    "source_passages": [
+                        "This story was originally published by The 19thVirginia voters on Tuesday approved a constitutional amendment officially repealing the state’s ban on same-sex marriage, nearly 20 years to the day after it was adopted in 2006.With more than 95 percent of the vote in, Virginia’s Question 2 passed with 57 percent of the vote, according to Decision Desk HQ.",
+                        "The 2006 measure, which legally defined marriage as a union between “one man and one woman,” also passed that year with 57 percent of the vote.The initiative’s success is a substantial victory for Virginia’s marriage equality advocates, who spent years lobbying the legislature to put the proposal before voters."
+                    ]
+                },
+                {
+                    "sentence": "Cette démarche fait suite à un long travail des défenseurs des droits LGBTQ+, qui avaient persuadé la législature de soumettre la question au vote populaire.",
+                    "source_passages": [
+                        "The 2006 measure, which legally defined marriage as a union between “one man and one woman,” also passed that year with 57 percent of the vote.The initiative’s success is a substantial victory for Virginia’s marriage equality advocates, who spent years lobbying the legislature to put the proposal before voters."
+                    ]
+                },
+                {
+                    "sentence": "Même si la Cour suprême des États-Unis a rendu le mariage pour tous légal dès 2015, cette modification garantit la protection de ce droit au niveau étatique face aux incertitudes judiciaires récentes.",
+                    "source_passages": [
+                        "Just eight Republicans in the 140-seat legislature voted for the amendment when it came up for final passage in January.Virginia’s ban on gay marriage, like those in 24 other states, has not been enforceable since 2015, when the Supreme Court issued its landmark ruling in Obergefell v.",
+                        "Hodges that established a federal right to marry for same-sex couples.",
+                        "But state LGBTQ+ rights groups have argued that recent decisions and public statements by the court’s conservative majority put that right in jeopardy.The Supreme Court declined to take up a case challenging its same-sex marriage ruling last year, despite criticisms levied against it by two of its own justices, Clarence Thomas and Samuel Alito.",
+                        "In 2022, after the court overturned Roe v.",
+                        "Wade, the landmark 1973 decision that established the federal right to abortion, Thomas suggested the court “should reconsider” some of its other rulings, including Obergefell."
+                    ]
+                },
+                {
+                    "sentence": "Une large majorité de Virginien·ne·s soutient aujourd'hui le mariage pour tous, avec 68 % d'approbation en 2024.",
+                    "source_passages": [
+                        "In a 2024 survey, 68 percent of Virginians said same-sex couples should be able to marry legally.Republicans opposed to repealing the language in Virginia’s constitution had argued that the measure to do so was “radical and deceptive,” and tried to connect it to more politically divisive issues."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-e035406ee2072223d25560e1",
+            "subject_id": "news-d3be46be9f751bacc0b7c889a9bd83d0",
+            "collected_at": "2026-11-09T06:26:16+00:00",
+            "sources": [
+                {
+                    "label": "Good Good Good · publié le 2026-11-09",
+                    "url": "https://www.goodgoodgood.co/articles/missouri-voters-abortion-state"
+                }
+            ],
+            "source_sha256": "114aaae028c4ef557c28abd4d19c5487c8f5c770f66402bad8e079b36f86c095",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Number_of_abortion_clinics_in_Missouri_by_year.png",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "original_sha1": "8fbd345409e2d3fb6f287c5832ce1bb60b691084",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Les électeurs du Missouri ont rejeté une proposition visant à annuler les protections constitutionnelles de l'avortement, garantissant ainsi la poursuite de l'accès légal à cette procédure dans l'État.",
+                "beneficiaries": "Les femmes du Missouri, qui conservent le droit à l'avortement, malgré les tentatives d'interdire cette pratique et des soins affirmant le genre pour les mineurs."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Lors d’un vote récent, les électeurs du Missouri ont refusé la proposition d’amendement 3 qui aurait annulé les protections de l’avortement inscrites en constitution en 2024.",
+                    "source_passages": [
+                        "This story was originally published by The 19th‍Missouri voters rejected an effort to overturn their state’s abortion protections, according to a projection by Decision Desk HQ, ensuring that the procedure will remain legal and enshrined in the state constitution despite dedicated efforts by Republican leadership.Amendment 3 would have reversed the results of a 2024 vote that enshrined abortion protections into the state constitution and made Missouri the first state with a constitutional ban on the procedure.",
+                        "Amendment 3 was put forth by Republican lawmakers who, troubled by the 2024 vote’s results, hoped a second vote might result in the undoing of abortion rights."
+                    ]
+                },
+                {
+                    "sentence": "Cette mesure, portée par des élus républicains, cherchait aussi à interdire les soins d’affirmation de genre pour les mineurs, déjà illégaux dans l’État.",
+                    "source_passages": [
+                        "It would also have banned gender-affirming care for transgender minors, which is already illegal in the state.The measure’s failure offers a rebuke to efforts by Missouri’s Republican leaders, who largely oppose abortion.",
+                        "Amendment 3 was put forth by Republican lawmakers who, troubled by the 2024 vote’s results, hoped a second vote might result in the undoing of abortion rights."
+                    ]
+                },
+                {
+                    "sentence": "Pourtant, malgré une régulation stricte et la rareté des cliniques (uniquement une à Saint-Louis en 2022), les protections légales sont donc maintenues.",
+                    "source_passages": [
+                        "The number one piece of that is the trans issue.”The campaign also argued that the abortion protections enacted two years ago had made the procedure unregulated and dangerous, suggesting that the new ban would protect women and children.The reality, according to abortion providers in the state, has been different: Abortion has been highly regulated and only sporadically available.",
+                        "Wade in 2022, abortions in Missouri had become almost impossible to obtain, the result of a maze of restrictions enacted by the state’s conservative legislature.",
+                        "By 2022, only one clinic in the state offered abortion, in St."
+                    ]
+                },
+                {
+                    "sentence": "Ce résultat reflète un rejet des efforts pour restreindre davantage l’avortement, même si les débats sur les soins pour les jeunes transgenres restent divisés.",
+                    "source_passages": [
+                        "It would also have banned gender-affirming care for transgender minors, which is already illegal in the state.The measure’s failure offers a rebuke to efforts by Missouri’s Republican leaders, who largely oppose abortion."
+                    ]
+                },
+                {
+                    "sentence": "Un médecin de Planned Parenthood à Springfield souhaite étendre les services d’avortement, témoignant d’une demande existante.",
+                    "source_passages": [
+                        "Louis.“I would love to provide abortion services four to six days a week in Springfield,” Dr.",
+                        "Margaret Baum, the chief medical officer at Planned Parenthood Great Rivers, told The 19th at the end of August."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-189fc897d39bd7cd07b6df17",
+            "subject_id": "source-2a00809fd827c04c4410f4672904d941",
+            "collected_at": "2026-11-09T06:26:24+00:00",
+            "sources": [
+                {
+                    "label": "NOAA · What is a sponge?",
+                    "url": "https://oceanservice.noaa.gov/facts/sponge.html"
+                }
+            ],
+            "source_sha256": "e8d67d0d09a7290dbc69d953aab63e8c1fb1d70ed0d9499e89d3ff3e56e24866",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:FMIB_47826_Female_crab_bearing_what_is_known_to_be_at_least_the_second_sponge_Remnants_of_an_old_sponge_were_found_upon_the_swimmerets_when.jpeg",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "6c41f2b529ca6407a7a064912187ee85e0197302",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Les éponges contribuent à maintenir la qualité de l'eau et régulent les nutriments au sein des récifs coralliens.",
+                "beneficiaries": "Les écosystèmes des récifs coralliens et les organismes qui y vivent bénéficient de l'activité filtrante des éponges."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Les éponges, animaux aquatiques simples dotés d'un squelette poreux, jouent un rôle important pour les récifs coralliens.",
+                    "source_passages": [
+                        "Sponges — simple aquatic animals with dense, yet porous, skeletons — are highly adapted to their environments.",
+                        "Regardless of these differences, sponges are important inhabitants of coral reef ecosystems."
+                    ]
+                },
+                {
+                    "sentence": "Leur diversité de formes et couleurs participe à la complexité des habitats sous-marins.",
+                    "source_passages": [
+                        "A variety of sponges dot the seascape of Flower Garden Banks National Marine Sanctuary.",
+                        "From round to encrusting to branching, the colors and textures of sponges add to the complexity of the reef.",
+                        "Sponges are found in a wide variety of colors, shapes, and sizes and are often mistaken for plants."
+                    ]
+                },
+                {
+                    "sentence": "En filtrant l'eau, elles piègent bactéries et particules, filtrant ensuite le carbone, l'azote et le phosphore.",
+                    "source_passages": [
+                        "A diverse sponge population can affect water quality on the reef as the sponges filter water, collect bacteria, and process carbon, nitrogen, and phosphorus.",
+                        "As water filters through a sponge’s porous exterior, the sponge gains some motion, receives food and oxygen, and dispels waste.",
+                        "Inside the sponge, tiny hairlike structures called flagella create currents to filter bacteria out of the sponge’s cells and trap food within them.",
+                        "Their strong skeletal structures help sponges withstand the high volume of water that flows through them each day."
+                    ]
+                },
+                {
+                    "sentence": "Certaines espèces, notamment dans les récifs pauvres en nutriments, libèrent du carbone transformé, ce qui nourrit d’autres organismes et préserve la productivité de l’écosystème.",
+                    "source_passages": [
+                        "In nutrient-depleted coral reefs, some sponge species are thought to make carbon biologically available by excreting a form of “sponge poop” that other organisms feed on, thereby fueling productivity throughout the ecosystem."
+                    ]
+                },
+                {
+                    "sentence": "Ce mécanisme aide à stabiliser la disponibilité des nutriments, la température et la luminosité, conditions cruciales pour la vie sur les récifs.",
+                    "source_passages": [
+                        "In this way, sponges protect the reef against extreme fluctuations in nutrient density, temperature, and light, benefiting the survival of other reef organisms."
+                    ]
+                },
+                {
+                    "sentence": "Cette capacité d’adaptation des éponges à différents substrats, qu’ils soient durs ou meubles, contribue à leur rôle stabilisateur dans ces milieux fragiles.",
+                    "source_passages": [
+                        "A sponge’s skeletal type adapts well to its particular habitat, allowing it to live on hard, rocky surfaces or soft sediments such as sand and mud.",
+                        "Some sponges even attach themselves to floating debris!"
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-4c0e9f70784c0153e7372a1e",
+            "subject_id": "Q3280777",
+            "collected_at": "2026-11-09T06:26:31+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Makila",
+                    "url": "https://fr.wikipedia.org/wiki/Makila"
+                }
+            ],
+            "source_sha256": "9ec27044365d4224c80ee30bbb3fb5b9f6b13ea8d2cb09fc1bb7ce1125c52087",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Makhila.JPG",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "original_sha1": "dc04508e34c4b77a6873d578310bca0cbf586c17",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Le savoir-faire de la fabrication du makila a été préservé sur plusieurs générations au Pays basque français.",
+                "beneficiaries": "Les artisans et les habitants du Pays basque, ainsi que les amateurs de cette tradition basque."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Le makila, bâton de marche traditionnel basque doublé d’une arme, témoigne d’un artisanat local transmis depuis au moins sept générations.",
+                    "source_passages": [
+                        "nécessaire] Un des plus anciens ateliers de fabrication, encore en activité, l'Atelier Ainciart Bergara, situé à Larressore, village du Pays basque français (Pyrénées-Atlantiques), produit des makilas depuis 7 générations."
+                    ]
+                },
+                {
+                    "sentence": "Principalement issu de Soule et de Basse-Navarre, cet objet personnel est fabriqué notamment à Larressore, au sein de l’atelier Ainciart Bergara, toujours en activité.",
+                    "source_passages": [
+                        "Il semble être originaire de Soule et de Basse-Navarre.[réf.",
+                        "nécessaire] Un des plus anciens ateliers de fabrication, encore en activité, l'Atelier Ainciart Bergara, situé à Larressore, village du Pays basque français (Pyrénées-Atlantiques), produit des makilas depuis 7 générations."
+                    ]
+                },
+                {
+                    "sentence": "Ce bâton, souvent offert en signe d’honneur, combine utilité et symbolique culturelle.",
+                    "source_passages": [
+                        "Il peut aussi être offert en signe d'honneur.",
+                        "Le makila ou makhila est un bâton de marche doublé d'une arme appartenant à la culture et à la tradition basques."
+                    ]
+                },
+                {
+                    "sentence": "À Bayonne et Irun, d’autres ateliers contribuent également à cette continuité artisanale.",
+                    "source_passages": [
+                        "D'autres ateliers existent au Pays basque, notamment à Bayonne et à Irun."
+                    ]
+                },
+                {
+                    "sentence": "Cette permanence du savoir-faire garantit que le makila reste un élément vivant de la culture basque, adapté aux pratiquants par sa longueur et son équilibre.",
+                    "source_passages": [
+                        "Le makila est un objet usuel personnel dont la longueur doit être adaptée à la taille de la personne.",
+                        "nécessaire] Un des plus anciens ateliers de fabrication, encore en activité, l'Atelier Ainciart Bergara, situé à Larressore, village du Pays basque français (Pyrénées-Atlantiques), produit des makilas depuis 7 générations."
+                    ]
+                },
+                {
+                    "sentence": "Ainsi, la tradition artisanale accompagne aujourd’hui une pratique et une reconnaissance locale consolidées.",
+                    "source_passages": [
+                        "nécessaire] Un des plus anciens ateliers de fabrication, encore en activité, l'Atelier Ainciart Bergara, situé à Larressore, village du Pays basque français (Pyrénées-Atlantiques), produit des makilas depuis 7 générations."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        }
+    ]
+}

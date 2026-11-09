@@ -1,0 +1,161 @@
+{
+    "schema_version": 1,
+    "id": "generated-04897bb93db6580e0041",
+    "version": "1",
+    "articles": [
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-4e1019b45e711fe0904b2247",
+            "title": "Le Nouveau-Mexique et le Minnesota élisent pour la première fois des femmes amérindiennes à des postes clés",
+            "body": "Lors des élections de mi-mandat, Deb Haaland, membre de la tribu Laguna Pueblo, devient la première gouverneure amérindienne après sa victoire au Nouveau-Mexique. Elle succède à d'autres femmes ayant dirigé l'État et s'engage notamment sur l'amélioration de l’éducation publique et la maîtrise du coût de la vie. Par ailleurs, Peggy Flanagan, appartenant à la nation Ojibwe, remporte un siège de sénatrice américaine pour le Minnesota, devenant la première femme amérindienne au Sénat. Ces succès électoraux donnent davantage de poids politique aux communautés autochtones, qui représentent environ 1,5 % de la population américaine. Ces élues ont déjà poursuivi des actions pour contrer la violence envers les femmes amérindiennes, un enjeu important au sein de leurs mandats.",
+            "category": "Initiatives positives",
+            "location": "États-Unis",
+            "image_description": "Photographie couleur montrant une femme amérindienne dans un camp avec des étals de viande séchée.",
+            "image_caption": "Photographie documentaire générale d'une femme amérindienne dans un camp avec des étals de viande séchée, illustration générale de la représentation native en politique. Source : Wikimedia Commons, domaine public.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/59308bbbe293a1f55281b5fde9029ec67fdde0e52ce6ecd296b7adfd44a74080.jpg",
+            "image_credit": "Unknown authorUnknown author · This file was donated to Wikimedia Commons as part of a project by the Metropolitan Museum of Art. See the Image and Data Resources Open Access Policy · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC0 · https://creativecommons.org/publicdomain/zero/1.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:-Native_American_Woman_in_Camp_with_Racks_of_Drying_Meat-_MET_DP115226.jpg",
+            "sources": [
+                {
+                    "label": "Good Good Good · publié le 2026-11-09",
+                    "url": "https://www.goodgoodgood.co/articles/minnesota-new-mexico-native-american"
+                }
+            ],
+            "subject_id": "news-7cb161c7152a0d8ac3445a007f21b7fb",
+            "published_at": "2026-11-09",
+            "country": "Monde",
+            "source_published_at": "2026-11-09"
+        },
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-d7629f8ce18307bc070465ed",
+            "title": "Le Journal Météo-Climat transforme le débat public sur le climat grâce à une médiation scientifique renforcée",
+            "body": "Depuis mars 2023, Le Journal Météo-Climat diffusé chaque jour sur France Télévisions, a modifié l’approche médiatique du changement climatique. Ce programme pionnier s’appuie sur un partenariat inédit entre journalistes et scientifiques, mobilisant plus de 200 experts pour assurer la qualité et la précision des informations transmises. Cette collaboration permet d’intégrer systématiquement des données scientifiques dans les bulletins météo, reflétant les réalités vécues par la population. Le projet a reçu en 2026 le prix de la diffusion des connaissances des Médailles de la médiation scientifique, co-organisées par le CNRS et France Universités. Cette distinction reconnait la consolidation d’un espace d’échange où le climat est traité avec rigueur, contribuant à une meilleure compréhension collective des défis environnementaux.",
+            "category": "Sciences",
+            "location": "Monde",
+            "image_description": "Une image illustrant le climat et la météo, composée de représentations graphiques et nuages.",
+            "image_caption": "Illustration documentaire générale sur le climat et la météo, image Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/a3f893655aaf72045ee5cb42b79321863a7e579a1743ea4369fc60e3287f1967.jpg",
+            "image_credit": "Murekatete3000 · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Climate_and_weather.jpg",
+            "sources": [
+                {
+                    "label": "CNRS · presse · publié le 2026-10-20",
+                    "url": "https://www.cnrs.fr/fr/presse/medailles-de-la-mediation-scientifique-le-cnrs-et-france-universites-annoncent-les-laureats"
+                }
+            ],
+            "subject_id": "news-14d79ccd973dfa7a6825e611c0488a41",
+            "published_at": "2026-11-09",
+            "country": "Monde",
+            "source_published_at": "2026-10-20"
+        },
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-27092b0fee64998a518b368d",
+            "title": "La Virginie retire l'interdiction constitutionnelle du mariage pour tous",
+            "body": "En novembre 2026, les électeurs de Virginie ont validé un amendement constitutionnel abolissant la clause qui définissait le mariage comme l'union entre un homme et une femme. Adopté à 57 % des voix, ce changement formalise dans la Constitution de l'État l'égalité matrimoniale, près de 20 ans après l'adoption de l'interdiction initiale en 2006. Cette démarche fait suite à un long travail des défenseurs des droits LGBTQ+, qui avaient persuadé la législature de soumettre la question au vote populaire. Même si la Cour suprême des États-Unis a rendu le mariage pour tous légal dès 2015, cette modification garantit la protection de ce droit au niveau étatique face aux incertitudes judiciaires récentes. Une large majorité de Virginien·ne·s soutient aujourd'hui le mariage pour tous, avec 68 % d'approbation en 2024.",
+            "category": "Initiatives positives",
+            "location": "Virginie, États-Unis",
+            "image_description": "Manifestation pour l'égalité des droits LGBT et le mariage entre personnes de même sexe à St. Paul, Minnesota, en 2010.",
+            "image_caption": "Illustration documentaire générale. Rassemblement pour l'égalité des droits LGBT, St. Paul (Minnesota), 28 juillet 2010. Photo documentaire Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/aa62a6c1314a1d8598cc8407e48ea6c3110fd9b2274b415e937019fdae3c077f.jpg",
+            "image_credit": "Fibonacci Blue · https://www.flickr.com/photos/fibonacciblue/4838408271/ · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY 2.0 · https://creativecommons.org/licenses/by/2.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Rally_for_LGBT_equality_and_same-sex_marriage_(4838408271).jpg",
+            "sources": [
+                {
+                    "label": "Good Good Good · publié le 2026-11-09",
+                    "url": "https://www.goodgoodgood.co/articles/virginia-ban-same-sex-marriage"
+                }
+            ],
+            "subject_id": "news-bff73e62e8d76dc50dc9b17f27e1b4dc",
+            "published_at": "2026-11-09",
+            "country": "Monde",
+            "source_published_at": "2026-11-09"
+        },
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-e035406ee2072223d25560e1",
+            "title": "Au Missouri, les protections de l’avortement maintenues après un vote opposé à une nouvelle interdiction",
+            "body": "Lors d’un vote récent, les électeurs du Missouri ont refusé la proposition d’amendement 3 qui aurait annulé les protections de l’avortement inscrites en constitution en 2024. Cette mesure, portée par des élus républicains, cherchait aussi à interdire les soins d’affirmation de genre pour les mineurs, déjà illégaux dans l’État. Pourtant, malgré une régulation stricte et la rareté des cliniques (uniquement une à Saint-Louis en 2022), les protections légales sont donc maintenues. Ce résultat reflète un rejet des efforts pour restreindre davantage l’avortement, même si les débats sur les soins pour les jeunes transgenres restent divisés. Un médecin de Planned Parenthood à Springfield souhaite étendre les services d’avortement, témoignant d’une demande existante.",
+            "category": "Initiatives positives",
+            "location": "Missouri, États-Unis",
+            "image_description": "Graphique montrant le nombre de cliniques d’avortement dans le Missouri au fil des années, illustrant une diminution progressive avec un seul centre restant en 2022.",
+            "image_caption": "Illustration documentaire générale : évolution du nombre des cliniques d’avortement dans le Missouri par année selon Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/62afd548d3dc485bac7e2e26799e9e8e2b8e94b846226bcf688ab1a019479d48.jpg",
+            "image_credit": "LauraHale · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Number_of_abortion_clinics_in_Missouri_by_year.png",
+            "sources": [
+                {
+                    "label": "Good Good Good · publié le 2026-11-09",
+                    "url": "https://www.goodgoodgood.co/articles/missouri-voters-abortion-state"
+                }
+            ],
+            "subject_id": "news-d3be46be9f751bacc0b7c889a9bd83d0",
+            "published_at": "2026-11-09",
+            "country": "Monde",
+            "source_published_at": "2026-11-09"
+        },
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "daily",
+            "id": "decouverte-189fc897d39bd7cd07b6df17",
+            "title": "Les éponges, alliées essentielles de l'équilibre des récifs coralliens",
+            "body": "Les éponges, animaux aquatiques simples dotés d'un squelette poreux, jouent un rôle important pour les récifs coralliens. Leur diversité de formes et couleurs participe à la complexité des habitats sous-marins. En filtrant l'eau, elles piègent bactéries et particules, filtrant ensuite le carbone, l'azote et le phosphore. Certaines espèces, notamment dans les récifs pauvres en nutriments, libèrent du carbone transformé, ce qui nourrit d’autres organismes et préserve la productivité de l’écosystème. Ce mécanisme aide à stabiliser la disponibilité des nutriments, la température et la luminosité, conditions cruciales pour la vie sur les récifs. Cette capacité d’adaptation des éponges à différents substrats, qu’ils soient durs ou meubles, contribue à leur rôle stabilisateur dans ces milieux fragiles.",
+            "category": "Nature et animaux",
+            "location": "Monde",
+            "image_description": "Une femelle crabe portant une éponge accrochée à ses pléopodes, observée dans la rivière de Hampton en 1921.",
+            "image_caption": "Photographie documentaire générale montrant une éponge fixée sur un crabe, illustration de l’interaction entre éponges et espèces marines. Crédit : Churchill, E. P., Jr. (1921), Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/039d6c8b3d49a0cc07bba50e3def1056a574521ea9b599385c9c5ea95f38cdb4.jpg",
+            "image_credit": "Churchill, E. P., Jr. · Churchill, E. P., Jr. (1921) Life History of the Blue Crab, Bulletin of the United States Bureau of Fisheries, vol. 36, 1917-1918, Washington, D.C.: Government Printing Office · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:FMIB_47826_Female_crab_bearing_what_is_known_to_be_at_least_the_second_sponge_Remnants_of_an_old_sponge_were_found_upon_the_swimmerets_when.jpeg",
+            "sources": [
+                {
+                    "label": "NOAA · What is a sponge?",
+                    "url": "https://oceanservice.noaa.gov/facts/sponge.html"
+                }
+            ],
+            "subject_id": "source-2a00809fd827c04c4410f4672904d941",
+            "published_at": "2026-11-09",
+            "country": "Monde"
+        },
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "daily",
+            "id": "decouverte-4c0e9f70784c0153e7372a1e",
+            "title": "Au Pays basque français, la fabrication du makila se perpétue par des ateliers familiaux",
+            "body": "Le makila, bâton de marche traditionnel basque doublé d’une arme, témoigne d’un artisanat local transmis depuis au moins sept générations. Principalement issu de Soule et de Basse-Navarre, cet objet personnel est fabriqué notamment à Larressore, au sein de l’atelier Ainciart Bergara, toujours en activité. Ce bâton, souvent offert en signe d’honneur, combine utilité et symbolique culturelle. À Bayonne et Irun, d’autres ateliers contribuent également à cette continuité artisanale. Cette permanence du savoir-faire garantit que le makila reste un élément vivant de la culture basque, adapté aux pratiquants par sa longueur et son équilibre. Ainsi, la tradition artisanale accompagne aujourd’hui une pratique et une reconnaissance locale consolidées.",
+            "category": "Gastronomie et traditions",
+            "location": "Pays basque français",
+            "image_description": "Bâton de marche basque makila fabriqué à Larressore, France, par l’atelier Aincart Bergara, présenté sur Wikimedia Commons.",
+            "image_caption": "Illustration générale d’un makila, bâton de marche traditionnel basque. Photo par Jibi44, Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/4759d8d3b81bc0087cf0b19c93733e92dbc8a291c031ffc8ba83fc50b3b1205b.jpg",
+            "image_credit": "No machine-readable author provided. Jibi44 assumed (based on copyright claims). · No machine-readable source provided. Own work assumed (based on copyright claims). · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Makhila.JPG",
+            "sources": [
+                {
+                    "label": "Wikipédia · Makila",
+                    "url": "https://fr.wikipedia.org/wiki/Makila"
+                }
+            ],
+            "subject_id": "Q3280777",
+            "published_at": "2026-11-09",
+            "country": "France"
+        }
+    ]
+}
