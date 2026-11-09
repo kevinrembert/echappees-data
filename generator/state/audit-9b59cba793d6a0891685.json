@@ -1,0 +1,61 @@
+{
+    "schema_version": 1,
+    "articles": [
+        {
+            "id": "decouverte-b21967ce1009d9cf59400de9",
+            "subject_id": "news-44a953e695129af2b3eaffe2e0c730ae",
+            "collected_at": "2026-11-09T18:48:00+00:00",
+            "sources": [
+                {
+                    "label": "Good Good Good · publié le 2026-11-09",
+                    "url": "https://www.goodgoodgood.co/articles/australia-intersex-surgeries-infants-ban"
+                }
+            ],
+            "source_sha256": "f1c7fe8f5064bd40bb868d7bf5afa9765d6a9574b3bb38d613fbd14949d99c3c",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:LNER_Together_Pride_train_801226_at_KGX,_Intersex_Progress_flag_coach_A_08.jpg",
+            "image_license": "CC0 · https://creativecommons.org/publicdomain/zero/1.0/",
+            "original_sha1": "7ed3e2dfdd19b732a3aaa4243bb5e754dac020b4",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "L'État australien de Victoria a interdit les opérations chirurgicales correctives non nécessaires sur les enfants intersexués, premières lois de ce type dans ce pays.",
+                "beneficiaries": "Les enfants intersexués de Victoria, qui sont ainsi protégés contre des interventions chirurgicales précoces aux conséquences parfois lourdes."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Alors que 80 % du monde autorisent encore les interventions chirurgicales sur les enfants intersexués, l'État australien de Victoria a pris une mesure concrète en interdisant les opérations correctives non essentielles sur ces enfants.",
+                    "source_passages": [
+                        "While some early surgeries have been considered medically successful, others have led to lifelong consequences, including risk of repeat surgeries, urinary tract issues, loss of reproductive function, and infertility.Vidal Balielo Jr./PexelsDespite their controversial nature, intersex surgeries on infants are legal in 80% of the world.However, in February, the Australian state of Victoria joined Uruguay, Portugal, Iceland, Germany, and others in banning unnecessary surgeries on intersex children, the first state in the country to enact such a ban."
+                    ]
+                },
+                {
+                    "sentence": "Cette avancée rejoint des pays comme l'Islande, le Portugal ou l'Allemagne, qui protègent déjà les droits des personnes intersexuées en évitant les actes chirurgicaux précoces.",
+                    "source_passages": [
+                        "While some early surgeries have been considered medically successful, others have led to lifelong consequences, including risk of repeat surgeries, urinary tract issues, loss of reproductive function, and infertility.Vidal Balielo Jr./PexelsDespite their controversial nature, intersex surgeries on infants are legal in 80% of the world.However, in February, the Australian state of Victoria joined Uruguay, Portugal, Iceland, Germany, and others in banning unnecessary surgeries on intersex children, the first state in the country to enact such a ban."
+                    ]
+                },
+                {
+                    "sentence": "Jusqu'ici, ces interventions sur des nourrissons pouvaient entraîner des complications à long terme, dont la perte de fonction reproductive.",
+                    "source_passages": [
+                        "While some early surgeries have been considered medically successful, others have led to lifelong consequences, including risk of repeat surgeries, urinary tract issues, loss of reproductive function, and infertility.Vidal Balielo Jr./PexelsDespite their controversial nature, intersex surgeries on infants are legal in 80% of the world.However, in February, the Australian state of Victoria joined Uruguay, Portugal, Iceland, Germany, and others in banning unnecessary surgeries on intersex children, the first state in the country to enact such a ban."
+                    ]
+                },
+                {
+                    "sentence": "Le texte législatif adopté témoigne d'une approche renouvelée, posant la question de l'autodétermination dans le développement des caractéristiques sexuelles.",
+                    "source_passages": [
+                        "“Procedures that alter sex characteristics raise profound and deeply personal questions — questions that I wish I had [had] the chance to answer for myself,” Tony Briffa, an advocate for intersex people in Victoria, told the Guardian.",
+                        "“I have spent 25 years fighting to see these reforms make it to parliament to protect future generations of intersex children in Victoria.”‍A version of this article originally appeared in the 2026 Pride Edition of the Good Newspaper."
+                    ]
+                },
+                {
+                    "sentence": "On observe dans cette initiative une volonté de limiter des décisions irréversibles avant que les enfants puissent elles-mêmes exprimer leur consentement.",
+                    "source_passages": [
+                        "“Procedures that alter sex characteristics raise profound and deeply personal questions — questions that I wish I had [had] the chance to answer for myself,” Tony Briffa, an advocate for intersex people in Victoria, told the Guardian.",
+                        "“I have spent 25 years fighting to see these reforms make it to parliament to protect future generations of intersex children in Victoria.”‍A version of this article originally appeared in the 2026 Pride Edition of the Good Newspaper."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        }
+    ]
+}

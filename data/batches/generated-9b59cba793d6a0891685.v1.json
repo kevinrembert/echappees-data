@@ -1,0 +1,33 @@
+{
+    "schema_version": 1,
+    "id": "generated-9b59cba793d6a0891685",
+    "version": "1",
+    "articles": [
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-b21967ce1009d9cf59400de9",
+            "title": "Victorie restreint la chirurgie précoce sur les enfants intersexués pour mieux protéger leur intégrité",
+            "body": "Alors que 80 % du monde autorisent encore les interventions chirurgicales sur les enfants intersexués, l'État australien de Victoria a pris une mesure concrète en interdisant les opérations correctives non essentielles sur ces enfants. Cette avancée rejoint des pays comme l'Islande, le Portugal ou l'Allemagne, qui protègent déjà les droits des personnes intersexuées en évitant les actes chirurgicaux précoces. Jusqu'ici, ces interventions sur des nourrissons pouvaient entraîner des complications à long terme, dont la perte de fonction reproductive. Le texte législatif adopté témoigne d'une approche renouvelée, posant la question de l'autodétermination dans le développement des caractéristiques sexuelles. On observe dans cette initiative une volonté de limiter des décisions irréversibles avant que les enfants puissent elles-mêmes exprimer leur consentement.",
+            "category": "Initiatives positives",
+            "location": "Victoria, Australie",
+            "image_description": "Voiture A du train \"Together\" de LNER arborant le drapeau progressiste intersexe lors d'un passage à King's Cross.",
+            "image_caption": "Illustration documentaire générale : le train LNER \"Together\" au drapeau progressiste intersexe, photographie Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/31027d0564c22eae6f2d65a47e35c1f2295a10955cda0eb755608d28de3bd796.jpg",
+            "image_credit": "TheFrog001 · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC0 · https://creativecommons.org/publicdomain/zero/1.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:LNER_Together_Pride_train_801226_at_KGX,_Intersex_Progress_flag_coach_A_08.jpg",
+            "sources": [
+                {
+                    "label": "Good Good Good · publié le 2026-11-09",
+                    "url": "https://www.goodgoodgood.co/articles/australia-intersex-surgeries-infants-ban"
+                }
+            ],
+            "subject_id": "news-44a953e695129af2b3eaffe2e0c730ae",
+            "published_at": "2026-11-09",
+            "country": "Monde",
+            "source_published_at": "2026-11-09"
+        }
+    ]
+}
