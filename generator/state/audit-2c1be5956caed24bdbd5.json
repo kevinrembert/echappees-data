@@ -1,0 +1,182 @@
+{
+    "schema_version": 1,
+    "articles": [
+        {
+            "id": "decouverte-81100881f85fb40a0d2c7f41",
+            "subject_id": "news-74c68882951d4656739f32bb6287aaff",
+            "collected_at": "2026-11-10T07:17:19+00:00",
+            "sources": [
+                {
+                    "label": "CNRS · presse · publié le 2026-10-19",
+                    "url": "https://www.cnrs.fr/fr/presse/cancer-de-lovaire-des-cellules-tumorales-configurees-pour-resister-aux-traitements-0"
+                }
+            ],
+            "source_sha256": "b14b609f12bb7d32343649e0e9a76e210de214c7437de2f44e353c39580510e1",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:GEOProfile_Ovarian_Cancer_Cell_FAM149B1.png",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "original_sha1": "45cd8a2e330c2972fc86e1eb4911308b7dea90d7",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Une méthode de séquençage cellule par cellule a permis d’identifier chez des patientes atteintes d’un cancer séreux de haut grade de l’ovaire des états cellulaires épigénétiques associés à la résistance à la chimiothérapie.",
+                "beneficiaries": "Les patientes atteintes de ce type de cancer ovarien, grâce à une meilleure anticipation des réponses au traitement."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Des chercheurs du CNRS, de l’Institut Curie et de Sorbonne Université ont suivi, cellule par cellule, l’évolution des tumeurs de patientes atteintes d’un cancer séreux de haut grade de l’ovaire avant et après chimiothérapie.",
+                    "source_passages": [
+                        "C’est ce que suggèrent des scientifiques du CNRS, de l’Institut Curie, de Sorbonne Université et de la start-up One Biosciences dans une étude parue dans Cancer Discovery le 19 octobre 2026.",
+                        "En suivant cellule par cellule l’évolution de la composition des tumeurs de patientes atteintes d’un cancer séreux de haut grade de l’ovaire avant et après traitement, les scientifiques ont identifié des états cellulaires associés à la chimiorésistance et découvert que certaines cellules tumorales sont « configurées » pour résister avant même le début du traitement.",
+                        "Cette étude a été menée en collaboration avec la start-up One Biosciences3, spin-off de l’Institut Curie co-fondée par la chercheuse du CNRS médaillée de l’innovation du CNRS en 20224 Céline Vallot, porteuse de cette étude.Une approche innovante pour suivre l’évolution de la tumeur sous traitementExpérimentée dans un premier temps sur 150 biopsies tumorales issues de biobanques, cette méthode d’analyse a ensuite été employée pour le suivi de 16 patientes dans le cadre de l’étude longitudinale SCANDARE5, avant et après traitement, sur une période de 3 à 6 mois."
+                    ]
+                },
+                {
+                    "sentence": "Ils ont identifié des groupes de cellules tumorales qui, par leur état épigénétique spécifique, sont configurées pour résister au traitement.",
+                    "source_passages": [
+                        "En suivant cellule par cellule l’évolution de la composition des tumeurs de patientes atteintes d’un cancer séreux de haut grade de l’ovaire avant et après traitement, les scientifiques ont identifié des états cellulaires associés à la chimiorésistance et découvert que certaines cellules tumorales sont « configurées » pour résister avant même le début du traitement.",
+                        "Or, cette diversité ne se résume pas aux différences génétiques : des cellules tumorales présentant un patrimoine génétique proche peuvent avoir des fonctions différentes selon les gènes qu’elles expriment et leur état épigénétique1."
+                    ]
+                },
+                {
+                    "sentence": "Cette découverte résulte d’une technique de séquençage innovante appliquée sur 150 biopsies à partir de biobanques, puis suivie longitudinalement sur 16 patientes.",
+                    "source_passages": [
+                        "Pour caractériser cette diversité, une équipe de recherche2 du CNRS, de l’Institut Curie et de Sorbonne Université a utilisé une approche de séquençage à l’échelle du noyau unique, permettant d’analyser individuellement les cellules tumorales et de suivre l’évolution de leurs caractéristiques moléculaires.",
+                        "Cette étude a été menée en collaboration avec la start-up One Biosciences3, spin-off de l’Institut Curie co-fondée par la chercheuse du CNRS médaillée de l’innovation du CNRS en 20224 Céline Vallot, porteuse de cette étude.Une approche innovante pour suivre l’évolution de la tumeur sous traitementExpérimentée dans un premier temps sur 150 biopsies tumorales issues de biobanques, cette méthode d’analyse a ensuite été employée pour le suivi de 16 patientes dans le cadre de l’étude longitudinale SCANDARE5, avant et après traitement, sur une période de 3 à 6 mois."
+                    ]
+                },
+                {
+                    "sentence": "Les observations montrent qu’en cas de réponse au traitement, les cellules en division diminuent, tandis qu’en cas de résistance, certaines populations cellulaires augmentent et activent des fonctions protectrices.",
+                    "source_passages": [
+                        "Chez les patientes dont la tumeur répondait au traitement, les scientifiques ont observé une diminution, voire une disparition des cellules tumorales en cours de division, ainsi que de celles activant des programmes de réponse à l’interféron, un ensemble de molécules jouant un rôle important dans les réponses immunitaires de l’organisme.",
+                        "À l’inverse, chez les patientes présentant une résistance au traitement, certaines populations de cellules tumorales devenaient plus abondantes et activaient des fonctions associées à la résistance, 2026-10-19"
+                    ]
+                },
+                {
+                    "sentence": "Ce travail ouvre la voie à des outils capables de prédire la réponse au traitement dès le diagnostic.",
+                    "source_passages": [
+                        "Ces résultats ouvrent des perspectives pour développer des outils capables d’identifier, dès le diagnostic, les patientes susceptibles de moins bien répondre à la chimiothérapie."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-27dd0d833977451bf23932b1",
+            "subject_id": "source-afdfbd2dfe4f91336e079a9a44054c26",
+            "collected_at": "2026-11-10T07:17:36+00:00",
+            "sources": [
+                {
+                    "label": "NOAA · What is a dead zone?",
+                    "url": "https://oceanservice.noaa.gov/facts/deadzone.html"
+                }
+            ],
+            "source_sha256": "b33188fc34adf850741dc42d70aa318aa12f01fb96da27619a09a519c7c7f971",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Not_what_it_seems_(2707915582).jpg",
+            "image_license": "CC BY 2.0 · https://creativecommons.org/licenses/by/2.0/",
+            "original_sha1": "3b87ea1f4e7c23e055dd8fd61f3a516342af3891",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La taille de la zone hypoxique (« zone morte ») dans le golfe d'Amérique a atteint en 2026 la deuxième surface la plus petite jamais mesurée en quarante ans, avec 1 332 milles carrés.",
+                "beneficiaries": "les écosystèmes marins du golfe d'Amérique et les espèces aquatiques qui y vivent"
+            },
+            "fact_checks": [
+                {
+                    "sentence": "En 2026, la zone hypoxique correspondant à une faible teneur en oxygène dissous dans l'eau — souvent appelée « zone morte » — dans le golfe d'Amérique a été mesurée à 1 332 milles carrés.",
+                    "source_passages": [
+                        "\"Dead zone\" is a more common term for hypoxia, which refers to a reduced level of oxygen in the water.",
+                        "At 1,332 square miles, the 2026 hypoxic zone in the Gulf of America (formerly Gulf of Mexico) is the 2nd smallest ever measured in the 40-year record, measured from July 24 to July 30, 2026."
+                    ]
+                },
+                {
+                    "sentence": "Cette surface est la deuxième plus petite enregistrée depuis le début des mesures en 1985.",
+                    "source_passages": [
+                        "At 1,332 square miles, the 2026 hypoxic zone in the Gulf of America (formerly Gulf of Mexico) is the 2nd smallest ever measured in the 40-year record, measured from July 24 to July 30, 2026.",
+                        "(Bottom panel) Long-term measured size of the hypoxic zone (green bars) measured during the ship surveys since 1985, including the target goal established by the Mississippi River/Gulf of America Hypoxia Task Force and the 5-year average measured size (black dashed lines)."
+                    ]
+                },
+                {
+                    "sentence": "Ce phénomène, causé principalement par un excès de nutriments issus des activités humaines, entraîne la prolifération d'algues qui, en décomposant, consomment l'oxygène nécessaire à la vie marine.",
+                    "source_passages": [
+                        "Hypoxic zones can occur naturally, but scientists are concerned about the areas created or enhanced by human activity.",
+                        "There are many physical, chemical, and biological factors that combine to create dead zones, but nutrient pollution is the primary cause of those zones created by humans.",
+                        "Excess nutrients that run off land or are piped as wastewater into rivers and coasts can stimulate an overgrowth of algae, which then sinks and decomposes in the water.",
+                        "The decomposition process consumes oxygen and depletes the supply available to healthy marine life."
+                    ]
+                },
+                {
+                    "sentence": "La réduction observée en 2026 indique une amélioration temporaire des conditions, dont bénéficient directement les habitats marins et les espèces aquatiques qui peuvent ainsi maintenir leur activité dans cette zone.",
+                    "source_passages": [
+                        "At 1,332 square miles, the 2026 hypoxic zone in the Gulf of America (formerly Gulf of Mexico) is the 2nd smallest ever measured in the 40-year record, measured from July 24 to July 30, 2026.",
+                        "Credit: NOAA/LSU Less oxygen dissolved in the water is often referred to as a “dead zone” because most marine life either dies, or, if they are mobile such as fish, leave the area.",
+                        "Habitats that would normally be teeming with life become, essentially, biological deserts."
+                    ]
+                },
+                {
+                    "sentence": "La surveillance de cette dynamique est essentielle pour comprendre et limiter l'impact de la pollution nutrientielle sur ces écosystèmes.",
+                    "source_passages": [
+                        "There are many physical, chemical, and biological factors that combine to create dead zones, but nutrient pollution is the primary cause of those zones created by humans."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-7d1e5770c2c9b700e2c91712",
+            "subject_id": "Q1570460",
+            "collected_at": "2026-11-10T07:17:42+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Parc naturel régional de Camargue",
+                    "url": "https://fr.wikipedia.org/wiki/Parc_naturel_r%C3%A9gional_de_Camargue"
+                }
+            ],
+            "source_sha256": "17981972f99cdc82b6d1c1e90adca34e8cea9d0eb9d75e026e59a5c88206e6a7",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Camargue_fg01.jpg",
+            "image_license": "CC BY-SA 2.5 · https://creativecommons.org/licenses/by-sa/2.5/",
+            "original_sha1": "8a801ddff71a6dfd49c36b521ad0f749519efb1b",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La Camargue bénéficie d’une protection renforcée depuis la création d’une réserve naturelle nationale en 1975, contribuant à la préservation d’oiseaux migrateurs et hivernants.",
+                "beneficiaries": "Les oiseaux, notamment les hivernants et le flamant rose, ainsi que les milieux naturels de la Camargue."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Le parc naturel régional de Camargue, situé dans le sud de la France, comprend une vaste zone protégée classée réserve naturelle nationale depuis 1975.",
+                    "source_passages": [
+                        "L'arrêté ministériel en date du 24 avril 1975 classe officiellement la Camargue en réserve naturelle nationale."
+                    ]
+                },
+                {
+                    "sentence": "Cette réserve, gérée par la Société nationale de protection de la nature, couvre plus de 13 000 hectares, principalement autour de l'étang de Vaccarès.",
+                    "source_passages": [
+                        "Elle est gérée par la Société nationale de protection de la nature.",
+                        "La zone protégée, essentiellement celle de l'étang de Vaccarès, couvre 13 117 hectares."
+                    ]
+                },
+                {
+                    "sentence": "Elle sert d’habitat important pour les oiseaux locaux, migrateurs et hivernants, accueillant chaque année plus de 120 000 oiseaux, soit le site français le plus fréquenté pour l’hivernage entre 2000 et 2005.",
+                    "source_passages": [
+                        "== Un site d'importance européenne et mondiale == La Camargue est un site d'importance européenne et nationale majeure pour les oiseaux locaux, pour les migrateurs et particulièrement pour les hivernants puisqu'il s'agissait en 2000-2005 du premier site français en nombre d'hivernants accueillis chaque année (122 000 oiseaux, devant le bassin d'Arcachon qui en accueille 105 000)."
+                    ]
+                },
+                {
+                    "sentence": "Le flamant rose y est l’une des espèces emblématiques.",
+                    "source_passages": [
+                        "La Camargue est aussi connue pour accueillir le flamant rose."
+                    ]
+                },
+                {
+                    "sentence": "Ces mesures de protection renforcent la conservation du patrimoine naturel dans cette région du delta du Rhône.",
+                    "source_passages": [
+                        "== Un site d'importance européenne et mondiale == La Camargue est un site d'importance européenne et nationale majeure pour les oiseaux locaux, pour les migrateurs et particulièrement pour les hivernants puisqu'il s'agissait en 2000-2005 du premier site français en nombre d'hivernants accueillis chaque année (122 000 oiseaux, devant le bassin d'Arcachon qui en accueille 105 000).",
+                        "C'est pour cette raison que le territoire de la Camargue fait l'objet de mesures de protection et d'engagements internationaux : En 1928 fut créée la réserve botanique et zoologique.",
+                        "L'arrêté ministériel en date du 24 avril 1975 classe officiellement la Camargue en réserve naturelle nationale."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        }
+    ]
+}

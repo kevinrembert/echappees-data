@@ -1,0 +1,83 @@
+{
+    "schema_version": 1,
+    "id": "generated-2c1be5956caed24bdbd5",
+    "version": "1",
+    "articles": [
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-81100881f85fb40a0d2c7f41",
+            "title": "Cancer de l’ovaire : une analyse fine des cellules tumorales éclaire la résistance aux traitements",
+            "body": "Des chercheurs du CNRS, de l’Institut Curie et de Sorbonne Université ont suivi, cellule par cellule, l’évolution des tumeurs de patientes atteintes d’un cancer séreux de haut grade de l’ovaire avant et après chimiothérapie. Ils ont identifié des groupes de cellules tumorales qui, par leur état épigénétique spécifique, sont configurées pour résister au traitement. Cette découverte résulte d’une technique de séquençage innovante appliquée sur 150 biopsies à partir de biobanques, puis suivie longitudinalement sur 16 patientes. Les observations montrent qu’en cas de réponse au traitement, les cellules en division diminuent, tandis qu’en cas de résistance, certaines populations cellulaires augmentent et activent des fonctions protectrices. Ce travail ouvre la voie à des outils capables de prédire la réponse au traitement dès le diagnostic.",
+            "category": "Sciences",
+            "location": "Monde",
+            "image_description": "Microarray montrant la baisse d'expression du gène FAM149B1 dans une lignée cellulaire de cancer ovarien après traitement par un médicament anticancer.",
+            "image_caption": "Illustration documentaire : microarray de l’expression génétique dans une lignée cellulaire de cancer ovarien – source Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/f057120b6d73472cc7eb91b0873c8da6c073372b2f5ca5dad99cb59362c0cebb.jpg",
+            "image_credit": "Ruhxx016 · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:GEOProfile_Ovarian_Cancer_Cell_FAM149B1.png",
+            "sources": [
+                {
+                    "label": "CNRS · presse · publié le 2026-10-19",
+                    "url": "https://www.cnrs.fr/fr/presse/cancer-de-lovaire-des-cellules-tumorales-configurees-pour-resister-aux-traitements-0"
+                }
+            ],
+            "subject_id": "news-74c68882951d4656739f32bb6287aaff",
+            "published_at": "2026-11-10",
+            "country": "Monde",
+            "source_published_at": "2026-10-19"
+        },
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "daily",
+            "id": "decouverte-27dd0d833977451bf23932b1",
+            "title": "Réduction notable de la taille de la « zone morte » dans le golfe d'Amérique en 2026",
+            "body": "En 2026, la zone hypoxique correspondant à une faible teneur en oxygène dissous dans l'eau — souvent appelée « zone morte » — dans le golfe d'Amérique a été mesurée à 1 332 milles carrés. Cette surface est la deuxième plus petite enregistrée depuis le début des mesures en 1985. Ce phénomène, causé principalement par un excès de nutriments issus des activités humaines, entraîne la prolifération d'algues qui, en décomposant, consomment l'oxygène nécessaire à la vie marine. La réduction observée en 2026 indique une amélioration temporaire des conditions, dont bénéficient directement les habitats marins et les espèces aquatiques qui peuvent ainsi maintenir leur activité dans cette zone. La surveillance de cette dynamique est essentielle pour comprendre et limiter l'impact de la pollution nutrientielle sur ces écosystèmes.",
+            "category": "Nature et animaux",
+            "location": "golfe d'Amérique",
+            "image_description": "Image illustrant une surface d'eau tranquille, avec des rochers au premier plan et un horizon maritime.",
+            "image_caption": "Photographie générale illustrative d'une surface marine paisible, prise depuis la côte — image Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/0062c45df3d794d64463ec2363941805bd9ffda59ba8bc94535caee7d1774217.jpg",
+            "image_credit": "fourthandfifteen · Not what it seems · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY 2.0 · https://creativecommons.org/licenses/by/2.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Not_what_it_seems_(2707915582).jpg",
+            "sources": [
+                {
+                    "label": "NOAA · What is a dead zone?",
+                    "url": "https://oceanservice.noaa.gov/facts/deadzone.html"
+                }
+            ],
+            "subject_id": "source-afdfbd2dfe4f91336e079a9a44054c26",
+            "published_at": "2026-11-10",
+            "country": "Monde"
+        },
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "daily",
+            "id": "decouverte-7d1e5770c2c9b700e2c91712",
+            "title": "La Camargue, une réserve naturelle majeure pour les oiseaux migrateurs en France",
+            "body": "Le parc naturel régional de Camargue, situé dans le sud de la France, comprend une vaste zone protégée classée réserve naturelle nationale depuis 1975. Cette réserve, gérée par la Société nationale de protection de la nature, couvre plus de 13 000 hectares, principalement autour de l'étang de Vaccarès. Elle sert d’habitat important pour les oiseaux locaux, migrateurs et hivernants, accueillant chaque année plus de 120 000 oiseaux, soit le site français le plus fréquenté pour l’hivernage entre 2000 et 2005. Le flamant rose y est l’une des espèces emblématiques. Ces mesures de protection renforcent la conservation du patrimoine naturel dans cette région du delta du Rhône.",
+            "category": "Initiatives positives",
+            "location": "Camargue, France",
+            "image_description": "Champ de riz à Aigues-Mortes, dans la région de Camargue, France.",
+            "image_caption": "Champ de riz à Aigues-Mortes, illustration documentaire générale de la région de Camargue. Photo Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/86d4b950337beb9059103d59321931fe9d55c014513c47affd967b0683122dc7.jpg",
+            "image_credit": "Fritz Geller-Grimm · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 2.5 · https://creativecommons.org/licenses/by-sa/2.5/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Camargue_fg01.jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Parc naturel régional de Camargue",
+                    "url": "https://fr.wikipedia.org/wiki/Parc_naturel_r%C3%A9gional_de_Camargue"
+                }
+            ],
+            "subject_id": "Q1570460",
+            "published_at": "2026-11-10",
+            "country": "France"
+        }
+    ]
+}
