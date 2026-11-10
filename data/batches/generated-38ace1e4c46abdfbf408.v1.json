@@ -1,0 +1,33 @@
+{
+    "schema_version": 1,
+    "id": "generated-38ace1e4c46abdfbf408",
+    "version": "1",
+    "articles": [
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-25602633d07d5596df06d3ea",
+            "title": "Le désert d’Atacama s’illumine grâce à une floraison exceptionnelle après des pluies inédites",
+            "body": "Le désert d’Atacama, réputé pour être le plus sec au monde, a connu une floraison exceptionnelle en 2025, alimentée par des pluies record liées à l’épisode climatique El Niño. Environ 200 espèces de fleurs jusque-là dormantes sous la terre ont pu pousser après avoir attendu des décennies cette humidité. Ce phénomène survient lorsque conditions pluviométriques et températures favorables réveillent des graines et tubercules en sommeil. Ce court épisode de vie florale, qui dure deux à trois mois, offre temporairement nourriture et habitat à divers animaux locaux, notamment insectes pollinisateurs et reptiles. Par ailleurs, les chercheurs collectent des semences pour préserver cette diversité végétale fragile. Ce cycle naturel souligne l’adaptation remarquable du désert à des conditions extrêmes, tout en invitant à mieux protéger ces écosystèmes rares.",
+            "category": "Initiatives positives",
+            "location": "Désert d’Atacama, Chili",
+            "image_description": "Photographie du désert d’Atacama en période de floraison, montrant des fleurs colorées au sol dans un paysage aride.",
+            "image_caption": "Illustration documentaire générale de la floraison du désert d’Atacama. Source : ESO, Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/3b913532f9f6b972fe14e3f65ccb6f8c01ddfd7c04b3203eb4d47d2c6cb8f8c1.jpg",
+            "image_credit": "ESO · This media was produced by the European Southern Observatory (ESO), under the identifier poposo-flor_9742 This tag does not indicate the copyright status of the attached work. A normal copyright tag is still required. See Commons:Licensing. · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:The_Atacama_Desert_in_bloom_(poposo-flor_9742).jpg",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-10",
+                    "url": "https://www.goodnewsnetwork.org/worlds-driest-desert-erupts-into-record-breaking-bloom-boom-look/"
+                }
+            ],
+            "subject_id": "news-552f55a748dc156ed6e0b23d8bad620c",
+            "published_at": "2026-11-10",
+            "country": "Monde",
+            "source_published_at": "2026-11-10"
+        }
+    ]
+}
