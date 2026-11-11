@@ -1,0 +1,245 @@
+{
+    "schema_version": 1,
+    "articles": [
+        {
+            "id": "decouverte-0691aa0b2f7f9001b325715e",
+            "subject_id": "news-1c5ba739ed249b691b9ba9374e834bac",
+            "collected_at": "2026-11-11T06:16:30+00:00",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-08",
+                    "url": "https://www.goodnewsnetwork.org/dogs-can-sniff-out-invasive-plant-species-with-75pt-accuracy/"
+                }
+            ],
+            "source_sha256": "5d3389a654240ff2368ae781918f0a5552fabfc13959189f41468bea19d5b001",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:A_dog_sniffs_for_invasive_crazy_ants_at_Johnston_Atoll_Refuge.png",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "a9ccec9c25f2d65ea442f14e6e389d1f8ef35bd7",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Des équipes de bénévoles allemandes formées avec leurs chiens ont réussi à détecter avec une précision moyenne de 75 % plusieurs espèces végétales invasives dans la nature.",
+                "beneficiaries": "la biodiversité locale menacée par les plantes invasives, les écologues et les gestionnaires de milieux naturels"
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Entre 2021 et 2023, trente-et-un chiens et leurs propriétaires ont suivi une formation pour identifier en pleine nature trois espèces végétales invasives qui nuisent à la biodiversité : la balsamine de l’Himalaya, l’ambroisie et plusieurs renouées japonaises.",
+                    "source_passages": [
+                        "31 dogs and their owners were trained between 2021 and 2023 using three highly problematic invasive plant species: Himalayan balsam, common ragweed, and those in the knotweed family, such as Japanese knotweed (Fallopia spp.",
+                        "complex, Impatiens glandulifera, and Ambrosia artemisiifolia)."
+                    ]
+                },
+                {
+                    "sentence": "Lors d’un test sur le terrain, onze des douze équipes ont réussi à localiser ces espèces avec une précision moyenne de 75 %.",
+                    "source_passages": [
+                        "The training culminated with a field test of the dogs’ ability to locate target species in the wild.",
+                        "Of the 12 teams that completed the field test, 11 teams passed, with an average detection success rate of 75%."
+                    ]
+                },
+                {
+                    "sentence": "Cette méthode, impliquant des bénévoles formés et leurs chiens à l’aide d’experts en dressage et en écologie, offre un complément efficace aux méthodes existantes, souvent coûteuses et longues.",
+                    "source_passages": [
+                        "Other methods to combat invasive species have been costly and time-consuming, and the lack of effective early-detection methods has limited ecologists’ ability to control further colonization by invasive species.",
+                        "Annegret Grimm-Seyfarth and her colleagues at the Helmholtz Centre for Environmental Research (UFZ) tested the feasibility of a volunteer dog-handler training program, so citizen scientists could join the fight.",
+                        "Training and continued guidance from both dog-training and ecological experts are needed to help volunteer teams succeed in real deployments."
+                    ]
+                },
+                {
+                    "sentence": "Elle valorise aussi le temps passé à l’extérieur avec son chien en participant à la surveillance et la protection des milieux naturels.",
+                    "source_passages": [
+                        "“Our study shows that trained volunteer dog-handler teams have real potential to support the early detection of invasive plants,” said Dr.",
+                        "“What we find particularly exciting is the opportunity to turn something people already love doing—spending time outdoors with their dogs—into a meaningful contribution to biodiversity conservation.” Japanese knotweed (Reynoutria japonica), a highly aggressive, non-native invasive plant “By combining dogs’ remarkable sense of smell with the enthusiasm of citizen scientists, we could expand monitoring efforts."
+                    ]
+                },
+                {
+                    "sentence": "L’étude a permis d’établir des recommandations pour améliorer la sélection et la coordination des volontaires ainsi que le dressage des chiens.",
+                    "source_passages": [
+                        "From the feasibility study, published in the journal PLOS One, the research team developed a set of recommendations to improve effectiveness of future, similar projects to improve volunteer selection and coordination, dog training, and initial deployments."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-aaf6be88e515ff9fd23a05c8",
+            "subject_id": "news-e6c8515148a0a6cf2bc6f2c37c5275cc",
+            "collected_at": "2026-11-11T06:17:04+00:00",
+            "sources": [
+                {
+                    "label": "Good Good Good · publié le 2026-11-09",
+                    "url": "https://www.goodgoodgood.co/articles/keisha-lance-bottoms-black-governor-georgia"
+                }
+            ],
+            "source_sha256": "62bb982227f37dcf0b3a3be7fd92f5db422d3311d92c15e8852e6a54d5ab6f9a",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:David_Perdue,_Cory_Seals,_Keisha_Lance_Bottoms,_and_Johnny_Isakson.jpg",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "9d09bfe16b186514aca85f169d5a6e079585ff3b",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Keisha Lance Bottoms a été élue gouverneure de Géorgie, devenant la première femme noire à occuper ce poste dans un État américain, témoignant d'une transformation politique concrète et historique.",
+                "beneficiaries": "Les habitants de Géorgie, notamment les communautés noires, et les groupes défendant les droits civiques et l'égalité politique bénéficient de ce changement."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Lors des élections de 2026, Keisha Lance Bottoms, ancienne maire d’Atlanta, a été élue gouverneure de Géorgie, un résultat inédit aux États-Unis puisque jamais une femme noire n’avait occupé ce poste dans un État.",
+                    "source_passages": [
+                        "This story was originally published by The 19thATLANTA — Keisha Lance Bottoms is projected to become the next governor of Georgia and the nation’s first Black woman governor, according to Decision Desk HQ.Bottoms took the stage Tuesday night in front of a boisterous crowd waving “Madam Governor” signs.“Georgia has always been a state where we didn’t settle for what was before us, but we have always fought for better,” Bottoms said.",
+                        "It’s the legacy that comes with responsibility, and it is that responsibility that I will take to the governor’s office.”Bottoms, the former mayor of Atlanta, prevailed in one of the most competitive races of the cycle in a state that helped elect President Donald Trump just two years ago.",
+                        "She said she wanted to create a pathway to free technical education and community college in the state, and vowed to pause the construction of new data centers in Georgia.Bottoms campaigned as a mom with a working-class background and generations of Georgia roots, sharing with voters the impact of her father’s incarceration and her mother’s years as the owner of a hair salon.She rarely talked about the history-making potential of her campaign, and the potential to give Black women unprecedented representation at the state level in Georgia, but also a seat at the table at the National Governors Association and the Democratic Governors Association, powerful political organizations that have never had a Black woman in their ranks.The historic nature of her campaign — not just in Georgia but the entire country — was not lost on the ground."
+                    ]
+                },
+                {
+                    "sentence": "Ce succès intervient dans un contexte politique tendu, avec un adversaire ayant investi plus de 200 millions de dollars pour lui faire concurrence.",
+                    "source_passages": [
+                        "It’s the legacy that comes with responsibility, and it is that responsibility that I will take to the governor’s office.”Bottoms, the former mayor of Atlanta, prevailed in one of the most competitive races of the cycle in a state that helped elect President Donald Trump just two years ago.",
+                        "She took on Republican Rick Jackson, a billionaire healthcare executive who flooded the race with his wealth, contributing more than $200 million to his own bid.Bottoms ran on promises to take on the rising cost of living."
+                    ]
+                },
+                {
+                    "sentence": "Sa campagne a mis l’accent sur des mesures concrètes contre le coût de la vie, comme la suppression de certaines taxes et l’expansion du Medicaid.",
+                    "source_passages": [
+                        "She promised to give municipalities the option of doing away with grocery taxes as well as taxes on diapers, baby formula and feminine hygiene products.",
+                        "She also proposed to do away with the state’s tax on car insurance premiums and homeowner’s insurance, and to lower the state’s gas tax.Bottoms also promised to expand Medicaid, a longtime goal for Democrats in the state."
+                    ]
+                },
+                {
+                    "sentence": "Ce changement ouvre une nouvelle représentation politique pour les communautés noires de Géorgie et renforce la présence démocrate dans un État auparavant favorable à Donald Trump.",
+                    "source_passages": [
+                        "This story was originally published by The 19thATLANTA — Keisha Lance Bottoms is projected to become the next governor of Georgia and the nation’s first Black woman governor, according to Decision Desk HQ.Bottoms took the stage Tuesday night in front of a boisterous crowd waving “Madam Governor” signs.“Georgia has always been a state where we didn’t settle for what was before us, but we have always fought for better,” Bottoms said.",
+                        "It’s the legacy that comes with responsibility, and it is that responsibility that I will take to the governor’s office.”Bottoms, the former mayor of Atlanta, prevailed in one of the most competitive races of the cycle in a state that helped elect President Donald Trump just two years ago.",
+                        "Jon Ossoff, who won his reelection bid, also helped lift Bottoms and the rest of the Democratic ticket.",
+                        "Ossoff, Bottoms and downballot Democrats regularly campaigned together under the slogan, “United for Georgia.”At her election night party, Bottoms recognized Ossoff, who cruised to reelection Tuesday.“You voted for the whole ballot energy and reelected my friend Jon Ossoff,” said Bottoms, noting that the state now has a Democratic governor and two Democratic senators.In her campaign, Bottoms emphasized the importance of this election on Black voting rights, which she vowed to protect from federal and state-level attacks."
+                    ]
+                },
+                {
+                    "sentence": "Le poids de son élection est perceptible dans l’enthousiasme suscité par ce symbole inédit.",
+                    "source_passages": [
+                        "She said she wanted to create a pathway to free technical education and community college in the state, and vowed to pause the construction of new data centers in Georgia.Bottoms campaigned as a mom with a working-class background and generations of Georgia roots, sharing with voters the impact of her father’s incarceration and her mother’s years as the owner of a hair salon.She rarely talked about the history-making potential of her campaign, and the potential to give Black women unprecedented representation at the state level in Georgia, but also a seat at the table at the National Governors Association and the Democratic Governors Association, powerful political organizations that have never had a Black woman in their ranks.The historic nature of her campaign — not just in Georgia but the entire country — was not lost on the ground.",
+                        "Before her speech, the crowd danced along to a mix of decade-spanning hip-hop and classic R&B.",
+                        "When the DJ played “Got to Be Real” by Cheryl Lynn, Delta Sigma Thetas in the crowd let out a sea of “oo-oop!”When R&B singer Tyrese asked people to join an acapella rendition of the Sam Cooke standard “A Change is Going to Come,” people wiped away tears as they sang.The high level of enthusiasm for U.S."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-29ed46648eb6e976fe8a66e9",
+            "subject_id": "source-cf9eee1a0b0df8d2dc318ec737d8ae59",
+            "collected_at": "2026-11-11T06:17:18+00:00",
+            "sources": [
+                {
+                    "label": "NOAA · What is a slough?",
+                    "url": "https://oceanservice.noaa.gov/facts/slough.html"
+                }
+            ],
+            "source_sha256": "f66150ddb1bdb0e5dd19d5adff9e10f4c34c8770ac2473d0416724925c2d03a0",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Slough,_Baylis_Pond_-_geograph.org.uk_-_1235407.jpg",
+            "image_license": "CC BY-SA 2.0 · https://creativecommons.org/licenses/by-sa/2.0/",
+            "original_sha1": "59afeb2d2fe00762005a4992a8de4e5eca922884",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Les sloughs représentent des zones humides estuariennes où les eaux douces et salées se mélangent, offrant un habitat riche et diversifié pour de nombreuses espèces de faune, dont des oiseaux menacés et des poissons.",
+                "beneficiaries": "Des espèces comme le saumon, le grand héron bleu, le pygargue à tête blanche, ainsi que d’autres oiseaux migrateurs, mammifères marins et invertébrés bénéficient de la biodiversité des sloughs."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Les sloughs sont des écosystèmes de milieux humides, souvent situés en bordure de rivières ou d’estuaires, où l’eau douce des cours d’eau se mêle à l’eau salée de la mer.",
+                    "source_passages": [
+                        "While this term is used differently across the country, on the West Coast a slough is referred to as a swamp or shallow lake system, usually a backwater to a larger body of water.",
+                        "A slough is typically used to describe wetlands.",
+                        "Along the West Coast, sloughs are often named for the quiet, backwater parts of bays and therefore, they are part of the estuary, where freshwater flows from creeks and runoff from land mix with salty ocean water transported by the tides."
+                    ]
+                },
+                {
+                    "sentence": "Ces zones, comme Elkhorn Slough en Californie ou South Slough dans l’Oregon, abritent une biodiversité riche comprenant plus de cent trente espèces d’oiseaux, plusieurs d’entre elles menacées, ainsi que du saumon, des loutres de mer et diverses espèces de crustacés.",
+                    "source_passages": [
+                        "First, Elkhorn Slough is located just north of Monterey, California.",
+                        "Elkhorn Slough is known as a popular birding destination with more than 135 species of birds including six that are listed as threatened or endangered.",
+                        "South Slough provides important habitat for salmon, great blue herons, bald eagles, migrating ducks, elk, sea otters, oysters, and crabs."
+                    ]
+                },
+                {
+                    "sentence": "Les réserves nationales de recherche estuarienne gèrent ces sites pour préserver ces habitats fragiles.",
+                    "source_passages": [
+                        "At both sloughs, the NERRS are working within their community to achieve sustainable practices that support healthy estuaries.",
+                        "Established by Congress under the Coastal Zone Management Act, the reserves are \"living laboratories\" managed through a partnership between NOAA and coastal states and territories for long-term research, ecosystems monitoring, education, and coastal stewardship."
+                    ]
+                },
+                {
+                    "sentence": "L’équilibre spécifique de chaque slough dépend de son climat et de son bassin versant, avec des enjeux liés à la pollution agricole ou à l’exploitation forestière selon les régions.",
+                    "source_passages": [
+                        "Elkhorn is much drier, and historically was set in a watershed of prairie, chaparral, and oak woodlands, while South Slough is wetter and heavily wooded.",
+                        "Agriculture now surrounds Elkhorn Slough, and pollution is a major issue, while timber harvest and associated effects are more of an issue at South Slough."
+                    ]
+                },
+                {
+                    "sentence": "Un détail concret : Baylis Pond, un slough britannique, présente des îles favorables à la nidification des oiseaux.",
+                    "source_passages": [
+                        "What is a slough?"
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-8be38e0bc57805ea76ecde64",
+            "subject_id": "Q274155",
+            "collected_at": "2026-11-11T06:17:28+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Sare",
+                    "url": "https://fr.wikipedia.org/wiki/Sare"
+                }
+            ],
+            "source_sha256": "689592b1f3833f1f7bc2af3d0e64622ac9077099b2955d3d7dc967a6b5d4d136",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Sare_Fronton_2012.jpg",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "original_sha1": "c9ec80c1bb194f7ce58d7a70143e461e81e08662",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La commune de Sare est désormais reconnue et valorisée pour son patrimoine, avec un label officiel attestant de sa qualité architecturale et paysagère.",
+                "beneficiaries": "Les habitants de Sare et les visiteurs bénéficient de la préservation et de la mise en valeur de ce village basque traditionnel."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Située dans les Pyrénées-Atlantiques, la commune de Sare bénéficie du label Les Plus Beaux Villages de France, une reconnaissance qui souligne la qualité de son patrimoine bâti et naturel.",
+                    "source_passages": [
+                        "La commune est labellisée parmi Les Plus Beaux Villages de France.",
+                        "Sare est une commune française située dans le département des Pyrénées-Atlantiques en région Nouvelle-Aquitaine, à la frontière avec l'Espagne.",
+                        "Elle est adossée à la chaîne pyrénéenne, qui forme autour du bassin occupé par le bourg un cirque ouvert vers l'est et le nord."
+                    ]
+                },
+                {
+                    "sentence": "Ce label participe à la valorisation et à la protection de son cadre unique, adossé à la chaîne pyrénéenne et riche de sites historiques comme ses nombreuses grottes préhistoriques.",
+                    "source_passages": [
+                        "Elle est adossée à la chaîne pyrénéenne, qui forme autour du bassin occupé par le bourg un cirque ouvert vers l'est et le nord.",
+                        "Son histoire géologique explique la formation de grottes qui ont été occupées durant l'Aurignacien ; l'âge du bronze a, quant à lui, laissé de nombreux monuments funéraires sur les pistes et les plateaux montagneux de la commune.",
+                        "La commune est labellisée parmi Les Plus Beaux Villages de France."
+                    ]
+                },
+                {
+                    "sentence": "Sare tire aussi parti de son identité culturelle basque partagée avec la Navarre voisine.",
+                    "source_passages": [
+                        "Son territoire forme aujourd'hui une enclave dans la Communauté forale de Navarre avec laquelle elle partage 25 km de frontière et la langue basque ; cette particularité a eu des conséquences fortes sur l'histoire de la commune, qui a au cours des siècles conclu des accords pastoraux avec les communes espagnoles voisines."
+                    ]
+                },
+                {
+                    "sentence": "Cette distinction soutient les initiatives locales en faveur du tourisme durable et de la conservation des traditions.",
+                    "source_passages": [
+                        "La commune est labellisée parmi Les Plus Beaux Villages de France."
+                    ]
+                },
+                {
+                    "sentence": "Chaque année, des centaines de visiteurs découvrent le fronton et d’autres éléments emblématiques qui incarnent la vie traditionnelle du village.",
+                    "source_passages": [
+                        "Sare est une commune française située dans le département des Pyrénées-Atlantiques en région Nouvelle-Aquitaine, à la frontière avec l'Espagne."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        }
+    ]
+}
