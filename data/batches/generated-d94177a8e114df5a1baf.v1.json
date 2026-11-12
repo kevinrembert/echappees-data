@@ -1,0 +1,83 @@
+{
+    "schema_version": 1,
+    "id": "generated-d94177a8e114df5a1baf",
+    "version": "1",
+    "articles": [
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-4794163ad55981538bab1913",
+            "title": "Achèvement de la US Highway 101 : un axe majeur pour relier la côte ouest américaine",
+            "body": "Il y a un siècle a été finalisée la construction de la US Highway 101, une route majeure qui court le long de la côte ouest américaine en traversant trois États : Californie, Oregon et Washington. Ce parcours permet aujourd'hui de relier plusieurs grandes villes et zones naturelles emblématiques comme le Golden Gate Bridge à San Francisco, les forêts de Redwood et 77 parcs d'État le long de la côte de l'Oregon. De Washington, la route passe le long de la péninsule Olympique et dessert notamment la réserve Quinault et le parc national Olympic avant de s'achever à Olympia, la capitale. Cette voie facilite les déplacements et permet un accès direct à des territoires naturels protégés et habités par diverses communautés, renforçant ainsi leur connectivité et leur attractivité touristique.",
+            "category": "Initiatives positives",
+            "location": "Côte Ouest des États-Unis",
+            "image_description": "Vue de la US Highway 101 traversant l'Oregon, entourée de forêt et de végétation le long de la côte.",
+            "image_caption": "Illustration documentaire générale. Photographie documentaire générale de la US Highway 101 en Oregon — Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/ddd3f2e02fe5ddc6ed7eb703bddb4ca26777a92be53eeb79c3b843620ee51c7a.jpg",
+            "image_credit": "Doug Kerr · Flickr: US Highway 101 - Oregon · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 2.0 · https://creativecommons.org/licenses/by-sa/2.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:US_Highway_101_-_Oregon1.jpg",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-11",
+                    "url": "https://www.goodnewsnetwork.org/events061111/"
+                }
+            ],
+            "subject_id": "news-af62db8f153d39058a1342d56da5e78a",
+            "published_at": "2026-11-12",
+            "country": "Monde",
+            "source_published_at": "2026-11-11"
+        },
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "daily",
+            "id": "decouverte-75bfe54d6452e3cf5cfdbec1",
+            "title": "Une étape vers moins de microplastiques dans les eaux grâce à la suppression des microbilles plastiques",
+            "body": "Les microplastiques, fragments de plastique de moins de cinq millimètres, proviennent notamment de la dégradation de plus gros déchets mais aussi des microbilles plastiques, petites billes intégrées dans certains cosmétiques et produits d’hygiène. Ces particules passent à travers les systèmes de filtration de l’eau et se retrouvent dans les océans et les lacs, où elles peuvent être confondues avec de la nourriture par la faune aquatique. Cette source spécifique a été ciblée par la Microbead-Free Waters Act signée aux États-Unis en 2015, interdisant ces microbilles dans les cosmétiques. Bien que le problème des microplastiques persiste, cette mesure a permis de réduire une part identifiable de pollution plastique dans les milieux aquatiques. Des protocoles standardisés de collecte et d’analyse continuent de s’améliorer pour mieux comprendre et comparer la distribution globale de ces particules.",
+            "category": "Nature et animaux",
+            "location": "Monde",
+            "image_description": "Microbilles plastiques visibles dans un dentifrice, mesurant environ 30 micromètres de diamètre.",
+            "image_caption": "Image d’illustration documentaire générale : microbilles plastiques dans un dentifrice (source : Wikimedia Commons)",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/7943ed1281431bfd0b9f1ffd0c231785c903a5cd9fa79986361d152c9534bc1d.jpg",
+            "image_credit": "Dantor (talk) 20:55, 18 November 2013 (UTC) · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Mikroplastasarp.jpg",
+            "sources": [
+                {
+                    "label": "NOAA · What are microplastics?",
+                    "url": "https://oceanservice.noaa.gov/facts/microplastics.html"
+                }
+            ],
+            "subject_id": "source-16914969ce82cf85f03362e672e88aba",
+            "published_at": "2026-11-12",
+            "country": "Monde"
+        },
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "daily",
+            "id": "decouverte-a315c3cf33980c40f1c12732",
+            "title": "L’Ossau-Iraty, un fromage de brebis dont la production artisanale se perpétue dans les Pyrénées",
+            "body": "Le fromage Ossau-Iraty est une appellation d’origine garantie produite dans le Pays basque français et le Béarn, en lien avec le Pic du Midi d’Ossau et la forêt d’Iraty. Ce fromage à pâte pressée non cuite issu du lait de brebis est protégé via une AOC depuis 1980 et une AOP depuis 1996, ce qui permet de préserver les méthodes traditionnelles de fabrication au sein de cette région. Sa consommation s’étend surtout de juin à novembre, période où il parvient à maturité optimale. Cette perpétuation garantit le maintien d’activités pastorales anciennes, pratiquées depuis le Néolithique, et contribue à l’économie locale en valorisant un produit emblématique des Pyrénées.",
+            "category": "Gastronomie et traditions",
+            "location": "Pays basque français et Béarn",
+            "image_description": "Différents fromages Ossau-Iraty en cours de maturation, présentés dans un saloir à Monein, Pyrénées-Atlantiques.",
+            "image_caption": "Fromages Ossau-Iraty (saloir de A&Y Perret) à Monein (Pyrénées-Atlantiques). Illustration documentaire générale du fromage Ossau-Iraty., Jean Michel Etchecolonea · Wikimedia Commons · CC BY-SA 3.0",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/d6e7bb0972da588f498e35af6d2b349ccc45ac290d4833d966b96f5f4b10e78d.jpg",
+            "image_credit": "Jean Michel Etchecolonea · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Fromages_Ossau-Iraty_003.jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Ossau-Iraty",
+                    "url": "https://fr.wikipedia.org/wiki/Ossau-Iraty"
+                }
+            ],
+            "subject_id": "Q520598",
+            "published_at": "2026-11-12",
+            "country": "France"
+        }
+    ]
+}

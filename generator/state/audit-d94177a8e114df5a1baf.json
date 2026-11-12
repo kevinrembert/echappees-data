@@ -1,0 +1,180 @@
+{
+    "schema_version": 1,
+    "articles": [
+        {
+            "id": "decouverte-4794163ad55981538bab1913",
+            "subject_id": "news-af62db8f153d39058a1342d56da5e78a",
+            "collected_at": "2026-11-12T07:08:52+00:00",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-11",
+                    "url": "https://www.goodnewsnetwork.org/events061111/"
+                }
+            ],
+            "source_sha256": "ccefe184f5d52b2bc297b93db012d65f21a0e042a93a6bb6f209598c21f70a1e",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:US_Highway_101_-_Oregon1.jpg",
+            "image_license": "CC BY-SA 2.0 · https://creativecommons.org/licenses/by-sa/2.0/",
+            "original_sha1": "47dbbc3a186e8860d5a14b7e38c259d3b0e923f4",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La fin des travaux de la US Highway 101 a permis la création d'un itinéraire continu traversant la côte ouest des États-Unis, facilitant les déplacements et l'accès à 77 parcs d'État en Oregon.",
+                "beneficiaries": "Les habitants et visiteurs des régions californienne, de l'Oregon et de Washington, ainsi que les multiples parcs d'État et zones naturelles desservis par cette route."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Il y a un siècle a été finalisée la construction de la US Highway 101, une route majeure qui court le long de la côte ouest américaine en traversant trois États : Californie, Oregon et Washington.",
+                    "source_passages": [
+                        "Home This Day In History Good News in History, November 11 100 years ago today, US Highway 101 was finished.",
+                        "Traversing the states of California, Oregon, and Washington, it passes most of the West Coast’s famous cities, major Silicon Valley counties, crosses the Golden Gate Bridge, and through Redwoods National Park.",
+                        "In Oregon, it enters and exits 77 state parks along the state’s rugged coastline before skirting Portland and crossing the Astoria–Megler Bridge over the Columbia River into Washington.",
+                        "READ the final portion below… (1926) The highway continues into Washington and eventually reaches the Quinault Indian Reservation, which it enters near Lake Quinault at the edge of Olympic National Park.",
+                        "It skirts the Olympic Peninsula and the foothills of the eponymous mountains, including a portion along the southern shore of Lake Crescent, one of the deepest lakes in the state.",
+                        "A larger loop around the peninsula sees the 101 turn south, passing the Skokomish Indian Reservation on the Olympic Loop Highway until it ends at the state capital."
+                    ]
+                },
+                {
+                    "sentence": "Ce parcours permet aujourd'hui de relier plusieurs grandes villes et zones naturelles emblématiques comme le Golden Gate Bridge à San Francisco, les forêts de Redwood et 77 parcs d'État le long de la côte de l'Oregon.",
+                    "source_passages": [
+                        "Traversing the states of California, Oregon, and Washington, it passes most of the West Coast’s famous cities, major Silicon Valley counties, crosses the Golden Gate Bridge, and through Redwoods National Park.",
+                        "In Oregon, it enters and exits 77 state parks along the state’s rugged coastline before skirting Portland and crossing the Astoria–Megler Bridge over the Columbia River into Washington."
+                    ]
+                },
+                {
+                    "sentence": "De Washington, la route passe le long de la péninsule Olympique et dessert notamment la réserve Quinault et le parc national Olympic avant de s'achever à Olympia, la capitale.",
+                    "source_passages": [
+                        "READ the final portion below… (1926) The highway continues into Washington and eventually reaches the Quinault Indian Reservation, which it enters near Lake Quinault at the edge of Olympic National Park.",
+                        "It skirts the Olympic Peninsula and the foothills of the eponymous mountains, including a portion along the southern shore of Lake Crescent, one of the deepest lakes in the state.",
+                        "A larger loop around the peninsula sees the 101 turn south, passing the Skokomish Indian Reservation on the Olympic Loop Highway until it ends at the state capital."
+                    ]
+                },
+                {
+                    "sentence": "Cette voie facilite les déplacements et permet un accès direct à des territoires naturels protégés et habités par diverses communautés, renforçant ainsi leur connectivité et leur attractivité touristique.",
+                    "source_passages": [
+                        "Home This Day In History Good News in History, November 11 100 years ago today, US Highway 101 was finished.",
+                        "Traversing the states of California, Oregon, and Washington, it passes most of the West Coast’s famous cities, major Silicon Valley counties, crosses the Golden Gate Bridge, and through Redwoods National Park.",
+                        "In Oregon, it enters and exits 77 state parks along the state’s rugged coastline before skirting Portland and crossing the Astoria–Megler Bridge over the Columbia River into Washington.",
+                        "READ the final portion below… (1926) The highway continues into Washington and eventually reaches the Quinault Indian Reservation, which it enters near Lake Quinault at the edge of Olympic National Park.",
+                        "It skirts the Olympic Peninsula and the foothills of the eponymous mountains, including a portion along the southern shore of Lake Crescent, one of the deepest lakes in the state.",
+                        "A larger loop around the peninsula sees the 101 turn south, passing the Skokomish Indian Reservation on the Olympic Loop Highway until it ends at the state capital."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-75bfe54d6452e3cf5cfdbec1",
+            "subject_id": "source-16914969ce82cf85f03362e672e88aba",
+            "collected_at": "2026-11-12T07:09:54+00:00",
+            "sources": [
+                {
+                    "label": "NOAA · What are microplastics?",
+                    "url": "https://oceanservice.noaa.gov/facts/microplastics.html"
+                }
+            ],
+            "source_sha256": "a828f788667f074c58d73fc48dbff6a8aa192880ef87874334f95e41475f234f",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Mikroplastasarp.jpg",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "original_sha1": "052aae9945df02034a4aa000a06631504ba97e89",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Depuis l'interdiction américaine de 2015, les microbilles de plastique utilisées dans les cosmétiques sont bannies, réduisant une source de microplastiques dans les cours d'eau.",
+                "beneficiaries": "Les milieux aquatiques et la faune marine qui subissaient une pollution plastique par les microbilles."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Les microplastiques, fragments de plastique de moins de cinq millimètres, proviennent notamment de la dégradation de plus gros déchets mais aussi des microbilles plastiques, petites billes intégrées dans certains cosmétiques et produits d’hygiène.",
+                    "source_passages": [
+                        "Microplastics are small plastic pieces less than five millimeters long which can be harmful to our ocean and aquatic life.",
+                        "Microplastics can come from a variety of sources including larger plastic pieces that have broken apart, resin pellets used for plastic manufacturing, or in the form of microbeads, which are small, manufactured plastic beads used in health and beauty products.",
+                        "Microplastics come from a variety of sources, including from larger plastic debris that degrades into smaller and smaller pieces.",
+                        "In addition, microbeads, a type of microplastic, are very tiny pieces of manufactured polyethylene plastic that are added as exfoliants to health and beauty products, such as some cleansers and toothpastes."
+                    ]
+                },
+                {
+                    "sentence": "Ces particules passent à travers les systèmes de filtration de l’eau et se retrouvent dans les océans et les lacs, où elles peuvent être confondues avec de la nourriture par la faune aquatique.",
+                    "source_passages": [
+                        "These tiny particles easily pass through water filtration systems and end up in the ocean and Great Lakes, posing a potential threat to aquatic life.",
+                        "These small plastic bits are called \"microplastics.\" Other plastics are intentionally designed to be small.",
+                        "They're called microbeads and are used in many health and beauty products.",
+                        "They pass unchanged through waterways into the ocean.",
+                        "Aquatic life and birds can mistake microplastics for food."
+                    ]
+                },
+                {
+                    "sentence": "Cette source spécifique a été ciblée par la Microbead-Free Waters Act signée aux États-Unis en 2015, interdisant ces microbilles dans les cosmétiques.",
+                    "source_passages": [
+                        "On December 28, 2015, President Obama signed the Microbead-Free Waters Act of 2015, banning plastic microbeads in cosmetics and personal care products.",
+                        "In 2015, the U.S.",
+                        "banned the use of microbeads."
+                    ]
+                },
+                {
+                    "sentence": "Bien que le problème des microplastiques persiste, cette mesure a permis de réduire une part identifiable de pollution plastique dans les milieux aquatiques.",
+                    "source_passages": [
+                        "But microplastics are still a huge problem."
+                    ]
+                },
+                {
+                    "sentence": "Des protocoles standardisés de collecte et d’analyse continuent de s’améliorer pour mieux comprendre et comparer la distribution globale de ces particules.",
+                    "source_passages": [
+                        "Standardized field methods for collecting sediment, sand, and surface-water microplastic samples have been developed and continue to undergo testing.",
+                        "Eventually, field and laboratory protocols will allow for global comparisons of the amount of microplastics released into the environment, which is the first step in determining the final distribution, impacts, and fate of this debris."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-a315c3cf33980c40f1c12732",
+            "subject_id": "Q520598",
+            "collected_at": "2026-11-12T07:10:16+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Ossau-Iraty",
+                    "url": "https://fr.wikipedia.org/wiki/Ossau-Iraty"
+                }
+            ],
+            "source_sha256": "7385cb08fc1730f2c0dad9bf238f48361871b8c7cd241547d1379c61f2e44363",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Fromages_Ossau-Iraty_003.jpg",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "original_sha1": "00a9c72a3ff49b2add66662df58a1f46a2a6ab47",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La fabrication traditionnelle et contrôlée du fromage Ossau-Iraty se maintient, assurant la continuité d'un savoir-faire local protégé depuis 1980.",
+                "beneficiaries": "Les producteurs locaux, les consommateurs et le patrimoine gastronomique des Pyrénées françaises."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Le fromage Ossau-Iraty est une appellation d’origine garantie produite dans le Pays basque français et le Béarn, en lien avec le Pic du Midi d’Ossau et la forêt d’Iraty.",
+                    "source_passages": [
+                        "Ossau-Iraty est l'appellation d'origine d'un fromage français de lait de brebis à pâte pressée non cuite fabriqué en France, dans le Pays basque français et le Béarn.",
+                        "Cette appellation a pour origine le pic du Midi d'Ossau et la forêt d'Iraty et est commercialement préservée via une AOC depuis 1980 et une AOP depuis 1996."
+                    ]
+                },
+                {
+                    "sentence": "Ce fromage à pâte pressée non cuite issu du lait de brebis est protégé via une AOC depuis 1980 et une AOP depuis 1996, ce qui permet de préserver les méthodes traditionnelles de fabrication au sein de cette région.",
+                    "source_passages": [
+                        "Ossau-Iraty est l'appellation d'origine d'un fromage français de lait de brebis à pâte pressée non cuite fabriqué en France, dans le Pays basque français et le Béarn.",
+                        "Cette appellation a pour origine le pic du Midi d'Ossau et la forêt d'Iraty et est commercialement préservée via une AOC depuis 1980 et une AOP depuis 1996."
+                    ]
+                },
+                {
+                    "sentence": "Sa consommation s’étend surtout de juin à novembre, période où il parvient à maturité optimale.",
+                    "source_passages": [
+                        "Sa meilleure période de consommation s'étend de juin à novembre."
+                    ]
+                },
+                {
+                    "sentence": "Cette perpétuation garantit le maintien d’activités pastorales anciennes, pratiquées depuis le Néolithique, et contribue à l’économie locale en valorisant un produit emblématique des Pyrénées.",
+                    "source_passages": [
+                        "Les premières traces d'élevage dans les Pyrénées occidentales datent du Néolithique (vestiges de sépultures et d'outils de bergers datant de 7 000 ans en vallée d'Ossau)."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        }
+    ]
+}
