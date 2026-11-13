@@ -1,0 +1,124 @@
+{
+    "schema_version": 1,
+    "articles": [
+        {
+            "id": "decouverte-6cec8922b2757bbb3e0b61cd",
+            "subject_id": "Q904889",
+            "collected_at": "2026-11-13T07:40:51+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Levain panaire",
+                    "url": "https://fr.wikipedia.org/wiki/Levain_panaire"
+                }
+            ],
+            "source_sha256": "fd35290969a97b64d95fbf1312ea3bedc95d9c716f860172662d1b12d2d4bea1",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Sourdough_miche_%26_boule.jpg",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "original_sha1": "20c4a40ed5f5b38b53736e4b0b0de43e67761e69",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La redécouverte et la pratique du levain panaire ont permis à de nombreux boulangers et amateurs de pain de renouer avec une méthode traditionnelle de fermentation naturelle, apportant une saveur et une texture spécifiques au pain.",
+                "beneficiaries": "Les boulangers, les consommateurs de pain et les amateurs de traditions culinaires bénéficient de ces méthodes ancestrales et de leurs résultats gustatifs."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Le levain panaire, mélange naturel de bactéries lactiques et de levures cultivées dans de la farine complète et de l'eau, demeure une méthode traditionnelle de fermentation du pain.",
+                    "source_passages": [
+                        "Le levain panaire est un mélange obtenu par une culture symbiotique de bactéries lactiques (lactobacille) et de levures se développant dans un mélange de farine complète et d'eau."
+                    ]
+                },
+                {
+                    "sentence": "Utilisé depuis l'Antiquité, notamment par les Égyptiens et Sumériens il y a plusieurs millénaires, il confère au pain son goût caractéristique, différent de celui produit avec la levure commerciale.",
+                    "source_passages": [
+                        "Il est très difficile de dater la découverte du levain, les premières représentations de celui-ci datent de l'Ancien Empire égyptien.",
+                        "Les Égyptiens et avant eux les Sumériens, fabriquaient conjointement de la bière et du pain."
+                    ]
+                },
+                {
+                    "sentence": "Cette fermentation produit des acides lactique et acétique, responsables de l'acidité variable selon la technique d'entretien du levain.",
+                    "source_passages": [
+                        "L'acidité particulière que le pain au levain peut présenter est, en effet, due à l'acide lactique et à l'acide acétique produits par les bactéries lactiques (lactofermentation).",
+                        "Cette acidité peut être plus ou moins prononcée selon le mode d'obtention et d'entretien du levain."
+                    ]
+                },
+                {
+                    "sentence": "Aujourd’hui, cette technique traditionnelle est redécouverte et pratiquée par des boulangers et amateurs, qui apprécient la finesse de goût et la qualité du pain.",
+                    "source_passages": [
+                        "Cette acidité peut être plus ou moins prononcée selon le mode d'obtention et d'entretien du levain."
+                    ]
+                },
+                {
+                    "sentence": "Le levain renaît ainsi comme un lien vivant avec des savoir-faire anciens, mis en image par des pains naturels levés selon ce procédé.",
+                    "source_passages": [
+                        "== Histoire == Le levain fut la seule méthode pour faire lever le pain pendant longtemps.",
+                        "Son importance, son ancienneté et son mécanisme biochimique incompris avant les travaux de Louis Pasteur lui donnent une place culturelle éminente, comme l'attestent ses occurrences bibliographiques."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-1621f80f5b7a4c7f37a2c7cb",
+            "subject_id": "source-0cd5eee7dbbf6c293d4d73c8cdee627a",
+            "collected_at": "2026-11-13T07:40:59+00:00",
+            "sources": [
+                {
+                    "label": "NOAA · What is a glass sponge?",
+                    "url": "https://oceanservice.noaa.gov/facts/glass-sponge.html"
+                }
+            ],
+            "source_sha256": "f98d7490dc51b54363901b1781d68380c790addeeb692db7538f6b90458c68e2",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:A_naturalist%27s_rambles_on_the_Devonshire_coast_(Page_417)_(5980719525).jpg",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "1eef00709b99663488933c360c1c030a31f07f4d",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La découverte et la compréhension accrues des éponges de verre offrent un éclairage sur des écosystèmes marins anciens encore vivants et sur leurs interactions symbiotiques uniques.",
+                "beneficiaries": "Les scientifiques, les biologistes marins, ainsi que les écosystèmes marins profonds abritant ces éponges et leurs espèces associées."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Les éponges de verre (classe Hexactinellida) possèdent une structure squelettique en verre, constituée de spicules en silice formant une architecture complexe.",
+                    "source_passages": [
+                        "Glass sponges in the class Hexactinellida are animals commonly found in the deep ocean.",
+                        "Their tissues contain glass-like structural particles, called spicules, that are made of silica (hence their name).",
+                        "Some species of glass sponges produce extremely large spicules that fuse together in beautiful patterns to form a “glass house”—a complex skeleton that often remains intact even after the sponge itself dies."
+                    ]
+                },
+                {
+                    "sentence": "Longtemps considérées comme éteintes il y a 40 millions d'années, des récifs vivants âgés d'environ 9 000 ans ont été découverts en 1987 au large de la côte nord de la Colombie-Britannique, au Canada.",
+                    "source_passages": [
+                        "Glass sponge reefs were thought to have gone extinct about 40 million years ago, leaving behind giant fossil cliffs that stretch across parts of Spain, France, Germany, and Romania.",
+                        "In 1987, however, a team of Canadian scientists discovered 9,000-year-old living glass sponge reefs on British Columbia’s northern coast."
+                    ]
+                },
+                {
+                    "sentence": "Ces formations sont les seules connues actuellement.",
+                    "source_passages": [
+                        "To date, these are the only such reefs known to exist."
+                    ]
+                },
+                {
+                    "sentence": "Notamment, l’espèce Euplectella, dite « panier de la Vénus », renferme une paire de petits crustacés symbiotiques (Stenopodidea) qui vivent à son intérieur à vie, contribuant à nettoyer l’éponge en échange de nourriture.",
+                    "source_passages": [
+                        "The most famous glass sponge is a species of Euplectella, shown here in the northwestern Gulf of America (formerly Gulf of Mexico).",
+                        "Commonly called the “Venus flower basket,” this sponge builds its skeleton in a way that entraps a certain species of crustacean inside for life.",
+                        "The most famous glass sponge is a species of Euplectella, known as the “Venus flower basket,” which builds its skeleton in a way that entraps a certain species of crustacean inside for life.",
+                        "This sponge often houses two small, shrimp-like Stenopodidea, a male and a female, who live out their lives inside the sponge.",
+                        "The pair inside the basket clean it and, in return, the basket provides food for the crustaceans through its waste."
+                    ]
+                },
+                {
+                    "sentence": "Ces associations illustrent des mécanismes symbiotiques anciens présents dans les profondeurs océaniques, enrichissant la compréhension des écosystèmes marins et leur biodiversité.",
+                    "source_passages": [
+                        "This sponge often houses two small, shrimp-like Stenopodidea, a male and a female, who live out their lives inside the sponge.",
+                        "The pair inside the basket clean it and, in return, the basket provides food for the crustaceans through its waste."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        }
+    ]
+}

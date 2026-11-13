@@ -1,0 +1,57 @@
+{
+    "schema_version": 1,
+    "id": "generated-9929b8ec6dcf6f9e855c",
+    "version": "1",
+    "articles": [
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "daily",
+            "id": "decouverte-6cec8922b2757bbb3e0b61cd",
+            "title": "Le levain panaire : un héritage ancien toujours vivant dans la fabrication du pain",
+            "body": "Le levain panaire, mélange naturel de bactéries lactiques et de levures cultivées dans de la farine complète et de l'eau, demeure une méthode traditionnelle de fermentation du pain. Utilisé depuis l'Antiquité, notamment par les Égyptiens et Sumériens il y a plusieurs millénaires, il confère au pain son goût caractéristique, différent de celui produit avec la levure commerciale. Cette fermentation produit des acides lactique et acétique, responsables de l'acidité variable selon la technique d'entretien du levain. Aujourd’hui, cette technique traditionnelle est redécouverte et pratiquée par des boulangers et amateurs, qui apprécient la finesse de goût et la qualité du pain. Le levain renaît ainsi comme un lien vivant avec des savoir-faire anciens, mis en image par des pains naturels levés selon ce procédé.",
+            "category": "Gastronomie et traditions",
+            "location": "Monde",
+            "image_description": "Deux pains levés naturellement au levain : un miche de blé entier de 3 livres et un pain au levain avec 90 % de farine blanche et 10 % de seigle, façonnés dans des formes traditionnelles.",
+            "image_caption": "Photographie illustrative de deux pains au levain naturel, témoignant de la diversité des pains fabriqués à partir d’un levain panaire traditionnel (source Wikimedia Commons).",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/9bb92cea594a54d70e993793608abfe875a2b3ed4153fe92810d2fa660a0bf28.jpg",
+            "image_credit": "Chris R. Sims (Simsc) · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Sourdough_miche_%26_boule.jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Levain panaire",
+                    "url": "https://fr.wikipedia.org/wiki/Levain_panaire"
+                }
+            ],
+            "subject_id": "Q904889",
+            "published_at": "2026-11-13",
+            "country": "Monde"
+        },
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "daily",
+            "id": "decouverte-1621f80f5b7a4c7f37a2c7cb",
+            "title": "Les éponges de verre : un lien vivant entre le passé fossile et les fonds marins actuels",
+            "body": "Les éponges de verre (classe Hexactinellida) possèdent une structure squelettique en verre, constituée de spicules en silice formant une architecture complexe. Longtemps considérées comme éteintes il y a 40 millions d'années, des récifs vivants âgés d'environ 9 000 ans ont été découverts en 1987 au large de la côte nord de la Colombie-Britannique, au Canada. Ces formations sont les seules connues actuellement. Notamment, l’espèce Euplectella, dite « panier de la Vénus », renferme une paire de petits crustacés symbiotiques (Stenopodidea) qui vivent à son intérieur à vie, contribuant à nettoyer l’éponge en échange de nourriture. Ces associations illustrent des mécanismes symbiotiques anciens présents dans les profondeurs océaniques, enrichissant la compréhension des écosystèmes marins et leur biodiversité.",
+            "category": "Nature et animaux",
+            "location": "Côte nord de la Colombie-Britannique, Canada",
+            "image_description": "Photographie ancienne montrant des tubes ressemblant à des éponges marines fixées sur un substrat rocheux sous-marin, extraite d’un ouvrage naturaliste.",
+            "image_caption": "Illustration historique représentant des éponges marines tubulaires, Wikimedia Commons, image documentaire générale.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/2a40847fbc3503eca8a73c1672dc21bbd0e24c9113bc284a81412a3fba15922f.jpg",
+            "image_credit": "Gosse, Philip Henry; Hullmandel & Walton · https://www.flickr.com/photos/biodivlibrary/5980719525 · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:A_naturalist%27s_rambles_on_the_Devonshire_coast_(Page_417)_(5980719525).jpg",
+            "sources": [
+                {
+                    "label": "NOAA · What is a glass sponge?",
+                    "url": "https://oceanservice.noaa.gov/facts/glass-sponge.html"
+                }
+            ],
+            "subject_id": "source-0cd5eee7dbbf6c293d4d73c8cdee627a",
+            "published_at": "2026-11-13",
+            "country": "Monde"
+        }
+    ]
+}
