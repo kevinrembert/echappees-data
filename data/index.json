@@ -1,6 +1,6 @@
 {
     "schema_version": 1,
-    "version": "2026-11-13.a3d73ecba60b73fc",
+    "version": "2026-11-13.editorial-v2",
     "batches": [
         {
             "id": "generated-a3d73ecba60b73fc6f48",
@@ -16,9 +16,9 @@
         },
         {
             "id": "generated-97ea52689685f791feff",
-            "version": "1",
-            "url": "batches/generated-97ea52689685f791feff.v1.json",
-            "count": 4
+            "version": "2",
+            "url": "batches/generated-97ea52689685f791feff.v2.json",
+            "count": 3
         },
         {
             "id": "generated-38ace1e4c46abdfbf408",
@@ -33,22 +33,10 @@
             "count": 3
         },
         {
-            "id": "generated-9b59cba793d6a0891685",
-            "version": "1",
-            "url": "batches/generated-9b59cba793d6a0891685.v1.json",
-            "count": 1
-        },
-        {
             "id": "generated-04897bb93db6580e0041",
-            "version": "1",
-            "url": "batches/generated-04897bb93db6580e0041.v1.json",
-            "count": 6
-        },
-        {
-            "id": "generated-869b874e3d9aa6c3fe16",
-            "version": "1",
-            "url": "batches/generated-869b874e3d9aa6c3fe16.v1.json",
-            "count": 1
+            "version": "2",
+            "url": "batches/generated-04897bb93db6580e0041.v2.json",
+            "count": 3
         },
         {
             "id": "generated-7b86af28bb5244c6e962",
@@ -58,9 +46,9 @@
         },
         {
             "id": "generated-177d3271fc35efff6a4d",
-            "version": "1",
-            "url": "batches/generated-177d3271fc35efff6a4d.v1.json",
-            "count": 4
+            "version": "2",
+            "url": "batches/generated-177d3271fc35efff6a4d.v2.json",
+            "count": 3
         },
         {
             "id": "generated-a58d73c44ff6e6a4d2fe",
@@ -70,15 +58,15 @@
         },
         {
             "id": "generated-f0b8e8ee592f94b5f34c",
-            "version": "1",
-            "url": "batches/generated-f0b8e8ee592f94b5f34c.v1.json",
-            "count": 6
+            "version": "2",
+            "url": "batches/generated-f0b8e8ee592f94b5f34c.v2.json",
+            "count": 5
         },
         {
             "id": "generated-47306dcf97f1c2918d0a",
-            "version": "1",
-            "url": "batches/generated-47306dcf97f1c2918d0a.v1.json",
-            "count": 5
+            "version": "2",
+            "url": "batches/generated-47306dcf97f1c2918d0a.v2.json",
+            "count": 4
         },
         {
             "id": "generated-063e28f9cb6418bab63d",
@@ -88,9 +76,9 @@
         },
         {
             "id": "generated-ef439580017edda022b1",
-            "version": "1",
-            "url": "batches/generated-ef439580017edda022b1.v1.json",
-            "count": 5
+            "version": "2",
+            "url": "batches/generated-ef439580017edda022b1.v2.json",
+            "count": 4
         },
         {
             "id": "generated-b1c229198bf52d91edf9",
@@ -99,16 +87,10 @@
             "count": 3
         },
         {
-            "id": "generated-27ba18e9582149263a32",
-            "version": "1",
-            "url": "batches/generated-27ba18e9582149263a32.v1.json",
-            "count": 1
-        },
-        {
             "id": "generated-417b3c654707235da520",
-            "version": "1",
-            "url": "batches/generated-417b3c654707235da520.v1.json",
-            "count": 6
+            "version": "2",
+            "url": "batches/generated-417b3c654707235da520.v2.json",
+            "count": 5
         },
         {
             "id": "generated-10d6c29006a2ad3a45db",
@@ -117,22 +99,16 @@
             "count": 3
         },
         {
-            "id": "generated-356cf33820249e692364",
-            "version": "1",
-            "url": "batches/generated-356cf33820249e692364.v1.json",
-            "count": 1
-        },
-        {
             "id": "generated-08282219ac2164ff4f12",
-            "version": "1",
-            "url": "batches/generated-08282219ac2164ff4f12.v1.json",
-            "count": 4
+            "version": "2",
+            "url": "batches/generated-08282219ac2164ff4f12.v2.json",
+            "count": 3
         },
         {
             "id": "generated-cd02138ffc564f99a94d",
-            "version": "1",
-            "url": "batches/generated-cd02138ffc564f99a94d.v1.json",
-            "count": 4
+            "version": "2",
+            "url": "batches/generated-cd02138ffc564f99a94d.v2.json",
+            "count": 3
         },
         {
             "id": "generated-cc6d0f085f8e0b599728",
@@ -148,9 +124,9 @@
         },
         {
             "id": "generated-77902f05b28f32b14a05",
-            "version": "2",
-            "url": "batches/generated-77902f05b28f32b14a05.v2.json",
-            "count": 4
+            "version": "3",
+            "url": "batches/generated-77902f05b28f32b14a05.v3.json",
+            "count": 3
         },
         {
             "id": "generated-44b958a015e80b7d640a",
@@ -190,9 +166,9 @@
         },
         {
             "id": "generated-f71b9c6a86150dde9aa1",
-            "version": "1",
-            "url": "batches/generated-f71b9c6a86150dde9aa1.v1.json",
-            "count": 4
+            "version": "2",
+            "url": "batches/generated-f71b9c6a86150dde9aa1.v2.json",
+            "count": 3
         },
         {
             "id": "generated-6c26c8025cac814e6cb5",

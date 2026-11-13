@@ -1,0 +1,83 @@
+{
+    "schema_version": 1,
+    "id": "generated-04897bb93db6580e0041",
+    "version": "2",
+    "articles": [
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-d7629f8ce18307bc070465ed",
+            "title": "Le Journal Météo-Climat transforme le débat public sur le climat grâce à une médiation scientifique renforcée",
+            "body": "Depuis mars 2023, Le Journal Météo-Climat diffusé chaque jour sur France Télévisions, a modifié l’approche médiatique du changement climatique. Ce programme pionnier s’appuie sur un partenariat inédit entre journalistes et scientifiques, mobilisant plus de 200 experts pour assurer la qualité et la précision des informations transmises. Cette collaboration permet d’intégrer systématiquement des données scientifiques dans les bulletins météo, reflétant les réalités vécues par la population. Le projet a reçu en 2026 le prix de la diffusion des connaissances des Médailles de la médiation scientifique, co-organisées par le CNRS et France Universités. Cette distinction reconnait la consolidation d’un espace d’échange où le climat est traité avec rigueur, contribuant à une meilleure compréhension collective des défis environnementaux.",
+            "category": "Sciences",
+            "location": "Monde",
+            "image_description": "Une image illustrant le climat et la météo, composée de représentations graphiques et nuages.",
+            "image_caption": "Illustration documentaire générale sur le climat et la météo, image Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/a3f893655aaf72045ee5cb42b79321863a7e579a1743ea4369fc60e3287f1967.jpg",
+            "image_credit": "Murekatete3000 · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Climate_and_weather.jpg",
+            "sources": [
+                {
+                    "label": "CNRS · presse · publié le 2026-10-20",
+                    "url": "https://www.cnrs.fr/fr/presse/medailles-de-la-mediation-scientifique-le-cnrs-et-france-universites-annoncent-les-laureats"
+                }
+            ],
+            "subject_id": "news-14d79ccd973dfa7a6825e611c0488a41",
+            "published_at": "2026-11-09",
+            "country": "Monde",
+            "source_published_at": "2026-10-20"
+        },
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "daily",
+            "id": "decouverte-189fc897d39bd7cd07b6df17",
+            "title": "Les éponges, alliées essentielles de l'équilibre des récifs coralliens",
+            "body": "Les éponges, animaux aquatiques simples dotés d'un squelette poreux, jouent un rôle important pour les récifs coralliens. Leur diversité de formes et couleurs participe à la complexité des habitats sous-marins. En filtrant l'eau, elles piègent bactéries et particules, filtrant ensuite le carbone, l'azote et le phosphore. Certaines espèces, notamment dans les récifs pauvres en nutriments, libèrent du carbone transformé, ce qui nourrit d’autres organismes et préserve la productivité de l’écosystème. Ce mécanisme aide à stabiliser la disponibilité des nutriments, la température et la luminosité, conditions cruciales pour la vie sur les récifs. Cette capacité d’adaptation des éponges à différents substrats, qu’ils soient durs ou meubles, contribue à leur rôle stabilisateur dans ces milieux fragiles.",
+            "category": "Nature et animaux",
+            "location": "Monde",
+            "image_description": "Une femelle crabe portant une éponge accrochée à ses pléopodes, observée dans la rivière de Hampton en 1921.",
+            "image_caption": "Photographie documentaire générale montrant une éponge fixée sur un crabe, illustration de l’interaction entre éponges et espèces marines. Crédit : Churchill, E. P., Jr. (1921), Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/039d6c8b3d49a0cc07bba50e3def1056a574521ea9b599385c9c5ea95f38cdb4.jpg",
+            "image_credit": "Churchill, E. P., Jr. · Churchill, E. P., Jr. (1921) Life History of the Blue Crab, Bulletin of the United States Bureau of Fisheries, vol. 36, 1917-1918, Washington, D.C.: Government Printing Office · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:FMIB_47826_Female_crab_bearing_what_is_known_to_be_at_least_the_second_sponge_Remnants_of_an_old_sponge_were_found_upon_the_swimmerets_when.jpeg",
+            "sources": [
+                {
+                    "label": "NOAA · What is a sponge?",
+                    "url": "https://oceanservice.noaa.gov/facts/sponge.html"
+                }
+            ],
+            "subject_id": "source-2a00809fd827c04c4410f4672904d941",
+            "published_at": "2026-11-09",
+            "country": "Monde"
+        },
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "daily",
+            "id": "decouverte-4c0e9f70784c0153e7372a1e",
+            "title": "Au Pays basque français, la fabrication du makila se perpétue par des ateliers familiaux",
+            "body": "Le makila, bâton de marche traditionnel basque doublé d’une arme, témoigne d’un artisanat local transmis depuis au moins sept générations. Principalement issu de Soule et de Basse-Navarre, cet objet personnel est fabriqué notamment à Larressore, au sein de l’atelier Ainciart Bergara, toujours en activité. Ce bâton, souvent offert en signe d’honneur, combine utilité et symbolique culturelle. À Bayonne et Irun, d’autres ateliers contribuent également à cette continuité artisanale. Cette permanence du savoir-faire garantit que le makila reste un élément vivant de la culture basque, adapté aux pratiquants par sa longueur et son équilibre. Ainsi, la tradition artisanale accompagne aujourd’hui une pratique et une reconnaissance locale consolidées.",
+            "category": "Gastronomie et traditions",
+            "location": "Pays basque français",
+            "image_description": "Bâton de marche basque makila fabriqué à Larressore, France, par l’atelier Aincart Bergara, présenté sur Wikimedia Commons.",
+            "image_caption": "Illustration générale d’un makila, bâton de marche traditionnel basque. Photo par Jibi44, Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/4759d8d3b81bc0087cf0b19c93733e92dbc8a291c031ffc8ba83fc50b3b1205b.jpg",
+            "image_credit": "No machine-readable author provided. Jibi44 assumed (based on copyright claims). · No machine-readable source provided. Own work assumed (based on copyright claims). · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Makhila.JPG",
+            "sources": [
+                {
+                    "label": "Wikipédia · Makila",
+                    "url": "https://fr.wikipedia.org/wiki/Makila"
+                }
+            ],
+            "subject_id": "Q3280777",
+            "published_at": "2026-11-09",
+            "country": "France"
+        }
+    ]
+}

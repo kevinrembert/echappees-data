@@ -1,0 +1,83 @@
+{
+    "schema_version": 1,
+    "id": "generated-97ea52689685f791feff",
+    "version": "2",
+    "articles": [
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-0691aa0b2f7f9001b325715e",
+            "title": "En Allemagne, des chiens dressés avec leurs maîtres repèrent des plantes invasives avec un bon taux de réussite",
+            "body": "Entre 2021 et 2023, trente-et-un chiens et leurs propriétaires ont suivi une formation pour identifier en pleine nature trois espèces végétales invasives qui nuisent à la biodiversité : la balsamine de l’Himalaya, l’ambroisie et plusieurs renouées japonaises. Lors d’un test sur le terrain, onze des douze équipes ont réussi à localiser ces espèces avec une précision moyenne de 75 %. Cette méthode, impliquant des bénévoles formés et leurs chiens à l’aide d’experts en dressage et en écologie, offre un complément efficace aux méthodes existantes, souvent coûteuses et longues. Elle valorise aussi le temps passé à l’extérieur avec son chien en participant à la surveillance et la protection des milieux naturels. L’étude a permis d’établir des recommandations pour améliorer la sélection et la coordination des volontaires ainsi que le dressage des chiens.",
+            "category": "Initiatives positives",
+            "location": "Allemagne",
+            "image_description": "Un chien renifle pour détecter des fourmis invasives au refuge de Johnston Atoll",
+            "image_caption": "Illustration documentaire générale : un chien entraîné à détecter des espèces invasives, ici pour la fourmi folle à Johnston Atoll · Wikimedia Commons",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/3c3102b062aac2c18799c64aaa881a56b53849f97b5d63335cf94814aeba41b7.jpg",
+            "image_credit": "Tor Johnson · https://www.fws.gov/media/dog-sniffs-invasive-crazy-ants-johnston-atoll-refuge · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:A_dog_sniffs_for_invasive_crazy_ants_at_Johnston_Atoll_Refuge.png",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-08",
+                    "url": "https://www.goodnewsnetwork.org/dogs-can-sniff-out-invasive-plant-species-with-75pt-accuracy/"
+                }
+            ],
+            "subject_id": "news-1c5ba739ed249b691b9ba9374e834bac",
+            "published_at": "2026-11-11",
+            "country": "Monde",
+            "source_published_at": "2026-11-08"
+        },
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "daily",
+            "id": "decouverte-29ed46648eb6e976fe8a66e9",
+            "title": "Les sloughs, zones humides estuariennes essentielles à la biodiversité côtière",
+            "body": "Les sloughs sont des écosystèmes de milieux humides, souvent situés en bordure de rivières ou d’estuaires, où l’eau douce des cours d’eau se mêle à l’eau salée de la mer. Ces zones, comme Elkhorn Slough en Californie ou South Slough dans l’Oregon, abritent une biodiversité riche comprenant plus de cent trente espèces d’oiseaux, plusieurs d’entre elles menacées, ainsi que du saumon, des loutres de mer et diverses espèces de crustacés. Les réserves nationales de recherche estuarienne gèrent ces sites pour préserver ces habitats fragiles. L’équilibre spécifique de chaque slough dépend de son climat et de son bassin versant, avec des enjeux liés à la pollution agricole ou à l’exploitation forestière selon les régions. Un détail concret : Baylis Pond, un slough britannique, présente des îles favorables à la nidification des oiseaux.",
+            "category": "Nature et animaux",
+            "location": "Monde",
+            "image_description": "Étendue humide appelée slough, avec un plan d’eau entouré de végétation, illustré par une photo de Baylis Pond au Royaume-Uni montrant un paysage froid et partiellement gelé avec de l’eau stagnante.",
+            "image_caption": "Illustration documentaire générale : slough à Baylis Pond (Royaume-Uni), un milieu humide où la glace recouvre partiellement la surface après une nuit froide.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/dec15abbdff9551af74132f68a2a1ba204c57a84b8e7ab42736860d476db5269.jpg",
+            "image_credit": "Nigel Cox · From geograph.org.uk · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 2.0 · https://creativecommons.org/licenses/by-sa/2.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Slough,_Baylis_Pond_-_geograph.org.uk_-_1235407.jpg",
+            "sources": [
+                {
+                    "label": "NOAA · What is a slough?",
+                    "url": "https://oceanservice.noaa.gov/facts/slough.html"
+                }
+            ],
+            "subject_id": "source-cf9eee1a0b0df8d2dc318ec737d8ae59",
+            "published_at": "2026-11-11",
+            "country": "Monde"
+        },
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "daily",
+            "id": "decouverte-8be38e0bc57805ea76ecde64",
+            "title": "Sare, village basque labellisé parmi Les Plus Beaux Villages de France",
+            "body": "Située dans les Pyrénées-Atlantiques, la commune de Sare bénéficie du label Les Plus Beaux Villages de France, une reconnaissance qui souligne la qualité de son patrimoine bâti et naturel. Ce label participe à la valorisation et à la protection de son cadre unique, adossé à la chaîne pyrénéenne et riche de sites historiques comme ses nombreuses grottes préhistoriques. Sare tire aussi parti de son identité culturelle basque partagée avec la Navarre voisine. Cette distinction soutient les initiatives locales en faveur du tourisme durable et de la conservation des traditions. Chaque année, des centaines de visiteurs découvrent le fronton et d’autres éléments emblématiques qui incarnent la vie traditionnelle du village.",
+            "category": "Villages et villes",
+            "location": "Sare, France",
+            "image_description": "Fronton et terrain de pelote simple paroi à Sare, Pyrénées-Atlantiques, France.",
+            "image_caption": "Illustration documentaire générale : fronton et terrain de pelote à Sare, photographie Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/b216ffc27d35811b3dedddc3609d3d7437165f916390a367987f3fde455643c4.jpg",
+            "image_credit": "JLPC · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Sare_Fronton_2012.jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Sare",
+                    "url": "https://fr.wikipedia.org/wiki/Sare"
+                }
+            ],
+            "subject_id": "Q274155",
+            "published_at": "2026-11-11",
+            "country": "France"
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "schema_version": 1,
+    "id": "generated-ef439580017edda022b1",
+    "version": "2",
+    "articles": [
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-79b1d5c355d1343b62a83a85",
+            "title": "Au village de Botton, un modèle communautaire repense la prise en charge sociale",
+            "body": "Dans le village anglais de Botton, une communauté a instauré un mode de vie fondé sur la coparticipation et la responsabilité partagée, remettant en question la conception traditionnelle des soins sociaux comme un service. Depuis 1955, ce lieu réunit environ 120 habitants, dont des personnes ayant un handicap mental, qui vivent et travaillent ensemble en tant que membres d’une communauté unie. Plutôt que des relations d’aide formalisées entre soignants et bénéficiaires, ce système favorise l’entraide et les échanges au quotidien. Cette organisation se distingue d’un modèle professionnel conventionnel en valorisant les interactions humaines dans un cadre communautaire. L’exemple de Botton illustre une alternative concrète qui modifie le vécu et l’environnement des personnes concernées, au-delà du simple soin formel.",
+            "category": "Initiatives positives",
+            "location": "Botton, Royaume-Uni",
+            "image_description": "Village women in a communal spirit prepare local animals feed for their community",
+            "image_caption": "Illustration documentaire générale : des habitantes préparent de la nourriture pour les animaux locaux dans un esprit communautaire, Wikimedia Commons",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/27512e14e9494cd6b51b1c7629c332efcb507e9653726d28baf51eb127a4b746.jpg",
+            "image_credit": "Qulat96 · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Village_women_in_a_communal_spirit_prepare_local_animals_feed_for_their_community.jpg",
+            "sources": [
+                {
+                    "label": "Positive News · publié le 2026-11-03",
+                    "url": "https://www.positive.news/society/what-if-we-stopped-treating-social-care-like-a-service/"
+                }
+            ],
+            "subject_id": "news-2a4c2058ae1525b376c91b06a19ebf36",
+            "published_at": "2026-11-04",
+            "country": "Monde",
+            "source_published_at": "2026-11-03"
+        },
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-6885f3562c6d9c4b8118f477",
+            "title": "Le CNRS consolide son leadership européen dans le transfert de technologies en 2025",
+            "body": "En 2025, le CNRS a de nouveau pris la tête des institutions de recherche publique européennes en nombre de demandes de brevets, avec 729 dépôts selon les données de l’Office européen des brevets. Cette performance souligne son engagement soutenu dans le transfert des découvertes scientifiques vers les applications industrielles, particulièrement dans des secteurs stratégiques comme la pharmacie, l’énergie, l’instrumentation et les biotechnologies. Le CNRS s’appuie sur un portefeuille large de brevets, avec un tiers en copropriété avec des partenaires industriels, renforçant ainsi la collaboration entre recherche publique et entreprises. Cette dynamique bénéficie à la communauté scientifique française et contribue au développement économique et technologique au sein de l’Europe.",
+            "category": "Sciences",
+            "location": "France",
+            "image_description": "Participants du programme PIERR (Patent Innovation Entrepreneurship Rapid Research) en 2019 au NASA Goddard Space Flight Center à Greenbelt, Maryland.",
+            "image_caption": "Illustration documentaire générale du programme PIERR en 2019, accueillant des étudiants explorant des technologies brevetées de la NASA – Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/738dce8132dd607983132d4d336152b3a81dc1dd66eda5130fcf8c1014c011db.jpg",
+            "image_credit": "NASA Goddard Space Flight Center · https://www.flickr.com/photos/35278629@N08/49195458177/ · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY 2.0 · https://creativecommons.org/licenses/by/2.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:2019_Patent_Innovation_Entrepreneurship_Rapid_Research_(PIERR)_program.jpg",
+            "sources": [
+                {
+                    "label": "CNRS · presse · publié le 2026-10-21",
+                    "url": "https://www.cnrs.fr/fr/presse/transfert-de-technologies-le-cnrs-confirme-son-leadership-parmi-les-institutions-de"
+                }
+            ],
+            "subject_id": "news-34f22bf329a5a13eb5584bb17c9d79df",
+            "published_at": "2026-11-04",
+            "country": "Monde",
+            "source_published_at": "2026-10-21"
+        },
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-6c94f7251d0b5fa4ab8c99be",
+            "title": "À Atlanta, un fonds associatif verse plus de 16 millions de dollars pour éviter les expulsions",
+            "body": "Une organisation d’Atlanta a financé plus de 16,5 millions de dollars d’aide pour éviter les expulsions locatives depuis le début de la pandémie. La Star-C Program, fondée par une propriétaire d’immeubles abordables, a soutenu plus de 5 500 familles qui rencontrent des difficultés à payer leur loyer. Ce fonds ne se limite pas à l’aide financière : il met aussi en relation les locataires avec des programmes pour enfants, des services médicaux ou encore une aide alimentaire. Cette initiative rassemble désormais 330 communautés d’appartements représentant 64 000 logements, avec des bailleurs soucieux de maintenir des loyers accessibles. Son action montre comment un réseau local peut répondre concrètement à la pression croissante sur les ménages modestes face à l’inflation et aux hausses de loyers.",
+            "category": "Initiatives positives",
+            "location": "Atlanta",
+            "image_description": "Construction d’appartements de logements abordables à Cannons Close",
+            "image_caption": "Illustration documentaire générale : construction de logements abordables, photo Wikimedia Commons",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/1c9249b155fb9a09ee79c075949f9e46863f4b877852d65f7b7b6b35a89380fe.jpg",
+            "image_credit": "Nigel Mykura · Geograph Britain and Ireland · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 2.0 · https://creativecommons.org/licenses/by-sa/2.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Affordable_Housing_Apartments_Being_Built_on_Canons_Close_-_geograph.org.uk_-_5655170.jpg",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-01",
+                    "url": "https://www.goodnewsnetwork.org/housing-nonprofit-funds-16-5-million-in-eviction-relief-for-renters/"
+                }
+            ],
+            "subject_id": "news-716eac45c9c578646cb6ead586769f97",
+            "published_at": "2026-11-04",
+            "country": "Monde",
+            "source_published_at": "2026-11-01"
+        },
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-d2925edc69b0c0184fdaa5f9",
+            "title": "À Londres, la boxe au service de la reconquête de soi pour les survivantes de violences",
+            "body": "Depuis quelques années, un programme de boxe réservé aux femmes a offert un nouvel espace de confiance à celles ayant vécu des relations abusives. Dans un gymnase d'Aldgate, à Londres, près de quarante participantes ont suivi des entraînements gratuits, organisés par Fight Forward CIC et soutenus par des soirées de boxe caritatives. Ces événements, initiés par Fight Back Promotions, permettent de financer des cours et d'offrir aux femmes l'opportunité de monter sur le ring dans des conditions équitables, tenant compte notamment des spécificités liées au cycle menstruel. Cette initiative répond à un besoin de justice sportive et sociale, tout en offrant un cadre sécurisant et stimulant, au-delà du seul maintien en forme.",
+            "category": "Initiatives positives",
+            "location": "Londres, Royaume-Uni",
+            "image_description": "Une rencontre de boxe féminine entre Adriana Salles et Renata Cristina Dos Santos Ferreira à Sao Paulo, Brésil, en 2006.",
+            "image_caption": "Illustration documentaire générale d’une rencontre de boxe féminine à Sao Paulo au Brésil, septembre 2006.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/fd12cc10febe5499cff822c4a8957021cdfb7f3000afe82edccfc2040d3f8f62.jpg",
+            "image_credit": "Denis Gustavo · https://www.flickr.com/photos/denisgustavo/256911364/ · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY 2.0 · https://creativecommons.org/licenses/by/2.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Women_boxing.jpg",
+            "sources": [
+                {
+                    "label": "Positive News · publié le 2026-11-02",
+                    "url": "https://www.positive.news/society/the-womens-boxing-nights-helping-abuse-survivors/"
+                }
+            ],
+            "subject_id": "news-f783331b586f8f046c2d81e560603aee",
+            "published_at": "2026-11-04",
+            "country": "Monde",
+            "source_published_at": "2026-11-02"
+        }
+    ]
+}

@@ -487,13 +487,34 @@ try {
     test('Les sauvetages sont exclus avant tout appel sans exclure la prévention', function (): void {
         [$root, $c, $b, $http] = prepared(); $b->start('100');
         $writer = new Writer($http, $b, $c, '100', 'fixture-only-not-a-secret');
-        foreach (['Un kangourou sauvé en mer', 'Divers rescue a kangaroo', 'Le sauvetage d’un enfant se termine bien'] as $title) {
+        foreach (['Un kangourou sauvé en mer', 'Divers rescue a kangaroo', 'Le sauvetage d’un enfant se termine bien', 'Une victoire politique', 'Une avancée contre le racisme', 'Les droits LGBTQ progressent'] as $title) {
             rejects(fn()=>$writer->selectRecent(['title'=>$title, 'excerpt'=>'Fixture']));
         }
         ensure($http->calls === 0, 'Un sauvetage évident a déclenché un appel.');
         foreach (['Un jardin partagé ouvre ses portes', 'Des zones protégées pour les dauphins', 'Save energy with community solar'] as $title) {
             ensure(!Echappees\Editorial::rescueTitle($title), 'Une action préventive est assimilée à un sauvetage.');
         }
+    });
+
+    test('Les thèmes politiques, racisme et sexualité sont exclus même positifs', function(): void {
+        foreach ([
+            'Une victoire politique pour une communauté', 'Des élections plus inclusives',
+            'A new racial equality initiative', 'Un programme contre le racisme',
+            'Les droits LGBTQ progressent', 'Une discussion sur l’orientation sexuelle',
+            'Un outil pour la responsabilité sexuelle', 'Une loi sur les enfants intersexués',
+            'Une avancée contre les discriminations',
+        ] as $title) {
+            ensure(Echappees\Editorial::excludedTopic($title), 'Thème non exclu : ' . $title);
+        }
+        foreach (['Un jardin partagé ouvre ses portes', 'La reproduction des coraux',
+            'Une recette de pain au levain', 'Les racines des arbres communiquent'] as $title) {
+            ensure(!Echappees\Editorial::excludedTopic($title), 'Faux positif : ' . $title);
+        }
+        $selected = Echappees\Editorial::eligible([
+            ['wiki_title'=>'Une victoire politique', 'kind'=>'recent'],
+            ['wiki_title'=>'Un jardin partagé', 'kind'=>'recent'],
+        ], [], []);
+        ensure(array_keys($selected) === [1], 'Un candidat hors ligne est conservé.');
     });
 
 } finally {

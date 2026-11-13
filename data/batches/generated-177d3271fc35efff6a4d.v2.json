@@ -1,0 +1,83 @@
+{
+    "schema_version": 1,
+    "id": "generated-177d3271fc35efff6a4d",
+    "version": "2",
+    "articles": [
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-9c612feaa1a68d4a574bbf03",
+            "title": "Une croissance du couvert arboré urbain aux États-Unis améliore la santé publique",
+            "body": "Une étude récente estime que les 144 plus grandes villes des États-Unis ont désormais la possibilité d’atteindre leurs objectifs en matière de couverture arborée. Cela représenterait un impact sanitaire significatif : plus de 67 000 décès prématurés pourraient être évités grâce à l'augmentation des arbres en milieu urbain. Par ailleurs, maintenir la végétation déjà existante éviterait au moins 133 000 morts prématurées. Cette amélioration concrète montre le lien direct entre espaces verts et santé publique. Selon une écologue urbaine, changer la manière dont les espaces verts sont considérés dans les villes nécessite un changement de mentalité similaire à celui des infrastructures publiques traditionnelles. Cette reconnaissance éclaire le rôle souvent sous-estimé des arbres dans nos environnements quotidiens.",
+            "category": "Initiatives positives",
+            "location": "États-Unis",
+            "image_description": "exposed urban tree at sea front City of Vancouver in Canada",
+            "image_caption": "Illustration documentaire générale d’un arbre urbain exposé en bord de mer à Vancouver, Canada, Wikimedia Commons",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/a0ae4e324c4c1017c8e394e50aa1fc902a995f48a7e8f0d3249b562a381b3609.jpg",
+            "image_credit": "ThomasLendt · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Exposed_urban_tree_at_sea_front_City_of_Vancouver_in_Canada.jpg",
+            "sources": [
+                {
+                    "label": "Reasons to be Cheerful · publié le 2026-10-28",
+                    "url": "https://reasonstobecheerful.world/what-were-reading-americans-want-the-same-things/"
+                }
+            ],
+            "subject_id": "news-ffbe6b27a8f899e2dc88ba32b21a9638",
+            "published_at": "2026-11-07",
+            "country": "Monde",
+            "source_published_at": "2026-10-28"
+        },
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "daily",
+            "id": "decouverte-3a4180be6c784062a6361922",
+            "title": "Les récifs artificiels : un soutien concret pour la vie marine",
+            "body": "Les récifs artificiels sont des structures conçues pour reproduire certaines fonctions des récifs naturels. Par exemple, des navires désaffectés coulés volontairement, comme l’USS Spiegel Grove près de Key Largo, offrent un support durable où s’installent coraux, éponges et diverses espèces marines. Ces habitats créés attirent poissons et invertébrés, renforçant la richesse biologique locale. De plus, ils attirent pêcheurs et plongeurs, apportant un bénéfice économique régional. Plusieurs matériaux sont employés pour ces récifs, allant de pierres à des structures en béton ou acier. Si cette démarche bénéficie clairement à des écosystèmes fragiles, elle soulève aussi des enjeux liés à la gestion des déchets marins, nécessitant un suivi strict. Un exemple visible est l’épave du Winfield Scott dans le sanctuaire marin des îles Channel, aujourd’hui refuge sous-marin pour de nombreuses espèces.",
+            "category": "Nature et animaux",
+            "location": "Monde",
+            "image_description": "L’épave du Winfield Scott, un ancien navire à roues, sert de récif artificiel abritant une communauté diversifiée d’invertébrés et de poissons dans une forêt de varech, au sanctuaire marin des îles Channel.",
+            "image_caption": "Photographie documentaire générale du site de l’épave du Winfield Scott, utilisée comme récif artificiel (Photo : Robert Schwemmer/NOAA).",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/bf0390895ed79f19b35c8c6dc98c7f8b6e7b6f5dc43869cc19c6e82421de0268.jpg",
+            "image_credit": "National Marine Sanctuaries · CINMS -- Winfield Scott Shipwreck · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:CINMS_--_Winfield_Scott_Shipwreck_(36373149185).jpg",
+            "sources": [
+                {
+                    "label": "NOAA · What is an artificial reef?",
+                    "url": "https://oceanservice.noaa.gov/facts/artificial-reef.html"
+                }
+            ],
+            "subject_id": "source-925a1b2e8e1e67c500141bc45d827156",
+            "published_at": "2026-11-07",
+            "country": "Monde"
+        },
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "daily",
+            "id": "decouverte-d41f9e053ec7bd445ff38604",
+            "title": "Le Geirangerfjord, fjord norvégien protégé inscrit au patrimoine mondial",
+            "body": "Le Geirangerfjord, situé dans la municipalité de Stranda en Norvège, s’étire sur environ quinze kilomètres et abrite le village de Geiranger à son extrémité. Ce fjord est un site majeur pour le tourisme, accessible aux navires de croisière ainsi qu’à l’express côtier Hurtigruten durant l’été, reliant notamment Ålesund et Molde. Depuis 2005, il bénéficie d’une inscription au patrimoine mondial de l’UNESCO, aux côtés du Nærøyfjord, ce qui participe à la conservation de ses paysages et de sa biodiversité. Le maintien de ses chutes emblématiques, telles que les cascades des sept sœurs, témoigne d’un équilibre entre fréquentation touristique et préservation naturelle.",
+            "category": "Voyages et paysages",
+            "location": "Norvège",
+            "image_description": "Vue panoramique du Geirangerfjord montrant les falaises escarpées et la surface calme de l’eau.",
+            "image_caption": "Photographie documentaire générale du Geirangerfjord en Norvège, illustration des paysages fjordiques. Wikimedia Commons",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/77c2a172cf2e1e5a730fd9f6d58d2552206708a7290db34929303b9ae40b5396.jpg",
+            "image_credit": "The original uploader was Bernard bill5 at Dutch Wikipedia. Later version(s) were uploaded by Kameraad Pjotr at nl.wikipedia. (Original text: Arancia) · www.sxc.hu · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:GeirangerFjord.jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Geirangerfjord",
+                    "url": "https://fr.wikipedia.org/wiki/Geirangerfjord"
+                }
+            ],
+            "subject_id": "Q193989",
+            "published_at": "2026-11-07",
+            "country": "Norvège"
+        }
+    ]
+}
