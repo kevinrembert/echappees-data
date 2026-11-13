@@ -1,0 +1,83 @@
+{
+    "schema_version": 1,
+    "id": "generated-a3d73ecba60b73fc6f48",
+    "version": "1",
+    "articles": [
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-a3fdbba82373ce3baf6376be",
+            "title": "280 gravures de l’Âge de glace longtemps ignorées découvertes en Catalogne",
+            "body": "Dans la grotte de la Font Major, en Catalogne, 280 gravures remontant à l’Âge de glace ont été redécouvertes. Ces œuvres, longtemps ignorées par les visiteurs depuis au moins 60 ans, représentent 55 animaux et de nombreux motifs abstraits. Ce site se démarque dans la péninsule ibérique où l’art rupestre paléolithique est généralement concentré ailleurs. Malgré son accès touristique depuis les années 1990, les gravures n’avaient pas été reconnues, sans doute à cause des irrégularités des parois. Cette découverte stimule la réévaluation d’autres grottes considérées jusqu’ici sans art pariétal. La datation carbone indique une occupation humaine remontant jusqu’à 40 000 ans avant notre ère. Un grand pas pour la connaissance locale et européenne de l’art préhistorique.",
+            "category": "Initiatives positives",
+            "location": "Catalogne",
+            "image_description": "Squelette d’ours des cavernes datant de l’Âge de glace, photographié en 2020",
+            "image_caption": "Squelette d’ours des cavernes de l’Âge de glace (150 000 av. J.-C.) – Illustration documentaire générale Wikimedia Commons",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/b85d2a4f4e1ddf4993d7dc97bfac0976a240db6d40d27f7b7b601b74451b8aa8.jpg",
+            "image_credit": "Rauantiques · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Ice_Age_Cave_Bear_Skeleton.jpg",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-11",
+                    "url": "https://www.goodnewsnetwork.org/for-centuries-visitors-walked-right-by-280-unseen-ice-age-cave-paintings/"
+                }
+            ],
+            "subject_id": "news-4e42c00a5e610aec437bf5b1f69ddcc1",
+            "published_at": "2026-11-13",
+            "country": "Monde",
+            "source_published_at": "2026-11-11"
+        },
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "daily",
+            "id": "decouverte-6497658a434437e7c2c106db",
+            "title": "Les Grands Lacs freinent la propagation de la lamproie marine grâce à des techniques adaptatives",
+            "body": "Introduite au XIXe siècle dans les Grands Lacs via le canal Welland, la lamproie marine a gravement perturbé les écosystèmes aquatiques en s'attaquant notamment aux truites et autres poissons d'intérêt commercial. Depuis plusieurs décennies, la Commission des pêcheries des Grands Lacs pilote des actions coordonnées entre le Service des pêches des États-Unis et Pêches et Océans Canada pour maîtriser cette espèce invasive. Ces mesures consistent en la pose de barrières et de pièges dans les ruisseaux où la lamproie remonte frayer, ainsi que l'emploi de lampricides qui détruisent les larves sans nuire aux autres formes de vie aquatique. En approfondissant la connaissance du comportement de la lamproie, notamment son usage des phéromones pour la communication, les chercheurs développent de nouvelles techniques destinées à parfaire ces contrôles. Ainsi, les populations de poissons des Grands Lacs bénéficient d'une régulation plus efficace de ce parasite ancien.",
+            "category": "Nature et animaux",
+            "location": "Grands Lacs, Amérique du Nord",
+            "image_description": "Site de loisirs Provolt en Oregon, avec rivière et forêt de Douglas-fir.",
+            "image_caption": "Photographie illustrative générale du site Provolt Recreation Site dans l’Oregon, montrant un paysage naturel propice aux écosystèmes aquatiques. Crédit : BLM Oregon & Washington · Wikimedia Commons (domaine public).",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/c9f62bad6594a83cef99c0aa5773b7c9af88867cc70fb005dbc81c159f8dd696.jpg",
+            "image_credit": "BLM Oregon & Washington · Provolt Recreation Site · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Provolt_Recreation_Site_(49061452838).jpg",
+            "sources": [
+                {
+                    "label": "NOAA · What is a sea lamprey?",
+                    "url": "https://oceanservice.noaa.gov/facts/sea-lamprey.html"
+                }
+            ],
+            "subject_id": "source-4a35844f60582fa6683e11c9201436f9",
+            "published_at": "2026-11-13",
+            "country": "Monde"
+        },
+        {
+            "editorial_policy": "positive-v1",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "daily",
+            "id": "decouverte-624abdd2bfb7584efff7a9c9",
+            "title": "La Bastide-Clairence : un village basque valorisé par son label patrimonial",
+            "body": "Située en Basse-Navarre dans le Pays basque français, La Bastide-Clairence bénéficie du label \"Les Plus Beaux Villages de France\". Cette reconnaissance met en valeur son architecture caractéristique de bastide navarraise et contribue à préserver son patrimoine. La commune profite aussi de sa position dans le bassin de vie de Hasparren, proche de villes comme Pau et Bayonne, facilitant l’accueil des visiteurs. Ce classement soutient la dynamique locale en attirant un public sensible aux villages authentiques et bien conservés. La place de la mairie, cœur du village, illustre ce maintien du cadre traditionnel. Ainsi, le label joue un rôle concret dans la protection et la mise en lumière de ce patrimoine régional.",
+            "category": "Villages et villes",
+            "location": "La Bastide-Clairence",
+            "image_description": "Place de la mairie à La Bastide-Clairence, un village basque.",
+            "image_caption": "Illustration documentaire générale : la place de la mairie à La Bastide-Clairence, classée parmi Les Plus Beaux Villages de France (photo Wikimedia Commons).",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/579e50656eac0ee3dc9215d7c70bab01b3883c91e636ff5027238600f9b053cb.jpg",
+            "image_credit": "Asp. · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC0 · https://creativecommons.org/publicdomain/zero/1.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:LBC_Place_de_la_mairie.jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · La Bastide-Clairence",
+                    "url": "https://fr.wikipedia.org/wiki/La_Bastide-Clairence"
+                }
+            ],
+            "subject_id": "Q317214",
+            "published_at": "2026-11-13",
+            "country": "France"
+        }
+    ]
+}

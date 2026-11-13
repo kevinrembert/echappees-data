@@ -1,0 +1,202 @@
+{
+    "schema_version": 1,
+    "articles": [
+        {
+            "id": "decouverte-a3fdbba82373ce3baf6376be",
+            "subject_id": "news-4e42c00a5e610aec437bf5b1f69ddcc1",
+            "collected_at": "2026-11-13T06:43:47+00:00",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-11",
+                    "url": "https://www.goodnewsnetwork.org/for-centuries-visitors-walked-right-by-280-unseen-ice-age-cave-paintings/"
+                }
+            ],
+            "source_sha256": "2229f9b34461760c33d809173c9a566c3f6e37099d0a9d57d12e36477ca122ac",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Ice_Age_Cave_Bear_Skeleton.jpg",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "original_sha1": "45b4b9a83e137f9772276613389141007381ac18",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La redécouverte de 280 gravures rupestres de l'Âge de glace dans la grotte de la Font Major, longtemps ignorées, illustre une avancée majeure dans la connaissance de l'art paléolithique en Catalogne.",
+                "beneficiaries": "Chercheurs en préhistoire, visiteurs du site et amateurs d'art ancien bénéficient de cette découverte qui enrichit la carte européenne de l'art pariétal."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Dans la grotte de la Font Major, en Catalogne, 280 gravures remontant à l’Âge de glace ont été redécouvertes.",
+                    "source_passages": [
+                        "BY-SA The third-largest collection of Ice Age-era engravings ever found on Spain’s Mediterranean side was sitting in plain sight where visitors for centuries had been walking right by them.",
+                        "In extreme contrast, Font Major contains 280, among which 55 separate animals are documented, including horses, wild oxen, bears, goats, and deer—”a transformational discovery” for the understanding of Paleolithic European art, the statement read."
+                    ]
+                },
+                {
+                    "sentence": "Ces œuvres, longtemps ignorées par les visiteurs depuis au moins 60 ans, représentent 55 animaux et de nombreux motifs abstraits.",
+                    "source_passages": [
+                        "“For more than six decades, thousands of visitors passed directly in front of the engraved surfaces, and in some cases inscribed names and dates over them, without the Paleolithic origin of the figures being recognized,” said Josep Maria Vergès, a researcher now working to reveal the origins of these cave works.",
+                        "In extreme contrast, Font Major contains 280, among which 55 separate animals are documented, including horses, wild oxen, bears, goats, and deer—”a transformational discovery” for the understanding of Paleolithic European art, the statement read."
+                    ]
+                },
+                {
+                    "sentence": "Ce site se démarque dans la péninsule ibérique où l’art rupestre paléolithique est généralement concentré ailleurs.",
+                    "source_passages": [
+                        "High concentrations are found between modern France and the Spanish region of Cantabria, but only 2 representations have ever been found in the entirety of Catalonia.",
+                        "In extreme contrast, Font Major contains 280, among which 55 separate animals are documented, including horses, wild oxen, bears, goats, and deer—”a transformational discovery” for the understanding of Paleolithic European art, the statement read."
+                    ]
+                },
+                {
+                    "sentence": "Malgré son accès touristique depuis les années 1990, les gravures n’avaient pas été reconnues, sans doute à cause des irrégularités des parois.",
+                    "source_passages": [
+                        "“For more than six decades, thousands of visitors passed directly in front of the engraved surfaces, and in some cases inscribed names and dates over them, without the Paleolithic origin of the figures being recognized,” said Josep Maria Vergès, a researcher now working to reveal the origins of these cave works.",
+                        "A statement on the discovery details that people have been visiting the cave, called Cova de la Font Major, in Catalonia since the 12th century.",
+                        "From 1957 onwards it was widely frequented by visitors, spelunkers, and treasure hunters and it was even converted into a tourist attraction with a museum in 1993.",
+                        "BY-SA Located around 250 yards from the entrance, Vergès, and his co-author of a study presenting the discovery published in Antiquity, state that Font Major cave had long been assumed to be unsuitable for cave art because of the irregularity in shape and color of its walls."
+                    ]
+                },
+                {
+                    "sentence": "Cette découverte stimule la réévaluation d’autres grottes considérées jusqu’ici sans art pariétal.",
+                    "source_passages": [
+                        "The authors wrote that the discovery has been so significant for this field of study that it’s prompted a reexamination of other caves where, like Font Major, no similar artworks are known to exist."
+                    ]
+                },
+                {
+                    "sentence": "La datation carbone indique une occupation humaine remontant jusqu’à 40 000 ans avant notre ère.",
+                    "source_passages": [
+                        "In their study, the researchers detail that radiocarbon dating of organic elements in the cave shows human occupation going back as far as 40,000 BCE, and continuing right up to the Bronze Age."
+                    ]
+                },
+                {
+                    "sentence": "Un grand pas pour la connaissance locale et européenne de l’art préhistorique.",
+                    "source_passages": [
+                        "In extreme contrast, Font Major contains 280, among which 55 separate animals are documented, including horses, wild oxen, bears, goats, and deer—”a transformational discovery” for the understanding of Paleolithic European art, the statement read."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-6497658a434437e7c2c106db",
+            "subject_id": "source-4a35844f60582fa6683e11c9201436f9",
+            "collected_at": "2026-11-13T06:44:46+00:00",
+            "sources": [
+                {
+                    "label": "NOAA · What is a sea lamprey?",
+                    "url": "https://oceanservice.noaa.gov/facts/sea-lamprey.html"
+                }
+            ],
+            "source_sha256": "b114beb0b14b5dbaafc8dcfc4552472be3344a556643c4f629a902a6e3bb226f",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Provolt_Recreation_Site_(49061452838).jpg",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "9137019847cae792e98df14d4d61496108139193",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Le contrôle ciblé de la lamproie marine dans les Grands Lacs limite son impact sur les populations locales de poissons commerciaux.",
+                "beneficiaries": "Les espèces de poissons commerciales comme la truite, le corégone, la perche et l'esturgeon dans les Grands Lacs."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Introduite au XIXe siècle dans les Grands Lacs via le canal Welland, la lamproie marine a gravement perturbé les écosystèmes aquatiques en s'attaquant notamment aux truites et autres poissons d'intérêt commercial.",
+                    "source_passages": [
+                        "Sea lampreys invaded the Great Lakes in the 1830s via the Welland Canal, which connects Lakes America and Erie and forms a key section of the St.",
+                        "Within a decade, they had gained access to all five Great Lakes, where they quickly set to work predating on the lakes' commercially important fishes, including trout, whitefish, perch, and sturgeon.",
+                        "Within a century, the trout fishery had collapsed, largely due to the lamprey's unchecked proliferation."
+                    ]
+                },
+                {
+                    "sentence": "Depuis plusieurs décennies, la Commission des pêcheries des Grands Lacs pilote des actions coordonnées entre le Service des pêches des États-Unis et Pêches et Océans Canada pour maîtriser cette espèce invasive.",
+                    "source_passages": [
+                        "Today, the Great Lakes Fishery Commission coordinates control of sea lampreys in the lakes, which is conducted by the U.S.",
+                        "Fish and Wildlife Service and Fisheries and Oceans Canada."
+                    ]
+                },
+                {
+                    "sentence": "Ces mesures consistent en la pose de barrières et de pièges dans les ruisseaux où la lamproie remonte frayer, ainsi que l'emploi de lampricides qui détruisent les larves sans nuire aux autres formes de vie aquatique.",
+                    "source_passages": [
+                        "Field biologists set up barriers and traps in the streams that feed the lakes to prevent the lamprey's upstream movements, and apply special chemicals, called lampricides, that target lamprey larvae but are harmless to other aquatic creatures."
+                    ]
+                },
+                {
+                    "sentence": "En approfondissant la connaissance du comportement de la lamproie, notamment son usage des phéromones pour la communication, les chercheurs développent de nouvelles techniques destinées à parfaire ces contrôles.",
+                    "source_passages": [
+                        "Since sea lampreys use odors, or pheromones, to communicate, scientists have replicated these odors to increase the efficacy of current control methods."
+                    ]
+                },
+                {
+                    "sentence": "Ainsi, les populations de poissons des Grands Lacs bénéficient d'une régulation plus efficace de ce parasite ancien.",
+                    "source_passages": [
+                        "Within a decade, they had gained access to all five Great Lakes, where they quickly set to work predating on the lakes' commercially important fishes, including trout, whitefish, perch, and sturgeon.",
+                        "Within a century, the trout fishery had collapsed, largely due to the lamprey's unchecked proliferation."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-624abdd2bfb7584efff7a9c9",
+            "subject_id": "Q317214",
+            "collected_at": "2026-11-13T06:45:00+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · La Bastide-Clairence",
+                    "url": "https://fr.wikipedia.org/wiki/La_Bastide-Clairence"
+                }
+            ],
+            "source_sha256": "774024e2c079208b16bfdd108e4df5cc30d1a79be694e2bb75ca73cf8a6af9e8",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:LBC_Place_de_la_mairie.jpg",
+            "image_license": "CC0 · https://creativecommons.org/publicdomain/zero/1.0/",
+            "original_sha1": "ade879a9d65c7b764c84ed27eb64e5938aec583d",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La Bastide-Clairence est classée parmi Les Plus Beaux Villages de France, valorisant ainsi son patrimoine historique et architectural de bastide navarraise.",
+                "beneficiaries": "Les habitants et visiteurs de La Bastide-Clairence, ainsi que les amateurs du patrimoine basque et français."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Située en Basse-Navarre dans le Pays basque français, La Bastide-Clairence bénéficie du label \"Les Plus Beaux Villages de France\".",
+                    "source_passages": [
+                        "Cette bastide navarraise se situe dans la province basque de Basse-Navarre.",
+                        "Sur le plan historique et culturel, La Bastide-Clairence fait partie de la province de la Basse-Navarre, un des sept territoires composant le Pays basque.",
+                        "La commune est labellisée parmi Les Plus Beaux Villages de France.",
+                        "La Bastide-Clairence (en basque: Bastida) est une commune française, située dans le département des Pyrénées-Atlantiques en région Nouvelle-Aquitaine."
+                    ]
+                },
+                {
+                    "sentence": "Cette reconnaissance met en valeur son architecture caractéristique de bastide navarraise et contribue à préserver son patrimoine.",
+                    "source_passages": [
+                        "Cette bastide navarraise se situe dans la province basque de Basse-Navarre.",
+                        "Sur le plan historique et culturel, La Bastide-Clairence fait partie de la province de la Basse-Navarre, un des sept territoires composant le Pays basque.",
+                        "La commune est labellisée parmi Les Plus Beaux Villages de France."
+                    ]
+                },
+                {
+                    "sentence": "La commune profite aussi de sa position dans le bassin de vie de Hasparren, proche de villes comme Pau et Bayonne, facilitant l’accueil des visiteurs.",
+                    "source_passages": [
+                        "La commune fait en outre partie du bassin de vie de Hasparren.",
+                        "Elle se situe par la route à quelques kilomètres de Pau, préfecture du département, de Bayonne, sous-préfecture, et de Saint-Palais, bureau centralisateur du canton du Pays de Bidache, Amikuze et Ostibarre dont dépend la commune depuis 2015 pour les élections départementales."
+                    ]
+                },
+                {
+                    "sentence": "Ce classement soutient la dynamique locale en attirant un public sensible aux villages authentiques et bien conservés.",
+                    "source_passages": [
+                        "La commune est labellisée parmi Les Plus Beaux Villages de France."
+                    ]
+                },
+                {
+                    "sentence": "La place de la mairie, cœur du village, illustre ce maintien du cadre traditionnel.",
+                    "source_passages": [
+                        "La Bastide-Clairence (en basque: Bastida) est une commune française, située dans le département des Pyrénées-Atlantiques en région Nouvelle-Aquitaine."
+                    ]
+                },
+                {
+                    "sentence": "Ainsi, le label joue un rôle concret dans la protection et la mise en lumière de ce patrimoine régional.",
+                    "source_passages": [
+                        "La commune est labellisée parmi Les Plus Beaux Villages de France.",
+                        "Sur le plan historique et culturel, La Bastide-Clairence fait partie de la province de la Basse-Navarre, un des sept territoires composant le Pays basque."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        }
+    ]
+}
