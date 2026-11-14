@@ -1,0 +1,442 @@
+{
+    "schema_version": 1,
+    "articles": [
+        {
+            "id": "decouverte-80579f777252a1feafa60d69",
+            "subject_id": "news-52c631dff415f175fadebf8fb607123e",
+            "collected_at": "2026-11-14T06:20:57+00:00",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-12",
+                    "url": "https://www.goodnewsnetwork.org/theres-a-georgia-okeefe-in-the-closet-words-that-led-to-paintings-joyous-rediscovery/"
+                }
+            ],
+            "source_sha256": "6230da7bf58f71bd6be5badea420237b65748c44b2c523e7d47d2c489865c8e9",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Georgia_O_Keeffe_Day_140_(154553767).jpeg",
+            "image_license": "CC BY 3.0 · https://creativecommons.org/licenses/by/3.0/",
+            "original_sha1": "427c6659fb773bd01977cda5da57dd66f86ee8ec",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La redécouverte d'une peinture de Georgia O’Keeffe datant de 1930, retrouvée dans un placard d'un appartement de l'East Village, constitue un événement rare dans le marché de l'art. Cette œuvre, conservée dans sa boîte d'origine, représente les collines du Nouveau-Mexique et témoigne d'un moment clé dans la carrière de l'artiste.",
+                "beneficiaries": "Les amateurs d'art, les collectionneurs et le public bénéficient de cette redécouverte, qui enrichit la connaissance et l'accès à une œuvre majeure de l'Américaine Georgia O’Keeffe."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Une peinture de Georgia O’Keeffe peinte en 1930, intitulée Near Abiquiu, a été redécouverte dans un placard d'un appartement de l'East Village à New York.",
+                    "source_passages": [
+                        "Yet as the woman, who revealed herself only as Betsy, rummaged around in that closet 4 years later, she found an oil painting of undulating hills, with soft earthen colors reminiscent of the female form, which is now known to be Near Abiquiu, New Mexico I, painted by the Mother of Modernism in 1930."
+                    ]
+                },
+                {
+                    "sentence": "Ce tableau à l'huile, qui représente les collines du Nouveau-Mexique, avait été offert en cadeau de diplôme en 1963 et conservé discrètement dans sa boîte d'origine.",
+                    "source_passages": [
+                        "Its rediscovery has been hailed as “a once-in-a-lifetime moment, and absolutely thrilling.” Soon to be auctioned at Christie’s where it’s expected to garner around $3 million, the story of its provenance first broke at the New York Post, who talked to Betsy about the fateful closet-cleaning Her aunt, she said, was an “extremely intelligent” former foreign service member who had received the painting from Georgia O’Keeffe’s Manhattan art dealer in 1963 as a graduation present from her parents.",
+                        "At the time time it cost $3,800.",
+                        "Amid her fur coats the painting sat, even after her niece came over in 2022 to help clean out the apartment as the woman prepared to enter hospice care.",
+                        "It was only after her aunt passed away that Betsy followed up on the comment of the “O’Keeffe in the closet” that she found it, still in its original box marked “The Downtown Gallery, 51st St.” MORE REDISCOVERED ARTWORKS: Long-Lost Gertrude Abercrombie Painting Bought by a Bargain Hunter for $30 Could Fetch $250,000 “To uncover a seminal work, representative of this 20th Century master’s deep personal engagement with the landscape, a pillar of her career, which is exquisitely rendered and well preserved, is a once-in-a-lifetime moment, and absolutely thrilling,” said Tylee Abbott, Senior Specialist and International Director of American Art at Christie’s, which is preparing to auction the work on November 17th.",
+                        "THE MAGIC OF THE HALL CLOSET: Artwork Painted By Picasso Discovered in a Closet in Maine After a Half Century It was confirmed as authentic by a combination of the box, O’Keeffe’s signature on the back, and also of a photograph dated 1931 taken by O’Keeffe’s husband Alfred Stieglitz."
+                    ]
+                },
+                {
+                    "sentence": "Cette trouvaille, validée par des éléments comme la signature de l'artiste et une photo d'époque, est considérée comme exceptionnelle sur le marché de l'art et illustre une période fondatrice dans la carrière de Georgia O’Keeffe.",
+                    "source_passages": [
+                        "It was only after her aunt passed away that Betsy followed up on the comment of the “O’Keeffe in the closet” that she found it, still in its original box marked “The Downtown Gallery, 51st St.” MORE REDISCOVERED ARTWORKS: Long-Lost Gertrude Abercrombie Painting Bought by a Bargain Hunter for $30 Could Fetch $250,000 “To uncover a seminal work, representative of this 20th Century master’s deep personal engagement with the landscape, a pillar of her career, which is exquisitely rendered and well preserved, is a once-in-a-lifetime moment, and absolutely thrilling,” said Tylee Abbott, Senior Specialist and International Director of American Art at Christie’s, which is preparing to auction the work on November 17th.",
+                        "The painting is dated 1930, making it “the ground floor” of her inspiration, Abbott told CBS News.",
+                        "THE MAGIC OF THE HALL CLOSET: Artwork Painted By Picasso Discovered in a Closet in Maine After a Half Century It was confirmed as authentic by a combination of the box, O’Keeffe’s signature on the back, and also of a photograph dated 1931 taken by O’Keeffe’s husband Alfred Stieglitz.",
+                        "This is a wonderful painting, a remarkable story, and extraordinary opportunity for collectors and the general public alike,” said Abbott."
+                    ]
+                },
+                {
+                    "sentence": "L’œuvre sera mise aux enchères chez Christie’s avec une estimation autour de 3 millions de dollars.",
+                    "source_passages": [
+                        "Its rediscovery has been hailed as “a once-in-a-lifetime moment, and absolutely thrilling.” Soon to be auctioned at Christie’s where it’s expected to garner around $3 million, the story of its provenance first broke at the New York Post, who talked to Betsy about the fateful closet-cleaning Her aunt, she said, was an “extremely intelligent” former foreign service member who had received the painting from Georgia O’Keeffe’s Manhattan art dealer in 1963 as a graduation present from her parents.",
+                        "It was only after her aunt passed away that Betsy followed up on the comment of the “O’Keeffe in the closet” that she found it, still in its original box marked “The Downtown Gallery, 51st St.” MORE REDISCOVERED ARTWORKS: Long-Lost Gertrude Abercrombie Painting Bought by a Bargain Hunter for $30 Could Fetch $250,000 “To uncover a seminal work, representative of this 20th Century master’s deep personal engagement with the landscape, a pillar of her career, which is exquisitely rendered and well preserved, is a once-in-a-lifetime moment, and absolutely thrilling,” said Tylee Abbott, Senior Specialist and International Director of American Art at Christie’s, which is preparing to auction the work on November 17th."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-8434097616a0fece8bbcc647",
+            "subject_id": "news-2b062e211d835d104e73a59c5eec4b44",
+            "collected_at": "2026-11-14T06:21:05+00:00",
+            "sources": [
+                {
+                    "label": "NASA · publié le 2026-11-12",
+                    "url": "https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/"
+                }
+            ],
+            "source_sha256": "a2126e96e47d83b0cef229819a0722038d90f6634416998935866e5194045e04",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Artemis_program_-_Commercial_landers_carry_NASA-provided_science_and_technology_payloads_to_the_lunar_surface.jpg",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "9c24e92df04261a43bfcf8c7696622611c629031",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Le développement avancé du module d'atterrissage Blue Moon Mark 2 permet de préparer le transport sécurisé des astronautes sur la Lune dans le cadre de la mission Artemis III prévue en 2028.",
+                "beneficiaries": "Les astronautes de la mission Artemis et les équipes de conception spatiale bénéficient d'un véhicule lunaire adapté aux besoins opérationnels sur place."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Katie Spicer, responsable de l'intégration du module d'atterrissage Blue Moon Mark 2 de Blue Origin chez NASA, vérifie minutieusement la conception de l'engin destiné à acheminer les astronautes sur la surface lunaire.",
+                    "source_passages": [
+                        "Now as the NASA lander integration lead for Blue Origin’s Blue Moon Mark 2 lander, one of the commercially provided human landing systems for NASA’s Artemis program, Spicer will have her handprint on history.",
+                        "NASA/Bill Strafford Spicer works in the Flight Operations Directorate at NASA’s Johnson Space Center in Houston, where she evaluates and monitors design and development of Blue Origin’s lander.",
+                        "The design of the Blue Moon lander is rapidly evolving as Blue Origin continues to develop a streamlined lander test article for the agency’s Artemis III rendezvous and docking mission in low Earth orbit as well as a fully functional lander for a crewed lunar landing in 2028.",
+                        "Spicer works closely with her NASA and Blue Origin counterparts to ensure the design of the Blue Moon lander can support the overall Artemis mission objectives."
+                    ]
+                },
+                {
+                    "sentence": "Ce module commercial, en cours d'évolution rapide, est conçu pour faciliter les opérations en conditions de microgravité, avec une attention particulière portée aux interfaces utilisateurs, comme les poignées, les commandes et les systèmes d'hygiène dans l'espace restreint.",
+                    "source_passages": [
+                        "The design of the Blue Moon lander is rapidly evolving as Blue Origin continues to develop a streamlined lander test article for the agency’s Artemis III rendezvous and docking mission in low Earth orbit as well as a fully functional lander for a crewed lunar landing in 2028.",
+                        "“I look at the design of everything Artemis crews will touch, work with, or interface with to ensure systems will function the way crews will need them to,” Spicer said.",
+                        "How easy will it be for crew to grab handles or handrails?",
+                        "Can they operate push-button displays in microgravity?",
+                        "Are the hygiene systems as user-friendly as possible in the limited space that’s available in the spacecraft?"
+                    ]
+                },
+                {
+                    "sentence": "Spicer collabore étroitement avec les équipes de Blue Origin et de la NASA pour garantir que chaque détail opérationnel répond aux exigences de la mission Artemis III, prévue en 2028 pour un retour habité sur la Lune.",
+                    "source_passages": [
+                        "Spicer works closely with her NASA and Blue Origin counterparts to ensure the design of the Blue Moon lander can support the overall Artemis mission objectives.",
+                        "“I look at the design of everything Artemis crews will touch, work with, or interface with to ensure systems will function the way crews will need them to,” Spicer said.",
+                        "Can they operate push-button displays in microgravity?",
+                        "Are the hygiene systems as user-friendly as possible in the limited space that’s available in the spacecraft?",
+                        "And, are there proper procedures and training to ensure the crew can safely and effectively use the systems?",
+                        "Evaluating all these operational details with crew perspective is part of my job.” Spicer has spent her career looking at the small details in the big picture."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-eb438c6e62c63477b9909218",
+            "subject_id": "news-4fce60248e2da14c511346ab71e1bbcf",
+            "collected_at": "2026-11-14T06:22:10+00:00",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-12",
+                    "url": "https://www.goodnewsnetwork.org/events061112/"
+                }
+            ],
+            "source_sha256": "6bc75c6d21ebcee3527ab2b2d74f91e3887f204ff707f7c06493e678329bb1df",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Saturn_false_color_Voyager-1.jpg",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "732b04f3c32a275d58b697e266969473c78de31a",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Les images et mesures de la sonde Voyager 1 autour de Saturne ont permis de mieux comprendre la composition de son atmosphère et la dynamique de ses anneaux.",
+                "beneficiaries": "La communauté scientifique et le grand public qui bénéficient d'une meilleure connaissance de la planète Saturne."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "En 1980, la sonde spatiale Voyager 1 s’est approchée à 77 000 miles des couches nuageuses de Saturne, envoyant les premières images détaillées de ses anneaux et dévoilant la complexité de leurs structures.",
+                    "source_passages": [
+                        "Home This Day In History Good News in History, November 12 46 years ago today, NASA’s Voyager 1 probe arrived at Saturn and beamed back the first images ever taken of its rings.",
+                        "On November 12th, when the space probe came within 77,000 miles of Saturn’s cloud-tops, the space probe’s cameras detected complex structures in the rings of Saturn, and its remote sensing instruments studied the atmospheres of Saturn and its giant moon Titan."
+                    ]
+                },
+                {
+                    "sentence": "Les instruments scientifiques ont montré qu’environ 7 % du volume de l’atmosphère supérieure était composé d’hélium, moins que prévu par comparaison avec Jupiter.",
+                    "source_passages": [
+                        "READ what it discovered… (1980) Saturn as pictured by Voyager 1 – credit, NASA Voyager 1 found that about 7% of the volume of Saturn’s upper atmosphere is helium (compared with 11% of Jupiter’s atmosphere), while almost all the rest is hydrogen."
+                    ]
+                },
+                {
+                    "sentence": "Cette différence suggère que l’hélium serait en train de couler à l’intérieur de la planète, expliquant en partie l’excès de chaleur émise par Saturne.",
+                    "source_passages": [
+                        "Since Saturn’s internal helium abundance was expected to be the same as Jupiter’s and the Sun’s, the lower abundance of helium in the upper atmosphere may imply that the heavier helium may be slowly sinking through Saturn’s hydrogen; that might explain the excess heat that Saturn radiates over energy it receives from the Sun."
+                    ]
+                },
+                {
+                    "sentence": "De plus, la sonde a mesuré des vents très rapides, atteignant 500 m/s près de l’équateur, principalement orientés vers l’est.",
+                    "source_passages": [
+                        "Winds blow at high speeds on Saturn.",
+                        "Near the equator, the Voyagers measured winds about 500 m/s (1,100 mph).",
+                        "The wind blows mostly in an easterly direction."
+                    ]
+                },
+                {
+                    "sentence": "Ces données ont fourni des bases solides pour comprendre les phénomènes atmosphériques uniques de cette géante gazeuse.",
+                    "source_passages": [
+                        "Home This Day In History Good News in History, November 12 46 years ago today, NASA’s Voyager 1 probe arrived at Saturn and beamed back the first images ever taken of its rings.",
+                        "On November 12th, when the space probe came within 77,000 miles of Saturn’s cloud-tops, the space probe’s cameras detected complex structures in the rings of Saturn, and its remote sensing instruments studied the atmospheres of Saturn and its giant moon Titan.",
+                        "READ what it discovered… (1980) Saturn as pictured by Voyager 1 – credit, NASA Voyager 1 found that about 7% of the volume of Saturn’s upper atmosphere is helium (compared with 11% of Jupiter’s atmosphere), while almost all the rest is hydrogen.",
+                        "Since Saturn’s internal helium abundance was expected to be the same as Jupiter’s and the Sun’s, the lower abundance of helium in the upper atmosphere may imply that the heavier helium may be slowly sinking through Saturn’s hydrogen; that might explain the excess heat that Saturn radiates over energy it receives from the Sun.",
+                        "Winds blow at high speeds on Saturn.",
+                        "Near the equator, the Voyagers measured winds about 500 m/s (1,100 mph).",
+                        "The wind blows mostly in an easterly direction."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-164037deb5e0a29aff3dae1b",
+            "subject_id": "news-4c4249a6d228ba8455ff4a1ee0478663",
+            "collected_at": "2026-11-14T06:22:17+00:00",
+            "sources": [
+                {
+                    "label": "NASA · publié le 2026-11-12",
+                    "url": "https://www.nasa.gov/general/nasa-ames-stars-of-the-month-november-2026/"
+                }
+            ],
+            "source_sha256": "c731aebd96f392453663e7b56924ca70213dc2a0c2ab5041d2d9fc7927f1915d",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Queen_Elizabeth_II_and_Prince_Philip_Visit_NASA%27s_Goddard_Space_Flight_Center_(amf-dcb8871c-d404-477a-9331-54c576de364e).jpg",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "1c2d3a3f5cc91709c224ff8dd999572648e485cc",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "L'Ames Research Center de la NASA améliore ses capacités techniques et scientifiques grâce aux contributions de plusieurs experts reconnus.",
+                "beneficiaries": "Les équipes de la NASA Ames Research Center, les missions d'exploration spatiale, et la recherche aéronautique et spatiale en général."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "L’Ames Research Center de la NASA a récemment souligné les contributions remarquables de trois de ses experts, consolidant ainsi ses compétences dans différents domaines.",
+                    "source_passages": [
+                        "The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Alyssa Villanueva, Steve Howell, and Samuel LeBlanc.",
+                        "Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond."
+                    ]
+                },
+                {
+                    "sentence": "Alyssa Villanueva, ingénieure spécialisée en biosciences spatiales, a joué un rôle clé dans les tests d’ingénierie pour un instrument lunaire, renforçant la préparation des missions biologiques.",
+                    "source_passages": [
+                        "Space Biosciences Star: Alyssa Villanueva Alyssa Villaneuva is an engineer at Blue Marble in the Space Biosciences Division on the LEIA (Lunar Explorer Instrument for space biology Applications) team.",
+                        "Alyssa is recognized for technical excellence, dedication and boundless support to the rest of the team.",
+                        "She goes above and beyond in contributing to LEIA every day and has been essential in all the test efforts, in particular with preparation and execution of engineering validation testing."
+                    ]
+                },
+                {
+                    "sentence": "Steve Howell, expert en astrophysique, a dirigé plusieurs missions spatiales internationales et amélioré les technologies d’imagerie astronomique.",
+                    "source_passages": [
+                        "Astrophysics Star: Steve Howell Steve Howell is recognized for his leadership of scientific teams for numerous international space missions.",
+                        "His pioneering work in astronomical instrumentation have significantly advanced both space- and ground-based telescope imaging.",
+                        "In kind, the Astronomical society has recently recognized Steve’s lifetime of major contributions to the field with the prestigious Catherine Wolfe Bruce Gold Medal from the Astronomical Society of the Pacific."
+                    ]
+                },
+                {
+                    "sentence": "Enfin, Samuel LeBlanc, scientifique en sciences de la Terre, a innové dans la planification des vols scientifiques aéroportés, permettant une meilleure organisation des missions et un rendement scientifique accru.",
+                    "source_passages": [
+                        "Earth Science Star: Samuel LeBlanc Samuel LeBlanc is a research scientist for the Bay Area Environmental Research Institute in the Earth Science Division.",
+                        "Sam is recognized for exceptional technical leadership and innovative thinking in advancing Ames’ flight planning capabilities for NASA airborne science missions.",
+                        "Sam’s contributions have placed Ames at the forefront of airborne science flight planning within and outside the Agency, enabling successful and cost-effective missions that maximize scientific returns."
+                    ]
+                },
+                {
+                    "sentence": "Ces contributions montrent une transformation concrète des capacités opérationnelles et scientifiques à Ames.",
+                    "source_passages": [
+                        "Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond.",
+                        "She goes above and beyond in contributing to LEIA every day and has been essential in all the test efforts, in particular with preparation and execution of engineering validation testing.",
+                        "Sam is recognized for exceptional technical leadership and innovative thinking in advancing Ames’ flight planning capabilities for NASA airborne science missions.",
+                        "Sam’s contributions have placed Ames at the forefront of airborne science flight planning within and outside the Agency, enabling successful and cost-effective missions that maximize scientific returns."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-da4c41e7e4d9c12a7de0bad3",
+            "subject_id": "news-814222d0921ad1f69c5234dd3032759d",
+            "collected_at": "2026-11-14T06:22:26+00:00",
+            "sources": [
+                {
+                    "label": "NASA · publié le 2026-11-12",
+                    "url": "https://www.nasa.gov/centers-and-facilities/armstrong/through-nasas-lens-capturing-space-shuttle-endeavours-move-to-la/"
+                }
+            ],
+            "source_sha256": "1a6f7cefc0c1f893503b135e748302d2bc6c027652d893547d91476d2f4c6319",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Space-Shuttle-Endeavour-ISS.jpg",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "c0be7b53fac680b87658b46932aa111afd828a65",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Le transfert du navette spatiale Endeavour au California Science Center à Los Angeles a été achevé avec une série de photographies et vidéos documentant son dernier voyage aérien à travers des sites emblématiques de Californie, offrant ainsi un accès concret au public à cette pièce majeure de l'histoire spatiale.",
+                "beneficiaries": "Le grand public, les visiteurs du California Science Center et les passionnés d'exploration spatiale qui peuvent désormais admirer l'Endeavour exposée en position de lancement."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "En septembre 2012, la navette spatiale Endeavour a été transportée par un avion 747 à travers la Californie, survolant des sites notables comme le Golden Gate Bridge, Disneyland et le Getty Center.",
+                    "source_passages": [
+                        "21, 2012, while millions watched space shuttle Endeavour fly on top of the agency’s 747 Shuttle Carrier Aircraft for the last time.",
+                        "It was this beautiful dance of alternating altitudes and swapping positions between landmarks to maximize both of us capturing the legendary imagery.” Two photographers and one videographer, all based at NASA Armstrong, had a leading hand in preparing the Endeavour’s flight to Los Angeles, and in deciding where else the aircraft would fly around California on its final journey.",
+                        "Agency pilots planned the route to fly across some of California’s most iconic landmarks and the imagery team strategized about how to best capture the images.",
+                        "Planning for the Hollywood sign was challenging, because it’s on the side of a hill with power lines and radio antennas, but we worked through these issues in the planning process.” Space shuttle Endeavour atop its modified 747 carrier aircraft overflies the former Alameda Naval Air Station adjoining San Francisco Bay during the Tour of California.",
+                        "NASA/Carla Thomas The space shuttle’s flight path included other California landmarks: Dodger Stadium, the Getty Center, the Los Angeles Memorial Coliseum, NASA’s Ames Research Center in Silicon Valley, the Golden Gate Bridge, NASA’s Jet Propulsion Laboratory in Pasadena, and the Santa Monica Pier."
+                    ]
+                },
+                {
+                    "sentence": "Trois membres de l'équipe photo et vidéo de la NASA ont organisé minutieusement le parcours pour documenter cet événement unique.",
+                    "source_passages": [
+                        "NASA/Lori Losey “Chasing Endeavour’s final ferry flight over Southern California was, without a doubt, a leading highlight of my 37-year career at NASA,” said Lori Losey, lead videographer at NASA’s Armstrong Flight Research Center in Edwards, California.",
+                        "“I advocated for two chase aircraft to be used in the LA area so we could dedicate one aircraft to photo and one to video.",
+                        "It was this beautiful dance of alternating altitudes and swapping positions between landmarks to maximize both of us capturing the legendary imagery.” Two photographers and one videographer, all based at NASA Armstrong, had a leading hand in preparing the Endeavour’s flight to Los Angeles, and in deciding where else the aircraft would fly around California on its final journey.",
+                        "NASA/Jim Ross “The most fun thing about this project was seeing the excitement of the people on the ground as we flew over the different landmarks,” said Jim Ross, NASA Armstrong’s lead photographer.",
+                        "We saw so many supporters at Griffith Park and Disneyland.” Photographer Carla Thomas said seeing the standing-room-only crowd below the California State Capitol in Sacramento filled her with pride.",
+                        "“The planning was my favorite part of this effort — it was fun and exciting to plan the shots,” Thomas said."
+                    ]
+                },
+                {
+                    "sentence": "Le travail coordination avec plusieurs organismes a permis de capturer des images iconiques, offrant au public une occasion rare de suivre cette étape majeure.",
+                    "source_passages": [
+                        "It was this beautiful dance of alternating altitudes and swapping positions between landmarks to maximize both of us capturing the legendary imagery.” Two photographers and one videographer, all based at NASA Armstrong, had a leading hand in preparing the Endeavour’s flight to Los Angeles, and in deciding where else the aircraft would fly around California on its final journey.",
+                        "Agency pilots planned the route to fly across some of California’s most iconic landmarks and the imagery team strategized about how to best capture the images.",
+                        "Like many flight efforts, this journey took a significant amount of preplanning with the California Science Center, as well as groups like the Federal Aviation Administration, the Los Angeles International Airport, and NASA’s Johnson Space Center in Houston."
+                    ]
+                },
+                {
+                    "sentence": "Aujourd'hui, l'Endeavour est exposée au California Science Center, en position verticale, prête à inspirer les visiteurs.",
+                    "source_passages": [
+                        "Endeavour’s new home at the California Science Center in Los Angeles will reopen the weekend of Nov."
+                    ]
+                },
+                {
+                    "sentence": "Ce projet illustre comment la planification et la collaboration peuvent valoriser le patrimoine scientifique accessible à tous.",
+                    "source_passages": [
+                        "It was this beautiful dance of alternating altitudes and swapping positions between landmarks to maximize both of us capturing the legendary imagery.” Two photographers and one videographer, all based at NASA Armstrong, had a leading hand in preparing the Endeavour’s flight to Los Angeles, and in deciding where else the aircraft would fly around California on its final journey.",
+                        "Like many flight efforts, this journey took a significant amount of preplanning with the California Science Center, as well as groups like the Federal Aviation Administration, the Los Angeles International Airport, and NASA’s Johnson Space Center in Houston."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-51b634260afbb99dde835ccd",
+            "subject_id": "source-9bb5d6267fd4f758e4e57b5d1456b6e8",
+            "collected_at": "2026-11-14T06:22:34+00:00",
+            "sources": [
+                {
+                    "label": "NOAA · Are there oceans on other planets?",
+                    "url": "https://oceanservice.noaa.gov/facts/et-oceans.html"
+                }
+            ],
+            "source_sha256": "4f7481ff92cfb528476c3f623b3356924deb415886a246484908181d75294b9b",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Hurricane_ocean_planet_15_r1.png",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "original_sha1": "b051d39af5cd7b4335f2557b6e699779b2c29c70",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La reconnaissance que plusieurs lunes de notre système solaire possèdent des océans souterrains, riches en eau liquide, énergie et composés organiques, étend le cadre de recherche sur les environnements potentiellement habitables.",
+                "beneficiaries": "Ces découvertes profitent à la communauté scientifique et à la recherche astrobiologique en élargissant les possibilités d'existence de la vie extraterrestre."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Des analyses récentes indiquent la présence d'océans souterrains sur des lunes telles qu'Europe de Jupiter et Encelade de Saturne.",
+                    "source_passages": [
+                        "Scientists believe many planets and moons have subsurface oceans.",
+                        "Saturn’s moon Enceladus and Jupiter’s moon Europa are two examples.",
+                        "Both appear to have salty, liquid oceans covered with thick layers of ice at the surface."
+                    ]
+                },
+                {
+                    "sentence": "Ces mers salées sous une épaisse couche de glace possèdent des caractéristiques dynamiques, comme des fissures provoquées par l'activité des marées, ainsi que des geysers d'eau.",
+                    "source_passages": [
+                        "Scientists hypothesize that Europa's hidden ocean is salty, tidal, and causes its ice surface to move, resulting in large fractures that are clearly visible.",
+                        "Both appear to have salty, liquid oceans covered with thick layers of ice at the surface.",
+                        "Scientists have observed water plumes erupting from Enceladus, and believe similar plumes can be found on Europa."
+                    ]
+                },
+                {
+                    "sentence": "Ces phénomènes indiquent une source d'énergie suffisante pour maintenir l'eau liquide et potentiellement soutenir des formes de vie.",
+                    "source_passages": [
+                        "The existence of these geysers also tells scientists that these moons have a source of energy, perhaps from gravitational forces or radiation — energy that keeps the oceans liquid under the ice and could even support life."
+                    ]
+                },
+                {
+                    "sentence": "Si la Terre reste le seul corps à connaître des océans stables en surface dans la zone habitable solaire, la découverte de ces environnements aquatiques souterrains remet en question les critères d'habitabilité.",
+                    "source_passages": [
+                        "But Earth is the only known planet (or moon) to have consistent, stable bodies of liquid water on its surface.",
+                        "In our solar system, Earth orbits around the sun in an area called the habitable zone.",
+                        "While scientists originally focused the search on finding planets with liquid water on their surface, that thinking is changing.",
+                        "Scientists are reconsidering whether life could exist below an icy surface, even within our solar system on moons like Europa and Enceladus."
+                    ]
+                },
+                {
+                    "sentence": "Plus loin, certains exoplanètes pourraient également abriter des océans souterrains selon des modèles.",
+                    "source_passages": [
+                        "Using mathematical models, researchers estimate that more than a quarter of known exoplanets may have liquid water, though the majority would have subsurface oceans like those on Europa and Enceladus."
+                    ]
+                },
+                {
+                    "sentence": "Ces avancées redéfinissent le champ d'étude des mondes potentiellement propices à la vie, sans confirmer leur existence.",
+                    "source_passages": [
+                        "Using mathematical models, researchers estimate that more than a quarter of known exoplanets may have liquid water, though the majority would have subsurface oceans like those on Europa and Enceladus.",
+                        "The search for liquid water is critical to the search for life beyond Earth."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-f718b384a5a5c7366347c44c",
+            "subject_id": "Q501726",
+            "collected_at": "2026-11-14T06:22:40+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Dune du Pilat",
+                    "url": "https://fr.wikipedia.org/wiki/Dune_du_Pilat"
+                }
+            ],
+            "source_sha256": "84daa3d255487ada62d5f4922861bad542925ea4aa99679292959b38e5707db9",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:DunePyla.JPG",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "original_sha1": "deedc5c02ccaf5d5166e85ca4226655c6cef759f",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La dune du Pilat, la plus haute dune d'Europe avec 103,6 mètres d'altitude, continue d'évoluer naturellement avec des déplacements mesurés entre un et cinq mètres par an sur sa face est, recouvrant progressivement le massif forestier des Landes de Gascogne.",
+                "beneficiaries": "le massif forestier des Landes de Gascogne, la région naturelle autour de la dune, les chercheurs étudiant les dynamiques de dunes côtières"
+            },
+            "fact_checks": [
+                {
+                    "sentence": "La dune du Pilat, située en Gironde à l'entrée du bassin d'Arcachon, est en mouvement constant.",
+                    "source_passages": [
+                        "La dune du Pilat est une dune située en Gironde (région Nouvelle-Aquitaine) à l'entrée du bassin d'Arcachon, sur la côte d'Argent, en bordure du massif forestier des Landes de Gascogne, dans le sud-ouest de la France.",
+                        "== Géographie == === Localisation === Située à l'entrée sud du bassin d'Arcachon, elle s'étend sur 616 m d'ouest en est et sur 2,9 km du nord au sud et contient environ 55 millions de mètres cubes de sable, dans la localité de Pyla-sur-Mer qui dépend administrativement de la commune de La Teste-de-Buch, à proximité d'Arcachon, au cœur des Landes de Gascogne.",
+                        "=== Topographie === Les déplacements de la dune sont constants et étudiés par les scientifiques."
+                    ]
+                },
+                {
+                    "sentence": "Chaque année, son front est s'avance vers la forêt des Landes de Gascogne d'un à cinq mètres, ensevelissant progressivement les arbres parfois.",
+                    "source_passages": [
+                        "=== Topographie === Les déplacements de la dune sont constants et étudiés par les scientifiques.",
+                        "Côté est, la dune gagne sur le massif forestier, ensevelissant les arbres à une vitesse d'un à cinq mètres par an."
+                    ]
+                },
+                {
+                    "sentence": "Ces déplacements résultent de l'action conjuguée du vent et des vagues qui déplacent le sable accumulé.",
+                    "source_passages": [
+                        "=== Topographie === Les déplacements de la dune sont constants et étudiés par les scientifiques.",
+                        "Côté est, la dune gagne sur le massif forestier, ensevelissant les arbres à une vitesse d'un à cinq mètres par an."
+                    ]
+                },
+                {
+                    "sentence": "Sur la façade ouest, le trait de côte subit quant à lui une érosion variable selon les saisons et la force des tempêtes.",
+                    "source_passages": [
+                        "Côté ouest, l'évolution du trait de côte (limite des plus hautes mers) est variable.",
+                        "Le littoral nord de la dune est soumis à une forte érosion, notamment lors des tempêtes hivernales."
+                    ]
+                },
+                {
+                    "sentence": "Cette dynamique engendre une dissymétrie de la dune avec des pentes différentes entre faces marin et terrestre.",
+                    "source_passages": [
+                        "La dune du Pilat est dissymétrique, avec une pente inclinée différemment..."
+                    ]
+                },
+                {
+                    "sentence": "Le suivi scientifique de ces déplacements met en lumière les interactions naturelles entre vent, eau et végétation dans ce paysage littoral unique.",
+                    "source_passages": [
+                        "=== Topographie === Les déplacements de la dune sont constants et étudiés par les scientifiques.",
+                        "Côté est, la dune gagne sur le massif forestier, ensevelissant les arbres à une vitesse d'un à cinq mètres par an."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        }
+    ]
+}

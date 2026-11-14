@@ -1,0 +1,187 @@
+{
+    "schema_version": 1,
+    "id": "generated-07818f374bb61c81bfa8",
+    "version": "1",
+    "articles": [
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-80579f777252a1feafa60d69",
+            "title": "Une œuvre majeure de Georgia O’Keeffe retrouvée dans un placard à New York",
+            "body": "Une peinture de Georgia O’Keeffe peinte en 1930, intitulée Near Abiquiu, a été redécouverte dans un placard d'un appartement de l'East Village à New York. Ce tableau à l'huile, qui représente les collines du Nouveau-Mexique, avait été offert en cadeau de diplôme en 1963 et conservé discrètement dans sa boîte d'origine. Cette trouvaille, validée par des éléments comme la signature de l'artiste et une photo d'époque, est considérée comme exceptionnelle sur le marché de l'art et illustre une période fondatrice dans la carrière de Georgia O’Keeffe. L’œuvre sera mise aux enchères chez Christie’s avec une estimation autour de 3 millions de dollars.",
+            "category": "Initiatives positives",
+            "location": "New York, États-Unis",
+            "image_description": "Photographie d'une exposition consacrée à Georgia O’Keeffe montrant un détail artistique sur le thème des collines et formes naturelles.",
+            "image_caption": "Photographie illustrative générale de Georgia O’Keeffe, Wikimedia Commons, illustration documentaire.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/d58cb84056a7550c4e76e0815f47bb87151a6498a7f818e58a1fb3998cfbb68f.jpg",
+            "image_credit": "Pierre Acobas · Imported from 500px (archived version) by the Archive Team. (detail page) · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY 3.0 · https://creativecommons.org/licenses/by/3.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Georgia_O_Keeffe_Day_140_(154553767).jpeg",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-12",
+                    "url": "https://www.goodnewsnetwork.org/theres-a-georgia-okeefe-in-the-closet-words-that-led-to-paintings-joyous-rediscovery/"
+                }
+            ],
+            "subject_id": "news-52c631dff415f175fadebf8fb607123e",
+            "published_at": "2026-11-14",
+            "country": "Monde",
+            "source_published_at": "2026-11-12"
+        },
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-8434097616a0fece8bbcc647",
+            "title": "Le module Blue Moon Mark 2 affine son design pour soutenir la mission Artemis III en 2028",
+            "body": "Katie Spicer, responsable de l'intégration du module d'atterrissage Blue Moon Mark 2 de Blue Origin chez NASA, vérifie minutieusement la conception de l'engin destiné à acheminer les astronautes sur la surface lunaire. Ce module commercial, en cours d'évolution rapide, est conçu pour faciliter les opérations en conditions de microgravité, avec une attention particulière portée aux interfaces utilisateurs, comme les poignées, les commandes et les systèmes d'hygiène dans l'espace restreint. Spicer collabore étroitement avec les équipes de Blue Origin et de la NASA pour garantir que chaque détail opérationnel répond aux exigences de la mission Artemis III, prévue en 2028 pour un retour habité sur la Lune.",
+            "category": "Sciences",
+            "location": "Monde",
+            "image_description": "Photographie du programme Artemis montrant des modules d'atterrissage commerciaux transportant des charges utiles scientifiques sur la surface lunaire.",
+            "image_caption": "Illustration générale montrant des modules d'atterrissage destinés à transporter des charges utiles scientifiques et technologiques sur la Lune dans le cadre du programme Artemis, photographie documentaire Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/553a3d92bf40da2e3637ce6b4aa3d9ab1951e4166cb279cb320b96533f5cbf0f.jpg",
+            "image_credit": "NASA · https://www.nasa.gov/press-release/nasa-selects-first-commercial-moon-landing-services-for-artemis-program · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Artemis_program_-_Commercial_landers_carry_NASA-provided_science_and_technology_payloads_to_the_lunar_surface.jpg",
+            "sources": [
+                {
+                    "label": "NASA · publié le 2026-11-12",
+                    "url": "https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/"
+                }
+            ],
+            "subject_id": "news-2b062e211d835d104e73a59c5eec4b44",
+            "published_at": "2026-11-14",
+            "country": "Monde",
+            "source_published_at": "2026-11-12"
+        },
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-eb438c6e62c63477b9909218",
+            "title": "Voyager 1 a révélé la composition et les vents puissants de l’atmosphère de Saturne",
+            "body": "En 1980, la sonde spatiale Voyager 1 s’est approchée à 77 000 miles des couches nuageuses de Saturne, envoyant les premières images détaillées de ses anneaux et dévoilant la complexité de leurs structures. Les instruments scientifiques ont montré qu’environ 7 % du volume de l’atmosphère supérieure était composé d’hélium, moins que prévu par comparaison avec Jupiter. Cette différence suggère que l’hélium serait en train de couler à l’intérieur de la planète, expliquant en partie l’excès de chaleur émise par Saturne. De plus, la sonde a mesuré des vents très rapides, atteignant 500 m/s près de l’équateur, principalement orientés vers l’est. Ces données ont fourni des bases solides pour comprendre les phénomènes atmosphériques uniques de cette géante gazeuse.",
+            "category": "Initiatives positives",
+            "location": "Monde",
+            "image_description": "Image en fausses couleurs de Saturne prise par la sonde Voyager 1 le 18 octobre 1980, montrant les bandes nuageuses et les couleurs variées de l’atmosphère de la planète, avec le pôle nord visible en haut à gauche.",
+            "image_caption": "Illustration documentaire générale. Image documentaire générale : Saturne en fausses couleurs vue par Voyager 1, illustrant l’atmosphère et les bandes nuageuses de la planète – photo NASA, Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/5c5f88acd482085af0b82c8bc37c3d4cbdf30b03d61d691a394bf12dd4e56034.jpg",
+            "image_credit": "NASA · http://nssdc.gsfc.nasa.gov/imgcat/html/object_page/vg1_p22994c.html (image link) · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Saturn_false_color_Voyager-1.jpg",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-12",
+                    "url": "https://www.goodnewsnetwork.org/events061112/"
+                }
+            ],
+            "subject_id": "news-4fce60248e2da14c511346ab71e1bbcf",
+            "published_at": "2026-11-14",
+            "country": "Monde",
+            "source_published_at": "2026-11-12"
+        },
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-164037deb5e0a29aff3dae1b",
+            "title": "Des avancées techniques et scientifiques consolidées à la NASA Ames Research Center",
+            "body": "L’Ames Research Center de la NASA a récemment souligné les contributions remarquables de trois de ses experts, consolidant ainsi ses compétences dans différents domaines. Alyssa Villanueva, ingénieure spécialisée en biosciences spatiales, a joué un rôle clé dans les tests d’ingénierie pour un instrument lunaire, renforçant la préparation des missions biologiques. Steve Howell, expert en astrophysique, a dirigé plusieurs missions spatiales internationales et amélioré les technologies d’imagerie astronomique. Enfin, Samuel LeBlanc, scientifique en sciences de la Terre, a innové dans la planification des vols scientifiques aéroportés, permettant une meilleure organisation des missions et un rendement scientifique accru. Ces contributions montrent une transformation concrète des capacités opérationnelles et scientifiques à Ames.",
+            "category": "Sciences",
+            "location": "Monde",
+            "image_description": "La photo montre la reine Elizabeth II et le prince Philip regardant une démonstration du système \"Science on a Sphere\" au Goddard Space Flight Center, un centre de la NASA aux États-Unis.",
+            "image_caption": "Illustration documentaire générale. Photo documentaire générale : visite royale au Goddard Space Flight Center de la NASA où le système \"Science on a Sphere\" est présenté. Source Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/69a25acf7edc12e723c5063753270f58856b26fc1cd6ddcf922cf44c10db76f2.jpg",
+            "image_credit": "NASA/Pat Izzo · Queen Elizabeth II and Prince Philip Visit NASA's Goddard Space Flight Center · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Queen_Elizabeth_II_and_Prince_Philip_Visit_NASA%27s_Goddard_Space_Flight_Center_(amf-dcb8871c-d404-477a-9331-54c576de364e).jpg",
+            "sources": [
+                {
+                    "label": "NASA · publié le 2026-11-12",
+                    "url": "https://www.nasa.gov/general/nasa-ames-stars-of-the-month-november-2026/"
+                }
+            ],
+            "subject_id": "news-4c4249a6d228ba8455ff4a1ee0478663",
+            "published_at": "2026-11-14",
+            "country": "Monde",
+            "source_published_at": "2026-11-12"
+        },
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-da4c41e7e4d9c12a7de0bad3",
+            "title": "Le voyage final de la navette Endeavour vers Los Angeles capturé en images",
+            "body": "En septembre 2012, la navette spatiale Endeavour a été transportée par un avion 747 à travers la Californie, survolant des sites notables comme le Golden Gate Bridge, Disneyland et le Getty Center. Trois membres de l'équipe photo et vidéo de la NASA ont organisé minutieusement le parcours pour documenter cet événement unique. Le travail coordination avec plusieurs organismes a permis de capturer des images iconiques, offrant au public une occasion rare de suivre cette étape majeure. Aujourd'hui, l'Endeavour est exposée au California Science Center, en position verticale, prête à inspirer les visiteurs. Ce projet illustre comment la planification et la collaboration peuvent valoriser le patrimoine scientifique accessible à tous.",
+            "category": "Sciences",
+            "location": "Los Angeles, Californie, États-Unis",
+            "image_description": "La navette spatiale Endeavour accostée à la Station spatiale internationale, photographiée par un membre d'équipage de la station.",
+            "image_caption": "Photographie documentaire générale de la navette spatiale Endeavour en orbite, illustration disponible sur Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/c76bb50c9618d5e77113ed2a59cf21017504db13ae83e8d986fbb99df5833ac8.jpg",
+            "image_credit": "NASA, original uploader was Svdmolen at nl.wikipedia · http://spaceflight.nasa.gov/gallery/images/shuttle/sts-108/html/sts108-334-022.html · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Space-Shuttle-Endeavour-ISS.jpg",
+            "sources": [
+                {
+                    "label": "NASA · publié le 2026-11-12",
+                    "url": "https://www.nasa.gov/centers-and-facilities/armstrong/through-nasas-lens-capturing-space-shuttle-endeavours-move-to-la/"
+                }
+            ],
+            "subject_id": "news-814222d0921ad1f69c5234dd3032759d",
+            "published_at": "2026-11-14",
+            "country": "Monde",
+            "source_published_at": "2026-11-12"
+        },
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "daily",
+            "id": "decouverte-51b634260afbb99dde835ccd",
+            "title": "Des océans cachés sur plusieurs lunes de notre système solaire élargissent la recherche de la vie ailleurs",
+            "body": "Des analyses récentes indiquent la présence d'océans souterrains sur des lunes telles qu'Europe de Jupiter et Encelade de Saturne. Ces mers salées sous une épaisse couche de glace possèdent des caractéristiques dynamiques, comme des fissures provoquées par l'activité des marées, ainsi que des geysers d'eau. Ces phénomènes indiquent une source d'énergie suffisante pour maintenir l'eau liquide et potentiellement soutenir des formes de vie. Si la Terre reste le seul corps à connaître des océans stables en surface dans la zone habitable solaire, la découverte de ces environnements aquatiques souterrains remet en question les critères d'habitabilité. Plus loin, certains exoplanètes pourraient également abriter des océans souterrains selon des modèles. Ces avancées redéfinissent le champ d'étude des mondes potentiellement propices à la vie, sans confirmer leur existence.",
+            "category": "Nature et animaux",
+            "location": "Système solaire et exoplanètes",
+            "image_description": "Planète terrestre hypothétique recouverte d'océans, montrant une tempête atmosphérique importante.",
+            "image_caption": "Image illustrative d'une planète océanique avec un puissant ouragan dans son atmosphère (illustration Wikimedia Commons).",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/0562378cefd76103ff8f5a0481812a61d87b28c9816f47b4925f463f33cd55fc.jpg",
+            "image_credit": "Merikanto · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Hurricane_ocean_planet_15_r1.png",
+            "sources": [
+                {
+                    "label": "NOAA · Are there oceans on other planets?",
+                    "url": "https://oceanservice.noaa.gov/facts/et-oceans.html"
+                }
+            ],
+            "subject_id": "source-9bb5d6267fd4f758e4e57b5d1456b6e8",
+            "published_at": "2026-11-14",
+            "country": "Monde"
+        },
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "daily",
+            "id": "decouverte-f718b384a5a5c7366347c44c",
+            "title": "Les déplacements permanents de la dune du Pilat expliqués",
+            "body": "La dune du Pilat, située en Gironde à l'entrée du bassin d'Arcachon, est en mouvement constant. Chaque année, son front est s'avance vers la forêt des Landes de Gascogne d'un à cinq mètres, ensevelissant progressivement les arbres parfois. Ces déplacements résultent de l'action conjuguée du vent et des vagues qui déplacent le sable accumulé. Sur la façade ouest, le trait de côte subit quant à lui une érosion variable selon les saisons et la force des tempêtes. Cette dynamique engendre une dissymétrie de la dune avec des pentes différentes entre faces marin et terrestre. Le suivi scientifique de ces déplacements met en lumière les interactions naturelles entre vent, eau et végétation dans ce paysage littoral unique.",
+            "category": "Voyages et paysages",
+            "location": "Gironde, France",
+            "image_description": "Vue panoramique de la dune du Pilat en Gironde, montrant son étendue de sable et la forêt adjacente.",
+            "image_caption": "Photographie générale de la dune du Pilat, la plus haute dune d’Europe, illustrant sa taille et sa proximité avec la forêt environnante (source Wikimedia Commons).",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/f0a1e96f3a021a132780518c64f5a330e88162b30d60bfc7aaba7d9c9194cc04.jpg",
+            "image_credit": "Larrousiney at French Wikipedia · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:DunePyla.JPG",
+            "sources": [
+                {
+                    "label": "Wikipédia · Dune du Pilat",
+                    "url": "https://fr.wikipedia.org/wiki/Dune_du_Pilat"
+                }
+            ],
+            "subject_id": "Q501726",
+            "published_at": "2026-11-14",
+            "country": "France"
+        }
+    ]
+}
