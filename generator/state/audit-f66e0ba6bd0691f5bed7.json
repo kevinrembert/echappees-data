@@ -1,0 +1,119 @@
+{
+    "schema_version": 1,
+    "articles": [
+        {
+            "id": "decouverte-130e892dbba62a63a98b17a4",
+            "subject_id": "news-d49a6b83fdbd7f8a67a5157eee3f8252",
+            "collected_at": "2026-11-14T15:03:49+00:00",
+            "sources": [
+                {
+                    "label": "Good Good Good · publié le 2026-11-14",
+                    "url": "https://www.goodgoodgood.co/articles/good-news-this-week-november-14-2026"
+                }
+            ],
+            "source_sha256": "635a8c74145ac8959e48ea3cff8152c61244644fe13d12e99fae16a27651a81c",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:China_Renewable_Energy_Engineering_Institute_(20241007130935).jpg",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "original_sha1": "4ca0e4f4e4881001dfef6bb9a946d5d18aef3e3d",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La Chine a réduit ses émissions de CO2 de 3,1% au troisième trimestre 2026, la plus forte baisse trimestrielle depuis le confinement lié au COVID, tout en continuant d’augmenter sa demande énergétique. Cette réduction s’accompagne d’une croissance de la part des énergies renouvelables dans son mix énergétique.",
+                "beneficiaries": "La population chinoise et la planète bénéficient de cette baisse des émissions de gaz à effet de serre, qui contribue à limiter le changement climatique sans ralentir le développement énergétique du pays."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Au cours du troisième trimestre 2026, la Chine a enregistré une baisse de 3,1% de ses émissions de dioxyde de carbone, le plus fort recul trimestriel depuis le début de la pandémie de COVID-19 en 2022.",
+                    "source_passages": [
+                        "Here are the highlights for this week!If you want to get good news in your inbox every day, join the Goodnewsletter — the free daily newsletter designed to leave you feeling hopeful.‍The Best Positive News We’re Celebrating This Week —China’s emissions fell 3% in Q3 2026 — the largest drop since COVIDA result of both the Hormuz crisis and declining coal use, China’s carbon dioxide emissions fell by 3.1% in the third quarter of 2026, its largest quarterly reduction since COVID lockdowns in 2022.It also means the country’s emissions have declined by an estimated 0.5% year to date."
+                    ]
+                },
+                {
+                    "sentence": "Cette évolution intervient alors que la demande en énergie du pays continue de croître, mais davantage satisfaite par des sources renouvelables, Chine étant le leader mondial dans ce domaine.",
+                    "source_passages": [
+                        "It also extends a “flat or falling” trend that began in March 2024 and has lasted more than two and a half years.China’s energy demand has continued to increase in recent decades, but more and more of that demand is being met by renewable sources, as China is the leader in renewable energy deployment globally.Why is this good news?"
+                    ]
+                },
+                {
+                    "sentence": "Ce constat illustre qu’il est possible d’augmenter la consommation d’énergie tout en diminuant significativement les émissions polluantes.",
+                    "source_passages": [
+                        "It also extends a “flat or falling” trend that began in March 2024 and has lasted more than two and a half years.China’s energy demand has continued to increase in recent decades, but more and more of that demand is being met by renewable sources, as China is the leader in renewable energy deployment globally.Why is this good news?",
+                        "Even in a country where demand for electricity and energy continues to rise, this decline demonstrates we don’t need fossil fuels to meet it.→ Read more‍An 80-cent plastic pouch is saving thousands of women from dying in childbirth→ Read more (Gifted link)‍The global death rate from malaria has nearly halved since 2000The latest data from the World Health Organization shows the global death rate from malaria has been nearly halved since 2000 — and it’s declined by 96% since 1900.If the death rate from malaria were the same as it was in 1900, around 16 million people would die annually — today, it’s around 610,000."
+                    ]
+                },
+                {
+                    "sentence": "Cette tendance à une consommation d’énergie plus propre se maintient depuis mars 2024, contribuant à une légère baisse annuelle des émissions d’environ 0,5%.",
+                    "source_passages": [
+                        "Even in a country where demand for electricity and energy continues to rise, this decline demonstrates we don’t need fossil fuels to meet it.→ Read more‍An 80-cent plastic pouch is saving thousands of women from dying in childbirth→ Read more (Gifted link)‍The global death rate from malaria has nearly halved since 2000The latest data from the World Health Organization shows the global death rate from malaria has been nearly halved since 2000 — and it’s declined by 96% since 1900.If the death rate from malaria were the same as it was in 1900, around 16 million people would die annually — today, it’s around 610,000."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-b0a11ea7ac1e2367c3c95d74",
+            "subject_id": "news-019e3bb51a0ebef18b29330f71146218",
+            "collected_at": "2026-11-14T15:03:59+00:00",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-14",
+                    "url": "https://www.goodnewsnetwork.org/events061114/"
+                }
+            ],
+            "source_sha256": "1cec59273b25aeb5f41029c38d772e7f8d73f4f0066c1ce83a2062b068364924",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Lion%27s_Gate_Bridge.jpg",
+            "image_license": "CC BY 2.0 · https://creativecommons.org/licenses/by/2.0/",
+            "original_sha1": "d87df3147eb1672118b7a1856d19a53dce44e852",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Le pont Lions Gate, inauguré il y a 88 ans, a permis une liaison efficace entre Vancouver et la rive nord, facilitant quotidiennement le déplacement de 60 000 véhicules.",
+                "beneficiaries": "Les usagers quotidiens du pont Lions Gate ainsi que les économies locales de Vancouver et ses environs."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Le pont Lions Gate, franchissant l’inlet Burrard à Vancouver, a été mis en service il y a 88 ans, offrant un passage de près de 1 823 mètres de long.",
+                    "source_passages": [
+                        "Home This Day In History Good News in History, November 14 88 years ago today, the Lion’s Gate Bridge opened in Vancouver.",
+                        "Crossing the Burrard Inlet, the total length of the bridge including the north viaduct is 5,981 feet (1,823 meters), with the length of the main span alone exceeding 1,500 feet."
+                    ]
+                },
+                {
+                    "sentence": "Ce lien routier, qui comprend un tablier principal de plus de 1 500 mètres, fait partie des autoroutes 1A et 99 et supporte environ 60 000 véhicules chaque jour.",
+                    "source_passages": [
+                        "Crossing the Burrard Inlet, the total length of the bridge including the north viaduct is 5,981 feet (1,823 meters), with the length of the main span alone exceeding 1,500 feet.",
+                        "It forms part of Highways 1A and 99, and total traffic averages 60,000 cars a day."
+                    ]
+                },
+                {
+                    "sentence": "Conçu par la firme montréalaise Monsarrat et Pratley, il incarnait un projet d’ingénierie ambitieux soutenu par la famille Guinness.",
+                    "source_passages": [
+                        "Tom Richards Alfred James Towle Taylor, an engineer with an interest in creating a bridge from the First Narrows to the North Shore, managed to convince the Guinness family of Dublin, Ireland to invest in the project.",
+                        "The bridge was designed by the Montreal firm Monsarrat and Pratley, which was later responsible for the Angus L.",
+                        "Like true gentlemen the Guinness family sold the bridge in 1955 to the province of British Columbia for $5,873,837—the cost of the original construction at not a penny more in appreciation."
+                    ]
+                },
+                {
+                    "sentence": "Son nom provient des lions de béton qui gardent ses entrées.",
+                    "source_passages": [
+                        "The name “Lion’s Gate” is taken from the pair of cast concrete lions at the entrance of the bridge, and the name was taken by Lionsgate Films of Hollywood."
+                    ]
+                },
+                {
+                    "sentence": "Ce pont a contribué à structurer la circulation dans la région, reliant efficacement Vancouver à la rive nord.",
+                    "source_passages": [
+                        "Home This Day In History Good News in History, November 14 88 years ago today, the Lion’s Gate Bridge opened in Vancouver.",
+                        "It forms part of Highways 1A and 99, and total traffic averages 60,000 cars a day."
+                    ]
+                },
+                {
+                    "sentence": "La transaction de vente du pont en 1955, au juste coût de construction, témoigne de l’attention portée à sa gestion.",
+                    "source_passages": [
+                        "Like true gentlemen the Guinness family sold the bridge in 1955 to the province of British Columbia for $5,873,837—the cost of the original construction at not a penny more in appreciation."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        }
+    ]
+}

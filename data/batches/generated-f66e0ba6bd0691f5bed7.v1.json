@@ -1,0 +1,59 @@
+{
+    "schema_version": 1,
+    "id": "generated-f66e0ba6bd0691f5bed7",
+    "version": "1",
+    "articles": [
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-130e892dbba62a63a98b17a4",
+            "title": "La Chine réduit ses émissions de CO2 malgré une demande énergétique en hausse",
+            "body": "Au cours du troisième trimestre 2026, la Chine a enregistré une baisse de 3,1% de ses émissions de dioxyde de carbone, le plus fort recul trimestriel depuis le début de la pandémie de COVID-19 en 2022. Cette évolution intervient alors que la demande en énergie du pays continue de croître, mais davantage satisfaite par des sources renouvelables, Chine étant le leader mondial dans ce domaine. Ce constat illustre qu’il est possible d’augmenter la consommation d’énergie tout en diminuant significativement les émissions polluantes. Cette tendance à une consommation d’énergie plus propre se maintient depuis mars 2024, contribuant à une légère baisse annuelle des émissions d’environ 0,5%.",
+            "category": "Initiatives positives",
+            "location": "Chine",
+            "image_description": "Institut d’ingénierie des énergies renouvelables à Andingmen Outer St., Chine",
+            "image_caption": "Vue extérieure de l’Institut d’ingénierie des énergies renouvelables en Chine, illustration documentaire générale des efforts de transition énergétique dans le pays.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/dc7e16234f4724227ad12806da6d14f8784a07120581855ffe90d41ef545c43b.jpg",
+            "image_credit": "N509FZ · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:China_Renewable_Energy_Engineering_Institute_(20241007130935).jpg",
+            "sources": [
+                {
+                    "label": "Good Good Good · publié le 2026-11-14",
+                    "url": "https://www.goodgoodgood.co/articles/good-news-this-week-november-14-2026"
+                }
+            ],
+            "subject_id": "news-d49a6b83fdbd7f8a67a5157eee3f8252",
+            "published_at": "2026-11-14",
+            "country": "Monde",
+            "source_published_at": "2026-11-14"
+        },
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-b0a11ea7ac1e2367c3c95d74",
+            "title": "À Vancouver, le pont Lions Gate soutient la mobilité régionale depuis près de neuf décennies",
+            "body": "Le pont Lions Gate, franchissant l’inlet Burrard à Vancouver, a été mis en service il y a 88 ans, offrant un passage de près de 1 823 mètres de long. Ce lien routier, qui comprend un tablier principal de plus de 1 500 mètres, fait partie des autoroutes 1A et 99 et supporte environ 60 000 véhicules chaque jour. Conçu par la firme montréalaise Monsarrat et Pratley, il incarnait un projet d’ingénierie ambitieux soutenu par la famille Guinness. Son nom provient des lions de béton qui gardent ses entrées. Ce pont a contribué à structurer la circulation dans la région, reliant efficacement Vancouver à la rive nord. La transaction de vente du pont en 1955, au juste coût de construction, témoigne de l’attention portée à sa gestion.",
+            "category": "Initiatives positives",
+            "location": "Vancouver, Canada",
+            "image_description": "Le pont Lions Gate à Vancouver, Canada, vu en journée avec un ciel clair.",
+            "image_caption": "Photographie documentaire générale du pont Lions Gate à Vancouver, illustration du lien régional réalisé il y a 88 ans.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/028c12248263f7d0a867a89575517996ff465dabfcf7568914032b3800d3ef01.jpg",
+            "image_credit": "David J Laporte from Great Falls, Montana, USA · originally posted to Flickr as Lion's Gate Bridge (w/out Lions) · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY 2.0 · https://creativecommons.org/licenses/by/2.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Lion%27s_Gate_Bridge.jpg",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-14",
+                    "url": "https://www.goodnewsnetwork.org/events061114/"
+                }
+            ],
+            "subject_id": "news-019e3bb51a0ebef18b29330f71146218",
+            "published_at": "2026-11-14",
+            "country": "Monde",
+            "source_published_at": "2026-11-14"
+        }
+    ]
+}
