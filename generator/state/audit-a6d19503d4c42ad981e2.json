@@ -1,0 +1,65 @@
+{
+    "schema_version": 1,
+    "articles": [
+        {
+            "id": "decouverte-9060e8383bcd2c81599981ba",
+            "subject_id": "news-e5fc52f33ffe4978ade2a57099073c6c",
+            "collected_at": "2026-11-15T15:39:50+00:00",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-15",
+                    "url": "https://www.goodnewsnetwork.org/san-francisco-gets-100m-gift-for-public-parks-from-airbnb-ceo/"
+                }
+            ],
+            "source_sha256": "403aa9dec1ea65574d37add34769948bfc29d3ef311109b25012b8b2e77d2591",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Young_Girls_in_Public_Park_-_San_Jose_de_Ocoa_-_Dominican_Republic.jpg",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "original_sha1": "d53307b3e4774487bdbbcabb4906005952dc7721",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Un don de 100 millions de dollars permettra l’amélioration et la création d’espaces verts publics à San Francisco, avec des projets déjà financés et réalisés à terme accéléré.",
+                "beneficiaries": "Les habitants de San Francisco, notamment les familles, enfants, adolescents et utilisateurs des parcs publics, bénéficient d’équipements rénovés et d’aires de loisirs développées."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Brian Chesky, fondateur d’Airbnb, a offert 100 millions de dollars à la ville de San Francisco pour ses parcs publics, la plus grosse donation individuelle jamais reçue par la ville.",
+                    "source_passages": [
+                        "By davidyuweb, CC license Airbnb CEO Brian Chesky announced a groundbreaking $100 million donation to San Francisco’s parks, the largest-ever single-donor gift to the city in its history.",
+                        "Chesky founded Airbnb in San Francisco 18 years ago and the company is still headquartered there.",
+                        "For him, the donation is about “giving back to the city that made Airbnb possible”."
+                    ]
+                },
+                {
+                    "sentence": "La somme financera la rénovation et la création d’espaces verts, notamment la construction anticipée du parc Rachele Sullivan avec des installations sportives et aires de jeux.",
+                    "source_passages": [
+                        "“I’ve always believed in the power of bringing people together, and parks are where a city meets.” An initial $39 million will immediately be dedicated to the first five projects listed below, and the remaining $61 million will support additional projects to be identified over the next year by the Parks Department.",
+                        "Rachele Sullivan Park, a new half-acre property on 11th Street will open three years ahead of schedule, with a half-basketball court, fitness area, children’s play area, and shaded seating."
+                    ]
+                },
+                {
+                    "sentence": "À Garfield Square Park, la piscine verra ses horaires étendus et le terrain de jeu rénové.",
+                    "source_passages": [
+                        "At Garfield Square Park in the Mission, the funding will expand pool hours to add Sunday and also resurface a playground."
+                    ]
+                },
+                {
+                    "sentence": "D’autres projets comme India Basin Waterfront Park, Jackson Playground et la fusion de deux parcs du front de mer profiteront également de cet investissement.",
+                    "source_passages": [
+                        "For India Basin Waterfront Park, a new 10-acre coastal park in Bayview-Hunters Point, the new money will fund a gravel beach, boat house, adventure playground, and basketball courts, and close a gap in the Bay Trail.",
+                        "In Potrero Hill, Jackson Playground and the historic clubhouse will be fully renovated.",
+                        "Downtown’s waterfront will gain a signature public space as the city and partners join the former Embarcadero Plaza and Sue Bierman Park into a single five-acre waterfront park."
+                    ]
+                },
+                {
+                    "sentence": "Ces fonds permettront d’accélérer les travaux, d’améliorer les équipements et d’augmenter les programmes de loisirs offerts, renforçant ainsi les infrastructures de détente et de sport accessibles à tous.",
+                    "source_passages": [
+                        "The new resources will speed up construction timelines, deliver upgrades and programming, and close funding gaps.",
+                        "“I’ve always believed in the power of bringing people together, and parks are where a city meets.” An initial $39 million will immediately be dedicated to the first five projects listed below, and the remaining $61 million will support additional projects to be identified over the next year by the Parks Department."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        }
+    ]
+}

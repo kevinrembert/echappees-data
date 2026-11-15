@@ -1,0 +1,33 @@
+{
+    "schema_version": 1,
+    "id": "generated-a6d19503d4c42ad981e2",
+    "version": "1",
+    "articles": [
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-9060e8383bcd2c81599981ba",
+            "title": "San Francisco accélère l’amélioration de ses parcs publics grâce à un don historique",
+            "body": "Brian Chesky, fondateur d’Airbnb, a offert 100 millions de dollars à la ville de San Francisco pour ses parcs publics, la plus grosse donation individuelle jamais reçue par la ville. La somme financera la rénovation et la création d’espaces verts, notamment la construction anticipée du parc Rachele Sullivan avec des installations sportives et aires de jeux. À Garfield Square Park, la piscine verra ses horaires étendus et le terrain de jeu rénové. D’autres projets comme India Basin Waterfront Park, Jackson Playground et la fusion de deux parcs du front de mer profiteront également de cet investissement. Ces fonds permettront d’accélérer les travaux, d’améliorer les équipements et d’augmenter les programmes de loisirs offerts, renforçant ainsi les infrastructures de détente et de sport accessibles à tous.",
+            "category": "Initiatives positives",
+            "location": "San Francisco, États-Unis",
+            "image_description": "Jeunes filles dans un parc public à San Jose de Ocoa en République dominicaine",
+            "image_caption": "Illustration documentaire générale. Photo illustrative documentaire générale de jeunes dans un parc public, Wikimedia Commons",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/42e40d0d97f364735418dbc3b5ffc4a5b6a4297971277366e9048ed1fc539667.jpg",
+            "image_credit": "Adam Jones, Ph.D. · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Young_Girls_in_Public_Park_-_San_Jose_de_Ocoa_-_Dominican_Republic.jpg",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-15",
+                    "url": "https://www.goodnewsnetwork.org/san-francisco-gets-100m-gift-for-public-parks-from-airbnb-ceo/"
+                }
+            ],
+            "subject_id": "news-e5fc52f33ffe4978ade2a57099073c6c",
+            "published_at": "2026-11-15",
+            "country": "Monde",
+            "source_published_at": "2026-11-15"
+        }
+    ]
+}
