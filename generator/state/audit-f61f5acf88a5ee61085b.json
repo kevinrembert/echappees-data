@@ -1,0 +1,286 @@
+{
+    "schema_version": 1,
+    "articles": [
+        {
+            "id": "decouverte-116181f5e2afeb87d8b53c79",
+            "subject_id": "news-a0bb3bab30d42a2cff4b94c0494ec73d",
+            "collected_at": "2026-11-15T06:30:09+00:00",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-14",
+                    "url": "https://www.goodnewsnetwork.org/couple-with-autism-and-adhd-find-passion-cleaning-filthy-street-signs/"
+                }
+            ],
+            "source_sha256": "61d3167e6a7677197f64d9bbab163e3863ef7c5ceae86332b22468b2cafec8ef",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Street_cleaning_sign_with_picture_of_street_sweeper_(38634076316).jpg",
+            "image_license": "CC BY 2.0 · https://creativecommons.org/licenses/by/2.0/",
+            "original_sha1": "ccd2177e42b641cf74793ae76cd9700a1eb89395",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Des panneaux de signalisation routière localement sales sont nettoyés régulièrement, améliorant leur lisibilité, notamment de nuit.",
+                "beneficiaries": "Les habitants d'East Sussex, en Angleterre, qui circulent dans ces zones, ainsi que la communauté locale bénéficient d'une signalisation plus claire et plus sûre."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "À Brighton, un couple marié atteint d'autisme et de TDAH consacre du temps à nettoyer les panneaux routiers sales d'East Sussex.",
+                    "source_passages": [
+                        "Home All News Inspiring Couple with Autism and ADHD Find Passion Cleaning Filthy Street Signs Credit: Paul and Ruth Richmond-Watson / SWNS A married couple is spending their time cleaning filthy street signs—with dreams of traveling across the country until they are all spotless.",
+                        "Paul and Ruth Richmond-Watson started scrubbing street signs in September after feeling the urge to find a new hobby they could do together.",
+                        "“We are both autistic with ADHD, so we are quite creative and a bit weird,” explained Paul, who is a former window washer himself.",
+                        "“We just thought we could really make this work.” The duo in Brighton, England, had noticed that a lot of their local traffic signage was unreadable at night due to the grime, so they got to work clearing it themselves."
+                    ]
+                },
+                {
+                    "sentence": "Depuis septembre, ils s'attellent quotidiennement à cette tâche afin de rendre ces panneaux plus lisibles, surtout la nuit.",
+                    "source_passages": [
+                        "Home All News Inspiring Couple with Autism and ADHD Find Passion Cleaning Filthy Street Signs Credit: Paul and Ruth Richmond-Watson / SWNS A married couple is spending their time cleaning filthy street signs—with dreams of traveling across the country until they are all spotless.",
+                        "Paul and Ruth Richmond-Watson started scrubbing street signs in September after feeling the urge to find a new hobby they could do together.",
+                        "The couple are now cleaning at least one sign a day, taking videos to post on social media.",
+                        "25-year-old Ruth said, “A lot of dirty signs are hard to read, especially at night."
+                    ]
+                },
+                {
+                    "sentence": "Leur démarche, financée pour partie par des sponsors, utilise des moyens respectueux de l'environnement, tels qu'une pompe à dos, une lance à mousse et une brosse à long manche.",
+                    "source_passages": [
+                        "The newlyweds fund their own efforts, but also gained a couple sponsorships—with supply companies.",
+                        "On average, it takes around 20-25 minutes for each sign, using a backpack water pump with a hose, a snow foam gun with environmentally-friendly foam, and a long-handled brush."
+                    ]
+                },
+                {
+                    "sentence": "Ce nettoyage améliore localement la lisibilité de la signalisation routière, ce qui bénéficie à la sécurité des automobilistes et des piétons.",
+                    "source_passages": [
+                        "“We just thought we could really make this work.” The duo in Brighton, England, had noticed that a lot of their local traffic signage was unreadable at night due to the grime, so they got to work clearing it themselves.",
+                        "25-year-old Ruth said, “A lot of dirty signs are hard to read, especially at night."
+                    ]
+                },
+                {
+                    "sentence": "En plus de leur engagement communautaire, ce hobby leur offre un cadre stimulant et un motif pour sortir régulièrement, renforçant leur bien-être personnel.",
+                    "source_passages": [
+                        "“Neighbors just don’t ‘neighbor’ anymore, and we wanted to do something that would help out.",
+                        "Paul and Ruth Richmond-Watson / SWNS “It was for our mental health as well, to get out-and-about and have a reason to leave the house.",
+                        "We notice patterns, so we were always commenting on it when we were driving around.” Before-and-After Credit: Paul and Ruth Richmond-Watson / SWNS “The first one that we did, it was a bit of a learning curve but, it was so satisfying and fun."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-32f0d816188e36ba3688a4ba",
+            "subject_id": "news-8f7a71f0d49d1d21279e4d55c7b9f1af",
+            "collected_at": "2026-11-15T06:30:26+00:00",
+            "sources": [
+                {
+                    "label": "CNRS · presse · publié le 2026-11-10",
+                    "url": "https://www.cnrs.fr/fr/presse/developper-une-nouvelle-generation-de-vaccins-pour-agir-des-la-porte-dentree-des-infections"
+                }
+            ],
+            "source_sha256": "861c76685f2c1c288ce74bb5692f89eb7d25e09a3739116aab785e0a4cefb862",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Fluenz_Tetra_nasal_influenza_vaccine_(live_attenuated,_nasal)_with_box_2023.jpg",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "original_sha1": "3da73eb63e825fc80413c1cb2497521a712f8229",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Le projet NAVIX a permis de développer et d’évaluer des vaccins administrés par voie nasale ciblant directement l’entrée des infections respiratoires.",
+                "beneficiaries": "Les populations exposées aux agents infectieux respiratoires bénéficient de cette nouvelle stratégie vaccinale ciblée."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Douze équipes françaises rassemblées dans le projet NAVIX ont mis au point des vaccins administrés par voie nasale, capables d’agir à la porte d’entrée des agents infectieux respiratoires.",
+                    "source_passages": [
+                        "© Unsplash -A +A Contact(s) Gwenaëlle Martin CNRS - Service de Presse Partager ce contenu Share on BlueskyPartager sur TwitterShare on LinkedinPartager sur FacebookSend by mailCopier le lien de la page Imprimer Imprimer la page Télécharger le communiqué de presse (4.19 Mo) Immunologie Pharmacologie Innovation Développer une nouvelle génération de vaccins pour agir dès la porte d’entrée des infections respiratoires 10 novembre 2026 Santé Innovation -A +A Partager ce contenu Share on BlueskyPartager sur TwitterShare on LinkedinPartager sur FacebookSend by mailCopier le lien de la page Face au risque de nouvelles épidémies provoquées par des agents infectieux respiratoires, douze équipes françaises multidisciplinaires, réunies sur quatre sites à Lille, Paris, Saint Etienne et Tours, associent leurs expertises au sein du projet NAVIX.",
+                        "Il ambitionne de développer et d’évaluer de nouvelles plateformes vaccinales administrées par voie nasale, capables d’agir au plus près de la porte d’entrée des pathogènes respiratoires."
+                    ]
+                },
+                {
+                    "sentence": "Ce programme coordonné par l’Institut Pasteur de Lille bénéficie d’un financement public de 14 millions d’euros pour quatre ans.",
+                    "source_passages": [
+                        "Coordonné par le Dr Nathalie Mielcarek, directrice de recherche Inserm et directrice adjointe du Centre d’Infection et d’Immunité de Lille (CIIL – Institut Pasteur de Lille / CNRS / Inserm / Université de Lille / CHU Lille), ce programme de recherche bénéficie d’un financement de 14 millions d’euros sur quatre ans."
+                    ]
+                },
+                {
+                    "sentence": "Ces vaccins ciblent directement les muqueuses nasales, premières barrières contre de nombreux pathogènes, permettant une réponse immunitaire localisée.",
+                    "source_passages": [
+                        "Il ambitionne de développer et d’évaluer de nouvelles plateformes vaccinales administrées par voie nasale, capables d’agir au plus près de la porte d’entrée des pathogènes respiratoires."
+                    ]
+                },
+                {
+                    "sentence": "Cette approche innovante prépare ainsi à mieux contrer les épidémies à venir en renforçant les défenses dès le site d’entrée des infections.",
+                    "source_passages": [
+                        "© Unsplash -A +A Contact(s) Gwenaëlle Martin CNRS - Service de Presse Partager ce contenu Share on BlueskyPartager sur TwitterShare on LinkedinPartager sur FacebookSend by mailCopier le lien de la page Imprimer Imprimer la page Télécharger le communiqué de presse (4.19 Mo) Immunologie Pharmacologie Innovation Développer une nouvelle génération de vaccins pour agir dès la porte d’entrée des infections respiratoires 10 novembre 2026 Santé Innovation -A +A Partager ce contenu Share on BlueskyPartager sur TwitterShare on LinkedinPartager sur FacebookSend by mailCopier le lien de la page Face au risque de nouvelles épidémies provoquées par des agents infectieux respiratoires, douze équipes françaises multidisciplinaires, réunies sur quatre sites à Lille, Paris, Saint Etienne et Tours, associent leurs expertises au sein du projet NAVIX."
+                    ]
+                },
+                {
+                    "sentence": "Le projet est soutenu dans le cadre du plan France 2030 et repose sur la collaboration multidisciplinaire entre les sites de Lille, Paris, Saint-Étienne et Tours.",
+                    "source_passages": [
+                        "© Unsplash -A +A Contact(s) Gwenaëlle Martin CNRS - Service de Presse Partager ce contenu Share on BlueskyPartager sur TwitterShare on LinkedinPartager sur FacebookSend by mailCopier le lien de la page Imprimer Imprimer la page Télécharger le communiqué de presse (4.19 Mo) Immunologie Pharmacologie Innovation Développer une nouvelle génération de vaccins pour agir dès la porte d’entrée des infections respiratoires 10 novembre 2026 Santé Innovation -A +A Partager ce contenu Share on BlueskyPartager sur TwitterShare on LinkedinPartager sur FacebookSend by mailCopier le lien de la page Face au risque de nouvelles épidémies provoquées par des agents infectieux respiratoires, douze équipes françaises multidisciplinaires, réunies sur quatre sites à Lille, Paris, Saint Etienne et Tours, associent leurs expertises au sein du projet NAVIX."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-18451d2438325ae8f3dd0646",
+            "subject_id": "news-05ea8f1c04ba94294104934022b4fa01",
+            "collected_at": "2026-11-15T06:31:23+00:00",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-14",
+                    "url": "https://www.goodnewsnetwork.org/two-of-last-wild-ecosystems-untouched-by-humans-declared-new-sanctuaries/"
+                }
+            ],
+            "source_sha256": "2cd6abd229b82c51861389eacda268ee06da9d754a9e8f90d91ab12010b9c0c0",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Gray%27s_Reef_National_Marine_Sanctuary_corals.png",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "ed348d379978148b6bd8a5616840ef64ae6522aa",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La création d’un sanctuaire marin national protège 18 500 milles carrés autour des atolls de Bikar et Bokak, préservant l’un des derniers écosystèmes marins intacts au monde.",
+                "beneficiaries": "Les écosystèmes marins et terrestres des atolls de Bikar et Bokak, incluant des colonies d’oiseaux, des coraux, des poissons, des tortues de mer, et des espèces encore peu connues."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Les atolls de Bikar et Bokak, situés dans les Îles Marshall et jusqu’ici peu impactés par l’homme, ont récemment été intégrés à un sanctuaire marin national couvrant 18 500 milles carrés.",
+                    "source_passages": [
+                        "Two years after the assessment, some 18,500 square miles around the atolls were declared the country’s first national marine sanctuary."
+                    ]
+                },
+                {
+                    "sentence": "Ces zones présentent les caractéristiques d’un écosystème intact, avec de nombreuses colonies d’oiseaux marins, une végétation native mature, des tortues en pleine activité de nidification, ainsi qu’une grande diversité de poissons, y compris de gros prédateurs.",
+                    "source_passages": [
+                        "“These atolls have extensive seabird colonies, mature native vegetation, active turtle nesting, high fish numbers with large predators… and surprisingly diverse and poorly-known deep-sea communities.” For instance, they counted over a dozen breeding seabird colonies, 266 groups of reef fish, 79 groups of deep-sea fishes, and 15 groups of open-water predators—including sharks, jacks, and wahoo."
+                    ]
+                },
+                {
+                    "sentence": "Des relevés scientifiques ont identifié plusieurs espèces encore jamais observées dans l’archipel, voire inconnues, témoignant de l’état exceptionnel de conservation.",
+                    "source_passages": [
+                        "Green sea turtle hatchling at Bikar atoll – by Manu San Felix via SWNS Fully 14 of the observed groups haven’t previously been recorded in the Marshall Islands, and two might be species new to science."
+                    ]
+                },
+                {
+                    "sentence": "Ce sanctuaire offre une référence écologique précieuse pour la compréhension et la préservation des milieux marins peu altérés par l’activité humaine.",
+                    "source_passages": [
+                        "“They are among the best ecological reference systems we have to better understand what we have lost elsewhere and to provide fundamental insights needed for effective conservation and restoration efforts.” “The Marshall Island government should be applauded for their foresight in protecting these global biodiversity hotspots, where human activity is distant and habitats teem with life.” SHARE THE SURPRISING BEAUTY With Ocean Lovers on Social Media… Leave a Reply Cancel replyYou must be logged in to post a comment."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-01f505cfc99c912b6fc69dda",
+            "subject_id": "source-c393ce88404858014e0d90b6e0fb74d3",
+            "collected_at": "2026-11-15T06:31:32+00:00",
+            "sources": [
+                {
+                    "label": "NOAA · How Many Species Live in the Ocean?",
+                    "url": "https://oceanservice.noaa.gov/facts/ocean-species.html"
+                }
+            ],
+            "source_sha256": "e1fdd41c9c88328b2101845a4b50cfb1f41eea1cbab12c53f8abf3d59a894225",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Wadi_Hitan_(Whale_Valley)_Panorama.jpg",
+            "image_license": "CC BY-SA 2.0 · https://creativecommons.org/licenses/by-sa/2.0/",
+            "original_sha1": "35363e5b64f7ab17b0e1b66e2156eead8af072c9",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La communauté scientifique mondiale a renforcé ses connaissances sur la biodiversité marine en menant durant dix ans le Census of Marine Life, rassemblant des données sur la diversité, la distribution et l’abondance des espèces marines.",
+                "beneficiaries": "Les océans dans leur ensemble, ainsi que les chercheurs et gestionnaires de la biodiversité marine qui disposent désormais de vastes informations pour orienter la conservation."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "La biodiversité marine reste en grande partie inconnue, car environ 91 % des espèces océaniques ne sont pas encore classifiées et plus de 80 % des fonds marins restent inexplorés.",
+                    "source_passages": [
+                        "The number of species that live in the ocean is unknown.",
+                        "While scientists estimate that 91 percent of ocean species have yet to be classified, the global scientific community continues to amass as much knowledge as possible about ocean life.",
+                        "Scientists estimate that 91 percent of ocean species have yet to be classified, and that more than eighty percent of our ocean is unmapped, unobserved, and unexplored.."
+                    ]
+                },
+                {
+                    "sentence": "Néanmoins, un effort international conduit pendant dix ans, le Census of Marine Life, a permis de rassembler des données précises sur la vie marine.",
+                    "source_passages": [
+                        "One recent effort—the Census of Marine Life—was an international project spanning 10 years that recorded the diversity, distribution, and abundance of life in the ocean.",
+                        "More than 2,700 scientists from 80 nations contributed to the Census.",
+                        "The results of their research, which included 540 marine expeditions, were reported at The Royal Society of London in October 2010."
+                    ]
+                },
+                {
+                    "sentence": "Plus de 2 700 scientifiques de 80 pays ont participé à ce programme, réalisant 540 expéditions.",
+                    "source_passages": [
+                        "More than 2,700 scientists from 80 nations contributed to the Census.",
+                        "The results of their research, which included 540 marine expeditions, were reported at The Royal Society of London in October 2010."
+                    ]
+                },
+                {
+                    "sentence": "Ces travaux ont livré un panorama inédit sur la diversité et la répartition des organismes marins, information aujourd’hui accessible via le système d’informations biogéographiques océaniques.",
+                    "source_passages": [
+                        "The Ocean Biogeographic Information System contains the Census data.",
+                        "One recent effort—the Census of Marine Life—was an international project spanning 10 years that recorded the diversity, distribution, and abundance of life in the ocean.",
+                        "The results of their research, which included 540 marine expeditions, were reported at The Royal Society of London in October 2010."
+                    ]
+                },
+                {
+                    "sentence": "Ce projet offre un fondement scientifique solide pour mieux protéger ces écosystèmes essentiels, notamment face au déclin observé de certaines populations marines.",
+                    "source_passages": [
+                        "Research suggests, however, that the number of species in the ocean is decreasing.",
+                        "The continued decline in the health of many ecosystems, coupled with rising extinction rates, are likely outpacing species’ ability to evolve to tolerate the conditions of our rapidly changing planet.",
+                        "Researchers around the world continue to study marine life and habitats to help develop new strategies to preserve vital ocean ecosystems."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-03d66c3086b5046cbed40d18",
+            "subject_id": "Q188754",
+            "collected_at": "2026-11-15T06:31:45+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Château de Himeji",
+                    "url": "https://fr.wikipedia.org/wiki/Ch%C3%A2teau_de_Himeji"
+                }
+            ],
+            "source_sha256": "8a5277664e30df66c800abc22757e0026d0f10bbbf28f4002601b676e9f27c46",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Himeji_castle_in_may_2015.jpg",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "original_sha1": "08890934c8145139aa17a335c909ad0a0edc3455",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La fin d'une importante rénovation de cinq ans a restauré le toit et les murs du château de Himeji, renforçant sa conservation.",
+                "beneficiaries": "Les visiteurs, les spécialistes du patrimoine et la communauté locale bénéficient de cette restauration qui permet la préservation d'un château japonais médiéval authentique."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Le château de Himeji, situé dans la préfecture de Hyōgo au Japon, est l'un des derniers grands châteaux médiévaux japonais avec un donjon en bois authentique.",
+                    "source_passages": [
+                        "Le château de Himeji (姫路城, Himeji-jō) est un château japonais situé à Himeji dans la préfecture de Hyōgo.",
+                        "Désigné comme trésor national du Japon et inscrit au patrimoine mondial de l'UNESCO, c'est l'un des douze derniers châteaux japonais dont le tenshu (donjon) en bois est encore authentique (les autres châteaux ont été reconstruits après l'époque féodale, souvent dans les années 1960-1970)."
+                    ]
+                },
+                {
+                    "sentence": "Après une rénovation de cinq ans achevée en 2015, son toit et ses murs ont été remis en état, assurant la solidité et l'esthétique de ce monument classé au patrimoine mondial de l’UNESCO.",
+                    "source_passages": [
+                        "Désigné comme trésor national du Japon et inscrit au patrimoine mondial de l'UNESCO, c'est l'un des douze derniers châteaux japonais dont le tenshu (donjon) en bois est encore authentique (les autres châteaux ont été reconstruits après l'époque féodale, souvent dans les années 1960-1970)."
+                    ]
+                },
+                {
+                    "sentence": "Cette restauration permet de conserver en l'état une des plus anciennes architectures féodales du pays, reconnue aussi sous le nom de « château du Héron blanc » pour sa façade blanche.",
+                    "source_passages": [
+                        "Désigné comme trésor national du Japon et inscrit au patrimoine mondial de l'UNESCO, c'est l'un des douze derniers châteaux japonais dont le tenshu (donjon) en bois est encore authentique (les autres châteaux ont été reconstruits après l'époque féodale, souvent dans les années 1960-1970).",
+                        "Il est aussi connu sous les surnoms de « Hakuro-jō » ou « Shirasagi-jō » (白鷺城, château du Héron blanc ou de l'aigrette blanche) en raison de sa couleur blanche et par opposition aux deux autres célèbres châteaux d'Okayama (donjon reconstruit) et de Matsumoto (donjon authentique), tous deux de couleur noire."
+                    ]
+                },
+                {
+                    "sentence": "Les visites sur le site restent possibles, offrant aux visiteurs une expérience culturelle fidèle à l'histoire du lieu.",
+                    "source_passages": [
+                        "Le château de Himeji apparaît souvent à la télévision japonaise.",
+                        "La raison en est simple : lorsque le tournage d'une fiction historique doit avoir lieu (Abarenbō Shōgun (en) par exemple), les producteurs se tournent naturellement vers ce château qui est le seul du Japon à être aussi bien conservé."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        }
+    ]
+}
