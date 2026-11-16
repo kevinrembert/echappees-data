@@ -1,0 +1,125 @@
+{
+    "schema_version": 1,
+    "articles": [
+        {
+            "id": "decouverte-85e38c241826e4dd154d5ceb",
+            "subject_id": "news-b7edde03a56702f6ff0700f273fd3cae",
+            "collected_at": "2026-11-16T18:31:04+00:00",
+            "sources": [
+                {
+                    "label": "NASA · publié le 2026-11-16",
+                    "url": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jim-mirandy/"
+                }
+            ],
+            "source_sha256": "dea85a65b8f738dd701724bdb7ddf06056101215d08d542b4b65261c152e797b",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:RS-68_rocket_engine_test.jpg",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "91d1a40b074cb63cf7764d5512ed96145cd1f794",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Jim Mirandy, après 30 ans comme prestataire, est devenu fonctionnaire à la NASA Stennis, ce qui permet de conserver son expertise en assurance qualité et sécurité lors des tests de propulsion des moteurs-fusées.",
+                "beneficiaries": "la NASA, les équipes techniques de Stennis Space Center, la sécurité des opérations de test de propulsion spatiale, et indirectement le programme Artemis et la communauté aérospatiale américaine."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Jim Mirandy a entamé une carrière de 30 ans comme prestataire avant de devenir fonctionnaire à la NASA Stennis Space Center, spécialisé dans l'assurance qualité des tests de propulsion de fusées.",
+                    "source_passages": [
+                        "Hired under the agency’s workforce directive to restore core competencies by converting contractors to civil service, Mirandy is now a quality assurance specialist after 30 years of working as a contractor supporting NASA."
+                    ]
+                },
+                {
+                    "sentence": "Son recrutement officiel permet de maintenir ses compétences techniques clés au sein de la fonction publique, renforçant la sûreté et la qualité des essais essentiels au programme Artemis, projet de retour lunaire.",
+                    "source_passages": [
+                        "Mirandy is now a NASA civil servant at Stennis as part of the administrator’s directive to strengthen technical core competencies within the civil service workforce.",
+                        "“As a nation, we lead the world in space exploration, and we make that dream of reaching for the stars a reality.” His work at the nation’s largest rocket propulsion test site directly supports the agency’s mission to return American astronauts to the Moon through the Artemis program and ensure American leadership in space."
+                    ]
+                },
+                {
+                    "sentence": "Chargé de la prévention des risques, il conduit des enquêtes sur les incidents et anime des formations pour les équipes.",
+                    "source_passages": [
+                        "Mirandy describes his team as an integral part of the process that provides a second set of eyes with a focus on potential hazards.",
+                        "As a quality assurance specialist, he serves as the agency’s close call investigator at the center, helps lead the Voluntary Protection Program, and participates in the Striving to Achieve Real Safety committee, an employee safety committee that works to keep the site safe.",
+                        "Mirandy also has a long resume of critical institutional contributions, including creating high pressure and cryogenic training classes that he taught for 10 years, and helping establish safety protocols throughout various locations at the center."
+                    ]
+                },
+                {
+                    "sentence": "Sa connaissance fine des systèmes assure une vigilance accrue autour des tests, garantissant la continuité et la fiabilité des activités.",
+                    "source_passages": [
+                        "Mirandy found his way to NASA Stennis and brought an understanding of systems and operations with him.",
+                        "By retaining Mirandy’s facility-specific expertise as a civil servant, NASA ensures that the critical propulsion testing at NASA Stennis continues to be executed with safety and quality in mind.",
+                        "Mirandy describes his team as an integral part of the process that provides a second set of eyes with a focus on potential hazards."
+                    ]
+                },
+                {
+                    "sentence": "Ce choix organisationnel répond à un objectif précis : consolider les compétences internes en matière de sécurité dans ce centre majeur de la NASA.",
+                    "source_passages": [
+                        "Mirandy is now a NASA civil servant at Stennis as part of the administrator’s directive to strengthen technical core competencies within the civil service workforce.",
+                        "By retaining Mirandy’s facility-specific expertise as a civil servant, NASA ensures that the critical propulsion testing at NASA Stennis continues to be executed with safety and quality in mind."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-bec13a39c4cc1408655b52e4",
+            "subject_id": "news-b9c0b54c4d359bbe859a93dc4c2b5c3d",
+            "collected_at": "2026-11-16T18:31:17+00:00",
+            "sources": [
+                {
+                    "label": "CNRS · presse · publié le 2026-11-16",
+                    "url": "https://www.cnrs.fr/fr/presse/securite-des-vaccins-administres-par-voie-nasale-linstitut-pasteur-de-lille-coordonne-la"
+                }
+            ],
+            "source_sha256": "55a2bdada89f83a403114223e791eb94d67762388256d734a65475299c8e5cc3",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Fluenz_Tetra_nasal_influenza_vaccine_(live_attenuated,_nasal)_with_box_2023.jpg",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "original_sha1": "3da73eb63e825fc80413c1cb2497521a712f8229",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La mise en place d'une plateforme intégrée d’évaluation harmonisée pour la sécurité des vaccins administrés par voie nasale.",
+                "beneficiaries": "Les patients bénéficiant de vaccins nasaux contre les infections respiratoires, ainsi que les chercheurs et autorités sanitaires impliqués dans leur validation."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "L’Institut Pasteur de Lille coordonne la première plateforme intégrée destinée à évaluer la sécurité des vaccins administrés par voie nasale.",
+                    "source_passages": [
+                        "\"\"@Pixabay -A +A Contact(s) Gwenaëlle Martin Partager ce contenu Share on BlueskyPartager sur TwitterShare on LinkedinPartager sur FacebookSend by mailCopier le lien de la page Imprimer Imprimer la page Télécharger le communiqué de presse (3.76 Mo) Santé Sécurité des vaccins administrés par voie nasale : l'Institut Pasteur de Lille coordonne la première plateforme intégrée d'évaluation Paris, 16 novembre 2026 Santé -A +A Partager ce contenu Share on BlueskyPartager sur TwitterShare on LinkedinPartager sur FacebookSend by mailCopier le lien de la page La vaccination par voie nasale s'impose comme une stratégie d’avenir majeure visant non seulement à protéger les individus vaccinés contre la maladie mais aussi à bloquer l’infection et la transmission des virus et bactéries respiratoires au niveau du nez, leur porte d'entrée."
+                    ]
+                },
+                {
+                    "sentence": "Ces vaccins ciblent la porte d’entrée des virus et bactéries respiratoires, offrant une double protection préventive : contre la maladie et sa transmission.",
+                    "source_passages": [
+                        "\"\"@Pixabay -A +A Contact(s) Gwenaëlle Martin Partager ce contenu Share on BlueskyPartager sur TwitterShare on LinkedinPartager sur FacebookSend by mailCopier le lien de la page Imprimer Imprimer la page Télécharger le communiqué de presse (3.76 Mo) Santé Sécurité des vaccins administrés par voie nasale : l'Institut Pasteur de Lille coordonne la première plateforme intégrée d'évaluation Paris, 16 novembre 2026 Santé -A +A Partager ce contenu Share on BlueskyPartager sur TwitterShare on LinkedinPartager sur FacebookSend by mailCopier le lien de la page La vaccination par voie nasale s'impose comme une stratégie d’avenir majeure visant non seulement à protéger les individus vaccinés contre la maladie mais aussi à bloquer l’infection et la transmission des virus et bactéries respiratoires au niveau du nez, leur porte d'entrée."
+                    ]
+                },
+                {
+                    "sentence": "Jusqu’à présent, l’absence d’un cadre harmonisé pour leur évaluation ralentissait leur mise sur le marché.",
+                    "source_passages": [
+                        "La mise sur le marché des vaccins nasaux reste freinée par l'absence de cadre harmonisé d'évaluation scientifique de la sécurité, liée au mode original d’administration de ces vaccins, pour une validation réglementaire par les autorités concernées."
+                    ]
+                },
+                {
+                    "sentence": "Cette plateforme unique facilite désormais une validation réglementaire scientifique et standardisée, essentielle à leur déploiement.",
+                    "source_passages": [
+                        "La mise sur le marché des vaccins nasaux reste freinée par l'absence de cadre harmonisé d'évaluation scientifique de la sécurité, liée au mode original d’administration de ces vaccins, pour une validation réglementaire par les autorités concernées."
+                    ]
+                },
+                {
+                    "sentence": "Elle bénéficie aux patients en ouvrant la voie à un accès sécurisé à cette forme de vaccination, et aux acteurs médicaux engagés dans leur développement et contrôle.",
+                    "source_passages": [
+                        "\"\"@Pixabay -A +A Contact(s) Gwenaëlle Martin Partager ce contenu Share on BlueskyPartager sur TwitterShare on LinkedinPartager sur FacebookSend by mailCopier le lien de la page Imprimer Imprimer la page Télécharger le communiqué de presse (3.76 Mo) Santé Sécurité des vaccins administrés par voie nasale : l'Institut Pasteur de Lille coordonne la première plateforme intégrée d'évaluation Paris, 16 novembre 2026 Santé -A +A Partager ce contenu Share on BlueskyPartager sur TwitterShare on LinkedinPartager sur FacebookSend by mailCopier le lien de la page La vaccination par voie nasale s'impose comme une stratégie d’avenir majeure visant non seulement à protéger les individus vaccinés contre la maladie mais aussi à bloquer l’infection et la transmission des virus et bactéries respiratoires au niveau du nez, leur porte d'entrée."
+                    ]
+                },
+                {
+                    "sentence": "L’exemple vient ainsi appuyer une stratégie vaccinale innovante adaptée aux infections respiratoires.",
+                    "source_passages": [
+                        "\"\"@Pixabay -A +A Contact(s) Gwenaëlle Martin Partager ce contenu Share on BlueskyPartager sur TwitterShare on LinkedinPartager sur FacebookSend by mailCopier le lien de la page Imprimer Imprimer la page Télécharger le communiqué de presse (3.76 Mo) Santé Sécurité des vaccins administrés par voie nasale : l'Institut Pasteur de Lille coordonne la première plateforme intégrée d'évaluation Paris, 16 novembre 2026 Santé -A +A Partager ce contenu Share on BlueskyPartager sur TwitterShare on LinkedinPartager sur FacebookSend by mailCopier le lien de la page La vaccination par voie nasale s'impose comme une stratégie d’avenir majeure visant non seulement à protéger les individus vaccinés contre la maladie mais aussi à bloquer l’infection et la transmission des virus et bactéries respiratoires au niveau du nez, leur porte d'entrée."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        }
+    ]
+}

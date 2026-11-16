@@ -1,0 +1,59 @@
+{
+    "schema_version": 1,
+    "id": "generated-4d92c3bbae722789be66",
+    "version": "1",
+    "articles": [
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-85e38c241826e4dd154d5ceb",
+            "title": "À la NASA Stennis, un expert en assurance qualité devient fonctionnaire pour renforcer la sécurité des tests de moteur",
+            "body": "Jim Mirandy a entamé une carrière de 30 ans comme prestataire avant de devenir fonctionnaire à la NASA Stennis Space Center, spécialisé dans l'assurance qualité des tests de propulsion de fusées. Son recrutement officiel permet de maintenir ses compétences techniques clés au sein de la fonction publique, renforçant la sûreté et la qualité des essais essentiels au programme Artemis, projet de retour lunaire. Chargé de la prévention des risques, il conduit des enquêtes sur les incidents et anime des formations pour les équipes. Sa connaissance fine des systèmes assure une vigilance accrue autour des tests, garantissant la continuité et la fiabilité des activités. Ce choix organisationnel répond à un objectif précis : consolider les compétences internes en matière de sécurité dans ce centre majeur de la NASA.",
+            "category": "Sciences",
+            "location": "Stennis Space Center, Mississippi, États-Unis",
+            "image_description": "Photo d'un moteur-fusée RS-68 en cours de test à haute pression au centre NASA Stennis, montrant les flux de vapeur d'eau superchauffée dans l'échappement.",
+            "image_caption": "Test de moteur-fusée RS-68 au centre NASA Stennis (illustration documentaire générale).",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/1aa6909664407831636c48ec4f71daae5f0d3fd941c2f10459f28efe29c854f6.jpg",
+            "image_credit": "NASA · https://rockettest.ssc.nasa.gov/ssc_ptd/projects_rs68.htm , http://www.nasa.gov/images/content/148709main_d4_testing_08.jpg · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:RS-68_rocket_engine_test.jpg",
+            "sources": [
+                {
+                    "label": "NASA · publié le 2026-11-16",
+                    "url": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jim-mirandy/"
+                }
+            ],
+            "subject_id": "news-b7edde03a56702f6ff0700f273fd3cae",
+            "published_at": "2026-11-16",
+            "country": "Monde",
+            "source_published_at": "2026-11-16"
+        },
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-bec13a39c4cc1408655b52e4",
+            "title": "L’Institut Pasteur de Lille lance une plateforme pour évaluer la sécurité des vaccins nasaux",
+            "body": "L’Institut Pasteur de Lille coordonne la première plateforme intégrée destinée à évaluer la sécurité des vaccins administrés par voie nasale. Ces vaccins ciblent la porte d’entrée des virus et bactéries respiratoires, offrant une double protection préventive : contre la maladie et sa transmission. Jusqu’à présent, l’absence d’un cadre harmonisé pour leur évaluation ralentissait leur mise sur le marché. Cette plateforme unique facilite désormais une validation réglementaire scientifique et standardisée, essentielle à leur déploiement. Elle bénéficie aux patients en ouvrant la voie à un accès sécurisé à cette forme de vaccination, et aux acteurs médicaux engagés dans leur développement et contrôle. L’exemple vient ainsi appuyer une stratégie vaccinale innovante adaptée aux infections respiratoires.",
+            "category": "Sciences",
+            "location": "Monde",
+            "image_description": "Fluenz Tetra, vaccin nasal contre la grippe en seringue préremplie avec boîte en 2023, destiné aux enfants et adolescents de 2 à 18 ans.",
+            "image_caption": "Illustration générale : vaccin nasal contre la grippe Fluenz Tetra en 2023, Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/fa4964a209c47e4245c197f6af16f7f90dc3b6ac140201e03973b1a3e3820cdd.jpg",
+            "image_credit": "Whispyhistory · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Fluenz_Tetra_nasal_influenza_vaccine_(live_attenuated,_nasal)_with_box_2023.jpg",
+            "sources": [
+                {
+                    "label": "CNRS · presse · publié le 2026-11-16",
+                    "url": "https://www.cnrs.fr/fr/presse/securite-des-vaccins-administres-par-voie-nasale-linstitut-pasteur-de-lille-coordonne-la"
+                }
+            ],
+            "subject_id": "news-b9c0b54c4d359bbe859a93dc4c2b5c3d",
+            "published_at": "2026-11-16",
+            "country": "Monde",
+            "source_published_at": "2026-11-16"
+        }
+    ]
+}
