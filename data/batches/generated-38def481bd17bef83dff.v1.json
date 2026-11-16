@@ -1,0 +1,109 @@
+{
+    "schema_version": 1,
+    "id": "generated-38def481bd17bef83dff",
+    "version": "1",
+    "articles": [
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-c8dc65221665d4ab358fb68c",
+            "title": "Première mondiale : greffe de moelle osseuse issue d’un donneur décédé pour traiter une maladie non maligne",
+            "body": "Aux États-Unis, une équipe médicale a pour la première fois réalisé une greffe de moelle osseuse provenant d’un donneur d’organe décédé afin de traiter une patiente de 40 ans atteinte d’anémie aplasique sévère. Après plusieurs traitements inefficaces, la transplantation a permis de remplacer sa moelle défaillante par des cellules souches saines. Six mois plus tard, la greffe est pleinement fonctionnelle, sa moelle produit désormais toutes ses cellules sanguines sans complications, et elle n’a plus besoin de transfusions. Cette réussite ouvre la voie à une source supplémentaire de greffons pour des maladies non malignes, en élargissant les options pour les patients dont les traitements traditionnels échouent. La moelle osseuse, extraite et conservée dans une banque spécialisée, sera ainsi plus accessible pour d’autres cas similaires.",
+            "category": "Initiatives positives",
+            "location": "États-Unis (Midwest)",
+            "image_description": "Schéma illustrant les étapes de la greffe de moelle osseuse : prélèvement dans le fémur, préparation des cellules, chimiothérapie, puis transfusion chez le patient.",
+            "image_caption": "Illustration générale d’une greffe de moelle osseuse par Wikimedia Commons. La photo ne représente pas cet événement précis.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/f83290a2a08c1f481a87b2adb258e6e1c658e9b0adee3f2f27c8d463a48fbd74.jpg",
+            "image_credit": "Mugwump12 · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Bone_Marrow_Transplant.png",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-15",
+                    "url": "https://www.goodnewsnetwork.org/world-first-bone-marrow-transplant-successfully-treats-non-malignant-disease/"
+                }
+            ],
+            "subject_id": "news-f210edb3bc8a28d5a55f3a2e1f61d525",
+            "published_at": "2026-11-16",
+            "country": "Monde",
+            "source_published_at": "2026-11-15"
+        },
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-34b924f60b492d9db81d0832",
+            "title": "L’invention du rasoir jetable en 1904 : une innovation qui a transformé le rasage quotidien",
+            "body": "Il y a 122 ans, King Gillette a breveté le rasoir de sûreté jetable, une avancée majeure par rapport aux rasoirs droits en acier forgé qui exigeaient un affûtage quotidien. La conception de Gillette utilisait des lames en acier au carbone estampées, intégrant des dispositifs de sécurité pour limiter les coupures. Malgré un prix initial élevé équivalent à la moitié du salaire hebdomadaire moyen, le rasoir s’est vendu par millions dès les premières années, grâce à une production mécanisée et une publicité efficace. Cette innovation a démocratisé une méthode de rasage plus sûre et rapide, remplaçant peu à peu les pratiques plus artisanales et pénibles. Aujourd’hui, la marque Gillette, ancrée dans cette histoire, s’engage à réduire l’usage de plastique vierge et à maintenir un bilan zéro déchet dans ses usines.",
+            "category": "Initiatives positives",
+            "location": "Monde",
+            "image_description": "Un rasoir jetable basique photographié en gros plan, présentant une lame fixée sur un manche simple.",
+            "image_caption": "Illustration documentaire générale. Photographie illustrative générale d’un rasoir jetable. Source : Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/f9d8074a3881afe2583f5930cad300296d20610661d0a8ea0e6a31a748476337.jpg",
+            "image_credit": "Kyral · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Disposable_Razor.JPG",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-15",
+                    "url": "https://www.goodnewsnetwork.org/events061115/"
+                }
+            ],
+            "subject_id": "news-c9bb3ebdf9fcc3462bc99e2c46bf2e25",
+            "published_at": "2026-11-16",
+            "country": "Monde",
+            "source_published_at": "2026-11-15"
+        },
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "daily",
+            "id": "decouverte-53e916290e0e58ddbe7e2117",
+            "title": "Rani-ki-Vav : un puits à degrés restauré reflétant l’art et l’ingénierie anciens en Inde",
+            "body": "Situé à Patan, en Inde, le Rani-ki-Vav est un puits à degrés construit au XIe siècle comme mémorial. Ce monument illustre la maîtrise technique et artistique de l’époque, avec ses sept niveaux d’escaliers et plus de 1 500 sculptures détaillées mêlant figures religieuses, mythologiques et séculaires. Conçu comme un temple inversé, il souligne le caractère sacré de l’eau. La restauration de ce site permet aujourd’hui de préserver cette architecture complexe et unique, offrant un accès à un pan du patrimoine marquant la tradition des puits à degrés sur le sous-continent indien, tout en mettant en lumière le style Maru-Gurjara et les savoir-faire artisanaux anciens.",
+            "category": "Histoire et patrimoine",
+            "location": "Patan, Inde",
+            "image_description": "Détail des sculptures en relief dans le puits à degrés Rani-ki-Vav, Patan, Inde.",
+            "image_caption": "Reliefs sculptés dans le puits à degrés Rani-ki-Vav à Patan, une œuvre architecturale du XIe siècle — Photo Wikimedia Commons, illustration documentaire générale.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/b23047055507d0e479a7c482b5c1f2568f926ec8ec3f03f0c5c3e6d001e82e69.jpg",
+            "image_credit": "Bernard Gagnon · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Rani_ki_vav_15.jpg",
+            "sources": [
+                {
+                    "label": "UNESCO · Rani-ki-Vav",
+                    "url": "https://whc.unesco.org/en/list/922/"
+                }
+            ],
+            "subject_id": "source-34607068fa0a8f156db2aab548e2257c",
+            "published_at": "2026-11-16",
+            "country": "Inde"
+        },
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "daily",
+            "id": "decouverte-b087961d4b88dccaa5610e98",
+            "title": "Comment les coraux, animaux sessiles, construisent les plus grandes structures vivantes marines",
+            "body": "Les coraux sont des animaux sessiles qui vivent fixés au fond des océans. Chacune de leurs colonies est composée de milliers de petits organismes appelés polypes, qui secrètent un squelette calcaire. Ce processus répétitif de croissance, mort et régénération des polypes permet de construire, au fil du temps, de vastes structures appelées récifs coralliens. Ces récifs sont aussi le fruit d'une association symbiotique avec des algues microscopiques nommées zooxanthelles, qui vivent dans les tissus des coraux. Ces algues utilisent la photosynthèse pour produire des substances organiques nécessaires aux coraux, qui à leur tour fournissent un habitat et des nutriments aux algues. Cette collaboration durable, vieille de 25 millions d'années, permet aux coraux d’accroître leur croissance et de constituer les plus importantes formations biologiques sur Terre, essentielles à la diversité marine.",
+            "category": "Nature et animaux",
+            "location": "Océans du monde",
+            "image_description": "Photographie d’un récif corallien vivant à proximité d’Aka Island, montrant la diversité des structures calcaires et la vie marine associée.",
+            "image_caption": "Illustration documentaire générale d’un récif corallien près d’Aka Island (photo Wikimedia Commons)",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/0dfc8842aef0bfdc9ab2ef0b16ae430ddc6dfdf1db985a143dec9ca8d87aa9e5.jpg",
+            "image_credit": "keiyac · https://www.flickr.com/photos/18839421@N04/3742991271/ · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 2.0 · https://creativecommons.org/licenses/by-sa/2.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Coral_reef_life_near_Akajima_01.jpg",
+            "sources": [
+                {
+                    "label": "NOAA · Are coral animals or plants?",
+                    "url": "https://oceanservice.noaa.gov/facts/coral.html"
+                }
+            ],
+            "subject_id": "source-d1b23261e7cabf25bf03bba1189ac531",
+            "published_at": "2026-11-16",
+            "country": "Monde"
+        }
+    ]
+}

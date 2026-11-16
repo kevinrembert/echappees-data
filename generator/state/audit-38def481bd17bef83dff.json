@@ -1,0 +1,238 @@
+{
+    "schema_version": 1,
+    "articles": [
+        {
+            "id": "decouverte-c8dc65221665d4ab358fb68c",
+            "subject_id": "news-f210edb3bc8a28d5a55f3a2e1f61d525",
+            "collected_at": "2026-11-16T06:27:22+00:00",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-15",
+                    "url": "https://www.goodnewsnetwork.org/world-first-bone-marrow-transplant-successfully-treats-non-malignant-disease/"
+                }
+            ],
+            "source_sha256": "295ab224c5ce98def76ad1c3046920bd57c3190d5a4879e58ec2feea8716ff1b",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Bone_Marrow_Transplant.png",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "original_sha1": "0c4d715629ba8cd25238cbf7fc8b5a337d9c8f5f",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Une femme atteinte d’anémie aplasique sévère a reçu une greffe de moelle osseuse prélevée sur un donneur décédé, ce qui a restauré sa production sanguine et immunitaire six mois après l’intervention.",
+                "beneficiaries": "La patiente souffrant d’une maladie non maligne grave et potentiellement d’autres patients avec des troubles similaires bénéficient désormais d’une nouvelle option de traitement."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Aux États-Unis, une équipe médicale a pour la première fois réalisé une greffe de moelle osseuse provenant d’un donneur d’organe décédé afin de traiter une patiente de 40 ans atteinte d’anémie aplasique sévère.",
+                    "source_passages": [
+                        "Doctors at Franciscan Health used bone marrow recovered from a deceased organ donor to treat a 40-year-old woman with aplastic anemia The patient, with a decade-long history of the disease, received the bone marrow stem cell transplant on April 18, after her disease progressed from stable to severe, despite multiple lines of therapy.",
+                        "“To our knowledge, this is the first reported transplant of deceased organ donor bone marrow for severe aplastic anemia,” said Felix Mensah, MD, the treating physician at Franciscan Health."
+                    ]
+                },
+                {
+                    "sentence": "Après plusieurs traitements inefficaces, la transplantation a permis de remplacer sa moelle défaillante par des cellules souches saines.",
+                    "source_passages": [
+                        "Because her disease no longer responded to medication, her care team pursued a transplant to replace her failing marrow with healthy blood-forming stem cells."
+                    ]
+                },
+                {
+                    "sentence": "Six mois plus tard, la greffe est pleinement fonctionnelle, sa moelle produit désormais toutes ses cellules sanguines sans complications, et elle n’a plus besoin de transfusions.",
+                    "source_passages": [
+                        "Six months after the transplant, the donor marrow has taken hold and restored her blood counts.",
+                        "She no longer needs blood or platelet transfusions and has achieved full donor chimerism, meaning her blood and immune system are now produced entirely by the donor’s stem cells, without complications."
+                    ]
+                },
+                {
+                    "sentence": "Cette réussite ouvre la voie à une source supplémentaire de greffons pour des maladies non malignes, en élargissant les options pour les patients dont les traitements traditionnels échouent.",
+                    "source_passages": [
+                        "“This case shows why continued innovation in transplant medicine matters, and why we need more donor options, so that every patient with a life-threatening bone marrow failure disorder has access to potentially curative therapy.” “Reaching the first non-malignant transplant is a defining moment,” said Kevin Caldwell, Co-Founder and CEO of Ossium, which maintains a marrow bank.",
+                        "“By recovering and banking bone marrow from organ donors, we can consistently optimize treatment outcomes.” MORE CURE NEWS: • Blind People Offered Hope of Seeing Again After Stem Cell Breakthrough Remakes Retinal Blood Vessels • Anti-Aging Drug Regrows Knee Cartilage in Major Breakthrough That Could End Knee Replacements Ossium plans to support the transplantation of additional patients with both malignant and non-malignant diseases over the course of this year through its HOPE Program, continuing to expand access to deceased donor bone marrow as a graft source for conditions where it offers clear clinical advantages."
+                    ]
+                },
+                {
+                    "sentence": "La moelle osseuse, extraite et conservée dans une banque spécialisée, sera ainsi plus accessible pour d’autres cas similaires.",
+                    "source_passages": [
+                        "“This case shows why continued innovation in transplant medicine matters, and why we need more donor options, so that every patient with a life-threatening bone marrow failure disorder has access to potentially curative therapy.” “Reaching the first non-malignant transplant is a defining moment,” said Kevin Caldwell, Co-Founder and CEO of Ossium, which maintains a marrow bank."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-34b924f60b492d9db81d0832",
+            "subject_id": "news-c9bb3ebdf9fcc3462bc99e2c46bf2e25",
+            "collected_at": "2026-11-16T06:28:26+00:00",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-15",
+                    "url": "https://www.goodnewsnetwork.org/events061115/"
+                }
+            ],
+            "source_sha256": "718240daed5d984fe4305b145c1b3a74786d771044042d17a1bfe2d54aaa2c71",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Disposable_Razor.JPG",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "original_sha1": "1744c5ee09336134835fbbfd064f23e23883f6ea",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "L'invention du rasoir de sûreté jetable par King Gillette a remplacé le rasoir droit classique, nécessitant un affûtage quotidien, par un outil plus sûr et accessible, favorisant une meilleure hygiène personnelle.",
+                "beneficiaries": "Les utilisateurs quotidiens de rasoirs, notamment les hommes travaillant, qui ont bénéficié d'une méthode de rasage plus pratique et moins risquée."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Il y a 122 ans, King Gillette a breveté le rasoir de sûreté jetable, une avancée majeure par rapport aux rasoirs droits en acier forgé qui exigeaient un affûtage quotidien.",
+                    "source_passages": [
+                        "Home This Day In History Good News in History, November 15 122 years ago today, King Gillette patented the disposable safety razor: an enormous improvement over the day’s shaving technology of straight, forged blades that needed to be honed every day with a leather strop."
+                    ]
+                },
+                {
+                    "sentence": "La conception de Gillette utilisait des lames en acier au carbone estampées, intégrant des dispositifs de sécurité pour limiter les coupures.",
+                    "source_passages": [
+                        "By contrast, Gillette utilized stamped razers from carbon steel sheets, while adapting existing safety features that prevented injury beyond the odd nick."
+                    ]
+                },
+                {
+                    "sentence": "Malgré un prix initial élevé équivalent à la moitié du salaire hebdomadaire moyen, le rasoir s’est vendu par millions dès les premières années, grâce à une production mécanisée et une publicité efficace.",
+                    "source_passages": [
+                        "The result, despite being disposable, was both expensive and hugely popular.",
+                        "Gillette’s razor retailed for a substantial $5 (equivalent to $175.00 in 2024)—half the average working man’s weekly pay—yet sold by the millions.",
+                        "In his first year, he sold 51 razors and 168 blades; the second year, 90,884 razors and 123,648 blades, thanks in part to Gillette’s low prices, automated manufacturing techniques, and good advertising."
+                    ]
+                },
+                {
+                    "sentence": "Cette innovation a démocratisé une méthode de rasage plus sûre et rapide, remplaçant peu à peu les pratiques plus artisanales et pénibles.",
+                    "source_passages": [
+                        "Home This Day In History Good News in History, November 15 122 years ago today, King Gillette patented the disposable safety razor: an enormous improvement over the day’s shaving technology of straight, forged blades that needed to be honed every day with a leather strop.",
+                        "The result, despite being disposable, was both expensive and hugely popular.",
+                        "In his first year, he sold 51 razors and 168 blades; the second year, 90,884 razors and 123,648 blades, thanks in part to Gillette’s low prices, automated manufacturing techniques, and good advertising."
+                    ]
+                },
+                {
+                    "sentence": "Aujourd’hui, la marque Gillette, ancrée dans cette histoire, s’engage à réduire l’usage de plastique vierge et à maintenir un bilan zéro déchet dans ses usines.",
+                    "source_passages": [
+                        "In 2020, Gillette announced a commitment to reduce the use of virgin (unrecycled) plastics by 50% by 2030 and maintain zero waste to landfill status across all plants.",
+                        "A gargant of American hygiene and grooming, Gillette is now worth more than $50 billion."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-53e916290e0e58ddbe7e2117",
+            "subject_id": "source-34607068fa0a8f156db2aab548e2257c",
+            "collected_at": "2026-11-16T06:28:35+00:00",
+            "sources": [
+                {
+                    "label": "UNESCO · Rani-ki-Vav",
+                    "url": "https://whc.unesco.org/en/list/922/"
+                }
+            ],
+            "source_sha256": "6cc9b61197029c1730a96bc78ba0211de4999e042a5fed451ae08fbb69a34dec",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Rani_ki_vav_15.jpg",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "original_sha1": "5ca355280551dc81f0666a6b828e7353677bae0b",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La restauration et la valorisation du puits à degrés Rani-ki-Vav ont permis de préserver un témoignage architectural et artisanal exceptionnel du XIe siècle en Inde.",
+                "beneficiaries": "Les visiteurs, chercheurs et habitants de Patan bénéficient de cette conservation qui maintient un site historique et culturel accessible."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Situé à Patan, en Inde, le Rani-ki-Vav est un puits à degrés construit au XIe siècle comme mémorial.",
+                    "source_passages": [
+                        "Description is available under license CC-BY-SA IGO 3.0 Rani-ki-Vav (le puits à degrés de la Reine) à Patan, Gujerat Situé sur les rives de la Sarasvati, à Patan, le Rani-ki-Vav a été construit au départ comme un mémorial pour un roi du XIe siècle."
+                    ]
+                },
+                {
+                    "sentence": "Ce monument illustre la maîtrise technique et artistique de l’époque, avec ses sept niveaux d’escaliers et plus de 1 500 sculptures détaillées mêlant figures religieuses, mythologiques et séculaires.",
+                    "source_passages": [
+                        "Rani-ki-Vav a été construit à l’apogée de la maîtrise des artisans aussi bien de la construction de puits à degrés que du style Maru-Gurjara, d’où sa technique complexe et sa grande beauté dans les détails comme dans les proportions.",
+                        "Conçu comme un temple inversé soulignant le caractère sacré de l’eau, il comporte sept niveaux d’escaliers et de panneaux sculptés d’une haute qualité artistique.",
+                        "Plus de 500 sculptures principales et un millier d’autres mineures composent une imagerie religieuse, mythologique et séculaire, avec de fréquentes références à des œuvres littéraires."
+                    ]
+                },
+                {
+                    "sentence": "Conçu comme un temple inversé, il souligne le caractère sacré de l’eau.",
+                    "source_passages": [
+                        "Conçu comme un temple inversé soulignant le caractère sacré de l’eau, il comporte sept niveaux d’escaliers et de panneaux sculptés d’une haute qualité artistique."
+                    ]
+                },
+                {
+                    "sentence": "La restauration de ce site permet aujourd’hui de préserver cette architecture complexe et unique, offrant un accès à un pan du patrimoine marquant la tradition des puits à degrés sur le sous-continent indien, tout en mettant en lumière le style Maru-Gurjara et les savoir-faire artisanaux anciens.",
+                    "source_passages": [
+                        "Rani-ki-Vav a été construit à l’apogée de la maîtrise des artisans aussi bien de la construction de puits à degrés que du style Maru-Gurjara, d’où sa technique complexe et sa grande beauté dans les détails comme dans les proportions.",
+                        "Conçu comme un temple inversé soulignant le caractère sacré de l’eau, il comporte sept niveaux d’escaliers et de panneaux sculptés d’une haute qualité artistique."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-b087961d4b88dccaa5610e98",
+            "subject_id": "source-d1b23261e7cabf25bf03bba1189ac531",
+            "collected_at": "2026-11-16T06:28:48+00:00",
+            "sources": [
+                {
+                    "label": "NOAA · Are coral animals or plants?",
+                    "url": "https://oceanservice.noaa.gov/facts/coral.html"
+                }
+            ],
+            "source_sha256": "3854a197f76ea0fee0886b67c6c97fed19e4feafde65781f99efe580bd1f3388",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Coral_reef_life_near_Akajima_01.jpg",
+            "image_license": "CC BY-SA 2.0 · https://creativecommons.org/licenses/by-sa/2.0/",
+            "original_sha1": "dbda0374f94b5c0fd69ca7d2ce22091cdb960c6e",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La formation progressive de vastes récifs coralliens grâce à la croissance continue des colonies de polypes et à leur symbiose avec les algues photosynthétiques.",
+                "beneficiaries": "Les écosystèmes marins dépendant des récifs coralliens pour leur biodiversité et leur stabilité."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Les coraux sont des animaux sessiles qui vivent fixés au fond des océans.",
+                    "source_passages": [
+                        "Corals are sessile animals that \"take root\" on the ocean floor."
+                    ]
+                },
+                {
+                    "sentence": "Chacune de leurs colonies est composée de milliers de petits organismes appelés polypes, qui secrètent un squelette calcaire.",
+                    "source_passages": [
+                        "Most structures that we call \"coral\" are, in fact, made up of hundreds to thousands of tiny coral creatures called polyps.",
+                        "Each soft-bodied polyp—most no thicker than a nickel—secretes a hard outer skeleton of limestone (calcium carbonate) that attaches either to rock or the dead skeletons of other polyps."
+                    ]
+                },
+                {
+                    "sentence": "Ce processus répétitif de croissance, mort et régénération des polypes permet de construire, au fil du temps, de vastes structures appelées récifs coralliens.",
+                    "source_passages": [
+                        "In the case of stony or hard corals, these polyp conglomerates grow, die, and endlessly repeat the cycle over time, slowly laying the limestone foundation for coral reefs and giving shape to the familiar corals that reside there.",
+                        "Because of this cycle of growth, death, and regeneration among individual polyps, many coral colonies can live for a very long time."
+                    ]
+                },
+                {
+                    "sentence": "Ces récifs sont aussi le fruit d'une association symbiotique avec des algues microscopiques nommées zooxanthelles, qui vivent dans les tissus des coraux.",
+                    "source_passages": [
+                        "Most corals contain algae called zooxanthellae (pronounced zo-UH-zan-thuh-lay), which are plant-like organisms.",
+                        "Corals actually comprise an ancient and unique partnership, called symbiosis, that benefits both animal and plant life in the ocean.",
+                        "More than merely a clever collaboration that has endured between some of the tiniest ocean animals and plants for some 25 million years, this mutual exchange is the reason why coral reefs are the largest structures of biological origin on Earth, and rival old-growth forests in the longevity of their ecological communities."
+                    ]
+                },
+                {
+                    "sentence": "Ces algues utilisent la photosynthèse pour produire des substances organiques nécessaires aux coraux, qui à leur tour fournissent un habitat et des nutriments aux algues.",
+                    "source_passages": [
+                        "Residing within the coral's tissues, the microscopic algae are well protected and make use of the coral's metabolic waste products for photosynthesis, the process by which plants make their own food.",
+                        "The corals benefit, in turn, as the algae produce oxygen, remove wastes, and supply the organic products of photosynthesis that corals need to grow, thrive, and build up the reef."
+                    ]
+                },
+                {
+                    "sentence": "Cette collaboration durable, vieille de 25 millions d'années, permet aux coraux d’accroître leur croissance et de constituer les plus importantes formations biologiques sur Terre, essentielles à la diversité marine.",
+                    "source_passages": [
+                        "More than merely a clever collaboration that has endured between some of the tiniest ocean animals and plants for some 25 million years, this mutual exchange is the reason why coral reefs are the largest structures of biological origin on Earth, and rival old-growth forests in the longevity of their ecological communities.",
+                        "Corals are animals, though, because they do not make their own food, as plants do."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        }
+    ]
+}
