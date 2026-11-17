@@ -1,0 +1,135 @@
+{
+    "schema_version": 1,
+    "id": "generated-6c05e51fb990b8286944",
+    "version": "1",
+    "articles": [
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-24eccb07455347bc59671464",
+            "title": "Tokyo mise sur des poubelles solaires compactantes et robots autonomes pour gérer les déchets en zone touristique",
+            "body": "Au Japon, la rareté traditionnelle des poubelles publiques a posé des difficultés aux touristes, tandis que les municipalités évitaient d'en installer pour limiter les débordements et coûts liés à la collecte. Tokyo innove désormais avec des poubelles solaires dotées d’un compacteur automatique qui réduit le volume des déchets toutes les 5 minutes, permettant de contenir jusqu’à cinq fois plus que des poubelles classiques. Ces poubelles sont connectées, indiquant en temps réel leur niveau de remplissage, ce qui optimise la fréquence des collectes. Par ailleurs, des poubelles robotisées équipées de capteurs roulent automatiquement vers des points de collecte autonomes quand elles sont pleines. Ces solutions techniques sont déjà accueillies positivement dans les espaces publics japonais très fréquentés, comme la gare de Shinjuku, tout en aidant à maintenir propres les quartiers malgré l’afflux touristique.",
+            "category": "Initiatives positives",
+            "location": "Tokyo, Japon",
+            "image_description": "Poubelle solaire compactante installée en milieu urbain, au coin d'une avenue",
+            "image_caption": "Poubelle à compactage solaire, photo libre de droits Wikimedia Commons, illustration documentaire générale.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/9e790a98d06b88ef98a67b862899ada3c7595dfd4118de37f295bc7f7befcbe6.jpg",
+            "image_credit": "Mack Male from Edmonton, AB, Canada · Solar Powered Compacting Trash Can · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 2.0 · https://creativecommons.org/licenses/by-sa/2.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Solar_Powered_Compacting_Trash_Can_(2913116453).jpg",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-16",
+                    "url": "https://www.goodnewsnetwork.org/tokyo-tackles-trash-troubles-with-new-generation-of-robotic-street-waste-bins/"
+                }
+            ],
+            "subject_id": "news-72e42c0753bac97e113e868c2ec3e083",
+            "published_at": "2026-11-17",
+            "country": "Monde",
+            "source_published_at": "2026-11-16"
+        },
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-67af37df269674f5aef23180",
+            "title": "Lahaina restaure ses arbres grâce au programme Treecovery après les incendies de 2023",
+            "body": "Lahaina, ville historique de Maui en Hawaii, a subi de lourdes pertes végétales lors des incendies de 2023, avec environ 25 000 arbres détruits dans la zone touchée. Pour répondre à ce déficit, le programme Treecovery a été lancé, fournissant des arbres fruitiers, ornementaux et indigènes aux familles ayant perdu leurs arbres. Ce projet s'inscrit dans une démarche de tourisme régénératif, qui vise à restaurer l'environnement naturel tout en renforçant la résilience communautaire. Par exemple, les arbres sont repérés et répertoriés via GPS pour identifier ceux qui ont survécu, permettant un suivi précis. Cette action contribue à réduire l'effet d'îlot de chaleur urbain, à rétablir la biodiversité et à transmettre le patrimoine naturel local aux générations futures.",
+            "category": "Initiatives positives",
+            "location": "Lahaina, Maui, Hawaii",
+            "image_description": "Un banyan tree (Ficus benghalensis ) situé dans le Banyan Tree Park à Lahaina, Hawaii.",
+            "image_caption": "Illustration documentaire générale. Photographie documentaire générale montrant un baniant à Lahaina, Hawaii. Crédit : Melikamp · Wikimedia Commons, licence CC BY-SA 3.0.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/261a9479858daffe110f46b141608df2bdf4c17c0fead631a9cc3ac414d36240.jpg",
+            "image_credit": "Melikamp · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Banyan-tree-Lahaina-Hawaii.jpg",
+            "sources": [
+                {
+                    "label": "Reasons to be Cheerful · publié le 2026-11-13",
+                    "url": "https://reasonstobecheerful.world/maui-living-laboratory-regenerative-tourism/"
+                }
+            ],
+            "subject_id": "news-1b89a608c41bf1cc9da5366584415ef8",
+            "published_at": "2026-11-17",
+            "country": "Monde",
+            "source_published_at": "2026-11-13"
+        },
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-768259e7a602bb12b99bb3db",
+            "title": "Mossoul redonne vie à son patrimoine historique grâce à une restauration minutieuse",
+            "body": "L’Organisation des Nations unies pour l’éducation, la science et la culture (UNESCO) a achevé un important projet de restauration à Mossoul, en Irak. Plus de 120 bâtiments du patrimoine ancien de la ville ont été reconstruits conformément à leurs plans et styles d’origine, après des dégradations causées par des conflits. Parmi ces réalisations, le minaret penché du 12ᵉ siècle de la mosquée al-Nuri a été rebâti en conservant sa caractéristique inclinaison. Ce chantier a aussi permis d’impliquer directement des artisans locaux, experts dans les techniques traditionnelles, qui participent à la revitalisation de leur savoir-faire. Plusieurs sites restaurés sont désormais habités par des familles de Mossoul, contribuant ainsi à la réhabilitation sociale et culturelle de la cité.",
+            "category": "Initiatives positives",
+            "location": "Mossoul, Irak",
+            "image_description": "Photographie montrant des sites du patrimoine inscrits au patrimoine mondial de l’UNESCO en Inde, illustrant la préservation du patrimoine architectural à travers le monde.",
+            "image_caption": "Image illustrative générale de sites inscrits au patrimoine mondial de l’UNESCO en Inde, utilisée comme illustration documentaire.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/f13e6c0bccb31b7256b9f699698fa0040af019f7fb394587ce79e43aad373b68.jpg",
+            "image_credit": "Hunt Ethan · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:UNESCO_World_Heritage_Sites_of_India.jpg",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-16",
+                    "url": "https://www.goodnewsnetwork.org/events061116/"
+                }
+            ],
+            "subject_id": "news-d5dc61f3687c19a5931ceb40414b3e96",
+            "published_at": "2026-11-17",
+            "country": "Monde",
+            "source_published_at": "2026-11-16"
+        },
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "daily",
+            "id": "decouverte-6a739aab3a52b1f11e49dece",
+            "title": "La Chaîne des Puys dévoile les étapes du rifting continental en Auvergne",
+            "body": "Située au centre de la France, la Chaîne des Puys et la faille de Limagne forment un ensemble géologique remarquable. Ce site naturel retrace les étapes du rifting continental, une phase majeure de la tectonique des plaques. Il montre comment la croûte terrestre se fissure puis s'effondre, permettant au magma profond de remonter et provoquer le soulèvement de la surface. Cette illustration concrète du phénomène, survenu il y a environ 35 millions d'années après la formation des Alpes, est un outil précieux pour les scientifiques et le grand public souhaitant comprendre les processus géologiques en action. Le relief inversé de la Montagne de la Serre ajoute à la diversité de ce paysage tectonique.",
+            "category": "Voyages et paysages",
+            "location": "Auvergne, France",
+            "image_description": "Dessin à la mine de plomb et lavis à l'encre de Chine représentant Clermont et les reliefs environnants",
+            "image_caption": "Illustration documentaire générale de Clermont et de son environnement naturel, Wikimedia Commons",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/51f96911f984fc72f55c7b784bb1bea43be6d7d9ac33f173a38c3ab5152e04a4.jpg",
+            "image_credit": "Théodore Caruelle d'Aligny · This file comes from Gallica Digital Library and is available under the digital ID btv1b77427652 · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:A_Clermont_(Claude-F%C3%A9lix-Th%C3%A9odore_d%27Aligny).jpg",
+            "sources": [
+                {
+                    "label": "UNESCO · Chaîne des Puys",
+                    "url": "https://whc.unesco.org/en/list/1434/"
+                }
+            ],
+            "subject_id": "source-afbde0d89b39f471fa32b2fcfe85e706",
+            "published_at": "2026-11-17",
+            "country": "France"
+        },
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "daily",
+            "id": "decouverte-dc419c7f06b62aff19f41fbc",
+            "title": "Comment les polypes construisent les récifs coralliens en couches de carbonate de calcium",
+            "body": "Les récifs coralliens se développent par l'accumulation successive de squelettes en carbonate de calcium formés par des organismes appelés polypes coralliens. Chaque polype sécrète un petit squelette calcaire sur lequel il vit, et les colonies se multiplient en construisant sur les restes calcaires de générations antérieures. Ces structures peuvent prendre beaucoup d'ampleur au fil des années, croissant lentement, généralement de 0,5 à 2 cm par an, mais parfois plus rapidement sous de bonnes conditions comme la lumière abondante et une température stable. Cette construction patiente est à la base de vastes récifs qui abritent une biodiversité marine importante. Ce mécanisme explique la formation et le maintien des récifs marins dans le temps.",
+            "category": "Nature et animaux",
+            "location": "Monde",
+            "image_description": "Photo du récif corallien de la Grande Barrière de Corail, montrant l'étendue et la couleur des coraux sous la surface de l'eau.",
+            "image_caption": "Illustration documentaire générale de la Grande Barrière de Corail, prise par Steve Evans sans filtre ajoutée, sur Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/63998f609c9312393610387b31d2efc55c664afe5b076756ab0c6aad024c60eb.jpg",
+            "image_credit": "Steve Evans from Citizen of the World · Great Barrier Reef 105 · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY 2.0 · https://creativecommons.org/licenses/by/2.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Great_Barrier_Reef_105_(5383117759).jpg",
+            "sources": [
+                {
+                    "label": "NOAA · What is a coral reef made of?",
+                    "url": "https://oceanservice.noaa.gov/facts/coralmadeof.html"
+                }
+            ],
+            "subject_id": "source-4526bc44ecaf5d88417340e25acb7810",
+            "published_at": "2026-11-17",
+            "country": "Monde"
+        }
+    ]
+}

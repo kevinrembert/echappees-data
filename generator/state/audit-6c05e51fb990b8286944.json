@@ -1,0 +1,301 @@
+{
+    "schema_version": 1,
+    "articles": [
+        {
+            "id": "decouverte-24eccb07455347bc59671464",
+            "subject_id": "news-72e42c0753bac97e113e868c2ec3e083",
+            "collected_at": "2026-11-17T07:53:56+00:00",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-16",
+                    "url": "https://www.goodnewsnetwork.org/tokyo-tackles-trash-troubles-with-new-generation-of-robotic-street-waste-bins/"
+                }
+            ],
+            "source_sha256": "f576cad75719b6cf669658ec60ea290690e84c69ca03f3552d90b7358ace97d1",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Solar_Powered_Compacting_Trash_Can_(2913116453).jpg",
+            "image_license": "CC BY-SA 2.0 · https://creativecommons.org/licenses/by-sa/2.0/",
+            "original_sha1": "3305f5637d92cfea105db2ed6200804fe9095442",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "L'installation de poubelles connectées et autonomes réduit la fréquence des collectes et évite les débordements dans les zones touristiques de Tokyo.",
+                "beneficiaries": "habitants, touristes, et équipes de nettoyage des quartiers très fréquentés de Tokyo et Kyoto"
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Au Japon, la rareté traditionnelle des poubelles publiques a posé des difficultés aux touristes, tandis que les municipalités évitaient d'en installer pour limiter les débordements et coûts liés à la collecte.",
+                    "source_passages": [
+                        "If you’ve ever visited Japan, you too may have been left confused and eventually frustrated by what appears to be a total absence of public waste bins.",
+                        "This is by design.",
+                        "Officials concerned about security and overflowing bins have left the public with few places to dispose of their trash.",
+                        "There is also a philosophy that if waste is difficult to dispose of, people will be less prone to creating it.",
+                        "Japanese tourism authorities are beginning to understand that, while this approach may have seen citizens keep their streets clean for decades, it’s a major inconvenience for visitors.",
+                        "Yet the trend towards removing waste bins has continued, with the Tokyo metro removing all public waste bins as recently as 2022.",
+                        "Another reason why cities like Kyoto and Tokyo decided to trash their trash cans was that they fill up too quickly in busy areas, and collection of each bin was an expensive outlay."
+                    ]
+                },
+                {
+                    "sentence": "Tokyo innove désormais avec des poubelles solaires dotées d’un compacteur automatique qui réduit le volume des déchets toutes les 5 minutes, permettant de contenir jusqu’à cinq fois plus que des poubelles classiques.",
+                    "source_passages": [
+                        "In parallel, however, the city has been enlisting the help of various firms to design smarter waste bins that hold more and won’t overflow.",
+                        "One example is Forcetec, which sells and installs solar-powered waste bins developed in the United States called SmaGO.",
+                        "It compacts waste every 5 minutes and can hold 5 times as much trash as a non-compacting bin."
+                    ]
+                },
+                {
+                    "sentence": "Ces poubelles sont connectées, indiquant en temps réel leur niveau de remplissage, ce qui optimise la fréquence des collectes.",
+                    "source_passages": [
+                        "“There are many places that recognize the need for trash bins but hesitate to install them because they’re worried the bins will overflow or because of the labor required to collect the rubbish,” says Rina Ogata, a spokesperson for Forcetec.",
+                        "“You can install SmaGO and reduce the frequency of rubbish collection.",
+                        "The communications function also allows operators to check online how full each bin is, so they can make collections more efficiently before the bins reach capacity.” Companies like Forcetec have donated or subsidized these products as part of “a corporate hometown tax program” and “corporate sponsorships” according to Japan Times."
+                    ]
+                },
+                {
+                    "sentence": "Par ailleurs, des poubelles robotisées équipées de capteurs roulent automatiquement vers des points de collecte autonomes quand elles sont pleines.",
+                    "source_passages": [
+                        "Enter California-based firm Cartken, whose 40-liter robotic trash bins use sensors to measure when they’re almost full, at which point they drive themselves out of the public reach for emptying.",
+                        "MORE STORIES LIKE THIS: 7-11 Owner Pays Forward Kindness from Decade Ago with Viral Signs Offering Shelter from Scorching Heat 5 US Cities Hire Robot Called ‘Dax’ to Help Survey and Repair Sidewalks–Kids Love Him East Japan Railroad uses the robot janitors at Shinjuku Station, one of the busiest train stations on Earth, and early surveys on consumer use and acceptance have been “more positive than anticipated,” a spokesperson told Japan Times."
+                    ]
+                },
+                {
+                    "sentence": "Ces solutions techniques sont déjà accueillies positivement dans les espaces publics japonais très fréquentés, comme la gare de Shinjuku, tout en aidant à maintenir propres les quartiers malgré l’afflux touristique.",
+                    "source_passages": [
+                        "Solar-powered compactors and robots that haul trash away from key tourist areas are two such solutions already receiving a positive response.",
+                        "MORE STORIES LIKE THIS: 7-11 Owner Pays Forward Kindness from Decade Ago with Viral Signs Offering Shelter from Scorching Heat 5 US Cities Hire Robot Called ‘Dax’ to Help Survey and Repair Sidewalks–Kids Love Him East Japan Railroad uses the robot janitors at Shinjuku Station, one of the busiest train stations on Earth, and early surveys on consumer use and acceptance have been “more positive than anticipated,” a spokesperson told Japan Times."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-67af37df269674f5aef23180",
+            "subject_id": "news-1b89a608c41bf1cc9da5366584415ef8",
+            "collected_at": "2026-11-17T07:54:54+00:00",
+            "sources": [
+                {
+                    "label": "Reasons to be Cheerful · publié le 2026-11-13",
+                    "url": "https://reasonstobecheerful.world/maui-living-laboratory-regenerative-tourism/"
+                }
+            ],
+            "source_sha256": "2baa5c22b7f1253f52b266013a40e729ace5788f31443c1d7197c321e45c65fe",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Banyan-tree-Lahaina-Hawaii.jpg",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "original_sha1": "62c3eba307c383097c6805cf6ebe5087d52a3f14",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La mise en place du programme Treecovery a permis de distribuer des arbres fruitiers, ornementaux et indigènes aux familles ayant perdu leurs arbres lors des incendies de Lahaina en 2023.",
+                "beneficiaries": "Les résidents de Lahaina et de l'ensemble de la zone affectée par les incendies, qui bénéficient à la fois de la restauration du couvert végétal et d'un regain de biodiversité locale."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Lahaina, ville historique de Maui en Hawaii, a subi de lourdes pertes végétales lors des incendies de 2023, avec environ 25 000 arbres détruits dans la zone touchée.",
+                    "source_passages": [
+                        "The town of Lahaina, which holds a deep place in Hawaiian history and once served as the capital of the Hawaiian Kingdom, suffered the greatest devastation: Most of its buildings were destroyed, and thousands of residents were displaced.",
+                        "According to Sparkman, the Army Corps removed about 21,000 trees from Lahaina alone after the disaster, while Treecovery estimates that roughly 25,000 trees were lost within the entire burn scar."
+                    ]
+                },
+                {
+                    "sentence": "Pour répondre à ce déficit, le programme Treecovery a été lancé, fournissant des arbres fruitiers, ornementaux et indigènes aux familles ayant perdu leurs arbres.",
+                    "source_passages": [
+                        "That’s when he began working on Treecovery, a program providing fruit, ornamental and native trees to families who lost trees in the fires."
+                    ]
+                },
+                {
+                    "sentence": "Ce projet s'inscrit dans une démarche de tourisme régénératif, qui vise à restaurer l'environnement naturel tout en renforçant la résilience communautaire.",
+                    "source_passages": [
+                        "The island has become a laboratory for what’s known as regenerative tourism, where the goal is to leave the destination better than before.",
+                        "Here, Indigenous knowledge, regenerative agriculture, hospitality and local entrepreneurship are working together to restore ecosystems while strengthening community resilience."
+                    ]
+                },
+                {
+                    "sentence": "Par exemple, les arbres sont repérés et répertoriés via GPS pour identifier ceux qui ont survécu, permettant un suivi précis.",
+                    "source_passages": [
+                        "In the immediate aftermath, the work began with identifying what had survived.",
+                        "“It was really about going in and GPSing trees that we knew were stressed but hadn’t burned,” Sparkman says."
+                    ]
+                },
+                {
+                    "sentence": "Cette action contribue à réduire l'effet d'îlot de chaleur urbain, à rétablir la biodiversité et à transmettre le patrimoine naturel local aux générations futures.",
+                    "source_passages": [
+                        "“In Maui County,” Sparkman says, “you can either have trees or solar for shade.",
+                        "Here, Indigenous knowledge, regenerative agriculture, hospitality and local entrepreneurship are working together to restore ecosystems while strengthening community resilience.",
+                        "The island has become a laboratory for what’s known as regenerative tourism, where the goal is to leave the destination better than before."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-768259e7a602bb12b99bb3db",
+            "subject_id": "news-d5dc61f3687c19a5931ceb40414b3e96",
+            "collected_at": "2026-11-17T07:55:11+00:00",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-16",
+                    "url": "https://www.goodnewsnetwork.org/events061116/"
+                }
+            ],
+            "source_sha256": "2b7c1db3da63128eedc67595020f7a44ee6388a34bdc3c23bc35d16c1f6df30e",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:UNESCO_World_Heritage_Sites_of_India.jpg",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "original_sha1": "f1ba2089f5c316bcc919a7cf19954085cb0494c0",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La restauration de plus de 120 bâtiments historiques à Mossoul, incluant le célèbre minaret penché d’al-Nuri, a permis de redonner vie au patrimoine architectural de la ville après des destructions liées aux conflits.",
+                "beneficiaries": "Les habitants locaux de Mossoul, notamment les familles ayant réinvesti ces bâtiments, ainsi que les artisans traditionnels impliqués dans leur reconstruction."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "L’Organisation des Nations unies pour l’éducation, la science et la culture (UNESCO) a achevé un important projet de restauration à Mossoul, en Irak.",
+                    "source_passages": [
+                        "At the time of writing, UNESCO’s ‘Reviving the Spirit of Mosul’ Campaign just completed a landmark restoration in the northern Iraqi city that was once the capital of ISIS."
+                    ]
+                },
+                {
+                    "sentence": "Plus de 120 bâtiments du patrimoine ancien de la ville ont été reconstruits conformément à leurs plans et styles d’origine, après des dégradations causées par des conflits.",
+                    "source_passages": [
+                        "Reviving the Spirit of Mosul has also seen over 120 heritage buildings restored from war damage according to the original plan and design of the age in which they were built, and many of them are now not only inhabited by local families, but some by the very craftsmen whose traditional skills informed their reconstruction."
+                    ]
+                },
+                {
+                    "sentence": "Parmi ces réalisations, le minaret penché du 12ᵉ siècle de la mosquée al-Nuri a été rebâti en conservant sa caractéristique inclinaison.",
+                    "source_passages": [
+                        "The famous al-Nuri ‘Leaning Minaret’ of the 12th-century mosque of the same name was just rebuilt with its signature lean intact."
+                    ]
+                },
+                {
+                    "sentence": "Ce chantier a aussi permis d’impliquer directement des artisans locaux, experts dans les techniques traditionnelles, qui participent à la revitalisation de leur savoir-faire.",
+                    "source_passages": [
+                        "Reviving the Spirit of Mosul has also seen over 120 heritage buildings restored from war damage according to the original plan and design of the age in which they were built, and many of them are now not only inhabited by local families, but some by the very craftsmen whose traditional skills informed their reconstruction."
+                    ]
+                },
+                {
+                    "sentence": "Plusieurs sites restaurés sont désormais habités par des familles de Mossoul, contribuant ainsi à la réhabilitation sociale et culturelle de la cité.",
+                    "source_passages": [
+                        "Reviving the Spirit of Mosul has also seen over 120 heritage buildings restored from war damage according to the original plan and design of the age in which they were built, and many of them are now not only inhabited by local families, but some by the very craftsmen whose traditional skills informed their reconstruction."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-6a739aab3a52b1f11e49dece",
+            "subject_id": "source-afbde0d89b39f471fa32b2fcfe85e706",
+            "collected_at": "2026-11-17T07:55:31+00:00",
+            "sources": [
+                {
+                    "label": "UNESCO · Chaîne des Puys",
+                    "url": "https://whc.unesco.org/en/list/1434/"
+                }
+            ],
+            "source_sha256": "a074e902dca7d1ecdbd0655e6e5be4f4411ceb3f263f2ac2159c5484b669eedc",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:A_Clermont_(Claude-F%C3%A9lix-Th%C3%A9odore_d%27Aligny).jpg",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "fa7e1616c1b40df5684b938c1e326c6ee87911a5",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La Chaîne des Puys et la faille de Limagne illustrent de façon exceptionnelle le processus de rupture continentale, montrant comment la croûte terrestre continentale se fissure, s'effondre et permet la remontée du magma, entraînant un soulèvement du terrain à la surface.",
+                "beneficiaries": "les géologues, étudiants, touristes et curieux de sciences de la Terre qui bénéficient d'un site naturel exemplaire pour comprendre le mécanisme de la tectonique des plaques"
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Située au centre de la France, la Chaîne des Puys et la faille de Limagne forment un ensemble géologique remarquable.",
+                    "source_passages": [
+                        "Description is available under license CC-BY-SA IGO 3.0 Haut lieu tectonique Chaîne des Puys - faille de Limagne Situé au centre de la France, le bien comprend la longue faille de Limagne, l’alignement des volcans de la Chaîne des Puys et le relief inversé de la Montagne de la Serre.",
+                        "Il s’agit d’un élément emblématique du rift ouest-européen, créé dans le sillage de la formation des Alpes, il y a 35 millions d’années."
+                    ]
+                },
+                {
+                    "sentence": "Ce site naturel retrace les étapes du rifting continental, une phase majeure de la tectonique des plaques.",
+                    "source_passages": [
+                        "Le bien illustre de manière exceptionnelle le phénomène de rupture continentale – ou rifting –, qui est l’une des cinq principales étapes de la tectonique des plaques."
+                    ]
+                },
+                {
+                    "sentence": "Il montre comment la croûte terrestre se fissure puis s'effondre, permettant au magma profond de remonter et provoquer le soulèvement de la surface.",
+                    "source_passages": [
+                        "Les caractéristiques géologiques du bien démontrent comment la croûte continentale se fissure, puis s’effondre, permettant au magma profond de remonter et entraînant un soulèvement de la surface."
+                    ]
+                },
+                {
+                    "sentence": "Cette illustration concrète du phénomène, survenu il y a environ 35 millions d'années après la formation des Alpes, est un outil précieux pour les scientifiques et le grand public souhaitant comprendre les processus géologiques en action.",
+                    "source_passages": [
+                        "Il s’agit d’un élément emblématique du rift ouest-européen, créé dans le sillage de la formation des Alpes, il y a 35 millions d’années.",
+                        "Le bien illustre de manière exceptionnelle le phénomène de rupture continentale – ou rifting –, qui est l’une des cinq principales étapes de la tectonique des plaques."
+                    ]
+                },
+                {
+                    "sentence": "Le relief inversé de la Montagne de la Serre ajoute à la diversité de ce paysage tectonique.",
+                    "source_passages": [
+                        "Description is available under license CC-BY-SA IGO 3.0 Haut lieu tectonique Chaîne des Puys - faille de Limagne Situé au centre de la France, le bien comprend la longue faille de Limagne, l’alignement des volcans de la Chaîne des Puys et le relief inversé de la Montagne de la Serre."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-dc419c7f06b62aff19f41fbc",
+            "subject_id": "source-4526bc44ecaf5d88417340e25acb7810",
+            "collected_at": "2026-11-17T07:55:41+00:00",
+            "sources": [
+                {
+                    "label": "NOAA · What is a coral reef made of?",
+                    "url": "https://oceanservice.noaa.gov/facts/coralmadeof.html"
+                }
+            ],
+            "source_sha256": "764659a90933c763f1ce95dd4a168d72e5e52cf5e603cf3b14c6c1d941b27d72",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Great_Barrier_Reef_105_(5383117759).jpg",
+            "image_license": "CC BY 2.0 · https://creativecommons.org/licenses/by/2.0/",
+            "original_sha1": "0cddd32a7f114064d9521b7a174949583179b523",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La croissance progressive des récifs coralliens grâce à la formation continue de squelettes en carbonate de calcium par les polypes coralliens.",
+                "beneficiaries": "Les récifs coralliens eux-mêmes, ainsi que les écosystèmes marins qui dépendent de ces structures."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Les récifs coralliens se développent par l'accumulation successive de squelettes en carbonate de calcium formés par des organismes appelés polypes coralliens.",
+                    "source_passages": [
+                        "A coral reef is made of thin layers of calcium carbonate Coral polyps form a living mat over a calcium carbonate skeleton.",
+                        "Stony corals (or scleractinians) are the corals primarily responsible for laying the foundations of, and building up, reef structures.",
+                        "Massive reef structures are formed when each individual stony coral organism—or polyp—secretes a skeleton of calcium carbonate."
+                    ]
+                },
+                {
+                    "sentence": "Chaque polype sécrète un petit squelette calcaire sur lequel il vit, et les colonies se multiplient en construisant sur les restes calcaires de générations antérieures.",
+                    "source_passages": [
+                        "Massive reef structures are formed when each individual stony coral organism—or polyp—secretes a skeleton of calcium carbonate.",
+                        "These colonies consist of millions of polyps that grow on top of the limestone remains of former colonies, eventually forming massive reefs."
+                    ]
+                },
+                {
+                    "sentence": "Ces structures peuvent prendre beaucoup d'ampleur au fil des années, croissant lentement, généralement de 0,5 à 2 cm par an, mais parfois plus rapidement sous de bonnes conditions comme la lumière abondante et une température stable.",
+                    "source_passages": [
+                        "In general, massive corals tend to grow slowly, increasing in size from 0.5 to two centimeters (0.2 to 0.8 inches) per year.",
+                        "However, under favorable conditions (lots of light, consistent temperature, moderate wave action), some species can grow as much as 4.5 centimeters (1.8 inches) per year."
+                    ]
+                },
+                {
+                    "sentence": "Cette construction patiente est à la base de vastes récifs qui abritent une biodiversité marine importante.",
+                    "source_passages": [
+                        "These colonies consist of millions of polyps that grow on top of the limestone remains of former colonies, eventually forming massive reefs."
+                    ]
+                },
+                {
+                    "sentence": "Ce mécanisme explique la formation et le maintien des récifs marins dans le temps.",
+                    "source_passages": [
+                        "A coral reef is made of thin layers of calcium carbonate Coral polyps form a living mat over a calcium carbonate skeleton.",
+                        "Stony corals (or scleractinians) are the corals primarily responsible for laying the foundations of, and building up, reef structures.",
+                        "Massive reef structures are formed when each individual stony coral organism—or polyp—secretes a skeleton of calcium carbonate.",
+                        "These colonies consist of millions of polyps that grow on top of the limestone remains of former colonies, eventually forming massive reefs."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        }
+    ]
+}
