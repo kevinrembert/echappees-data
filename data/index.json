@@ -1,7 +1,13 @@
 {
     "schema_version": 1,
-    "version": "2026-11-17.6c05e51fb990b828",
+    "version": "2026-11-17.7daceae52d20e9b1",
     "batches": [
+        {
+            "id": "generated-7daceae52d20e9b1bb6a",
+            "version": "1",
+            "url": "batches/generated-7daceae52d20e9b1bb6a.v1.json",
+            "count": 1
+        },
         {
             "id": "generated-6c05e51fb990b8286944",
             "version": "1",

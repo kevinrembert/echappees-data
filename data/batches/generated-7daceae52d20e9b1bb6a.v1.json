@@ -1,0 +1,33 @@
+{
+    "schema_version": 1,
+    "id": "generated-7daceae52d20e9b1bb6a",
+    "version": "1",
+    "articles": [
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-de00c510bf2e351b2b09c9d6",
+            "title": "Une flotte de bus scolaires électriques améliore la qualité de l’air pour les enfants du Bronx",
+            "body": "Dans un quartier du South Bronx confronté à un taux d’asthme chez les enfants deux fois supérieur à la moyenne nationale, une entreprise locale a déployé 45 bus scolaires électriques alimentés par 23 bornes de recharge double. Cette flotte nouvellement opérationnelle empêche l’émission d’environ 1 million de livres de polluants atmosphériques chaque année, notamment le dioxyde de carbone et les particules fines, contribuant ainsi à la réduction des risques pulmonaires. Environ 800 enfants, en grande partie de la maternelle et de la petite enfance, utilisent quotidiennement ces bus. Ce changement est le fruit d’une collaboration entre l’entreprise, un fournisseur d’énergie, et des programmes publics soutenant la transition vers des transports scolaires plus propres. L’ensemble est basé sur Zerega Avenue, une zone à fort trafic routier, améliorant directement l’environnement respiratoire des élèves et des riverains.",
+            "category": "Initiatives positives",
+            "location": "South Bronx, New York, États-Unis",
+            "image_description": "Bus scolaire électrique photographié à Russell Drive, Malpas, Newport, illustrant un véhicule de transport scolaire propre.",
+            "image_caption": "Illustration documentaire générale. Bus scolaire électrique à Russell Drive, Malpas, Newport – photo Wikimedia Commons illustrant un véhicule similaire à la flotte électrique déployée dans le Bronx.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/b4962b1d8e675644108105d160145089ba772707febbfdc0b277aaa9ca5b0e50.jpg",
+            "image_credit": "Jaggery · Geograph Britain and Ireland · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 2.0 · https://creativecommons.org/licenses/by-sa/2.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Electric_school_bus,_Russell_Drive,_Malpas,_Newport_-_geograph.org.uk_-_7778546.jpg",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-17",
+                    "url": "https://www.goodnewsnetwork.org/largest-electric-bus-fleet-in-new-york-to-serve-bronx-neighborhood-riddled-with-asthma/"
+                }
+            ],
+            "subject_id": "news-29a55695bd13d6f5822ec7794102b608",
+            "published_at": "2026-11-17",
+            "country": "Monde",
+            "source_published_at": "2026-11-17"
+        }
+    ]
+}

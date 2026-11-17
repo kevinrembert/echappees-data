@@ -1,0 +1,64 @@
+{
+    "schema_version": 1,
+    "articles": [
+        {
+            "id": "decouverte-de00c510bf2e351b2b09c9d6",
+            "subject_id": "news-29a55695bd13d6f5822ec7794102b608",
+            "collected_at": "2026-11-17T17:37:41+00:00",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-17",
+                    "url": "https://www.goodnewsnetwork.org/largest-electric-bus-fleet-in-new-york-to-serve-bronx-neighborhood-riddled-with-asthma/"
+                }
+            ],
+            "source_sha256": "4394e099633a6295e283c230251adfb699923bd03af89dce0b8418ba03201f6c",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Electric_school_bus,_Russell_Drive,_Malpas,_Newport_-_geograph.org.uk_-_7778546.jpg",
+            "image_license": "CC BY-SA 2.0 · https://creativecommons.org/licenses/by-sa/2.0/",
+            "original_sha1": "394f219c2d067073da7f7bd9a34ce7339e551974",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La mise en service d’une flotte de 45 bus scolaires électriques réduit d'environ 1 million de livres les émissions polluantes annuelles dans un quartier du Bronx où le taux d’asthme infantile est particulièrement élevé.",
+                "beneficiaries": "Les enfants scolarisés transportés quotidiennement, les familles du quartier et les habitants exposés à une meilleure qualité d’air et à une réduction du bruit."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Dans un quartier du South Bronx confronté à un taux d’asthme chez les enfants deux fois supérieur à la moyenne nationale, une entreprise locale a déployé 45 bus scolaires électriques alimentés par 23 bornes de recharge double.",
+                    "source_passages": [
+                        "GVC’s Michael Townsend, scissors still in hand, applauds during the ribbon cutting ceremony – credit, Con Edison, released The largest fleet of electric school buses in New York State is up and running in a South Bronx neighborhood where childhood asthma rates are more than twice the national average.",
+                        "Family-owned school bus company GVC has served schoolchildren with special needs in the Bronx for more than 30 years, and the company worked over the summer to install 23 dual‑port chargers to power 45 new electric school buses."
+                    ]
+                },
+                {
+                    "sentence": "Cette flotte nouvellement opérationnelle empêche l’émission d’environ 1 million de livres de polluants atmosphériques chaque année, notamment le dioxyde de carbone et les particules fines, contribuant ainsi à la réduction des risques pulmonaires.",
+                    "source_passages": [
+                        "The buses will collectively prevent the emission of 1 million pounds of emissions per school year.",
+                        "Exhaust pollutants like carbon dioxide, nitrogen oxides, and fine particulate matter pose serious threats to residents’ long-term pulmonary health, including through elevated asthma risk, and those most at risk are passengers waiting for buses and sitting on buses—the schoolchildren included."
+                    ]
+                },
+                {
+                    "sentence": "Environ 800 enfants, en grande partie de la maternelle et de la petite enfance, utilisent quotidiennement ces bus.",
+                    "source_passages": [
+                        "GVC’s electric buses will carry about 800 children to their classes, averaging 18 Early Intervention to Pre-Kindergarten students per ride."
+                    ]
+                },
+                {
+                    "sentence": "Ce changement est le fruit d’une collaboration entre l’entreprise, un fournisseur d’énergie, et des programmes publics soutenant la transition vers des transports scolaires plus propres.",
+                    "source_passages": [
+                        "The children we transport, and all those who live and work in the area, are enjoying cleaner air and quieter streets.” Con Edison, one of New York’s largest utilities, worked with GVC from the earliest stages of their bus fleet transition, upgrading the grid to handle the demand from the bus chargers, offering a $450,000 incentive, and identifying other avenues of support from the city and state governments that could accelerate the transition.",
+                        "This included the New York School Bus Incentive Program (NYSBIP) funded by the Clean Water, Clean Air, and Green Jobs Environmental Bond Act."
+                    ]
+                },
+                {
+                    "sentence": "L’ensemble est basé sur Zerega Avenue, une zone à fort trafic routier, améliorant directement l’environnement respiratoire des élèves et des riverains.",
+                    "source_passages": [
+                        "GVC’s Michael Townsend, scissors still in hand, applauds during the ribbon cutting ceremony – credit, Con Edison, released The largest fleet of electric school buses in New York State is up and running in a South Bronx neighborhood where childhood asthma rates are more than twice the national average.",
+                        "GVC’s bus depot is located on Zerega Avenue, along a 2-mile corridor where around 2,000 school buses and 3,000 medium and heavy-duty vehicles pass every day.",
+                        "“The children we transport are especially vulnerable to air and noise pollution,” Michael Townsend, Compliance Officer at GVC, said in a statement."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        }
+    ]
+}
