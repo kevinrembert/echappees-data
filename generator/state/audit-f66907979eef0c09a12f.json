@@ -1,0 +1,135 @@
+{
+    "schema_version": 1,
+    "articles": [
+        {
+            "id": "decouverte-ecaf80a55e9769b9e69b0ab2",
+            "subject_id": "news-11bf48a5501dfcc766aa589bdd7ccbb7",
+            "collected_at": "2026-11-18T17:16:01+00:00",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-18",
+                    "url": "https://www.goodnewsnetwork.org/this-blue-whale-population-grew-1000-since-the-end-of-whaling/"
+                }
+            ],
+            "source_sha256": "79f39934e225d0859e483ad1540f2392dd211e8d7848e6617a32798819fedf47",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Antarctic_blue_whale.jpg",
+            "image_license": "CC BY-SA 2.0 · https://creativecommons.org/licenses/by-sa/2.0/",
+            "original_sha1": "8ebbfc80b694b96e961e28a00ed3e8d37f08e764",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La population de baleines bleues de l’Antarctique a augmenté de 1 000 % depuis la fin de la chasse en 1973, passant d’environ 418 individus à plus de 4 000.",
+                "beneficiaries": "Les baleines bleues elles-mêmes, ainsi que l’écosystème marin de l’océan Austral qui bénéficie de leur activité."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Depuis l’interdiction définitive de la chasse à la baleine bleue en Antarctique en 1973, la population de cette espèce a connu une progression remarquable.",
+                    "source_passages": [
+                        "Home All News Animals This Blue Whale Population Grew 1,000% Since the End of Antarctic Whaling NOAA Antarctic blue whales have increased in number 1,000% since 1973 when the harpoons were finally hung up for good.",
+                        "Though the International Whaling Commission banned the killing of Antarctic blue whales in 1964, illegal whaling continued until 1973."
+                    ]
+                },
+                {
+                    "sentence": "Les chiffres témoignent d’une augmentation d’environ 1 000 %, passant de 418 à 4 018 individus, soit une croissance moyenne annuelle de 4,5 %.",
+                    "source_passages": [
+                        "Home All News Animals This Blue Whale Population Grew 1,000% Since the End of Antarctic Whaling NOAA Antarctic blue whales have increased in number 1,000% since 1973 when the harpoons were finally hung up for good.",
+                        "Growing from just 418 whales to 4,018, the superb recovery has averaged 4.5% per year."
+                    ]
+                },
+                {
+                    "sentence": "Cette estimation s’appuie sur une combinaison inédite de données historiques, photographiques et d’enquêtes méthodiques menées depuis la fin des années 1970.",
+                    "source_passages": [
+                        "Zoe Rand, a postdoctoral scholar in the University of Washington School of Marine and Environmental Affairs, lead a study that examined historical catch data, modern photo identification records, and decades of “line transect” surveys to estimate current population.",
+                        "Line transect surveys from 1978 to 1984, 1985 to 1991, and 1991 to 2004 surveyed the entire Southern Ocean by sailing boats along straight lines and counting whales seen and the distances they remained from the boat.",
+                        "These data sources not only indicated the number was growing, but that it has grown so substantially over time."
+                    ]
+                },
+                {
+                    "sentence": "Les baleines bleues, les plus grandes créatures ayant jamais existé, ont un cycle de reproduction lent, avec un petit tous les trois ans environ.",
+                    "source_passages": [
+                        "These long-lived animals—the largest ever known to have existed—reproduce very slowly with just one calf every 3 years or so."
+                    ]
+                },
+                {
+                    "sentence": "Leur retour impacte positivement l’écosystème océanique, car leurs déplacements et activités influent sur la dynamique marine locale.",
+                    "source_passages": [
+                        "Rand wrote in a statement that blue whales and whales in general are marine ecosystem engineers that change vast areas through their activity.",
+                        "During feed, defecation, or death, thousands of other creatures directly respond to blue whale biology."
+                    ]
+                },
+                {
+                    "sentence": "Ce suivi précis illustre non seulement la solidité des populations retrouvées, mais aussi la valeur des méthodes combinées pour observer les espèces marines.",
+                    "source_passages": [
+                        "Zoe Rand, a postdoctoral scholar in the University of Washington School of Marine and Environmental Affairs, lead a study that examined historical catch data, modern photo identification records, and decades of “line transect” surveys to estimate current population.",
+                        "Line transect surveys from 1978 to 1984, 1985 to 1991, and 1991 to 2004 surveyed the entire Southern Ocean by sailing boats along straight lines and counting whales seen and the distances they remained from the boat."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-9811b350256a764c6febb7c8",
+            "subject_id": "news-161bb50f43601cb71a0d65d7e6cae7ba",
+            "collected_at": "2026-11-18T17:16:10+00:00",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-18",
+                    "url": "https://www.goodnewsnetwork.org/scientists-cure-deadly-brain-tumors-in-every-mouse-tested-with-new-cancer-therapy/"
+                }
+            ],
+            "source_sha256": "b5aceb12f79bfd8913af24e803cf0382f489331e242a534f6a11ff3abb8651bf",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:CAR_T-Cell_Therapy.jpg",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "f938e62d686293ed04c2b42922b12ace2edb8313",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Un traitement de thérapie cellulaire CAR-T a permis d’éliminer complètement les tumeurs cérébrales agressives chez des souris, avec une protection durable contre leur réapparition.",
+                "beneficiaries": "Les souris malades atteintes de gliomes midline diffus (DMG), un cancer cérébral infantile très agressif, et potentiellement, les enfants et jeunes adultes concernés par cette maladie."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Des chercheurs de l’université de Californie à San Francisco ont mis au point une thérapie cellulaire immunitaire, appelée B-SYNC CAR-T, qui détruit efficacement les tumeurs cérébrales de souris atteintes de gliome midline diffus, un cancer infantile difficile à traiter.",
+                    "source_passages": [
+                        "The scientists, from UC San Francisco, utilized a new type of immune cell therapy that activates only after entering the brain, allowing it to attack cancer while remaining inactive elsewhere in the body.",
+                        "The target of the experiments was diffuse midline glioma (DMG) described by one scientist involved in the project as a “heartbreaking” diagnosis.",
+                        "This is exactly the kind of innovative approach they deserve.” DMG is among the most difficult childhood cancers to treat.",
+                        "The experimental therapy, called B-SYNC CAR-T, could offer a new way forward."
+                    ]
+                },
+                {
+                    "sentence": "Cette technique active les cellules CAR-T uniquement une fois arrivées dans le cerveau, limitant ainsi les effets secondaires.",
+                    "source_passages": [
+                        "The scientists, from UC San Francisco, utilized a new type of immune cell therapy that activates only after entering the brain, allowing it to attack cancer while remaining inactive elsewhere in the body.",
+                        "Unlike conventional CAR-T treatments, which have struggled against brain tumors, these modified immune cells are programmed to activate their cancer-fighting machinery specifically within the brain.",
+                        "“It’s been a struggle to make CAR-T cells that overcome DMG without causing unacceptable side effects,” said Hideho Okada, professor of Neurological Surgery at UCSF and co-corresponding author of the mouse experiment, published in Science Translational Medicine."
+                    ]
+                },
+                {
+                    "sentence": "Après traitement, les souris ont été protégées contre la rechute sur plusieurs semaines.",
+                    "source_passages": [
+                        "– credit NIH In experiments involving mice, scientists successfully eliminated an aggressive childhood brain cancer while also providing lasting protection.",
+                        "When researchers introduced cancer cells again several weeks later, the immune cells continued fighting and prevented new tumors from developing."
+                    ]
+                },
+                {
+                    "sentence": "Contrairement aux approches précédentes, cette méthode utilise une protéine cérébrale pour déclencher l’attaque des cellules immunitaires, ce qui permet de cibler les tumeurs sans dépendre d’une mutation tumoral spécifique.",
+                    "source_passages": [
+                        "Building on previous work with CAR-T therapy by Professor Okada, the team behind this mouse model identified that brevican—a protein naturally distributed throughout the brain—could be a promising signal for triggering the CAR-T immune response.",
+                        "The scientists redesigned a previously tested molecular sensing system called synNotch so that it would trigger CAR production only when it encountered brevican.",
+                        "Once activated, these B-SYNC CAR-T cells could search for cancer cells carrying 2 tumor-associated proteins called EphA2 and IL13Rα2.",
+                        "This meant the engineered immune cells no longer depended on a tumor-specific mutation to become active.",
+                        "Instead, they used a protein associated with the brain itself as the signal to begin their attack."
+                    ]
+                },
+                {
+                    "sentence": "Ces résultats ouvrent la voie à des essais cliniques chez l’humain, prévus à partir de 2027 à San Francisco.",
+                    "source_passages": [
+                        "The promising results were spoken of like a “cure,” and have prompted scientists to rapidly prepare for clinical trials in humans at UCSF Health, potentially beginning as early as April 2027."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        }
+    ]
+}

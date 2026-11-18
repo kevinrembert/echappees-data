@@ -1,0 +1,59 @@
+{
+    "schema_version": 1,
+    "id": "generated-f66907979eef0c09a12f",
+    "version": "1",
+    "articles": [
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-ecaf80a55e9769b9e69b0ab2",
+            "title": "Renaissance de la population de baleines bleues en Antarctique 50 ans après la fin de la chasse",
+            "body": "Depuis l’interdiction définitive de la chasse à la baleine bleue en Antarctique en 1973, la population de cette espèce a connu une progression remarquable. Les chiffres témoignent d’une augmentation d’environ 1 000 %, passant de 418 à 4 018 individus, soit une croissance moyenne annuelle de 4,5 %. Cette estimation s’appuie sur une combinaison inédite de données historiques, photographiques et d’enquêtes méthodiques menées depuis la fin des années 1970. Les baleines bleues, les plus grandes créatures ayant jamais existé, ont un cycle de reproduction lent, avec un petit tous les trois ans environ. Leur retour impacte positivement l’écosystème océanique, car leurs déplacements et activités influent sur la dynamique marine locale. Ce suivi précis illustre non seulement la solidité des populations retrouvées, mais aussi la valeur des méthodes combinées pour observer les espèces marines.",
+            "category": "Initiatives positives",
+            "location": "Océan Austral",
+            "image_description": "Un spécimen de baleine bleue de l’Antarctique photographié en mer.",
+            "image_caption": "Photo documentaire générale d’une baleine bleue de l’Antarctique, illustration pour suivre l’évolution des populations. Source : Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/3c6f3f25d4deaf26628f8055ddb24d295533c70255c903e40876219fb8e0edb0.jpg",
+            "image_credit": "photo by Paul Ensor, with support from Canon New Zealand Community Sponsorship Programme. Oregon State University · https://www.flickr.com/photos/oregonstateuniversity/6792620078/ · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 2.0 · https://creativecommons.org/licenses/by-sa/2.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Antarctic_blue_whale.jpg",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-18",
+                    "url": "https://www.goodnewsnetwork.org/this-blue-whale-population-grew-1000-since-the-end-of-whaling/"
+                }
+            ],
+            "subject_id": "news-11bf48a5501dfcc766aa589bdd7ccbb7",
+            "published_at": "2026-11-18",
+            "country": "Monde",
+            "source_published_at": "2026-11-18"
+        },
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-9811b350256a764c6febb7c8",
+            "title": "Une nouvelle thérapie cellulaire élimine des tumeurs cérébrales agressives chez des souris",
+            "body": "Des chercheurs de l’université de Californie à San Francisco ont mis au point une thérapie cellulaire immunitaire, appelée B-SYNC CAR-T, qui détruit efficacement les tumeurs cérébrales de souris atteintes de gliome midline diffus, un cancer infantile difficile à traiter. Cette technique active les cellules CAR-T uniquement une fois arrivées dans le cerveau, limitant ainsi les effets secondaires. Après traitement, les souris ont été protégées contre la rechute sur plusieurs semaines. Contrairement aux approches précédentes, cette méthode utilise une protéine cérébrale pour déclencher l’attaque des cellules immunitaires, ce qui permet de cibler les tumeurs sans dépendre d’une mutation tumoral spécifique. Ces résultats ouvrent la voie à des essais cliniques chez l’humain, prévus à partir de 2027 à San Francisco.",
+            "category": "Initiatives positives",
+            "location": "Monde",
+            "image_description": "Schéma illustrant les étapes de fabrication de la thérapie CAR T-cell, où des cellules T du patient sont modifiées en laboratoire pour cibler les cellules cancéreuses.",
+            "image_caption": "Illustration documentaire générale d’une thérapie CAR T-cell, Wikimedia Commons, crédit National Cancer Institute (NCI).",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/9a44c6f6798d710fa6ab04544a72b9f10c5f2aec287fa46688f6d8422f11dc12.jpg",
+            "image_credit": "National Cancer Institute (NCI) · https://visualsonline.cancer.gov/details.cfm?imageid=12069 · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:CAR_T-Cell_Therapy.jpg",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-18",
+                    "url": "https://www.goodnewsnetwork.org/scientists-cure-deadly-brain-tumors-in-every-mouse-tested-with-new-cancer-therapy/"
+                }
+            ],
+            "subject_id": "news-161bb50f43601cb71a0d65d7e6cae7ba",
+            "published_at": "2026-11-18",
+            "country": "Monde",
+            "source_published_at": "2026-11-18"
+        }
+    ]
+}
