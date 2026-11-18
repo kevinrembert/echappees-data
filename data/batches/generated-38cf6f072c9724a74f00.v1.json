@@ -1,0 +1,135 @@
+{
+    "schema_version": 1,
+    "id": "generated-38cf6f072c9724a74f00",
+    "version": "1",
+    "articles": [
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-39df9deef096d41fe54fdedc",
+            "title": "Premiers naissances de tortues marines sur la côte Ouest américaine et relâchées dans le Pacifique",
+            "body": "À la fin septembre, une tortue Olive Ridley a pondu sur une plage de Californie, un événement inédit sur la côte Ouest des États-Unis. Après une menace de tempête, les autorités ont déplacé les œufs vers un aquarium local pour assurer leur incubation. Les petites tortues nées ont ensuite été relâchées sur des plages d'Orange County. Un autre nid a été découvert plus au nord sur la côte, indiquant que cette nouvelle aire de reproduction pourrait s'étendre. Ces naissances pourraient être liées aux conditions exceptionnelles de l'El Niño et reflètent une augmentation des populations de tortues Olive Ridley grâce aux efforts durables de conservation. Chaque tortue a été mesurée avant son retour à l'océan, minimisant les perturbations.",
+            "category": "Initiatives positives",
+            "location": "Californie, États-Unis",
+            "image_description": "Relâchement de petites tortues Olive Ridley sur une plage au Mexique.",
+            "image_caption": "Illustration documentaire générale : tortues Olive Ridley relâchées sur une plage au Mexique (photo Wikimedia).",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/c3a93a8806e0582f4b9ff4d842e8a0f882847d6d7e7d14f5b93d2004aaa7c3b1.jpg",
+            "image_credit": "Bethany McCarter · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Olive_Ridley_Sea_Turtle_Hatchlings.jpg",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-17",
+                    "url": "https://www.goodnewsnetwork.org/west-coasts-first-ever-sea-turtle-hatchlings-released-into-the-pacific-look/"
+                }
+            ],
+            "subject_id": "news-061916f5f95b178f216c65a0111d79fe",
+            "published_at": "2026-11-18",
+            "country": "Monde",
+            "source_published_at": "2026-11-17"
+        },
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-f602a232ea5e9419edd905ae",
+            "title": "Le télescope NICER termine ses opérations scientifiques après six ans d'observations spatiales",
+            "body": "Depuis son lancement en 2017, le télescope NICER installé sur la Station spatiale internationale a mené une mission initiale prévue pour 18 mois, finalement étendue à plus de six ans d'observations. Ses mesures ont permis d’approfondir la connaissance des étoiles à neutrons, qui contiennent la matière la plus dense connue, et d'améliorer la compréhension des trous noirs et des galaxies actives. Le télescope a également démontré la faisabilité d'une navigation spatiale basée sur les pulsars en rayons X, une application potentielle pour de futures missions vers Mars. Malgré une panne d’un moteur en 2025, les équipes ont complété la collecte de données et commencé à retirer l'instrument. Par ailleurs, des technologies développées pour NICER sont utilisées dans des prototypes de scanners portables et autres équipements sur Terre, apportant un bénéfice concret au-delà de l’astronomie.",
+            "category": "Sciences",
+            "location": "Station spatiale internationale",
+            "image_description": "Photographie du télescope NICER installé sur le segment intégré de la Station spatiale internationale prise le 17 décembre 2024, montrant les 56 concentrateurs de rayons X couverts de filtres thermiques.",
+            "image_caption": "Illustration documentaire générale. Photographie documentaire générale du télescope NICER installé sur la Station spatiale internationale en décembre 2024.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/df786ba8bcf2cae6fe9d2cadbc1fd96d99fe7d5bb5cf27953ee88be18ba66b3d.jpg",
+            "image_credit": "NASA Johnson Space Center · This image or video was catalogued by Lyndon B. Johnson Space Center of the United States National Aeronautics and Space Administration (NASA) under Photo ID: iss072e371305. · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Iss072e371305_(Dec_17,_2024)_---_The_NICER_(Neutron_star_Interior_Composition_Explorer)_X-ray_telescope_is_pictured_installed_on_the_starboard_side_of_the_International_Space_Station%27s_integrated_truss_segment.jpg",
+            "sources": [
+                {
+                    "label": "NASA · publié le 2026-11-17",
+                    "url": "https://www.nasa.gov/missions/station/nicer-status-updates/"
+                }
+            ],
+            "subject_id": "news-ab512ff5041d7997c74fb5d527102d96",
+            "published_at": "2026-11-18",
+            "country": "Monde",
+            "source_published_at": "2026-11-17"
+        },
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-236d159844356e50ce9f7301",
+            "title": "Un échange amical entre Lawrence (Kansas) et l’Algérie inspiré par la Coupe du Monde de football",
+            "body": "Lors de la Coupe du Monde de 2026, l’équipe algérienne avait choisi Lawrence au Kansas comme base, où elle a été chaleureusement accueillie par la communauté locale et la diaspora algérienne. Ce lien s’est prolongé lorsque plusieurs familles du Kansas ont été invitées en Algérie pour un voyage organisé par le gouvernement algérien. À leur arrivée tôt le matin, elles ont été accueillies avec des fleurs et accompagnées pour visiter des sites historiques comme Tipaza, un site du patrimoine mondial de l’UNESCO. Cette réciprocité souligne comment la passion commune du football peut bâtir des ponts culturels et créer des amitiés durables entre deux régions éloignées.",
+            "category": "Initiatives positives",
+            "location": "Lawrence, Kansas, États-Unis et Algérie",
+            "image_description": "Uniforme d'un spahi algérien de la Première Guerre mondiale exposé au National World War I Museum à Kansas City, Missouri, États-Unis.",
+            "image_caption": "Illustration documentaire générale. Photographie documentaire d’un uniforme de cavalier spahi algérien datant de la Première Guerre mondiale, prise au musée de Kansas City, Missouri.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/23ff7da5c91fd762e8c7ba299f9bbdcbf409cb4f816b839ee553112308418041.jpg",
+            "image_credit": "Daderot · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:France_North_Africa_Spahi_(Algerian)_mounted_troop%27s_jacket_and_waistcoast_-_National_World_War_I_Museum_-_Kansas_City,_MO_-_DSC07497.JPG",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-17",
+                    "url": "https://www.goodnewsnetwork.org/algeria-returns-kindness-shown-by-kansans-who-welcomed-its-world-cup-team-with-the-trip-of-a-lifetime/"
+                }
+            ],
+            "subject_id": "news-91c0979d3b12fc4544ea9992b0dcde0b",
+            "published_at": "2026-11-18",
+            "country": "Monde",
+            "source_published_at": "2026-11-17"
+        },
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "daily",
+            "id": "decouverte-c72fc297a6f1d09005915882",
+            "title": "Les chutes de baleines, un moteur de vie dans l'obscurité des grands fonds marins",
+            "body": "Quand une baleine meurt, son corps coule au fond de l'océan, engendrant ce que l'on appelle un \"whale fall\". Ce phénomène nourrit pendant plusieurs années une succession d'organismes marins. D'abord, des charognards consomment la chair en quelques mois. Les restes organiques enrichissent ensuite les sédiments voisins, avant que le squelette n'abrite des communautés d'invertébrés colonisateurs grâce aux sulfures résultant de la décomposition osseuse. Ce processus chimique permet à des microbes de prospérer et de créer une nouvelle base alimentaire. Ainsi, ces carcasses offrent une source énergétique rare dans les profondeurs, soutenant des réseaux alimentaires jusqu'alors limités par le peu de ressources disponibles. Ce cycle écologique contribue à la biodiversité et aux échanges énergétiques des écosystèmes profonds.",
+            "category": "Nature et animaux",
+            "location": "Océans profonds (Monde)",
+            "image_description": "Schéma conceptuel de la station Whale's Tooth présenté dans un document officiel d'impact environnemental du South Coast Rail",
+            "image_caption": "Illustration conceptuelle d'une station Whale's Tooth – image issue d'un document d'impact environnemental (illustration, Wikimedia Commons)",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/c5a49051ad94a26dae326a6c72d7ffcea96ea59bdaf87c08a5779016478b6255.jpg",
+            "image_credit": "US Army Corps of Engineers (drawing)MassGIS (basemap) · Final Environmental Impact Statement, Volume II · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:SCR_FEIS_Figure_3.2-31_%E2%80%93_Whale%27s_Tooth_station_conceptual_design.png",
+            "sources": [
+                {
+                    "label": "NOAA · What is a whale fall?",
+                    "url": "https://oceanservice.noaa.gov/facts/whale-fall.html"
+                }
+            ],
+            "subject_id": "source-1eaf69d9688e7401ab9136f2ba9772c0",
+            "published_at": "2026-11-18",
+            "country": "Monde"
+        },
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "daily",
+            "id": "decouverte-ba284a13a6456c771296d0e7",
+            "title": "Alberobello en Italie protège son patrimoine unique de maisons en trulli",
+            "body": "Alberobello, petite ville des Pouilles en Italie, se distingue par ses quartiers traditionnels où s'élèvent environ 1 500 trulli, ces maisons en pierres sèches coiffées de toits coniques en lauses calcaires. Cette architecture simple, sans mortier, utilise les pierres extraites localement lors du creusement des citernes. Deux quartiers principaux, Monti et Aia Piccola, conservent ce caractère ancien et sont inscrits au patrimoine mondial de l'UNESCO. Le quartier Monti, avec ses ruelles en pente et ses nombreuses boutiques adaptées aux visiteurs, montre comment la préservation de ce mode de construction ancestral permet à la fois de protéger un héritage unique et de maintenir la vie locale autour de ces structures historiques.",
+            "category": "Villages et villes",
+            "location": "Alberobello, Pouilles, Italie",
+            "image_description": "Vue générale des trulli dans le quartier Rione Monti prise depuis la place Giangirolamo II à Alberobello, Italie.",
+            "image_caption": "Photographie documentaire générale des trulli du quartier Rione Monti à Alberobello prise depuis la Piazza Giangirolamo II.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/489f970dc0f1de6ad6968a0c95cb23e549995c325bc6d67800f9ad0255618fed.jpg",
+            "image_credit": "Benjamin Smith · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Alberobello_-_View_from_Piazza_Giangirolamo_II_-_03.jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Alberobello",
+                    "url": "https://fr.wikipedia.org/wiki/Alberobello"
+                }
+            ],
+            "subject_id": "Q51812",
+            "published_at": "2026-11-18",
+            "country": "Italie"
+        }
+    ]
+}

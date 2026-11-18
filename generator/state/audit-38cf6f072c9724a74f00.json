@@ -1,0 +1,312 @@
+{
+    "schema_version": 1,
+    "articles": [
+        {
+            "id": "decouverte-39df9deef096d41fe54fdedc",
+            "subject_id": "news-061916f5f95b178f216c65a0111d79fe",
+            "collected_at": "2026-11-18T07:27:04+00:00",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-17",
+                    "url": "https://www.goodnewsnetwork.org/west-coasts-first-ever-sea-turtle-hatchlings-released-into-the-pacific-look/"
+                }
+            ],
+            "source_sha256": "b5d33124097be51ef726813ebbb0a86ade2a5baa88a7567e87a3d3858c5aaacf",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Olive_Ridley_Sea_Turtle_Hatchlings.jpg",
+            "image_license": "CC BY 4.0 · https://creativecommons.org/licenses/by/4.0/",
+            "original_sha1": "fb3729ad3548bc5e92f926f3816618c7ff604bad",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Des tortues de mer Olive Ridley ont pondu sur les plages de la côte Ouest américaine pour la première fois, leurs œufs ont été protégés pour éviter une tempête et les jeunes tortues ont été relâchées dans l'océan.",
+                "beneficiaries": "Les tortues de mer Olive Ridley qui bénéficient d'une nouvelle aire de nidification pleine de dangers évités, et les populations locales engagées dans leur conservation."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "À la fin septembre, une tortue Olive Ridley a pondu sur une plage de Californie, un événement inédit sur la côte Ouest des États-Unis.",
+                    "source_passages": [
+                        "It was late September when a female turtle climbed out of the sea, dug a nest on the beach, deposited her clutch, and slipped back into the water leaving nothing but a small trail in the sand and a couple of speechless lifeguards.",
+                        "– credit, Robin Riggs, Aquarium of the Pacific © This first-ever instance of a turtle nesting on America’s Pacific coast was repeated a day later on Huntington Beach in what were the first ever recorded sea turtle nests on the West Coast."
+                    ]
+                },
+                {
+                    "sentence": "Après une menace de tempête, les autorités ont déplacé les œufs vers un aquarium local pour assurer leur incubation.",
+                    "source_passages": [
+                        "After at first being left to incubate and hatch naturally, storm forecasts saw state and federal authorities evacuate the nests and take the eggs to the Aquarium of the Pacific in Long Beach."
+                    ]
+                },
+                {
+                    "sentence": "Les petites tortues nées ont ensuite été relâchées sur des plages d'Orange County.",
+                    "source_passages": [
+                        "The hatchlings emerged at the Aquarium and were quickly transported to Orange County beaches for release."
+                    ]
+                },
+                {
+                    "sentence": "Un autre nid a été découvert plus au nord sur la côte, indiquant que cette nouvelle aire de reproduction pourrait s'étendre.",
+                    "source_passages": [
+                        "Jonathan Snyder of the US Fish and Wildlife Service office in Carlsbad said another nest was recently documented further up the coast in Ventura County in November, and that it’s therefore unclear exactly how many turtles have nested in total."
+                    ]
+                },
+                {
+                    "sentence": "Ces naissances pourraient être liées aux conditions exceptionnelles de l'El Niño et reflètent une augmentation des populations de tortues Olive Ridley grâce aux efforts durables de conservation.",
+                    "source_passages": [
+                        "“It is not known why these sea turtles chose Southern California beaches as nesting sites, but it may indicate important historical changes that could have long-term implications for this species and for local sea turtle management and protection,” said Cassandra Davis, Director of Volunteer Services at the Aquarium, who said neither weather nor mere anomalous behavior were being ruled out as a theory.",
+                        "He told reporters that one obvious potential reason for this never-before-witnessed event could be the Super El Niño weather phenomenon this year, though his overarching thoughts were positive.",
+                        "– credit, Robin Riggs, Aquarium of the Pacific © – credit, Robin Riggs, Aquarium of the Pacific © “There have been decades of effort by dedicated individuals both in the US and abroad that have done everything they can for sea turtle conservation, and those efforts have really moved the needle for conservation for a variety of species, but for Olive Ridley sea turtles in particular,” said Snyder in a press conference.",
+                        "“Their populations have increased substantially throughout portions of their range, and it’s the reason why there are these sea turtles along our coast that could take advantage of these unique environmental conditions.” SHARE This Happy Ending To A Truly Unique Conservation Success Story… Leave a Reply Cancel replyYou must be logged in to post a comment."
+                    ]
+                },
+                {
+                    "sentence": "Chaque tortue a été mesurée avant son retour à l'océan, minimisant les perturbations.",
+                    "source_passages": [
+                        "Photos released by the Aquarium that were taken with red or infrared light show handlers measuring each hatchling before letting them scurry down to the water on their own, with minimal human disturbance and other distractions."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-f602a232ea5e9419edd905ae",
+            "subject_id": "news-ab512ff5041d7997c74fb5d527102d96",
+            "collected_at": "2026-11-18T07:27:15+00:00",
+            "sources": [
+                {
+                    "label": "NASA · publié le 2026-11-17",
+                    "url": "https://www.nasa.gov/missions/station/nicer-status-updates/"
+                }
+            ],
+            "source_sha256": "0c8c85cc158cab488a699e32c5ab399e9824d07c1f7fa74ff30f54c9fec4f263",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Iss072e371305_(Dec_17,_2024)_---_The_NICER_(Neutron_star_Interior_Composition_Explorer)_X-ray_telescope_is_pictured_installed_on_the_starboard_side_of_the_International_Space_Station%27s_integrated_truss_segment.jpg",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "f67e341d69613f8af04cf17f8540f664659682cb",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Le télescope NICER a achevé avec succès ses opérations scientifiques après plus de six ans d'observations de l'univers en rayons X, contribuant à une meilleure compréhension des étoiles à neutrons et autres phénomènes cosmiques.",
+                "beneficiaries": "la communauté scientifique internationale, les projets technologiques dérivés (notamment des scanners portables)"
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Depuis son lancement en 2017, le télescope NICER installé sur la Station spatiale internationale a mené une mission initiale prévue pour 18 mois, finalement étendue à plus de six ans d'observations.",
+                    "source_passages": [
+                        "Launched in 2017, NICER embarked on an initial 18-month prime mission."
+                    ]
+                },
+                {
+                    "sentence": "Ses mesures ont permis d’approfondir la connaissance des étoiles à neutrons, qui contiennent la matière la plus dense connue, et d'améliorer la compréhension des trous noirs et des galaxies actives.",
+                    "source_passages": [
+                        "Since then, it has made groundbreaking measurements of neutron stars, which contain the densest matter in the universe that we can measure, and revolutionized our understanding of black holes, active galaxies, and other mysterious phenomena in our universe."
+                    ]
+                },
+                {
+                    "sentence": "Le télescope a également démontré la faisabilité d'une navigation spatiale basée sur les pulsars en rayons X, une application potentielle pour de futures missions vers Mars.",
+                    "source_passages": [
+                        "The telescope also successfully demonstrated the potential of pulsar-based spacecraft navigation in X-rays that could be used for travel to Mars and beyond.",
+                        "Since it began observing the X-ray universe in 2017, NICER has successfully demonstrated a form of deep space navigation that could be used for travel to Mars and beyond.",
+                        "Designed for a prime mission of 18 months and now in its eighth year of operations, NICER has made groundbreaking measurements of neutron stars, which contain the densest matter in the universe that we can measure, and revolutionized our understanding of black holes, active galaxies, and other mysterious phenomena in our universe."
+                    ]
+                },
+                {
+                    "sentence": "Malgré une panne d’un moteur en 2025, les équipes ont complété la collecte de données et commencé à retirer l'instrument.",
+                    "source_passages": [
+                        "In June 2025, NICER was suddenly unable to swivel side-to-side beyond its current orientation, which limited its ability to track cosmic objects.",
+                        "The team paused data collection to investigate the issue.",
+                        "June 24, 2025 NASA’s NICER Telescope Suspends Science Operations NASA’s NICER (Neutron star Interior Composition Explorer), an X-ray telescope on the International Space Station, has paused observations due to a problem with one of the motors that drives its ability to track cosmic objects.",
+                        "The NICER team paused operations June 17 when performance degradation in the motor began affecting science observations.",
+                        "Engineers are investigating the cause and potential solutions."
+                    ]
+                },
+                {
+                    "sentence": "Par ailleurs, des technologies développées pour NICER sont utilisées dans des prototypes de scanners portables et autres équipements sur Terre, apportant un bénéfice concret au-delà de l’astronomie.",
+                    "source_passages": [
+                        "Closer to home, technology developed to test NICER before launch is being incorporated into prototype portable CT scanners, materials analysis systems, and other applications.",
+                        "Technology developed to test NICER before launch is being incorporated into prototype portable CT scanners, communications systems, and several other applications on Earth for the benefit of all."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-236d159844356e50ce9f7301",
+            "subject_id": "news-91c0979d3b12fc4544ea9992b0dcde0b",
+            "collected_at": "2026-11-18T07:28:24+00:00",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-17",
+                    "url": "https://www.goodnewsnetwork.org/algeria-returns-kindness-shown-by-kansans-who-welcomed-its-world-cup-team-with-the-trip-of-a-lifetime/"
+                }
+            ],
+            "source_sha256": "262106adbc6a243c0ebf9358cf05b30a91da34b88015049b4a4e6540036b1265",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:France_North_Africa_Spahi_(Algerian)_mounted_troop%27s_jacket_and_waistcoast_-_National_World_War_I_Museum_-_Kansas_City,_MO_-_DSC07497.JPG",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "63fa16e375f60c930da99f1f02c117d96135b8bb",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Des familles du Kansas ont été accueillies chaleureusement en Algérie en retour de leur accueil du tournoi de football, favorisant un échange culturel et des liens d’amitié.",
+                "beneficiaries": "Les familles du Kansas, les résidents de Lawrence au Kansas, la communauté algérienne et les participants à ces échanges culturels."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Lors de la Coupe du Monde de 2026, l’équipe algérienne avait choisi Lawrence au Kansas comme base, où elle a été chaleureusement accueillie par la communauté locale et la diaspora algérienne.",
+                    "source_passages": [
+                        "As dozens of international soccer teams descended on the United States for the 2026 FIFA World Cup, team Algeria chose Lawrence, Kansas—pop.",
+                        "94.934.",
+                        "To the shock of the locals, hundreds of members of the North American Algerian diaspora, organized by a young woman attending the nearby University of Kansas, mobbed the small city and infected it with World Cup fever.",
+                        "Together with her friends, she helped organize the support of the team’s arrival at the airport, through the creation of an Instagram account and Facebook page titled “L’Algerie fi Kansas City.” Few if any pieces of content came to epitomize the enthusiasm for the World Cup more than the video of a local Lawrence resident talking to Algerian traveling press about his gratitude for the kindness and enthusiasm of their visitors, which garnered tens of millions of views.",
+                        "“We as Lawrence residents didn’t adopt the team,” Aaron Downey, a resident who closely follows international club soccer, told the Guardian back in June.",
+                        "“I think the Algerians adopted us.",
+                        "They brought all the vibes, the culture, the acceptance, to the residents of Lawrence."
+                    ]
+                },
+                {
+                    "sentence": "Ce lien s’est prolongé lorsque plusieurs familles du Kansas ont été invitées en Algérie pour un voyage organisé par le gouvernement algérien.",
+                    "source_passages": [
+                        "Dozens of representatives from the country’s government and hospitality sector were there, arms outstretched with flowers, happy to see them.",
+                        "They had come to repay a debt to the travelers—a debt of kindness.",
+                        "I think that’s what made us so close and made this what it is.” That seed of vibes and friendship planted in Lawrence has now sprouted in North Africa, GNN understands, where at the invitation of the President of Algeria himself, the Mayor of Lawrence Brad Finkeldei, members of L’Algerie fi Kansas City, officers from the local police that provided security for the soccer team during trainings, and residents of neighboring Kansas City, all arrived for the trip of a lifetime."
+                    ]
+                },
+                {
+                    "sentence": "À leur arrivée tôt le matin, elles ont été accueillies avec des fleurs et accompagnées pour visiter des sites historiques comme Tipaza, un site du patrimoine mondial de l’UNESCO.",
+                    "source_passages": [
+                        "“The flight into Algeria was amazing, and upon arrival I never thought at 4:30 in the morning there would be 15, 20, 30 people standing outside the plane waiting to greet us to your beautiful country,” said one Kansan in a video shared by the Algiers Airport.",
+                        "View this post on Instagram A post shared by L'Algérie fi Kansas City (@lalgeriefikansascity) The Kansans were given passes labeled “Delegation Member” and driven around to see the sights of the city and countryside, like the Roman and Carthaginian ruins at the UNESCO World Heritage Site of Tipaza, and the Royal Mausoleum of Mauretania."
+                    ]
+                },
+                {
+                    "sentence": "Cette réciprocité souligne comment la passion commune du football peut bâtir des ponts culturels et créer des amitiés durables entre deux régions éloignées.",
+                    "source_passages": [
+                        "They had come to repay a debt to the travelers—a debt of kindness.",
+                        "Of course, being that it was soccer that united these two distant cities, the visit could not have possibly been complete without a chance to cheer on “Les Fennecs” as they beat Togo 1-0 in an African Cup of Nations qualifier.",
+                        "The story is a reminder of many things: of the impact of simple welcoming gestures, of the famous hospitality of the North Africans, and of the power that that small black and white ball has to unite people of all colors and creeds."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-c72fc297a6f1d09005915882",
+            "subject_id": "source-1eaf69d9688e7401ab9136f2ba9772c0",
+            "collected_at": "2026-11-18T07:29:00+00:00",
+            "sources": [
+                {
+                    "label": "NOAA · What is a whale fall?",
+                    "url": "https://oceanservice.noaa.gov/facts/whale-fall.html"
+                }
+            ],
+            "source_sha256": "e1214532e74949718522418b41b41d4d68a690e885f3a00530b2f893e289f7f6",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:SCR_FEIS_Figure_3.2-31_%E2%80%93_Whale%27s_Tooth_station_conceptual_design.png",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "9d3d7f39b14bde7ecd6cb8b4edac8215a3f448a8",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Les carcasses de baleines immergées fournissent une source concentrée de nutriments et permettent la formation de nouvelles chaînes alimentaires dans les fonds marins profonds.",
+                "beneficiaries": "les organismes marins profonds, incluant charognards, microbes, invertébrés et éponges qui s'alimentent et colonisent les restes"
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Quand une baleine meurt, son corps coule au fond de l'océan, engendrant ce que l'on appelle un \"whale fall\".",
+                    "source_passages": [
+                        "When whales die and sink, their carcasses — known as whale falls — provide a bounty of nutrients for deepwater creatures.",
+                        "When whales die and sink, the whale carcasses, or whale falls, provide a sudden, concentrated food source and a bonanza for organisms in the deep sea."
+                    ]
+                },
+                {
+                    "sentence": "Ce phénomène nourrit pendant plusieurs années une succession d'organismes marins.",
+                    "source_passages": [
+                        "When whales die and sink, the whale carcasses, or whale falls, provide a sudden, concentrated food source and a bonanza for organisms in the deep sea.",
+                        "Different stages in the decomposition of a whale carcass support a succession of marine biological communities."
+                    ]
+                },
+                {
+                    "sentence": "D'abord, des charognards consomment la chair en quelques mois.",
+                    "source_passages": [
+                        "Scavengers consume the soft tissue in a matter of months."
+                    ]
+                },
+                {
+                    "sentence": "Les restes organiques enrichissent ensuite les sédiments voisins, avant que le squelette n'abrite des communautés d'invertébrés colonisateurs grâce aux sulfures résultant de la décomposition osseuse.",
+                    "source_passages": [
+                        "Organic fragments, or detritus, enrich the sediments nearby for over a year.",
+                        "The whale skeleton can support rich communities for years to decades, both as a hard substrate (or surface) for invertebrate colonization and as a source of sulfides from the decay of organic compounds of whale bones."
+                    ]
+                },
+                {
+                    "sentence": "Ce processus chimique permet à des microbes de prospérer et de créer une nouvelle base alimentaire.",
+                    "source_passages": [
+                        "The whale skeleton can support rich communities for years to decades, both as a hard substrate (or surface) for invertebrate colonization and as a source of sulfides from the decay of organic compounds of whale bones.",
+                        "Microbes live off of the energy released from these chemical reactions and form the basis of ecosystems for as long as the food source lasts."
+                    ]
+                },
+                {
+                    "sentence": "Ainsi, ces carcasses offrent une source énergétique rare dans les profondeurs, soutenant des réseaux alimentaires jusqu'alors limités par le peu de ressources disponibles.",
+                    "source_passages": [
+                        "When whales die and sink, the whale carcasses, or whale falls, provide a sudden, concentrated food source and a bonanza for organisms in the deep sea.",
+                        "At deep sea levels this forms a new food web and provides energy to support single- and multi-cell organisms and sponges, thus adding to the ocean's food chain."
+                    ]
+                },
+                {
+                    "sentence": "Ce cycle écologique contribue à la biodiversité et aux échanges énergétiques des écosystèmes profonds.",
+                    "source_passages": [
+                        "At deep sea levels this forms a new food web and provides energy to support single- and multi-cell organisms and sponges, thus adding to the ocean's food chain."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-ba284a13a6456c771296d0e7",
+            "subject_id": "Q51812",
+            "collected_at": "2026-11-18T07:29:07+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Alberobello",
+                    "url": "https://fr.wikipedia.org/wiki/Alberobello"
+                }
+            ],
+            "source_sha256": "8ad0397b5e8c3ddc09ebe2b7216654eb464f317d63b573a24ffd9b3c0be8e5fe",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Alberobello_-_View_from_Piazza_Giangirolamo_II_-_03.jpg",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "original_sha1": "683fc420cc58fcd624a16acce6cd6bc4d0821e19",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Les quartiers historiques d'Alberobello conservent plus de 1 500 maisons traditionnelles en pierre sèche, appelées trulli, avec leurs toits coniques typiques, ce qui préserve un patrimoine architectural unique classé au patrimoine mondial de l'UNESCO.",
+                "beneficiaries": "les habitants d'Alberobello, les visiteurs et les amateurs de patrimoine architectural ainsi que la conservation des techniques de construction ancienne"
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Alberobello, petite ville des Pouilles en Italie, se distingue par ses quartiers traditionnels où s'élèvent environ 1 500 trulli, ces maisons en pierres sèches coiffées de toits coniques en lauses calcaires.",
+                    "source_passages": [
+                        "== Les trulli == Alberobello possède d'anciens quartiers populaires aux maisons faites de pierres sèches (sans mortier) et au toit en forme de cône couvert de lauses calcaires, notamment celles extraites lors du creusement de la citerne afférente à chaque nouveau trullo.",
+                        "Elles ont pour nom trulli (au singulier trullo) en italien mais casedde (au singulier casedda) en dialecte local.",
+                        "On en compte environ 1 500 dans les quartiers Monti et Aia Piccola, tous deux classés au patrimoine mondial de l'UNESCO."
+                    ]
+                },
+                {
+                    "sentence": "Cette architecture simple, sans mortier, utilise les pierres extraites localement lors du creusement des citernes.",
+                    "source_passages": [
+                        "== Les trulli == Alberobello possède d'anciens quartiers populaires aux maisons faites de pierres sèches (sans mortier) et au toit en forme de cône couvert de lauses calcaires, notamment celles extraites lors du creusement de la citerne afférente à chaque nouveau trullo."
+                    ]
+                },
+                {
+                    "sentence": "Deux quartiers principaux, Monti et Aia Piccola, conservent ce caractère ancien et sont inscrits au patrimoine mondial de l'UNESCO.",
+                    "source_passages": [
+                        "On en compte environ 1 500 dans les quartiers Monti et Aia Piccola, tous deux classés au patrimoine mondial de l'UNESCO."
+                    ]
+                },
+                {
+                    "sentence": "Le quartier Monti, avec ses ruelles en pente et ses nombreuses boutiques adaptées aux visiteurs, montre comment la préservation de ce mode de construction ancestral permet à la fois de protéger un héritage unique et de maintenir la vie locale autour de ces structures historiques.",
+                    "source_passages": [
+                        "On en compte environ 1 500 dans les quartiers Monti et Aia Piccola, tous deux classés au patrimoine mondial de l'UNESCO.",
+                        "Le quartier Monti (« des Monts ») est le plus touristique de la ville.",
+                        "Les nombreux trulli bordant ses ruelles pentues sont pour la plupart convertis en boutiques de souvenirs et de produits..."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        }
+    ]
+}
