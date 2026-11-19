@@ -1,0 +1,179 @@
+{
+    "schema_version": 1,
+    "articles": [
+        {
+            "id": "decouverte-63ac8498d374652e0f9d6dd8",
+            "subject_id": "news-3207502dc267c827fe2ead466044062d",
+            "collected_at": "2026-11-19T17:23:03+00:00",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-19",
+                    "url": "https://www.goodnewsnetwork.org/empire-state-building-lit-up-with-gold-to-celebrate-nasa-spacecraft-passing-one-light-day-from-earth/"
+                }
+            ],
+            "source_sha256": "5c38e9d9b5f407d3b500d95af74abe303fdb10bc54f636d512ae94849f1aceac",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:NASA%27s_Voyager_1_Spacecraft_Light-Day_(NHQ202611170011).jpg",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "ecdc28cfe7c94dd697910119a63b265daad1a490",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Le passage de Voyager 1 à une distance d'un jour-lumière a été célébré par l'illumination en or de l'Empire State Building, marquant un repère historique dans l'exploration spatiale.",
+                "beneficiaries": "le public mondial et les équipes de la NASA qui suivent la mission Voyager ainsi que la connaissance humaine de l'espace lointain"
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Le 17 novembre 2026, la sonde Voyager 1 a franchi la distance correspondant à un jour-lumière, c'est-à-dire la distance parcourue par la lumière en 24 heures, environ 16 milliards de miles.",
+                    "source_passages": [
+                        "On Wednesday, the spacecraft passed one light-day from Earth: the distance light travels in 24 hours, or about 16 billion miles (26 billion kilometers)."
+                    ]
+                },
+                {
+                    "sentence": "Pour marquer cette étape, l'Empire State Building a été illuminé en doré, couleur symbolique du disque en cuivre plaqué or embarqué sur la sonde, contenant des sons et images choisies représentatives de la diversité terrestre.",
+                    "source_passages": [
+                        "The Empire State Building seen illuminated in gold to mark Voyager 1’s milestone of traveling one light-day from Earth – credit, Bill Ingalls, NASA via SWNS This week the Empire State Building was illuminated in gold to celebrate NASA’s Voyager 1 spacecraft passing one light-day away from Earth.",
+                        "Voyager spacecraft – NASA “The color gold is emblematic of the gold-plated copper phonograph record that is flying on Voyager,” NASA wrote on Tuesday.",
+                        "“The record contains sounds and images selected to portray the diversity of life and culture on Earth.” The 12-inch gold-plated copper disc is intended as a message from humanity to any civilization that may encounter it."
+                    ]
+                },
+                {
+                    "sentence": "Malgré les nombreux défis liés à son âge et à la distance extrême, Voyager 1 continue d'envoyer des signaux porteurs d'information vers la Terre, permettant à la NASA de prolonger l'étude du milieu interstellaire.",
+                    "source_passages": [
+                        "It now takes the farthest man-made object from Earth 24 hours to send a signal back to NASA headquarters.",
+                        "It crossed into interstellar space in 2012 and continues to send data back to Earth nearly 50 years after its launch.",
+                        "The presence of a carrier signal means that Voyager 1’s Attitude and Articulation Control computer is doing its job to keep the spacecraft pointed at Earth and that its antenna, as well as its broadcast equipment, still work."
+                    ]
+                },
+                {
+                    "sentence": "Cette célébration souligne à la fois la durée exceptionnelle de la mission et son rôle dans notre compréhension du cosmos.",
+                    "source_passages": [
+                        "It crossed into interstellar space in 2012 and continues to send data back to Earth nearly 50 years after its launch."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-eb7ae12957b15c97c4a09954",
+            "subject_id": "news-1d40078692b5e673e819b252fa956b45",
+            "collected_at": "2026-11-19T17:23:15+00:00",
+            "sources": [
+                {
+                    "label": "Good Good Good · publié le 2026-11-19",
+                    "url": "https://www.goodgoodgood.co/articles/endangered-species-peacock-pheasant-chicks"
+                }
+            ],
+            "source_sha256": "5afef3a0c7367a1cc89a90eec7e4d40bc1c6ada8b529cfd970fd86a11de15852",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Malay_Bronze-tailed_Peacock_Pheasant_by_Louis_Agassiz_Fuertes.png",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "4523ba55143419d68cda43d53c82f63130184290",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Des manières innovantes ont permis à deux poussins d’une espèce de faisans en danger de survivre et de grandir.",
+                "beneficiaries": "Les poussins de faisans paon malais, une espèce menacée, et l’ensemble du programme de conservation dédié à cette population fragile en captivité."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Le Chester Zoo en Angleterre a réussi à faire grandir deux poussins de faisans paon malais, une espèce rare et menacée.",
+                    "source_passages": [
+                        "Zookeepers save endangered peacock-pheasant chicks, thanks to foster ‘mom’ and rubber glove hackGood NewsAnimalsWith just 15 Malay peacock-pheasants being raised in captivity, every chick is vital to the survival of the endangered species.",
+                        "Chester ZooThis year, one of their adult female Malay peacock-pheasants became a first-time mother.",
+                        "She’s reared the baby really well ever since.”One of the two Malay peacock-pheasant chicks."
+                    ]
+                },
+                {
+                    "sentence": "Un premier œuf abandonné par sa mère a été couvé par une femelle d’une espèce proche, agissant ainsi comme « mère nourricière ».",
+                    "source_passages": [
+                        "The zookeepers paired her egg with a bronze-tailed peacock-pheasant, who stepped in as a “foster parent.”“Whenever possible, we try to give our birds the opportunity to rear their own young,” Owen told Good Good Good.",
+                        "Given the rarity of this species and as the first eggs laid were abandoned by the parent bird, we decided to intervene.”Owen said it is not unusual for zookeepers to rely on non-parent animals to help rear baby birds.\"Foster parent\" bronze-tailed peacock-pheasant with the chick she tended to.",
+                        "Chester ZooLeanne Lowton, the lead keeper of birds at Chester Zoo, said the foster “mom” they turned to was a very similar species to the natural parents.",
+                        "“We didn’t want this chick to grow up not knowing how to be a pheasant,” Lowton said."
+                    ]
+                },
+                {
+                    "sentence": "Pour le deuxième poussin, qui a été exposé au froid après l’éclosion, les soigneurs ont fabriqué un dispositif de chaleur temporaire avec un gant en caoutchouc, évitant ainsi son hypothermie.",
+                    "source_passages": [
+                        "However, shortly after the chick hatched, she left the nest early, leaving it in the cold.Zookeepers kept a Malay peacock-pheasant in one of these incubators with a glove that was turned into a hot-water bottle.",
+                        "Chester ZooLowton improvised a solution by turning a rubber glove into a temporary hot-water bottle to keep the baby bird alive.",
+                        "“The chick was chilled, so we needed to provide warmth and energy."
+                    ]
+                },
+                {
+                    "sentence": "Ces interventions ont permis aux poussins de grandir normalement et d’être intégrés au programme européen de reproduction en captivité, qui ne compte actuellement qu’une quinzaine d’individus.",
+                    "source_passages": [
+                        "More chicks means a stronger safeguard for the endangered species.",
+                        "According to the European Association of Zoos and Aquaria, just 15 individuals are currently being raised in captivity in European zoos.",
+                        "“The young birds at Chester Zoo are important additions to the conservation breeding program developing an insurance population of this at-risk species,” Chester Zoo said in a statement.One of the two Malay peacock-pheasant chicks getting a health check up."
+                    ]
+                },
+                {
+                    "sentence": "L’expérience souligne l’importance d’approches adaptatives pour la conservation d’espèces menacées, tout en respectant au maximum le comportement naturel des oiseaux.",
+                    "source_passages": [
+                        "“It is quite normal for young, inexperienced parent birds to not get it quite right on the first attempt.",
+                        "“It is hoped now that these maternal instincts have kicked in; the female Malay peacock-pheasant will go on to rear future chicks without assistance from the keepers,” he said."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-42abad56c1ec7be4fb9b00ff",
+            "subject_id": "news-c75eda2df4bc1cdf442d437e5d2066a8",
+            "collected_at": "2026-11-19T17:23:48+00:00",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-19",
+                    "url": "https://www.goodnewsnetwork.org/over-100-cave-bear-skeletons-found-in-sensational-discovery-by-alpine-guide/"
+                }
+            ],
+            "source_sha256": "e6b4fefcbab39970bd1da1106d8ca27c0f696be7e35188533689fd8667429eb2",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Cave_bear_skeleton.jpg",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "original_sha1": "de6d1045d4aec2ca3440391d01a72ed99269a65a",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Une grotte en Italie a été sécurisée pour protéger plus de 100 squelettes d’ours des cavernes désormais accessibles à la recherche scientifique.",
+                "beneficiaries": "les scientifiques spécialisés en paléontologie, climatologie, paléobotanique, spéléologie et génétique ancienne, et plus largement la communauté scientifique internationale."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "En juillet 2026, un guide de montagne a découvert une grotte unique à 3 000 mètres d’altitude dans les Dolomites, en Italie, contenant plus de 100 squelettes d’ours des cavernes éteints.",
+                    "source_passages": [
+                        "Discovered in July by a mountain guide in the Autonomous Province of South Tyrol, northern Italy, the cave sits around 9,100 feet above sea level on the side of an almost sheer cliff.",
+                        "The guide, Kurt Walde, found the cave in the municipality of Enneberg just above another famous cave called Conturines, the highest in altitude in which cave bear remains had ever been found."
+                    ]
+                },
+                {
+                    "sentence": "Pour éviter le pillage, les autorités ont installé une grille métallique et une bâche de protection, sécurisant ainsi le site jusqu’au printemps 2027.",
+                    "source_passages": [
+                        "Kept secret to prevent looting, the incredible assemblage of thousands of bones will remain tucked away behind iron bars until the spring thaw when an interdisciplinary team of scientists will begin studying them.",
+                        "When Walde discovered this new, potentially even greater trove of extinct animal bones, Director of the Archeological Heritage Office, Christian Terzer, began work to construct a metal gate and protective tarp over the cave entrance to prevent similar illegal incursions."
+                    ]
+                },
+                {
+                    "sentence": "Cette mesure permet à une équipe interdisciplinaire de scientifiques – paléontologues, climatologues, paléobotanistes, spéléologues et spécialistes de l’ADN ancien – d’étudier les ossements en détail.",
+                    "source_passages": [
+                        "The team was successful, however, and with winter closing in the site has been locked up until next June, when “an interdisciplinary research project with international participation, in which paleontologists, climate researchers, paleobotanists, speleologists, and specialists in ancient DNA will participate,” Terzer told Die Welt."
+                    ]
+                },
+                {
+                    "sentence": "Ces recherches devraient mieux éclairer la vie de ces grands herbivores du Pléistocène, dont la présence avait été révélée par des trouvailles dans une autre grotte désormais perdue.",
+                    "source_passages": [
+                        "Now the scientific work begins, which will give us a more precise picture of how cave bears lived in the Dolomites,” added Provincial Councilor Philipp Achammer in the statement.",
+                        "That cave was tragically looted before scientists had a chance to study all the animals that lived and died there."
+                    ]
+                },
+                {
+                    "sentence": "Ce site exceptionnel pourra ainsi contribuer à approfondir les connaissances sur la faune alpine ancienne et les conditions climatiques de cette période.",
+                    "source_passages": [
+                        "Now the scientific work begins, which will give us a more precise picture of how cave bears lived in the Dolomites,” added Provincial Councilor Philipp Achammer in the statement.",
+                        "Swiss outlet Tages Anzeiger reports that caves containing concentrations of cave bear remains have been found across the Alps."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        }
+    ]
+}

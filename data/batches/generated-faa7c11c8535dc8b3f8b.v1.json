@@ -1,0 +1,85 @@
+{
+    "schema_version": 1,
+    "id": "generated-faa7c11c8535dc8b3f8b",
+    "version": "1",
+    "articles": [
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-63ac8498d374652e0f9d6dd8",
+            "title": "Voyager 1 franchit une distance d’un jour-lumière, célébré par une mise en lumière dorée à New York",
+            "body": "Le 17 novembre 2026, la sonde Voyager 1 a franchi la distance correspondant à un jour-lumière, c'est-à-dire la distance parcourue par la lumière en 24 heures, environ 16 milliards de miles. Pour marquer cette étape, l'Empire State Building a été illuminé en doré, couleur symbolique du disque en cuivre plaqué or embarqué sur la sonde, contenant des sons et images choisies représentatives de la diversité terrestre. Malgré les nombreux défis liés à son âge et à la distance extrême, Voyager 1 continue d'envoyer des signaux porteurs d'information vers la Terre, permettant à la NASA de prolonger l'étude du milieu interstellaire. Cette célébration souligne à la fois la durée exceptionnelle de la mission et son rôle dans notre compréhension du cosmos.",
+            "category": "Initiatives positives",
+            "location": "Monde",
+            "image_description": "L'Empire State Building illuminé en doré, photographié depuis le bâtiment One Vanderbilt à New York.",
+            "image_caption": "Illustration documentaire générale. Photographie documentaire générale : L’Empire State Building illuminé en or pour commémorer le passage de Voyager 1 à une distance d’un jour-lumière de la Terre, New York, 17 novembre 2026. Crédits : NASA/Bill Ingalls (Wikimedia Commons).",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/41b62d35b6cc99c21d6e8a0a5b1f0240decaf80f8c86995f3c142e6a1425ed44.jpg",
+            "image_credit": "NASA Headquarters / NASA/Bill Ingalls · This image or video was catalogued by NASA Headquarters of the United States National Aeronautics and Space Administration (NASA) under Photo ID: NHQ202611170011. · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:NASA%27s_Voyager_1_Spacecraft_Light-Day_(NHQ202611170011).jpg",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-19",
+                    "url": "https://www.goodnewsnetwork.org/empire-state-building-lit-up-with-gold-to-celebrate-nasa-spacecraft-passing-one-light-day-from-earth/"
+                }
+            ],
+            "subject_id": "news-3207502dc267c827fe2ead466044062d",
+            "published_at": "2026-11-19",
+            "country": "Monde",
+            "source_published_at": "2026-11-19"
+        },
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-eb7ae12957b15c97c4a09954",
+            "title": "À Chester Zoo, des soins créatifs font grandir des faisans paon malais en voie de disparition",
+            "body": "Le Chester Zoo en Angleterre a réussi à faire grandir deux poussins de faisans paon malais, une espèce rare et menacée. Un premier œuf abandonné par sa mère a été couvé par une femelle d’une espèce proche, agissant ainsi comme « mère nourricière ». Pour le deuxième poussin, qui a été exposé au froid après l’éclosion, les soigneurs ont fabriqué un dispositif de chaleur temporaire avec un gant en caoutchouc, évitant ainsi son hypothermie. Ces interventions ont permis aux poussins de grandir normalement et d’être intégrés au programme européen de reproduction en captivité, qui ne compte actuellement qu’une quinzaine d’individus. L’expérience souligne l’importance d’approches adaptatives pour la conservation d’espèces menacées, tout en respectant au maximum le comportement naturel des oiseaux.",
+            "category": "Initiatives positives",
+            "location": "Chester, Angleterre",
+            "image_description": "Dessin du faisan paon à queue bronzée (Polyplectron chalcurum), espèce proche utilisée comme mère adoptive pour un poussin malais.",
+            "image_caption": "Illustration documentaire générale d’un faisan paon à queue bronzée, proche du faisan paon malais, Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/f88445635ca9f2af7db51efef1d4824a836f06f9ce9051301967a4fc00934c1c.jpg",
+            "image_credit": "Louis Agassiz Fuertes · A Monograph of the Pheasants, volume 4 by William Beebe · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Malay_Bronze-tailed_Peacock_Pheasant_by_Louis_Agassiz_Fuertes.png",
+            "sources": [
+                {
+                    "label": "Good Good Good · publié le 2026-11-19",
+                    "url": "https://www.goodgoodgood.co/articles/endangered-species-peacock-pheasant-chicks"
+                }
+            ],
+            "subject_id": "news-1d40078692b5e673e819b252fa956b45",
+            "published_at": "2026-11-19",
+            "country": "Monde",
+            "source_published_at": "2026-11-19"
+        },
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-42abad56c1ec7be4fb9b00ff",
+            "title": "Une découverte archéologique exceptionnelle dans les Dolomites : plus de 100 squelettes d’ours des cavernes protégés",
+            "body": "En juillet 2026, un guide de montagne a découvert une grotte unique à 3 000 mètres d’altitude dans les Dolomites, en Italie, contenant plus de 100 squelettes d’ours des cavernes éteints. Pour éviter le pillage, les autorités ont installé une grille métallique et une bâche de protection, sécurisant ainsi le site jusqu’au printemps 2027. Cette mesure permet à une équipe interdisciplinaire de scientifiques – paléontologues, climatologues, paléobotanistes, spéléologues et spécialistes de l’ADN ancien – d’étudier les ossements en détail. Ces recherches devraient mieux éclairer la vie de ces grands herbivores du Pléistocène, dont la présence avait été révélée par des trouvailles dans une autre grotte désormais perdue. Ce site exceptionnel pourra ainsi contribuer à approfondir les connaissances sur la faune alpine ancienne et les conditions climatiques de cette période.",
+            "category": "Initiatives positives",
+            "location": "Dolomites, Italie",
+            "image_description": "Squelette d’ours des cavernes exposé au musée de Postojna.",
+            "image_caption": "Illustration générale : squelette d’ours des cavernes au musée de Postojna (photo Wikimedia Commons).",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/725780d7885160c8cffd3eba654fa1c0455d025180475fb2e0c2de60636958ef.jpg",
+            "image_credit": "Tiia Monto · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Cave_bear_skeleton.jpg",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-19",
+                    "url": "https://www.goodnewsnetwork.org/over-100-cave-bear-skeletons-found-in-sensational-discovery-by-alpine-guide/"
+                }
+            ],
+            "subject_id": "news-c75eda2df4bc1cdf442d437e5d2066a8",
+            "published_at": "2026-11-19",
+            "country": "Monde",
+            "source_published_at": "2026-11-19"
+        }
+    ]
+}
