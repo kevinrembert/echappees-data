@@ -1,0 +1,57 @@
+{
+    "schema_version": 1,
+    "id": "generated-0cd30f844e999bf25b2a",
+    "version": "1",
+    "articles": [
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "daily",
+            "id": "decouverte-91f50b8998798402fabce90e",
+            "title": "Comprendre les marées rouges : un suivi scientifique pour mieux gérer leurs impacts",
+            "body": "Les marées rouges, ou proliférations d'algues nuisibles, se produisent lorsque certaines micro-algues croissent de façon excessive en produisant des toxines qui affectent poissons, coquillages, mammifères marins, oiseaux et parfois la santé humaine. Taille et fréquence de ces phénomènes, observés notamment près de la côte du Golfe du Mexique, augmentent. Le National Ocean Service aux États-Unis étudie ces événements depuis des années, développant des outils de détection et de prévision. Ces avancées permettent désormais d’alerter en amont les populations concernées afin d’atténuer les conséquences sanitaires et économiques. Ainsi, la science contribue à mieux gérer les marées rouges en protégeant les écosystèmes et les communautés côtières.",
+            "category": "Nature et animaux",
+            "location": "Monde",
+            "image_description": "Empreinte fossile sur un site protégé dans le Wyoming, États-Unis, illustrant une zone naturelle préservée.",
+            "image_caption": "Photographie documentaire générale d'un site naturel protégé aux États-Unis, illustration pour un article sur les phénomènes marins. Source : Bureau of Land Management via Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/4adcdef1718515103986fb127126c6655617074a4f610e1de12ad8c4363e473c.jpg",
+            "image_credit": "Bureau of Land Management · My Public Lands Magazine, Summer 2014 · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:My_Public_Lands_Magazine,_Summer_2014_(13969733922).jpg",
+            "sources": [
+                {
+                    "label": "NOAA · What is a red tide?",
+                    "url": "https://oceanservice.noaa.gov/facts/redtide.html"
+                }
+            ],
+            "subject_id": "source-66fbfb010ba0869532638620703d13fd",
+            "published_at": "2026-11-19",
+            "country": "Monde"
+        },
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "daily",
+            "id": "decouverte-28cae53039422ec16c1af7ef",
+            "title": "Les aurores polaires : un spectacle lumineux naturel influencé par le vent solaire",
+            "body": "L’aurore polaire se distingue par ses voiles colorés, dominés par le vert aux latitudes proches des pôles, résultant de l’interaction entre le vent solaire et la haute atmosphère. Observé depuis l’Antiquité, ce phénomène se produit dans la zone aurorale, située entre 65° et 75° de latitude autour des pôles magnétiques. Lors d’une activité solaire intense, l’arc lumineux s’étend vers l’équateur, rendant ce spectacle visible plus loin que d’habitude. Ces manifestations naturelles sont ainsi à la fois un élément du patrimoine visuel des régions polaires et une source d’étude scientifique continue sur l’atmosphère terrestre et l’activité solaire. Le vert prédominant s’explique par la composition de l’atmosphère et les particules impliquées.",
+            "category": "Sciences",
+            "location": "Monde",
+            "image_description": "Une vue large sur Storfjorden (une partie du fjord Lyngen) pendant une nuit d’hiver en mars 2012, avec des aurores boréales traversant le ciel.",
+            "image_caption": "Illustration documentaire générale : aurores boréales au-dessus de Storfjorden et des Alpes Lyngen sous la lumière de la Lune, mars 2012. Photographie prise par Ximonic (Simo Räsänen) · Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/ecf088e5a7a8d420d92b72b8ca8cf7a319d169eb8681105466b1eeeba7106c2b.jpg",
+            "image_credit": "Ximonic (Simo Räsänen) · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Aurora_borealis_above_Storfjorden_and_the_Lyngen_Alps_in_moonlight,_2012_March.jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Aurore polaire",
+                    "url": "https://fr.wikipedia.org/wiki/Aurore_polaire"
+                }
+            ],
+            "subject_id": "Q40609",
+            "published_at": "2026-11-19",
+            "country": "Monde"
+        }
+    ]
+}

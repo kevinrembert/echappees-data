@@ -1,0 +1,125 @@
+{
+    "schema_version": 1,
+    "articles": [
+        {
+            "id": "decouverte-91f50b8998798402fabce90e",
+            "subject_id": "source-66fbfb010ba0869532638620703d13fd",
+            "collected_at": "2026-11-19T07:25:01+00:00",
+            "sources": [
+                {
+                    "label": "NOAA · What is a red tide?",
+                    "url": "https://oceanservice.noaa.gov/facts/redtide.html"
+                }
+            ],
+            "source_sha256": "551acd72f411ede4a013dcac477ade710f404c11538a6f97bcaf2beb4d518c63",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:My_Public_Lands_Magazine,_Summer_2014_(13969733922).jpg",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "da7747bf622262bc5324c3a68a886ce7f37b5b86",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La surveillance et la modélisation des proliférations d'algues toxiques offrent aux communautés des alertes précoces.",
+                "beneficiaries": "les écosystèmes marins, les habitants des zones côtières et les secteurs économiques locaux affectés par les marées rouges"
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Les marées rouges, ou proliférations d'algues nuisibles, se produisent lorsque certaines micro-algues croissent de façon excessive en produisant des toxines qui affectent poissons, coquillages, mammifères marins, oiseaux et parfois la santé humaine.",
+                    "source_passages": [
+                        "A \"red tide\" is a common term used for a harmful algal bloom.",
+                        "Harmful algal blooms, or HABs, occur when colonies of algae—plant-like organisms that live in the sea and freshwater—grow out of control while producing toxic or harmful effects on people, fish, shellfish, marine mammals, and birds.",
+                        "The human illnesses caused by HABs, though rare, can be debilitating or even fatal.",
+                        "This bloom, like many HABs, is caused by microscopic algae that produce toxins that kill fish and make shellfish dangerous to eat.",
+                        "A small percentage of algae, however, produce powerful toxins that can kill fish, shellfish, mammals, and birds, and may directly or indirectly cause illness in people."
+                    ]
+                },
+                {
+                    "sentence": "Taille et fréquence de ces phénomènes, observés notamment près de la côte du Golfe du Mexique, augmentent.",
+                    "source_passages": [
+                        "One of the best known HABs in the nation occurs nearly every summer along Florida’s Gulf Coast.",
+                        "coastal state, and their occurrence may be on the rise."
+                    ]
+                },
+                {
+                    "sentence": "Le National Ocean Service aux États-Unis étudie ces événements depuis des années, développant des outils de détection et de prévision.",
+                    "source_passages": [
+                        "Scientists at the National Ocean Service have been monitoring and studying this phenomenon for a number of years to determine how to detect and forecast the location of the blooms."
+                    ]
+                },
+                {
+                    "sentence": "Ces avancées permettent désormais d’alerter en amont les populations concernées afin d’atténuer les conséquences sanitaires et économiques.",
+                    "source_passages": [
+                        "The goal is to give communities advance warnings so they can adequately plan for and deal with the adverse environmental and health effects associated with these 'red-tide' events."
+                    ]
+                },
+                {
+                    "sentence": "Ainsi, la science contribue à mieux gérer les marées rouges en protégeant les écosystèmes et les communautés côtières.",
+                    "source_passages": [
+                        "HABs are a national concern because they affect not only the health of people and marine ecosystems, but also the 'health' of local and regional economies.",
+                        "The goal is to give communities advance warnings so they can adequately plan for and deal with the adverse environmental and health effects associated with these 'red-tide' events."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-28cae53039422ec16c1af7ef",
+            "subject_id": "Q40609",
+            "collected_at": "2026-11-19T07:25:11+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Aurore polaire",
+                    "url": "https://fr.wikipedia.org/wiki/Aurore_polaire"
+                }
+            ],
+            "source_sha256": "19dacb43bca868d81413b14db14d0f126b0ac31d247caa0cab278eef8b1762b1",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Aurora_borealis_above_Storfjorden_and_the_Lyngen_Alps_in_moonlight,_2012_March.jpg",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "original_sha1": "dd0d6bb8e3e5165a43e4f5de901f2c1c6b1f9d4d",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La lumière verte prédominante des aurores dans les zones proches des pôles offre un spectacle naturel étudié depuis l'Antiquité, visible dans une zone appelée zone aurorale entre 65° et 75° de latitude.",
+                "beneficiaries": "Les habitants et visiteurs des régions proches des pôles magnétiques, ainsi que les scientifiques étudiant ce phénomène atmosphérique."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "L’aurore polaire se distingue par ses voiles colorés, dominés par le vert aux latitudes proches des pôles, résultant de l’interaction entre le vent solaire et la haute atmosphère.",
+                    "source_passages": [
+                        "L’aurore polaire, également appelée « aurore boréale » dans l'hémisphère nord et « aurore australe » dans l'hémisphère sud, est un phénomène lumineux atmosphérique caractérisé par des voiles extrêmement colorés dans le ciel nocturne, le vert étant prédominant aux latitudes proches des pôles.",
+                        "Provoquées par l'interaction entre les particules chargées du vent solaire et la haute atmosphère, les aurores se produisent principalement dans les régions proches des pôles magnétiques, dans une zone annulaire justement appelée « zone aurorale » (entre 65 et 75° de latitude)."
+                    ]
+                },
+                {
+                    "sentence": "Observé depuis l’Antiquité, ce phénomène se produit dans la zone aurorale, située entre 65° et 75° de latitude autour des pôles magnétiques.",
+                    "source_passages": [
+                        "L’aurore polaire, également appelée « aurore boréale » dans l'hémisphère nord et « aurore australe » dans l'hémisphère sud, est un phénomène lumineux atmosphérique caractérisé par des voiles extrêmement colorés dans le ciel nocturne, le vert étant prédominant aux latitudes proches des pôles.",
+                        "Provoquées par l'interaction entre les particules chargées du vent solaire et la haute atmosphère, les aurores se produisent principalement dans les régions proches des pôles magnétiques, dans une zone annulaire justement appelée « zone aurorale » (entre 65 et 75° de latitude).",
+                        "== Légendes et études scientifiques == Les aurores boréales ont été observées depuis toujours et ont probablement beaucoup impressionné les Anciens ; dans l'Antiquité, aussi bien en Occident qu'en Chine, les aurores étaient ainsi considérées comme des serpents ou des dragons dans le ciel."
+                    ]
+                },
+                {
+                    "sentence": "Lors d’une activité solaire intense, l’arc lumineux s’étend vers l’équateur, rendant ce spectacle visible plus loin que d’habitude.",
+                    "source_passages": [
+                        "En cas d'activité magnétique solaire intense, l'arc auroral s'étend et commence à envahir des zones beaucoup plus proches de l'équateur."
+                    ]
+                },
+                {
+                    "sentence": "Ces manifestations naturelles sont ainsi à la fois un élément du patrimoine visuel des régions polaires et une source d’étude scientifique continue sur l’atmosphère terrestre et l’activité solaire.",
+                    "source_passages": [
+                        "L’aurore polaire, également appelée « aurore boréale » dans l'hémisphère nord et « aurore australe » dans l'hémisphère sud, est un phénomène lumineux atmosphérique caractérisé par des voiles extrêmement colorés dans le ciel nocturne, le vert étant prédominant aux latitudes proches des pôles.",
+                        "Provoquées par l'interaction entre les particules chargées du vent solaire et la haute atmosphère, les aurores se produisent principalement dans les régions proches des pôles magnétiques, dans une zone annulaire justement appelée « zone aurorale » (entre 65 et 75° de latitude).",
+                        "== Légendes et études scientifiques == Les aurores boréales ont été observées depuis toujours et ont probablement beaucoup impressionné les Anciens ; dans l'Antiquité, aussi bien en Occident qu'en Chine, les aurores étaient ainsi considérées comme des serpents ou des dragons dans le ciel."
+                    ]
+                },
+                {
+                    "sentence": "Le vert prédominant s’explique par la composition de l’atmosphère et les particules impliquées.",
+                    "source_passages": [
+                        "L’aurore polaire, également appelée « aurore boréale » dans l'hémisphère nord et « aurore australe » dans l'hémisphère sud, est un phénomène lumineux atmosphérique caractérisé par des voiles extrêmement colorés dans le ciel nocturne, le vert étant prédominant aux latitudes proches des pôles.",
+                        "Provoquées par l'interaction entre les particules chargées du vent solaire et la haute atmosphère, les aurores se produisent principalement dans les régions proches des pôles magnétiques, dans une zone annulaire justement appelée « zone aurorale » (entre 65 et 75° de latitude)."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        }
+    ]
+}
