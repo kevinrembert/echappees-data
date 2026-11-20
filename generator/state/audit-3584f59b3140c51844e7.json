@@ -1,0 +1,65 @@
+{
+    "schema_version": 1,
+    "articles": [
+        {
+            "id": "decouverte-30c38ea3d1d01cde464996ab",
+            "subject_id": "news-db3097b3c1b9d81605f75bc1f8e336a8",
+            "collected_at": "2026-11-20T16:58:09+00:00",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-20",
+                    "url": "https://www.goodnewsnetwork.org/every-tuesday-this-chef-cooks-for-100-people-in-need-using-random-food-bank-ingredients/"
+                }
+            ],
+            "source_sha256": "e0806be571fa49c52cbc0e5e7d858a4fb77e18b939aff9777890be446aee5062",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Chefs_from_Bulacan_cooking_street_foods_01.jpg",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "original_sha1": "1b5f0ce2539b433c22137ec27b2da9b18e5d8a7c",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Chaque mardi, une cheffe prépare 100 repas à partir d'ingrédients récupérés dans une banque alimentaire.",
+                "beneficiaries": "Les personnes en situation de précarité qui bénéficient de ces repas."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Depuis plusieurs années, Maddy Goldberg, cheffe basée à Toronto, cuisine tous les mardis pour 100 personnes en difficulté en utilisant uniquement les aliments qu'elle récupère dans une banque alimentaire locale.",
+                    "source_passages": [
+                        "That’s because every Tuesday for years, Goldberg has been donating her time to prepare banquets for 100 people in need out of what she finds at the local food bank.",
+                        "How does that work?” Goldberg would eventually leave the restaurant world in favor of private cheffing so as to make sure she had time and room to volunteer, which she began to do at Fort York Food Bank in Toronto."
+                    ]
+                },
+                {
+                    "sentence": "Elle élabore des plats variés, parfois raffinés, à partir des ingrédients disponibles, évitant ainsi le gaspillage.",
+                    "source_passages": [
+                        "Far from just making spaghetti and meat sauce, or canned this with a side of canned that, Goldberg uses an arsenal of different techniques and flavors to make restaurant-quality dishes, like a lentil fritter spiced with caramelized onion, cinnamon, and curry powder.",
+                        "She now boasts 180,000 followers of her work on Instagram, where her food bank banquet prep videos go back to January of 2025, regularly make their mouths—and their hearts—drool."
+                    ]
+                },
+                {
+                    "sentence": "Son engagement a pris la forme de banquets réguliers qui améliorent l'accès à des repas chauds et de qualité pour des familles aux ressources limitées.",
+                    "source_passages": [
+                        "That’s because every Tuesday for years, Goldberg has been donating her time to prepare banquets for 100 people in need out of what she finds at the local food bank.",
+                        "How does that work?” Goldberg would eventually leave the restaurant world in favor of private cheffing so as to make sure she had time and room to volunteer, which she began to do at Fort York Food Bank in Toronto.",
+                        "She now boasts 180,000 followers of her work on Instagram, where her food bank banquet prep videos go back to January of 2025, regularly make their mouths—and their hearts—drool."
+                    ]
+                },
+                {
+                    "sentence": "Au-delà de la préparation, elle invite chacun à soutenir les banques alimentaires en proposant ce qu'ils peuvent, même de petits ustensiles ou épices.",
+                    "source_passages": [
+                        "View this post on Instagram A post shared by Maddy Goldberg (@maddygoldberg) She told TODAY that anyone inspired by her work to help those in need don’t have to cook for 100 people.",
+                        "Go to your local food bank, she suggests, and ask what they need."
+                    ]
+                },
+                {
+                    "sentence": "Cette démarche témoigne d'une utilisation concrète et durable des surplus alimentaires pour répondre à un besoin social précis.",
+                    "source_passages": [
+                        "“ So, we would just throw out so much food, it was insane.” “I always wanted to volunteer at a food bank to understand the other side of the food system.",
+                        "She now boasts 180,000 followers of her work on Instagram, where her food bank banquet prep videos go back to January of 2025, regularly make their mouths—and their hearts—drool."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        }
+    ]
+}

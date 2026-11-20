@@ -1,0 +1,33 @@
+{
+    "schema_version": 1,
+    "id": "generated-3584f59b3140c51844e7",
+    "version": "1",
+    "articles": [
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-30c38ea3d1d01cde464996ab",
+            "title": "À Toronto, une cheffe transforme des dons alimentaires en 100 repas hebdomadaires pour des familles en difficulté",
+            "body": "Depuis plusieurs années, Maddy Goldberg, cheffe basée à Toronto, cuisine tous les mardis pour 100 personnes en difficulté en utilisant uniquement les aliments qu'elle récupère dans une banque alimentaire locale. Elle élabore des plats variés, parfois raffinés, à partir des ingrédients disponibles, évitant ainsi le gaspillage. Son engagement a pris la forme de banquets réguliers qui améliorent l'accès à des repas chauds et de qualité pour des familles aux ressources limitées. Au-delà de la préparation, elle invite chacun à soutenir les banques alimentaires en proposant ce qu'ils peuvent, même de petits ustensiles ou épices. Cette démarche témoigne d'une utilisation concrète et durable des surplus alimentaires pour répondre à un besoin social précis.",
+            "category": "Initiatives positives",
+            "location": "Toronto, Canada",
+            "image_description": "Chefs souriants de Bulacan en train de cuisiner de la street food à Barangay Santa Barbara, Baliuag.",
+            "image_caption": "Illustration documentaire générale. Photographie illustrant des chefs en cuisine, une image documentaire générale pour accompagner l’article sur la préparation de repas solidaires (© FBenjr123, Wikimedia Commons).",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/563d4918c5b98d868701284ddfc0fed37d1fdd62567212ea2aa5a5c3ee774200.jpg",
+            "image_credit": "FBenjr123 · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Chefs_from_Bulacan_cooking_street_foods_01.jpg",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-20",
+                    "url": "https://www.goodnewsnetwork.org/every-tuesday-this-chef-cooks-for-100-people-in-need-using-random-food-bank-ingredients/"
+                }
+            ],
+            "subject_id": "news-db3097b3c1b9d81605f75bc1f8e336a8",
+            "published_at": "2026-11-20",
+            "country": "Monde",
+            "source_published_at": "2026-11-20"
+        }
+    ]
+}

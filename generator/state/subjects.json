@@ -386,7 +386,9 @@
         "source-8700d9c314f72db1bf34f463cca92b1b": "decouverte-410c97a319737bb3c63c9cae",
         "title:what are barnacles": "decouverte-410c97a319737bb3c63c9cae",
         "Q648902": "decouverte-1f15c0df2d10cddbc5648249",
-        "title:lac de bled": "decouverte-1f15c0df2d10cddbc5648249"
+        "title:lac de bled": "decouverte-1f15c0df2d10cddbc5648249",
+        "news-db3097b3c1b9d81605f75bc1f8e336a8": "decouverte-30c38ea3d1d01cde464996ab",
+        "title:every tuesday this chef cooks for 100 people in need using random food bank ingredients": "decouverte-30c38ea3d1d01cde464996ab"
     },
     "failed": {
         "caltech names artemis ii commander reid wiseman as nasa jpl deputy": "2026-10-29",
@@ -687,7 +689,16 @@
         "allison raskin s newest rom com novel sends hope to those struggling with ocd you can still get your happy ending": "2026-11-20",
         "what is marine telemetry": "2026-11-20",
         "what are the vampire squid and the vampire fish": "2026-11-20",
-        "olivier": "2026-11-20"
+        "olivier": "2026-11-20",
+        "nasa honor awards ceremony recognizes employees at stennis space center": "2026-11-20",
+        "nasa s curiosity mars rover collects samples": "2026-11-20",
+        "urgence climat les français imaginent les solutions de demain": "2026-11-20",
+        "première mondiale un consortium public privé crée de la peau artificielle en laboratoire prête à greffer": "2026-11-20",
+        "présents dans nos intestins ces virus géants éclairent les origines du virus de la variole": "2026-11-20",
+        "montreal is harnessing soothing ocean sounds to combat traffic noise": "2026-11-20",
+        "community steps up to replace teen business owner s stolen landscaping equipment": "2026-11-20",
+        "rhino dung paper is how this family makes money and protects these amazing animals": "2026-11-20",
+        "good news in history november 20": "2026-11-20"
     },
     "failure_version": "positive-selection-v3"
 }
