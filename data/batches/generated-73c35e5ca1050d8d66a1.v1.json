@@ -1,0 +1,109 @@
+{
+    "schema_version": 1,
+    "id": "generated-73c35e5ca1050d8d66a1",
+    "version": "1",
+    "articles": [
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-e7c7d283f5642ca0dee660dd",
+            "title": "Des enfants réalisent un escalier de 430 marches pour leur mère souhaitant vivre en montagne",
+            "body": "Dans la province du Zhejiang en Chine, quatre frères et sœurs ont entrepris la construction d’un escalier de 430 marches sur la montagne où leur mère de 86 ans a toujours vécu. Elle refusait de rester en ville et désirait revenir au milieu naturel, mais l’ancien chemin d’accès était devenu impraticable. La plus jeune fille a organisé la réalisation de ce nouvel accès, aidée par ses frères, cousins et enfants, qui ont transporté pierres et ciment jusqu’au site. Leur mère a aussi contribué financièrement depuis ses économies. Achevé entre août et octobre, le sentier comprend des sections fixées au flanc d’une falaise. Au-delà d’aider leur mère, ce chemin est déjà utilisé par les habitants, les cueilleurs d’herbes médicinales et les randonneurs autour de la montagne.",
+            "category": "Initiatives positives",
+            "location": "Province du Zhejiang, Chine",
+            "image_description": "Escalier en pierre clair menant à une porte en bois foncé, ornée d’une grande peinture traditionnelle japonaise représentant une scène de montagne sur le mur au-dessus.",
+            "image_caption": "Illustration générale d’un escalier en pierre similaire à celui réalisé pour faciliter l’accès en montagne, photographie Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/e076b072194bfe283fc8085229c67f4f9ab80d414640de99bb77ce63e6291dd4.jpg",
+            "image_credit": "Federal Bureau of Investigation · https://www.justice.gov/epstein/doj-disclosures · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:EFTA00000851_-_Grand_staircase_with_light_stone_steps_leads_to_a_dark_wooden_door_adorned_with_a_large_traditional_Japanese_painting_of_a_mountain_scene_on_the_wall_above.jpg",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-18",
+                    "url": "https://www.goodnewsnetwork.org/siblings-build-430-step-sky-ladder-for-their-mother-who-refuses-to-live-in-the-city/"
+                }
+            ],
+            "subject_id": "news-595750c71f2f42aad4e79bd4c11ecb64",
+            "published_at": "2026-11-20",
+            "country": "Monde",
+            "source_published_at": "2026-11-18"
+        },
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-dc73d2ceb94ee47a7aa1fc2b",
+            "title": "À Toronto, une chef transforme des dons alimentaires en 100 repas hebdomadaires pour des familles en difficulté",
+            "body": "Maddy Goldberg, chef à Toronto, consacre ses mardis depuis 2021 à confectionner 100 repas chauds pour des familles à faibles revenus. Elle utilise des ingrédients variés et souvent inattendus issus des dons du Fort York Food Bank, un espace où les personnes peuvent choisir gratuitement des denrées qu'elles cuisinent chez elles. Malgré la nature aléatoire des produits, Goldberg invente des recettes originales, comme des fritters aux lentilles rouges accompagnés d’un curry de carottes et pois chiches, offrant ainsi des repas nutritifs et conviviaux. Cette initiative repose sur une approche concrète d’entraide dans le quotidien, donnant une seconde vie aux aliments donationnés et améliorant l’accès à une alimentation maison pour les bénéficiaires.",
+            "category": "Initiatives positives",
+            "location": "Toronto, Canada",
+            "image_description": "Plusieurs hommes cuisinant dans une cuisine communautaire bénévole du gurdwara à Amritsar.",
+            "image_caption": "Illustration documentaire générale. Photo illustrative de cuisine bénévole en grande quantité dans une cuisine communautaire (Gurdwara, Amritsar). Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/0a8945bbec68076066bd0d1907c1b11f28ca04562271507477462cf7213fda31.jpg",
+            "image_credit": "jasleen_kaur from USA · langar · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 2.0 · https://creativecommons.org/licenses/by-sa/2.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Sikh_Indian_men_cooking_at_volunteer_run_community_kitchen,_langar_Goindwal_Sahib.jpg",
+            "sources": [
+                {
+                    "label": "Good Good Good · publié le 2026-11-19",
+                    "url": "https://www.goodgoodgood.co/articles/toronto-chef-food-bank-maddy-goldberg"
+                }
+            ],
+            "subject_id": "news-59cb066e7ab31502d894898bb414fed2",
+            "published_at": "2026-11-20",
+            "country": "Monde",
+            "source_published_at": "2026-11-19"
+        },
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "daily",
+            "id": "decouverte-410c97a319737bb3c63c9cae",
+            "title": "Circonstances naturelles et écologiques des balanes, crustacés marins fixés",
+            "body": "Les balanes, petits crustacés apparentés aux crabes, vivent fixés sur des objets solides dans des zones très actives, comme les rochers en zone d'estran ou les coques des bateaux. Leur attachement est assuré par une colle naturelle extrêmement puissante, ce qui explique leur capacité à tenir dans ces environnements exposés. Ils se nourrissent par filtration via des appendices plumeux et se protègent en refermant un ensemble de plaques calcaires. Cette biologie influence directement les écosystèmes marins et les activités humaines : par exemple, l'accumulation sur les coques augmente la traînée et la consommation de carburant des navires. La compréhension de ces mécanismes naturels est clé pour envisager des solutions techniques et écologiques adaptées.",
+            "category": "Nature et animaux",
+            "location": "Monde",
+            "image_description": "Photo de Barnacle Bill, un petit rocher martien observé par le rover Sojourner avec une super résolution combinant plusieurs images en couleurs.",
+            "image_caption": "Illustration documentaire générale : Barnacle Bill, une roche martienne analysée par la mission Mars Pathfinder (photo NASA).",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/722f921cc325a077596966721c177ae2f5e2406a9a6c69b1e9328b825ca939a6.jpg",
+            "image_credit": "NASA · https://photojournal.jpl.nasa.gov/catalog/PIA00819 · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:PIA00819.jpg",
+            "sources": [
+                {
+                    "label": "NOAA · What are barnacles?",
+                    "url": "https://oceanservice.noaa.gov/facts/barnacles.html"
+                }
+            ],
+            "subject_id": "source-8700d9c314f72db1bf34f463cca92b1b",
+            "published_at": "2026-11-20",
+            "country": "Monde"
+        },
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "daily",
+            "id": "decouverte-1f15c0df2d10cddbc5648249",
+            "title": "Le lac de Bled allie nature glaciaire et patrimoine accessible en Slovénie",
+            "body": "Situé à 475 mètres d'altitude dans les Alpes juliennes en Slovénie, le lac de Bled présente un héritage naturel et culturel rare. Ce lac d'origine glaciaire, long de 2 120 mètres, entoure la seule île slovène, où se dresse une église construite sur un ancien lieu de culte païen. Le château du XIe siècle domine le lac depuis une falaise de 130 mètres, mettant en valeur la richesse historique. Les berges aménagées, avec la station climatique de Bled et des hébergements variés, rendent le site accessible aux visiteurs. La température douce de l'eau, atteignant 25 °C en été, complète ce tableau. Ces caractéristiques réunies ont fait du lac l'une des principales destinations touristiques slovènes, offrant un équilibre entre nature et patrimoine architectural.",
+            "category": "Voyages et paysages",
+            "location": "Slovénie",
+            "image_description": "Vue du lac de Bled prise depuis la montagne, montrant ses eaux calmes entourées de collines boisées.",
+            "image_caption": "Photo illustrative générale du lac de Bled en Slovénie, Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/d1d28508daf8cceee8073fb567b21f0158d222b6854cab2d4c37ec2130f52f5b.jpg",
+            "image_credit": "Canadianhockey91 · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Lake_Bled_from_the_Mountain.jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Lac de Bled",
+                    "url": "https://fr.wikipedia.org/wiki/Lac_de_Bled"
+                }
+            ],
+            "subject_id": "Q648902",
+            "published_at": "2026-11-20",
+            "country": "Slovénie"
+        }
+    ]
+}

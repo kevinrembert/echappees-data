@@ -1,0 +1,252 @@
+{
+    "schema_version": 1,
+    "articles": [
+        {
+            "id": "decouverte-e7c7d283f5642ca0dee660dd",
+            "subject_id": "news-595750c71f2f42aad4e79bd4c11ecb64",
+            "collected_at": "2026-11-20T07:13:23+00:00",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-18",
+                    "url": "https://www.goodnewsnetwork.org/siblings-build-430-step-sky-ladder-for-their-mother-who-refuses-to-live-in-the-city/"
+                }
+            ],
+            "source_sha256": "20cf88db0a674429806b564da470058e32ec20f9a393f936d67b590aff6b6e3b",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:EFTA00000851_-_Grand_staircase_with_light_stone_steps_leads_to_a_dark_wooden_door_adorned_with_a_large_traditional_Japanese_painting_of_a_mountain_scene_on_the_wall_above.jpg",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "6ce6513a4cf9a105d3545619f1b6a9f1f72455e1",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Une famille chinoise a construit un escalier de 430 marches taillé dans la montagne pour faciliter l’accès de leur mère âgée à son domicile en montagne.",
+                "beneficiaries": "L’ancienne mère de 86 ans, sa famille ainsi que les herboristes, randonneurs et habitants locaux qui utilisent désormais ce chemin reconstruit."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Dans la province du Zhejiang en Chine, quatre frères et sœurs ont entrepris la construction d’un escalier de 430 marches sur la montagne où leur mère de 86 ans a toujours vécu.",
+                    "source_passages": [
+                        "Home All News Inspiring Siblings Build 430-Step ‘Sky Ladder’ for Their Mother Who Refuses to Live...",
+                        "86-year-old mother Chen – family photo The children of an elderly Chinese mother have touched the hearts of millions by painstakingly building a new staircase by hand up the side of a mountain to help her reach her home more easily.",
+                        "The filial piety sky ladder – credit, retrieved from Chinese social media (QQ) Born and raised on the top of a mountain in eastern China’s Zhejiang Province, the children moved their mother into town after their father died decades ago, where she alternated stays between her eldest and second-eldest son homes.",
+                        "She never took to urban life."
+                    ]
+                },
+                {
+                    "sentence": "Elle refusait de rester en ville et désirait revenir au milieu naturel, mais l’ancien chemin d’accès était devenu impraticable.",
+                    "source_passages": [
+                        "She never took to urban life.",
+                        "Yet the old path down which she would take her children hand-in-hand was now overgrown and disused—the haunt of snakes—according to the story reported first by Chao News on the mainland and published later in English by the South China Morning Post."
+                    ]
+                },
+                {
+                    "sentence": "La plus jeune fille a organisé la réalisation de ce nouvel accès, aidée par ses frères, cousins et enfants, qui ont transporté pierres et ciment jusqu’au site.",
+                    "source_passages": [
+                        "58-year-old Huang Zhulian decided it was now her and her older siblings’ turn to demonstrate their filial piety, and began to build what Chinese social media has celebrated as a “filial piety sky ladder.” As it was Huang’s idea, she undertook planning and purchasing of materials before assuming the role of the foreman as they aimed to rebuild an older path up another side of the mountain with less foliage.",
+                        "Two of her brothers and two cousins carried stones up the mountain to the build site and mixed the cement.",
+                        "Huang’s sister and brother-in-law prepared meals and looked after the construction tools.",
+                        "Her nephew and niece helped clear away rubble whenever they were free, while her own son assisted his uncles with the clever use of a heavy-lift drone to move stones."
+                    ]
+                },
+                {
+                    "sentence": "Leur mère a aussi contribué financièrement depuis ses économies.",
+                    "source_passages": [
+                        "Learning what was being undertaken, their mother contributed 50,000 RMB, or $7,500, from her savings to assist in the project."
+                    ]
+                },
+                {
+                    "sentence": "Achevé entre août et octobre, le sentier comprend des sections fixées au flanc d’une falaise.",
+                    "source_passages": [
+                        "They worked between August and October to finish the path before winter, and succeeded in creating a 430-step route, which included portions quite literally fastened to the side of a sheer cliff."
+                    ]
+                },
+                {
+                    "sentence": "Au-delà d’aider leur mère, ce chemin est déjà utilisé par les habitants, les cueilleurs d’herbes médicinales et les randonneurs autour de la montagne.",
+                    "source_passages": [
+                        "In addition to helping their mother, the path has already proved invaluable to herb gatherers, mountain hikers, and other locals who live on and around the mountain."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-dc73d2ceb94ee47a7aa1fc2b",
+            "subject_id": "news-59cb066e7ab31502d894898bb414fed2",
+            "collected_at": "2026-11-20T07:14:23+00:00",
+            "sources": [
+                {
+                    "label": "Good Good Good · publié le 2026-11-19",
+                    "url": "https://www.goodgoodgood.co/articles/toronto-chef-food-bank-maddy-goldberg"
+                }
+            ],
+            "source_sha256": "de4e0f5eedea95414bc261fb332aaf55735d968bd3ad31333649918638e3c6a2",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Sikh_Indian_men_cooking_at_volunteer_run_community_kitchen,_langar_Goindwal_Sahib.jpg",
+            "image_license": "CC BY-SA 2.0 · https://creativecommons.org/licenses/by-sa/2.0/",
+            "original_sha1": "d2b3ce4f6d6caa52ad00cc6a53728de2c2f077f6",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Chaque mardi depuis 2021, la chef Maddy Goldberg cuisine 100 repas chauds réalisés à partir de dons alimentaires variés et imprévus pour les familles bénéficiaires du Fort York Food Bank à Toronto.",
+                "beneficiaries": "Les familles à faibles revenus fréquentant la banque alimentaire de Fort York, à Toronto."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Maddy Goldberg, chef à Toronto, consacre ses mardis depuis 2021 à confectionner 100 repas chauds pour des familles à faibles revenus.",
+                    "source_passages": [
+                        "“And so I just reached out to my local food bank, and I asked if I could volunteer.” Every Tuesday since 2021, Goldberg has volunteered at Fort York Food Bank in downtown Toronto.",
+                        "“So they’re actually getting food that they can cook at home.”Every Tuesday, Goldberg ties on an apron and cooks 100 hot meals for the families."
+                    ]
+                },
+                {
+                    "sentence": "Elle utilise des ingrédients variés et souvent inattendus issus des dons du Fort York Food Bank, un espace où les personnes peuvent choisir gratuitement des denrées qu'elles cuisinent chez elles.",
+                    "source_passages": [
+                        "The food bank operates as a free grocery store for low-income families.",
+                        "“You come in, you kind of go through a circuit, and you pick up free groceries,” Goldberg said.",
+                        "Due to the “random” nature of the ingredients at her disposal, Goldberg often has to think outside the box to prepare the meals in bulk."
+                    ]
+                },
+                {
+                    "sentence": "Malgré la nature aléatoire des produits, Goldberg invente des recettes originales, comme des fritters aux lentilles rouges accompagnés d’un curry de carottes et pois chiches, offrant ainsi des repas nutritifs et conviviaux.",
+                    "source_passages": [
+                        "On Instagram Reels, Goldberg shares a weekly blog of the adventure, with the caption: “POV cooking lunch for 100 people using the random food I find at the food bank.”On November 18, Goldberg shared her latest recipe: Red lentil fritters.Screenshot via @maddygoldberg/Instagram“I was like, I think this might be one of my favorite things I’ve ever made,” Goldberg told Good Good Good.",
+                        "We always have tons of food, but it was just onions, carrots, potatoes, eggs, and milk — it was really boring.”That’s when she uncovered a bag of red lentils.",
+                        "“They were raw, so they were kind of hard to use, but I ended up blending them into a falafel and frying them, with carrot and chickpea curry and toasted pita on the side,” she said.",
+                        "“It turned it into something that was super filling and so delicious.”For Goldberg, it’s about finding the “not obvious” answer.Courtesy of Cook Eat“There’s always one thing that comes to everyone’s mind for most ingredients,” she explained.",
+                        "“For example, with lentils, most people would probably think of a lentil soup or maybe a curry, like a dal."
+                    ]
+                },
+                {
+                    "sentence": "Cette initiative repose sur une approche concrète d’entraide dans le quotidien, donnant une seconde vie aux aliments donationnés et améliorant l’accès à une alimentation maison pour les bénéficiaires.",
+                    "source_passages": [
+                        "“So they’re actually getting food that they can cook at home.”Every Tuesday, Goldberg ties on an apron and cooks 100 hot meals for the families.",
+                        "But it’s fun to do something else.”In her videos, Goldberg wants to show viewers the “value of cooking” by taking simple ingredients and turning them into cost-effective meals.",
+                        "Why don’t I just volunteer at a food bank and feel like I’m at least giving back?” Goldberg said."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-410c97a319737bb3c63c9cae",
+            "subject_id": "source-8700d9c314f72db1bf34f463cca92b1b",
+            "collected_at": "2026-11-20T07:14:42+00:00",
+            "sources": [
+                {
+                    "label": "NOAA · What are barnacles?",
+                    "url": "https://oceanservice.noaa.gov/facts/barnacles.html"
+                }
+            ],
+            "source_sha256": "5153942196d538558dca52bfeca6f50560d12e466d864d511d2b12ca97cbad06",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:PIA00819.jpg",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "e98f5abe6ad2dcd9a60b8e9741c330d6bd7f3161",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La connaissance approfondie des cirripèdes, notamment leur capacité à fabriquer une colle naturelle très résistante pour s'attacher durablement à divers substrats, a permis d'identifier un phénomène écologique clé dans les zones intertidales et sur les coques de navires.",
+                "beneficiaries": "Les milieux marins où s'établissent les cirripèdes, ainsi que les professionnels de la navigation qui doivent gérer leur accumulation pour réduire la consommation de carburant et les impacts environnementaux."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Les balanes, petits crustacés apparentés aux crabes, vivent fixés sur des objets solides dans des zones très actives, comme les rochers en zone d'estran ou les coques des bateaux.",
+                    "source_passages": [
+                        "Barnacles (Balanus glandula) are sticky little crustaceans related to crabs, lobsters, and shrimps Those aren't dragon claws — they're gooseneck barnacles!",
+                        "Barnacles like places with lots of activity, like underwater volcanos and intertidal zones, where they reside on sturdy objects like rocks, pilings, and buoys."
+                    ]
+                },
+                {
+                    "sentence": "Leur attachement est assuré par une colle naturelle extrêmement puissante, ce qui explique leur capacité à tenir dans ces environnements exposés.",
+                    "source_passages": [
+                        "That's why some boaters call them by their slang name: \"crusty foulers.\" How do barnacles stick to the undersides of vessels, to other sea life, to each other, and to pretty much anything they come in contact with?",
+                        "They secrete a fast-curing cement that is among the most powerful natural glues known — the glue is so strong that researchers are trying to figure out how it can be used commercially."
+                    ]
+                },
+                {
+                    "sentence": "Ils se nourrissent par filtration via des appendices plumeux et se protègent en refermant un ensemble de plaques calcaires.",
+                    "source_passages": [
+                        "Barnacles feed through feather-like appendages called cirri.",
+                        "Barnacles secrete hard calcium plates that completely encase them.",
+                        "A white cone made up of six calcium plates forms a circle around the crustacean.",
+                        "Four more plates form a \"door\" that the barnacle can open or close, depending on the tide."
+                    ]
+                },
+                {
+                    "sentence": "Cette biologie influence directement les écosystèmes marins et les activités humaines : par exemple, l'accumulation sur les coques augmente la traînée et la consommation de carburant des navires.",
+                    "source_passages": [
+                        "Large barnacle colonies cause ships to drag and burn more fuel, leading to significant economic and environmental costs.",
+                        "Navy estimates that heavy barnacle growth on ships increases weight and drag by as much as 60 percent, resulting in as much as a 40 percent increase in fuel consumption!"
+                    ]
+                },
+                {
+                    "sentence": "La compréhension de ces mécanismes naturels est clé pour envisager des solutions techniques et écologiques adaptées.",
+                    "source_passages": [
+                        "They secrete a fast-curing cement that is among the most powerful natural glues known — the glue is so strong that researchers are trying to figure out how it can be used commercially."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-1f15c0df2d10cddbc5648249",
+            "subject_id": "Q648902",
+            "collected_at": "2026-11-20T07:14:59+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Lac de Bled",
+                    "url": "https://fr.wikipedia.org/wiki/Lac_de_Bled"
+                }
+            ],
+            "source_sha256": "6e64d1463dde21364ac63ddab582e5bff887f4d139273297cd9962732a01245f",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Lake_Bled_from_the_Mountain.jpg",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "original_sha1": "31101ed598c18e0189437daeac42f86289fb69c7",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Le lac de Bled offre un cadre naturel unique combinant un lac glaciaire, une île avec une église historique et un château médiéval surplombant le site, désormais accessible et aménagé pour les visiteurs.",
+                "beneficiaries": "Les visiteurs du lac de Bled, les habitants de la région de Haute-Carniole et les amateurs de paysages alpins en Slovénie."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Situé à 475 mètres d'altitude dans les Alpes juliennes en Slovénie, le lac de Bled présente un héritage naturel et culturel rare.",
+                    "source_passages": [
+                        "== Géographie == Le lac se trouve au pied du plateau de Pokljuka près du débouché de la vallée de Bohinj, à une altitude de 475 mètres."
+                    ]
+                },
+                {
+                    "sentence": "Ce lac d'origine glaciaire, long de 2 120 mètres, entoure la seule île slovène, où se dresse une église construite sur un ancien lieu de culte païen.",
+                    "source_passages": [
+                        "Le lac de Bled (en slovène : Blejsko jezero ; en allemand : Veldeser See) est un lac d'origine glaciaire en Slovénie.",
+                        "Le lac est de dimension réduite, 2 120 mètres de long sur 1 380 mètres de large au maximum, pour une superficie de 145 hectares.",
+                        "D'une profondeur de 30 mètres maximum, il encercle la seule île du pays, l'île de Bled (Blejski otok), connue pour son église Sainte-Marie du XVIIe siècle, construite sur un lieu de culte païen des premiers Slaves."
+                    ]
+                },
+                {
+                    "sentence": "Le château du XIe siècle domine le lac depuis une falaise de 130 mètres, mettant en valeur la richesse historique.",
+                    "source_passages": [
+                        "Ses berges sont largement aménagées : il est bordé à l'est par la station climatique de Bled, et son château médiéval (XIe siècle) qui domine le lac au sommet d'une falaise de 130 mètres."
+                    ]
+                },
+                {
+                    "sentence": "Les berges aménagées, avec la station climatique de Bled et des hébergements variés, rendent le site accessible aux visiteurs.",
+                    "source_passages": [
+                        "Ses berges sont largement aménagées : il est bordé à l'est par la station climatique de Bled, et son château médiéval (XIe siècle) qui domine le lac au sommet d'une falaise de 130 mètres.",
+                        "On trouve à proximité de nombreux hôtels, dont l'ancienne résidence de vacances de Josip Broz Tito transformée en hôtel de luxe."
+                    ]
+                },
+                {
+                    "sentence": "La température douce de l'eau, atteignant 25 °C en été, complète ce tableau.",
+                    "source_passages": [
+                        "La température d'eau est douce, présentant des moyennes de 25 °C en été."
+                    ]
+                },
+                {
+                    "sentence": "Ces caractéristiques réunies ont fait du lac l'une des principales destinations touristiques slovènes, offrant un équilibre entre nature et patrimoine architectural.",
+                    "source_passages": [
+                        "Situé dans la région de Haute-Carniole à 55 kilomètres au nord-ouest du centre de la capitale Ljubljana, en bordure orientale des Alpes juliennes, c'est l'une des principales destinations touristiques du pays."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        }
+    ]
+}
