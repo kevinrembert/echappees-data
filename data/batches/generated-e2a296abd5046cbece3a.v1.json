@@ -1,0 +1,33 @@
+{
+    "schema_version": 1,
+    "id": "generated-e2a296abd5046cbece3a",
+    "version": "1",
+    "articles": [
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-0e55c77937024db3f3aa16e7",
+            "title": "La Freedom of Information Act : un cadre légal qui ouvre l’accès à l’information publique américaine",
+            "body": "Depuis le vote en 1974 de la Freedom of Information Act (FOIA), les citoyens états-uniens peuvent demander l'accès aux documents officiels des agences fédérales. Cette loi oblige l'administration à fournir les informations requises dans des délais raisonnables, renforçant ainsi la transparence. Elle a permis la révélation de nombreux dossiers importants, comme des enquêtes sur la guerre en Afghanistan, ou la surveillance secrète d’écrivains. Néanmoins, ces demandes peuvent être coûteuses et limitées à ceux qui peuvent les financer. Le fonctionnement de la FOIA inclut aussi un recours à un Conseil Spécial en cas de blocage, assurant ainsi un contrôle sur les pratiques administratives. La traduction visuelle du droit d’accès à l’information est illustrée par un manuel philippin d’information publique, soulignant l’importance mondiale de cette démarche.",
+            "category": "Initiatives positives",
+            "location": "États-Unis",
+            "image_description": "Manuel du gouvernement philippin présentant le service d’accès à l’information au public, illustrant le droit à l’information gouvernementale.",
+            "image_caption": "Illustration documentaire générale : manuel philippin expliquant la liberté d’information (image Wikimedia Commons).",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/3fa55354fb8276ae53081a04db7d1bb339ec766dd48a957260d4e49ae3ef9073.jpg",
+            "image_credit": "The government of the Republic of the Philippines. · https://www.foi.gov.ph/resources/templates · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Model_People%27s_Manual_-_Freedom_of_Information_Philippines.png",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-21",
+                    "url": "https://www.goodnewsnetwork.org/events061121/"
+                }
+            ],
+            "subject_id": "news-df4e502222e3117e1f45892c6c7b53ba",
+            "published_at": "2026-11-21",
+            "country": "Monde",
+            "source_published_at": "2026-11-21"
+        }
+    ]
+}

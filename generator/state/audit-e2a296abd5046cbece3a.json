@@ -1,0 +1,66 @@
+{
+    "schema_version": 1,
+    "articles": [
+        {
+            "id": "decouverte-0e55c77937024db3f3aa16e7",
+            "subject_id": "news-df4e502222e3117e1f45892c6c7b53ba",
+            "collected_at": "2026-11-21T16:08:42+00:00",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-21",
+                    "url": "https://www.goodnewsnetwork.org/events061121/"
+                }
+            ],
+            "source_sha256": "fef77ad010e482e9b011a036dfb613ec30ca4b80adcb88c8682eefcd9523c341",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Model_People%27s_Manual_-_Freedom_of_Information_Philippines.png",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "0e40f4db763dba616e1c182b2d9f4ac52ca8f1c7",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La loi américaine sur la liberté d'information (FOIA), instaurée en 1974, garantit l'accès du public à des documents gouvernementaux, favorisant la transparence et la diffusion d'informations importantes.",
+                "beneficiaries": "Les citoyens américains, les journalistes, les chercheurs et toute personne souhaitant accéder à des informations détenues par les administrations fédérales américaines."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Depuis le vote en 1974 de la Freedom of Information Act (FOIA), les citoyens états-uniens peuvent demander l'accès aux documents officiels des agences fédérales.",
+                    "source_passages": [
+                        "Home This Day In History Good News in History, November 21 52 years ago today, Congress voted in a two-thirds majority to override President Gerald Ford’s attempted veto of the Freedom of Information Act, after he was influenced to try the veto by Dick Cheney and Donald Rumsfeld."
+                    ]
+                },
+                {
+                    "sentence": "Cette loi oblige l'administration à fournir les informations requises dans des délais raisonnables, renforçant ainsi la transparence.",
+                    "source_passages": [
+                        "Agencies and departments under only the executive branch then must turn over all the requested information in a timely manner."
+                    ]
+                },
+                {
+                    "sentence": "Elle a permis la révélation de nombreux dossiers importants, comme des enquêtes sur la guerre en Afghanistan, ou la surveillance secrète d’écrivains.",
+                    "source_passages": [
+                        "Most prominently in the last few years, a huge FOIA push by the Washington Post gathered tens of thousands of documents from the Office of the Inspector General for the War in Afghanistan, revealing a depth of corruption, political and military nihilism, incompetence, and wastefulness that few Americans knew about.",
+                        "Other famous cases involve the receiving of documents that show America almost blew up a hydrogen bomb over North Carolina in 1961, and that the FBI had been secretly surveilling African-American writers for decades starting in 1919."
+                    ]
+                },
+                {
+                    "sentence": "Néanmoins, ces demandes peuvent être coûteuses et limitées à ceux qui peuvent les financer.",
+                    "source_passages": [
+                        "FOIA requests can be fairly expensive, and today, only a limited number of publications and individuals can afford to petition for all the records they might need for a story."
+                    ]
+                },
+                {
+                    "sentence": "Le fonctionnement de la FOIA inclut aussi un recours à un Conseil Spécial en cas de blocage, assurant ainsi un contrôle sur les pratiques administratives.",
+                    "source_passages": [
+                        "If the petitioner has cause to believe the agency is delaying, impeding, or even tampering with the material, they can seek recourse to a Special Council."
+                    ]
+                },
+                {
+                    "sentence": "La traduction visuelle du droit d’accès à l’information est illustrée par un manuel philippin d’information publique, soulignant l’importance mondiale de cette démarche.",
+                    "source_passages": [
+                        "Home This Day In History Good News in History, November 21 52 years ago today, Congress voted in a two-thirds majority to override President Gerald Ford’s attempted veto of the Freedom of Information Act, after he was influenced to try the veto by Dick Cheney and Donald Rumsfeld."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        }
+    ]
+}
