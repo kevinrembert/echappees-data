@@ -1,0 +1,261 @@
+{
+    "schema_version": 1,
+    "articles": [
+        {
+            "id": "decouverte-2f6e8362a3e803f6c33cf8d8",
+            "subject_id": "news-c2c7168f15d92714720ee8b301590035",
+            "collected_at": "2026-11-21T07:05:34+00:00",
+            "sources": [
+                {
+                    "label": "Reasons to be Cheerful · publié le 2026-11-19",
+                    "url": "https://reasonstobecheerful.world/carbon-dioxide-laundry-machine/"
+                }
+            ],
+            "source_sha256": "e242ec92c55fa82904d8034ff77642b71f537111fce3edd1d9deac49d153997c",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Liquid_carbon_dioxide_generator,_Thilorier_(1834).JPG",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "93f7f6088d0a8b23013cad924c9dcaa6d02107c9",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La machine industrielle utilise du dioxyde de carbone liquide pour nettoyer efficacement les vêtements sans eau ni séchage, ce qui réduit considérablement la consommation d'eau et les émissions liées au séchage.",
+                "beneficiaries": "Les utilisateurs de blanchisseries industrielles, les professionnels équipés de vêtements spéciaux (comme les pompiers), et potentiellement les ménages si la technologie devient accessible à domicile."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Une technologie utilisée dans le secteur industriel remplace l'eau et le séchage par un lavage au dioxyde de carbone liquide.",
+                    "source_passages": [
+                        "Technology designed to clean aerospace parts reimagines the process by ditching both of those in favor of an unlikely substitute: carbon dioxide, the very gas we’re trying so hard to contain.",
+                        "Under pressure, CO2 becomes a low-viscosity liquid capable of penetrating fabrics and carrying away oils and grime.",
+                        "When depressurized, it reverts to a gas, leaving clothes clean and dry.",
+                        "Tersus Solutions’ industrial CO2 washers use high pressure to turn carbon dioxide into a liquid that can clean fabrics without water."
+                    ]
+                },
+                {
+                    "sentence": "Sous haute pression, le CO2 devient un liquide qui pénètre les fibres pour éliminer saletés et huiles, puis redevient gaz en fin de cycle, laissant les vêtements propres et secs sans usage d'eau ni de chaleur.",
+                    "source_passages": [
+                        "Under pressure, CO2 becomes a low-viscosity liquid capable of penetrating fabrics and carrying away oils and grime.",
+                        "When depressurized, it reverts to a gas, leaving clothes clean and dry.",
+                        "Tersus Solutions’ industrial CO2 washers use high pressure to turn carbon dioxide into a liquid that can clean fabrics without water.",
+                        "Carbon dioxide turns from gas to liquid at 900 pounds per square inch of pressure — roughly one-third of what’s inside a full scuba tank.",
+                        "As it circulates, filters trap the grime, which accumulates as a thick purplish sludge for disposal.",
+                        "When the 45-minute cycle ends, the pressure drops and liquid returns to gas, instantly drying the load."
+                    ]
+                },
+                {
+                    "sentence": "Cette méthode diminue la consommation de milliers de litres d'eau par foyer et réduit les émissions de CO2 générées par le séchage.",
+                    "source_passages": [
+                        "Beyond its novelty, the idea could clean up a resource-intensive chore.",
+                        "The average family runs roughly 300 loads a year, consuming thousands of gallons of water.",
+                        "And more than 80 percent of U.S.",
+                        "households own a dryer, with one study putting the annual CO2 emissions from machine drying alone at 27 million metric tons."
+                    ]
+                },
+                {
+                    "sentence": "Des machines volumineuses existent depuis des années pour des usages spécifiques, notamment pour le nettoyage de tenues de pompiers contaminées.",
+                    "source_passages": [
+                        "In 2009, Colorado-based Tersus Solutions began refining the technology and has since carved out a niche cleaning outdoor apparel and equipment, as well as firefighter gear contaminated with hazardous residues.",
+                        "Its machines offer a glimpse of what CO2 cleaning can do and why squeezing it into a household appliance is no simple feat.",
+                        "Or click here to choose exactly which ones you want Tersus CEO Peter Whitcomb describes the machines as “futuristic front-loading washers,” though the company’s two models dwarf those found in a typical laundromat.",
+                        "Each occupies a roughly 10-foot cube, with the larger unit handling up to 85 pounds of laundry, or a dozen sleeping bags.",
+                        "Behind a thick, submarine-like hatch, a rotating drum sits inside a pressurized chamber amid a maze of pipes, pumps and compressors.",
+                        "Despite the complexity, what happens inside is relatively simple."
+                    ]
+                },
+                {
+                    "sentence": "De grands fabricants explorent actuellement la miniaturisation de cette technologie afin de la rendre accessible aux particuliers.",
+                    "source_passages": [
+                        "Courtesy of Teresus Solutions Long confined to industrial operations, liquid-CO2 cleaning is getting a second look from appliance giants LG and Samsung — this time for the home.",
+                        "Still, shrinking a technology built around bulky, high-pressure machinery to fit both a laundry room and household budget is a tall order.",
+                        "No less challenging is doing so without washing away the environmental gains that make waterless, dryerless laundry so enticing in the first place.",
+                        "Just getting this far has taken decades.",
+                        "Electrolux later pursued it as a safer alternative to solvent-based dry cleaning, though cost, complexity, and bulky equipment kept it from catching on."
+                    ]
+                },
+                {
+                    "sentence": "Ce procédé acquiert peu à peu une place concrète dans l'entretien textile et pourrait transformer le lavage domestique ultérieurement.",
+                    "source_passages": [
+                        "Courtesy of Teresus Solutions Long confined to industrial operations, liquid-CO2 cleaning is getting a second look from appliance giants LG and Samsung — this time for the home.",
+                        "No less challenging is doing so without washing away the environmental gains that make waterless, dryerless laundry so enticing in the first place.",
+                        "Just getting this far has taken decades.",
+                        "Its machines offer a glimpse of what CO2 cleaning can do and why squeezing it into a household appliance is no simple feat."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-734192b3f47dfb2fb0959e36",
+            "subject_id": "news-ace204e07fc03ce412e0d097af73ca0a",
+            "collected_at": "2026-11-21T07:05:40+00:00",
+            "sources": [
+                {
+                    "label": "NASA · publié le 2026-11-20",
+                    "url": "https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation/"
+                }
+            ],
+            "source_sha256": "d201dced98d109f1ad56da4495fde63261e073eec00caddaa4200b3915bd447c",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Taking_a_CADRE_Rover_in_Hand_(PIA26427).jpg",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "add3a690ed5ab7800ca21b7ba249603647fa2876",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Le financement accordé à 302 projets de PME permet le développement de technologies innovantes pour l'exploration lunaire, comme des batteries ultra-résistantes au froid, des bras robotiques sensoriels et des panneaux solaires modulaires.",
+                "beneficiaries": "Les petites entreprises technologiques, la NASA, et les futures missions lunaires et martiennes ainsi que leurs infrastructures bénéficient concrètement de ces avancées."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Grâce à un programme d’investissement de plus de 170 millions de dollars, plus de 300 petites entreprises développent des outils destinés à faciliter les missions lunaires et martiennes.",
+                    "source_passages": [
+                        "NASA’s Small Business Innovation Research/Small Business Technology Transfer (SBIR/STTR) program recently selected 302 innovative projects, for a total investment of up to $171 million in seed funding.",
+                        "This early-stage research and development work will tackle an array of topics, including those related to Artemis and the establishment of a U.S.",
+                        "Moon Base."
+                    ]
+                },
+                {
+                    "sentence": "Parmi les innovations, une batterie pouvant fonctionner sans chauffage dans des températures extrêmes, un bras robotique équipé de capteurs tactiles et visuels, ou encore des panneaux solaires modulaires résistants à la poussière lunaire.",
+                    "source_passages": [
+                        "Cold-Friendly Battery for Long Lunar Night Elementium Materials Inc., selected for an SBIR Phase I award, is developing an ultra-cold-tolerant battery module for space applications and cold-climate uses on Earth.",
+                        "Rovers With Reach: Vision and Tactile Sensing in Robotic Arm This SBIR Phase I award, led by Intelligent Fiber Optic Systems Corporation, aims to help lunar rovers perform complex tasks independently on the Moon.",
+                        "supports a project focused on bringing power to the surface of the Moon and Mars by developing a modular system of rollable solar arrays."
+                    ]
+                },
+                {
+                    "sentence": "Ces technologies, financées en différentes phases, sont déjà en cours de développement et visent à soutenir la construction d’infrastructures et l’autonomie des engins sur le sol lunaire ou martien.",
+                    "source_passages": [
+                        "The new Phase I contracts will receive up to $225,000 each to establish the merit and feasibility of their proposed innovation.",
+                        "The Phase II awards, with 98 contracts valued at up to $1.3 million each, will continue work begun in Phase I projects selected in 2025, targeting demonstration and delivery of the innovative technologies.",
+                        "Selected projects include next-generation battery solutions, robotic systems with sensing capabilities for the extreme lunar environment, and tools to prepare for construction of critical infrastructure, such as lunar landing pads."
+                    ]
+                },
+                {
+                    "sentence": "Ce soutien à l’innovation intègre aussi des applications potentielles sur Terre, notamment en environnement hostile.",
+                    "source_passages": [
+                        "On Earth, the same instrumented robotic arms could be used to inspect and repair power lines, nuclear reactors, or other infrastructure in hazardous environments.",
+                        "Cold-Friendly Battery for Long Lunar Night Elementium Materials Inc., selected for an SBIR Phase I award, is developing an ultra-cold-tolerant battery module for space applications and cold-climate uses on Earth."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-b4e73c97d06f3d8c6396afc4",
+            "subject_id": "source-46c374e02e4e79591cbb75f6ce8b36e2",
+            "collected_at": "2026-11-21T07:06:30+00:00",
+            "sources": [
+                {
+                    "label": "NOAA · What is nutrient pollution?",
+                    "url": "https://oceanservice.noaa.gov/facts/nutpollution.html"
+                }
+            ],
+            "source_sha256": "cfbfc765190c393d3f301e2d77b68530a4058c5f6bc9931ae549e5e01de96488",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:NRCSIA99560_-_Iowa_(3785)(NRCS_Photo_Gallery).jpg",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "173bd0febaddee5efc88b6ec51683c2987ece032",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La prise de conscience et la pratique de tests de sols pour ajuster l'apport en nutriments réduisent la pollution par excès d'azote et de phosphore dans les sols et les eaux.",
+                "beneficiaries": "les milieux aquatiques, les plantes aquatiques, les animaux aquatiques et les personnes vivant en zones côtières"
+            },
+            "fact_checks": [
+                {
+                    "sentence": "La pollution par les nutriments, principalement l'azote et le phosphore, provoque une croissance excessive d'algues dans les milieux aquatiques, perturbant les écosystèmes et réduisant l'oxygène disponible pour la faune.",
+                    "source_passages": [
+                        "Nutrient pollution is the process where too many nutrients, mainly nitrogen and phosphorus, are added to bodies of water and can act like fertilizer, causing excessive growth of algae.",
+                        "This process is also known as eutrophication.",
+                        "Excessive amounts of nutrients can lead to more serious problems such as low levels of oxygen dissolved in the water.",
+                        "Severe algal growth blocks light that is needed for plants, such as seagrasses, to grow.",
+                        "When the algae and seagrass die, they decay.",
+                        "In the process of decay, the oxygen in the water is used up and this leads to low levels of dissolved oxygen in the water."
+                    ]
+                },
+                {
+                    "sentence": "Une méthode mise en pratique consiste à tester les sols avant l'application d'engrais afin d'apporter uniquement la quantité nécessaire à la croissance des plantes, que ce soit pour l'entretien des pelouses ou pour l'agriculture.",
+                    "source_passages": [
+                        "Nutrients can run off of land in urban areas where lawn and garden fertilizers are used."
+                    ]
+                },
+                {
+                    "sentence": "Cette approche permet de limiter les apports excessifs qui s'infiltrent dans les rivières et les mers, réduisant ainsi les phénomènes d'eutrophisation et préservant les habitats aquatiques.",
+                    "source_passages": [
+                        "Nutrient pollution is the process where too many nutrients, mainly nitrogen and phosphorus, are added to bodies of water and can act like fertilizer, causing excessive growth of algae.",
+                        "This process is also known as eutrophication.",
+                        "Because there are increasingly more people living in coastal areas, there are more nutrients entering our coastal waters from wastewater treatment facilities, runoff from land in urban areas during rains, and from farming.",
+                        "All of these factors can lead to increased nutrient pollution."
+                    ]
+                },
+                {
+                    "sentence": "Cette technique est encouragée auprès des propriétaires privés comme des agriculteurs, contribuant à une meilleure gestion locale des nutriments et à la protection des eaux côtières face à l'accroissement de la population humaine.",
+                    "source_passages": [
+                        "Nutrients can run off of land in urban areas where lawn and garden fertilizers are used.",
+                        "Because there are increasingly more people living in coastal areas, there are more nutrients entering our coastal waters from wastewater treatment facilities, runoff from land in urban areas during rains, and from farming.",
+                        "All of these factors can lead to increased nutrient pollution."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-fa76bddcd23a4441ea1493e9",
+            "subject_id": "Q877719",
+            "collected_at": "2026-11-21T07:06:55+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Parc national de Fiordland",
+                    "url": "https://fr.wikipedia.org/wiki/Parc_national_de_Fiordland"
+                }
+            ],
+            "source_sha256": "4c23d68ffff081a16f25ea43b0264c9880c6c999bc4ed65479550f858c50760f",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Ranunculus_lyallii_in_Fiordland_National_Park.jpg",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "original_sha1": "e6e6f96380b73939f946ed286779509c0386a2b9",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Le parc national de Fiordland offre un espace naturel protégé exceptionnel où glaciers, fjords et lacs façonnent des paysages diversifiés, favorisant la préservation des écosystèmes.",
+                "beneficiaries": "Les visiteurs, les espèces végétales comme Ranunculus lyallii, et les milieux naturels de la région bénéficient de cette protection et valorisation."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Situé au sud-ouest de l'île du Sud de la Nouvelle-Zélande, le parc national de Fiordland s'étend sur 12 782 km², faisant de lui le plus grand des parcs du pays.",
+                    "source_passages": [
+                        "Le parc national de Fiordland se situe au sud-ouest de l'île du Sud de la Nouvelle-Zélande.",
+                        "Il est le plus grand des quatorze parcs nationaux du pays avec une superficie de 12 782 km2, et fait partie de la région appelée Te Wāhipounamu, inscrite au patrimoine mondial de l'UNESCO."
+                    ]
+                },
+                {
+                    "sentence": "Sa géographie remarquable, composée de fjords creusés par les glaciers, de montagnes culminant au-delà de 2000 mètres, et de grands lacs comme Te Anau ou Manapouri, illustre le travail des glaciers d'il y a des millénaires.",
+                    "source_passages": [
+                        "== Géographie == Il y a des milliers d'années, les glaciers créèrent de nombreux fjords, dont le plus célèbre, le plus visité est le Milford Sound ; parmi les autres fjords les plus connus on trouve également Doubtful Sound et Dusky Sound.",
+                        "La côte du Fiordland est en pente à pic et crénelée, avec des fjords des vallées des chaînes méridionales des Alpes du Sud, dont le mont Murchison.",
+                        "Dans la section septentrionale du parc plusieurs pics dépassent les 2 000 mètres d'altitude.",
+                        "Plusieurs grands lacs se trouvent en tout ou partie dans le parc, notamment les lacs Te Anau, Manapouri, Monowai, Hauroko, et Poteriteri."
+                    ]
+                },
+                {
+                    "sentence": "Cette diversité de formations naturelles favorise des habitats variés, propices à la flore locale, notamment celle du ranunculus lyallii visible dans la région.",
+                    "source_passages": [
+                        "Le parc national de Fiordland se situe au sud-ouest de l'île du Sud de la Nouvelle-Zélande."
+                    ]
+                },
+                {
+                    "sentence": "Le parc, géré par le ministère de la Conservation, fait aussi partie du site inscrit au patrimoine mondial de l'UNESCO Te Wāhipounamu.",
+                    "source_passages": [
+                        "Il est le plus grand des quatorze parcs nationaux du pays avec une superficie de 12 782 km2, et fait partie de la région appelée Te Wāhipounamu, inscrite au patrimoine mondial de l'UNESCO.",
+                        "Le parc est régi par le ministère de la Conservation."
+                    ]
+                },
+                {
+                    "sentence": "Une caractéristique notable est la côte en pente abrupte bordée de fjords, offrant une expérience paysagère unique aux visiteurs qui explorent ces reliefs façonnés par la glace.",
+                    "source_passages": [
+                        "== Géographie == Il y a des milliers d'années, les glaciers créèrent de nombreux fjords, dont le plus célèbre, le plus visité est le Milford Sound ; parmi les autres fjords les plus connus on trouve également Doubtful Sound et Dusky Sound.",
+                        "La côte du Fiordland est en pente à pic et crénelée, avec des fjords des vallées des chaînes méridionales des Alpes du Sud, dont le mont Murchison."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        }
+    ]
+}

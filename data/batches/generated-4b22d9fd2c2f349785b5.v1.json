@@ -1,0 +1,109 @@
+{
+    "schema_version": 1,
+    "id": "generated-4b22d9fd2c2f349785b5",
+    "version": "1",
+    "articles": [
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-2f6e8362a3e803f6c33cf8d8",
+            "title": "Un nettoyage des vêtements sans eau ni sèche-linge grâce au dioxyde de carbone liquide",
+            "body": "Une technologie utilisée dans le secteur industriel remplace l'eau et le séchage par un lavage au dioxyde de carbone liquide. Sous haute pression, le CO2 devient un liquide qui pénètre les fibres pour éliminer saletés et huiles, puis redevient gaz en fin de cycle, laissant les vêtements propres et secs sans usage d'eau ni de chaleur. Cette méthode diminue la consommation de milliers de litres d'eau par foyer et réduit les émissions de CO2 générées par le séchage. Des machines volumineuses existent depuis des années pour des usages spécifiques, notamment pour le nettoyage de tenues de pompiers contaminées. De grands fabricants explorent actuellement la miniaturisation de cette technologie afin de la rendre accessible aux particuliers. Ce procédé acquiert peu à peu une place concrète dans l'entretien textile et pourrait transformer le lavage domestique ultérieurement.",
+            "category": "Initiatives positives",
+            "location": "Monde",
+            "image_description": "Appareil historique conçu en 1834 pour produire du dioxyde de carbone liquide par A.J.P. Thilorier.",
+            "image_caption": "Illustration du générateur de dioxyde de carbone liquide conçu par Thilorier en 1834, image illustrative générale de la production de CO2 liquide.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/dbb47d894727d8a496259a5759919fa2bf05357765ef8dba23c36abc137fcdca.jpg",
+            "image_credit": "I created this file; however, the original illustrator(s) is unknown. · Google Books: Charles Adolphe Wurtz, ed., Dictionnaire de chimie pure et appliquée, Volume 1, Part 2 (Paris, France: Librarie Hachette et Cie., 1870), page 751. · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Liquid_carbon_dioxide_generator,_Thilorier_(1834).JPG",
+            "sources": [
+                {
+                    "label": "Reasons to be Cheerful · publié le 2026-11-19",
+                    "url": "https://reasonstobecheerful.world/carbon-dioxide-laundry-machine/"
+                }
+            ],
+            "subject_id": "news-c2c7168f15d92714720ee8b301590035",
+            "published_at": "2026-11-21",
+            "country": "Monde",
+            "source_published_at": "2026-11-19"
+        },
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-734192b3f47dfb2fb0959e36",
+            "title": "NASA soutient des PME pour créer des technologies concrètes pour la Lune et Mars",
+            "body": "Grâce à un programme d’investissement de plus de 170 millions de dollars, plus de 300 petites entreprises développent des outils destinés à faciliter les missions lunaires et martiennes. Parmi les innovations, une batterie pouvant fonctionner sans chauffage dans des températures extrêmes, un bras robotique équipé de capteurs tactiles et visuels, ou encore des panneaux solaires modulaires résistants à la poussière lunaire. Ces technologies, financées en différentes phases, sont déjà en cours de développement et visent à soutenir la construction d’infrastructures et l’autonomie des engins sur le sol lunaire ou martien. Ce soutien à l’innovation intègre aussi des applications potentielles sur Terre, notamment en environnement hostile.",
+            "category": "Sciences",
+            "location": "Monde",
+            "image_description": "Image d’un petit rover lunaire en préparation pour une mission à la NASA, montrant un prototype de technologie robotique.",
+            "image_caption": "Photographie documentaire du rover CADRE prise en 2025 à la NASA, illustration générale des innovations robotiques spatiales.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/f73df3546c74729b7fcc4b92243afe99ebf2fe1b5d3a7e2c0c3331bf203ef543.jpg",
+            "image_credit": "NASA/JPL-Caltech · Giving NASA’s CADRE a Hand · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Taking_a_CADRE_Rover_in_Hand_(PIA26427).jpg",
+            "sources": [
+                {
+                    "label": "NASA · publié le 2026-11-20",
+                    "url": "https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation/"
+                }
+            ],
+            "subject_id": "news-ace204e07fc03ce412e0d097af73ca0a",
+            "published_at": "2026-11-21",
+            "country": "Monde",
+            "source_published_at": "2026-11-20"
+        },
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "daily",
+            "id": "decouverte-b4e73c97d06f3d8c6396afc4",
+            "title": "Limiter la pollution par les nutriments grâce à un dosage précis des fertilisants",
+            "body": "La pollution par les nutriments, principalement l'azote et le phosphore, provoque une croissance excessive d'algues dans les milieux aquatiques, perturbant les écosystèmes et réduisant l'oxygène disponible pour la faune. Une méthode mise en pratique consiste à tester les sols avant l'application d'engrais afin d'apporter uniquement la quantité nécessaire à la croissance des plantes, que ce soit pour l'entretien des pelouses ou pour l'agriculture. Cette approche permet de limiter les apports excessifs qui s'infiltrent dans les rivières et les mers, réduisant ainsi les phénomènes d'eutrophisation et préservant les habitats aquatiques. Cette technique est encouragée auprès des propriétaires privés comme des agriculteurs, contribuant à une meilleure gestion locale des nutriments et à la protection des eaux côtières face à l'accroissement de la population humaine.",
+            "category": "Nature et animaux",
+            "location": "Monde",
+            "image_description": "Photo montrant un aménagement de prairie en Iowa avec un sol testé pour gérer les besoins en nutriments, illustrant la bonne pratique agricole.",
+            "image_caption": "Illustration générale : propriétaire et agriculteurs testant leurs sols pour adapter l'apport de nutriments, une pratique qui réduit la pollution par excès d'engrais. Photo par Lynn Betts, USDA Natural Resources Conservation Service, Wikimedia Commons, domaine public.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/665a54dfc4b51c98b64eb8410f733176820f1794076e1f8ab835bb0c289ae1df.jpg",
+            "image_credit": "Photo by Lynn Betts, USDA Natural Resources Conservation Service. · USDA NRCS Photo Gallery: NRCSIA99560.tif · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:NRCSIA99560_-_Iowa_(3785)(NRCS_Photo_Gallery).jpg",
+            "sources": [
+                {
+                    "label": "NOAA · What is nutrient pollution?",
+                    "url": "https://oceanservice.noaa.gov/facts/nutpollution.html"
+                }
+            ],
+            "subject_id": "source-46c374e02e4e79591cbb75f6ce8b36e2",
+            "published_at": "2026-11-21",
+            "country": "Monde"
+        },
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "daily",
+            "id": "decouverte-fa76bddcd23a4441ea1493e9",
+            "title": "Le parc national de Fiordland en Nouvelle-Zélande, un modèle de paysage glaciaire préservé",
+            "body": "Situé au sud-ouest de l'île du Sud de la Nouvelle-Zélande, le parc national de Fiordland s'étend sur 12 782 km², faisant de lui le plus grand des parcs du pays. Sa géographie remarquable, composée de fjords creusés par les glaciers, de montagnes culminant au-delà de 2000 mètres, et de grands lacs comme Te Anau ou Manapouri, illustre le travail des glaciers d'il y a des millénaires. Cette diversité de formations naturelles favorise des habitats variés, propices à la flore locale, notamment celle du ranunculus lyallii visible dans la région. Le parc, géré par le ministère de la Conservation, fait aussi partie du site inscrit au patrimoine mondial de l'UNESCO Te Wāhipounamu. Une caractéristique notable est la côte en pente abrupte bordée de fjords, offrant une expérience paysagère unique aux visiteurs qui explorent ces reliefs façonnés par la glace.",
+            "category": "Voyages et paysages",
+            "location": "Nouvelle-Zélande",
+            "image_description": "Ranunculus lyallii dans le parc national de Fiordland en Nouvelle-Zélande.",
+            "image_caption": "Photographie documentaire générale illustrant Ranunculus lyallii dans le parc national de Fiordland, Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/231afc88b3ea5f689aa319d3edb1bba121405801048f72d60dc8ccc606e89068.jpg",
+            "image_credit": "Krzysztof Golik · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Ranunculus_lyallii_in_Fiordland_National_Park.jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Parc national de Fiordland",
+                    "url": "https://fr.wikipedia.org/wiki/Parc_national_de_Fiordland"
+                }
+            ],
+            "subject_id": "Q877719",
+            "published_at": "2026-11-21",
+            "country": "Nouvelle-Zélande"
+        }
+    ]
+}
