@@ -1,0 +1,126 @@
+{
+    "schema_version": 1,
+    "articles": [
+        {
+            "id": "decouverte-379ed38724444a801d960b7c",
+            "subject_id": "source-f73cfcaa3fbf512733bcc0b170c1edbd",
+            "collected_at": "2026-11-22T06:46:50+00:00",
+            "sources": [
+                {
+                    "label": "NOAA · What is marine snow?",
+                    "url": "https://oceanservice.noaa.gov/facts/marinesnow.html"
+                }
+            ],
+            "source_sha256": "5b26ffba02ce213d4f1ec36889db11ddd95991fb3ede459a265729d3b2ad56ac",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:What_do_you_see_%3F_Que_voyez-vous_%3F_(14500840445).jpg",
+            "image_license": "CC BY 2.0 · https://creativecommons.org/licenses/by/2.0/",
+            "original_sha1": "763c8768c48c1b60e4aec392edcbd9facc25913e",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La découverte et la compréhension du phénomène de la « neige marine », une chute continue de particules organiques vers les grands fonds océaniques, ont permis de mieux cerner un mécanisme naturel essentiel au réseau alimentaire des espèces vivant dans l'obscurité des profondeurs marines.",
+                "beneficiaries": "Les organismes vivant dans les zones profondes et obscures des océans, notamment les nombreux animaux qui se nourrissent de cette matière organique en décomposition appelée neige marine."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "La neige marine désigne les flocons de débris organiques et inorganiques qui tombent lentement depuis les eaux superficielles jusqu’au fond des océans.",
+                    "source_passages": [
+                        "Marine snow is a shower of organic material falling from upper waters to the deep ocean.",
+                        "As plants and animals near the surface of the ocean die and decay, they fall toward the seafloor, just like leaves and decaying material fall onto a forest floor.",
+                        "In addition to dead animals and plants, marine snow also includes fecal matter, sand, soot, and other inorganic dust.",
+                        "The decaying material is referred to as “marine snow” because it looks a little bit like white fluffy bits.",
+                        "The “snowflakes” grow as they fall, some reaching several centimeters in diameter."
+                    ]
+                },
+                {
+                    "sentence": "Composée de restes de plantes, d’animaux morts, de matières fécales et de poussières variées, cette matière peut mettre des semaines à atteindre le plancher océanique.",
+                    "source_passages": [
+                        "As plants and animals near the surface of the ocean die and decay, they fall toward the seafloor, just like leaves and decaying material fall onto a forest floor.",
+                        "In addition to dead animals and plants, marine snow also includes fecal matter, sand, soot, and other inorganic dust.",
+                        "Some flakes fall for weeks before finally reaching the ocean floor."
+                    ]
+                },
+                {
+                    "sentence": "Cet apport constant constitue une source alimentaire importante pour de nombreuses espèces qui vivent dans l’obscurité des grands fonds, en filtrant ou en récupérant ces particules.",
+                    "source_passages": [
+                        "This continuous rain of marine snow provides food for many deep-sea creatures.",
+                        "Many animals in the dark parts of the ocean filter marine snow from the water or scavenge it from the seabed.",
+                        "NOAA scientists and others have measured the amount of useable material in marine snow and found that there is plenty of carbon and nitrogen to feed many of the scavengers in the deep sea."
+                    ]
+                },
+                {
+                    "sentence": "De plus, la partie non consommée s’accumule en une couche d’ooze boueuse couvrant près de trois quarts du fond océanique, où elle continue à se décomposer.",
+                    "source_passages": [
+                        "The small percentage of material not consumed in shallower waters becomes incorporated into the muddy “ooze” blanketing the ocean floor, where it is further decomposed through biological activity.",
+                        "About three-quarters of the deep ocean floor is covered in this thick, smooth ooze."
+                    ]
+                },
+                {
+                    "sentence": "Ce cycle naturel soutient la vie au-delà de la zone éclairée par le soleil, démontrant un lien écologique vital entre surface et profondeur.",
+                    "source_passages": [
+                        "This continuous rain of marine snow provides food for many deep-sea creatures.",
+                        "Many animals in the dark parts of the ocean filter marine snow from the water or scavenge it from the seabed."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-57a30b6b8ed9b26fc9146ff8",
+            "subject_id": "Q2994506",
+            "collected_at": "2026-11-22T06:46:56+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Conservatoire du littoral",
+                    "url": "https://fr.wikipedia.org/wiki/Conservatoire_du_littoral"
+                }
+            ],
+            "source_sha256": "1a3ff03015651a983930c4d45a3d321d9002624467a56b558c6fb615ba27423d",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Bolmon.jpg",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "original_sha1": "10b9783a77d2f3e69e5b68de3c3c79ff04c47e8b",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Le Conservatoire du littoral protège concrètement 220 000 hectares répartis sur plus de 840 sites, assurant ainsi la préservation d'environ 18 % du littoral français.",
+                "beneficiaries": "Le littoral français, ses espaces naturels, zones humides, estuaires, patrimoines culturels côtiers ainsi que la biodiversité associée."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Depuis sa création en 1975, le Conservatoire du littoral a permis d'acquérir et de protéger environ 220 000 hectares sur plus de 840 sites en France, soit près de 18 % du linéaire côtier.",
+                    "source_passages": [
+                        "En 2025, le Conservatoire assure la protection de 220 000 hectares sur plus de 840 sites, représentant 18 % du linéaire côtier.",
+                        "Son objectif est d'acquérir un tiers du littoral national afin qu'il ne soit pas construit ou artificialisé.",
+                        "Il peut acquérir des terrains situés sur le littoral mais aussi sur le domaine public maritime depuis 2002, les zones humides des départements côtiers depuis 2005, les estuaires, le domaine public fluvial et les lacs depuis 2009."
+                    ]
+                },
+                {
+                    "sentence": "L'établissement couvre non seulement les espaces naturels littoraux mais aussi depuis plusieurs années les zones humides, estuaires, lacs et domaines publics maritimes et fluviaux.",
+                    "source_passages": [
+                        "Il peut acquérir des terrains situés sur le littoral mais aussi sur le domaine public maritime depuis 2002, les zones humides des départements côtiers depuis 2005, les estuaires, le domaine public fluvial et les lacs depuis 2009."
+                    ]
+                },
+                {
+                    "sentence": "Cette intervention évite l'artificialisation des côtes et préserve aussi des éléments du patrimoine culturel comme les phares ou forts en bord de mer.",
+                    "source_passages": [
+                        "Son objectif est d'acquérir un tiers du littoral national afin qu'il ne soit pas construit ou artificialisé.",
+                        "Il contribue également à protéger le patrimoine culturel du littoral (forts, redoutes, batteries, phares, etc.)."
+                    ]
+                },
+                {
+                    "sentence": "Par exemple, la zone de l’étang du Bolmon, à Marignane, est désormais sous sa protection.",
+                    "source_passages": [
+                        "En 2025, le Conservatoire assure la protection de 220 000 hectares sur plus de 840 sites, représentant 18 % du linéaire côtier."
+                    ]
+                },
+                {
+                    "sentence": "Cette surface protégée et diversifiée offre un cadre favorable à la biodiversité et aux paysages côtiers.",
+                    "source_passages": [
+                        "En 2025, le Conservatoire assure la protection de 220 000 hectares sur plus de 840 sites, représentant 18 % du linéaire côtier."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        }
+    ]
+}

@@ -1,7 +1,13 @@
 {
     "schema_version": 1,
-    "version": "2026-11-21.e2a296abd5046cbe",
+    "version": "2026-11-22.f3fa342aa6959ec4",
     "batches": [
+        {
+            "id": "generated-f3fa342aa6959ec490bd",
+            "version": "1",
+            "url": "batches/generated-f3fa342aa6959ec490bd.v1.json",
+            "count": 2
+        },
         {
             "id": "generated-e2a296abd5046cbece3a",
             "version": "1",

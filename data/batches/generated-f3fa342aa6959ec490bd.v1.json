@@ -1,0 +1,57 @@
+{
+    "schema_version": 1,
+    "id": "generated-f3fa342aa6959ec490bd",
+    "version": "1",
+    "articles": [
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "daily",
+            "id": "decouverte-379ed38724444a801d960b7c",
+            "title": "La neige marine : la pluie biologique qui nourrit les profondeurs de l’océan",
+            "body": "La neige marine désigne les flocons de débris organiques et inorganiques qui tombent lentement depuis les eaux superficielles jusqu’au fond des océans. Composée de restes de plantes, d’animaux morts, de matières fécales et de poussières variées, cette matière peut mettre des semaines à atteindre le plancher océanique. Cet apport constant constitue une source alimentaire importante pour de nombreuses espèces qui vivent dans l’obscurité des grands fonds, en filtrant ou en récupérant ces particules. De plus, la partie non consommée s’accumule en une couche d’ooze boueuse couvrant près de trois quarts du fond océanique, où elle continue à se décomposer. Ce cycle naturel soutient la vie au-delà de la zone éclairée par le soleil, démontrant un lien écologique vital entre surface et profondeur.",
+            "category": "Nature et animaux",
+            "location": "Océan mondial",
+            "image_description": "Photographie du bassin d’Arcachon, une lagune mesotidale côtière en Gironde, France, illustrant un milieu aquatique lié aux cycles biologiques marins.",
+            "image_caption": "Bassin d’Arcachon en Gironde, France, illustration documentaire générale de milieux aquatiques – Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/1e017be06f1647b03a0d59fbc27c82f7736017d4e984bf47b64eba525222f3da.jpg",
+            "image_credit": "Grand Parc - Bordeaux, France from France · What do you see ? Que voyez-vous ? · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY 2.0 · https://creativecommons.org/licenses/by/2.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:What_do_you_see_%3F_Que_voyez-vous_%3F_(14500840445).jpg",
+            "sources": [
+                {
+                    "label": "NOAA · What is marine snow?",
+                    "url": "https://oceanservice.noaa.gov/facts/marinesnow.html"
+                }
+            ],
+            "subject_id": "source-f73cfcaa3fbf512733bcc0b170c1edbd",
+            "published_at": "2026-11-22",
+            "country": "Monde"
+        },
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "daily",
+            "id": "decouverte-57a30b6b8ed9b26fc9146ff8",
+            "title": "Le Conservatoire du littoral sauvegarde près d’un cinquième des côtes françaises",
+            "body": "Depuis sa création en 1975, le Conservatoire du littoral a permis d'acquérir et de protéger environ 220 000 hectares sur plus de 840 sites en France, soit près de 18 % du linéaire côtier. L'établissement couvre non seulement les espaces naturels littoraux mais aussi depuis plusieurs années les zones humides, estuaires, lacs et domaines publics maritimes et fluviaux. Cette intervention évite l'artificialisation des côtes et préserve aussi des éléments du patrimoine culturel comme les phares ou forts en bord de mer. Par exemple, la zone de l’étang du Bolmon, à Marignane, est désormais sous sa protection. Cette surface protégée et diversifiée offre un cadre favorable à la biodiversité et aux paysages côtiers.",
+            "category": "Initiatives positives",
+            "location": "France",
+            "image_description": "L’étang du Bolmon à Marignane, zone protégée par le Conservatoire du littoral",
+            "image_caption": "Photographie documentaire générale de l’étang du Bolmon, à Marignane (13), zone protégée du Conservatoire du littoral — cc-by-sa 3.0 Wikimedia Commons",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/402ce52f47a561fad28a70ed0f80fd5a9401fc192b54b7899a2e6d71214215ea.jpg",
+            "image_credit": "Infos-etangdeberre · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Bolmon.jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Conservatoire du littoral",
+                    "url": "https://fr.wikipedia.org/wiki/Conservatoire_du_littoral"
+                }
+            ],
+            "subject_id": "Q2994506",
+            "published_at": "2026-11-22",
+            "country": "France"
+        }
+    ]
+}
