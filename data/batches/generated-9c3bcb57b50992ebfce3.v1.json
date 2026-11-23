@@ -1,0 +1,135 @@
+{
+    "schema_version": 1,
+    "id": "generated-9c3bcb57b50992ebfce3",
+    "version": "1",
+    "articles": [
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-8ea39f0dbae7bf2ffab7683d",
+            "title": "Un musée unique dans un hôpital pour distraire et accompagner les enfants malades",
+            "body": "Au Manning Family Children’s Hospital à La Nouvelle-Orléans, Walker’s Imaginarium a ouvert ses portes, incarnant le premier musée installé dans un hôpital pédiatrique. Conçu pour offrir aux enfants malades un lieu d’évasion et d'amusement durant leurs traitements, cet espace de 1 400 m² propose des activités adaptées à différents besoins médicaux et moteurs. Les salles thématiques, inspirées de la culture locale, permettent notamment de danser sur de la musique cajun, de participer à une parade de Mardi Gras ou de se détendre devant un aquarium animé. Ce musée encourage le jeu thérapeutique, identifié comme un soutien essentiel pour le bien-être des jeunes patients. Il comporte aussi une salle de classe pour ne pas interrompre l’éducation lors des hospitalisations prolongées.",
+            "category": "Initiatives positives",
+            "location": "La Nouvelle-Orléans, États-Unis",
+            "image_description": "Vue extérieure du Santa Rosa Children's Hospital, hôpital pédiatrique aux États-Unis.",
+            "image_caption": "Illustration documentaire générale : Santa Rosa Children’s Hospital, Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/b2d91952569d9dc804a4f3bfe4ce97c53ad9a77ac95d436efe9a6fa3f78a031c.jpg",
+            "image_credit": "Todd Dwyer · https://web.archive.org/web/20161012003431/http://www.panoramio.com/photo/9004736 · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Santa_Rosa_Children%27s_Hospital_-_panoramio.jpg",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-22",
+                    "url": "https://www.goodnewsnetwork.org/the-first-museum-built-in-a-childrens-hospital-fulfills-dying-boys-wish/"
+                }
+            ],
+            "subject_id": "news-6297da26f1160e00f99e6987e512a5e4",
+            "published_at": "2026-11-23",
+            "country": "Monde",
+            "source_published_at": "2026-11-22"
+        },
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-f04dcb21d835de31861eb7f4",
+            "title": "65 ans de soutien continu aux missions d’exploration humaine au centre Johnson de la NASA",
+            "body": "Depuis son ouverture en 1961, le centre spatial Johnson de la NASA à Houston a joué un rôle central dans le pilotage et le contrôle des vols spatiaux habités. Il a notamment permis d’assurer la gestion des missions Gemini, puis Apollo, qui ont conduit aux premiers alunissages. Aujourd’hui, le centre continue de coordonner les opérations de la Station spatiale internationale, où une présence humaine est maintenue en permanence depuis plus de 26 ans, et prépare les programmes pour retourner sur la Lune. Cette continuité opérationnelle repose sur une organisation regroupant contrôleurs de vol, ingénieurs et spécialistes médicaux, qui garantissent la vie et le travail des astronautes en milieu spatial. Le site intègre aussi des installations d’analyse des échantillons lunaires, prolongeant l’étude scientifique du système solaire.",
+            "category": "Sciences",
+            "location": "Houston, États-Unis",
+            "image_description": "Photographie depuis l’ISS montrant le centre spatial Lyndon B. Johnson, situé dans la zone métropolitaine sud-est de Houston, entouré de zones urbaines, de prairies, de forêts et près de l’aéroport Ellington Field et de Clear Lake.",
+            "image_caption": "Vue satellite prise depuis la Station spatiale internationale du centre spatial Lyndon B. Johnson à Houston, illustration documentaire générale.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/36a5f929a9c839324c5a6eb023dfc90aaa8afc45b56926cb4b5cab251b8a18b7.jpg",
+            "image_credit": "ISS Expedition 24 crew · NASA Earth Observatory · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:NASA_Johnson_Space_Center,_Houston,_Texas.JPG",
+            "sources": [
+                {
+                    "label": "NASA · publié le 2026-11-22",
+                    "url": "https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson/"
+                }
+            ],
+            "subject_id": "news-c7c3f2d60795dbcaa9869b593c691efe",
+            "published_at": "2026-11-23",
+            "country": "Monde",
+            "source_published_at": "2026-11-22"
+        },
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-fa9065367955943e15f3fcf9",
+            "title": "Un drone capte l’air expiré des baleines pour séquencer leur génome sans intrusion",
+            "body": "Des scientifiques ont utilisé un drone équipé de boîtes de Petri stériles pour recueillir l’air expiré par les baleines à bosse dans le fjord de Kitimat, au Canada. Cette méthode a permis de séquencer pour la première fois leur génome complet sans prélèvements invasifs, évitant ainsi le dérangement des animaux. Les chercheurs ont collecté 58 échantillons provenant de 26 individus sur deux années, obtenant une qualité d’ADN comparable à celle des biopsies traditionnelles. Ces données génétiques facilitent la compréhension des liens familiaux et de la diversité génétique des baleines. De plus, la présence d’ADN microbien dans le souffle offre un aperçu potentiel de leur microbiome respiratoire, indicateur de santé. Cette technique novatrice réduit la nécessité d’approches physiques et pourrait améliorer la surveillance des populations.",
+            "category": "Initiatives positives",
+            "location": "Fjord de Kitimat, Colombie-Britannique, Canada",
+            "image_description": "Un drone de recherche équipé pour prélever l’air expiré des baleines à bosse au large de Sydney.",
+            "image_caption": "Illustration documentaire : drone utilisé pour collecter le souffle de baleines, Sydney. Photo : Dr Vanessa Pirotta, Wikimedia Commons, CC BY-SA 4.0.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/2bccdbfd586757ce2f2dd713b02c1b442c5e65799994dae5b22ed4c93749b5df.jpg",
+            "image_credit": "Vpirotta · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Drone_collecting_whale_snot,_Sydney.jpg",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-21",
+                    "url": "https://www.goodnewsnetwork.org/breath-of-whale-captured-via-drone-to-complete-genome-sequence/"
+                }
+            ],
+            "subject_id": "news-c2e8e88afa5eb3407c506d1eda7a1b58",
+            "published_at": "2026-11-23",
+            "country": "Monde",
+            "source_published_at": "2026-11-21"
+        },
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "daily",
+            "id": "decouverte-34a82addb68419135a4f0cd1",
+            "title": "Les coraux et leur exigence pour une eau claire, salée et chaude",
+            "body": "Les coraux construisant les récifs se développent principalement dans des eaux tropicales et subtropicales. Ils ne tolèrent pas des températures inférieures à 18 °C et préfèrent une plage optimale allant de 23 à 29 °C, avec une salinité élevée entre 32 et 42 parties par mille. La clarté de l'eau est essentielle, car les coraux vivent en symbiose avec des algues photosynthétiques qui fournissent leur nourriture en échange d'un abri. Cette coexistence nécessite une forte pénétration de lumière. Ainsi, ces conditions précises favorisent la formation des vastes récifs coralliens qui nourrissent et protègent de nombreuses espèces marines. Cette relation illustre l'adaptation complexe des coraux à leur environnement.",
+            "category": "Nature et animaux",
+            "location": "Milieux marins tropicaux et subtropicaux",
+            "image_description": "Labechia sp., une éponge fossile ressemblant aux stromatoporoïdes, datant de l'Ordovicien supérieur, trouvée près de Dayton, Ohio, USA.",
+            "image_caption": "Illustration générale d'une éponge fossile (Labechia sp.) ressemblant aux stromatoporoïdes, apparentés aux coraux. Cette photo documentaire provient d’une collection paléontologique et ne représente pas directement les coraux actuels.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/22407a3298f59e7fa6ae2571295a102b1cefdc1b92a789c0654f59def370e0e3.jpg",
+            "image_credit": "James St. John · https://www.flickr.com/photos/47445767@N05/34728247766/ · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY 2.0 · https://creativecommons.org/licenses/by/2.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Labechia_sp._(fossil_stromatoporoid_sponge)_encrusting_a_cephalopod_(Elkhorn_Formation,_Upper_Ordovician;_south_of_Dayton,_Ohio,_USA).jpg",
+            "sources": [
+                {
+                    "label": "NOAA · In what types of water do corals live?",
+                    "url": "https://oceanservice.noaa.gov/facts/coralwaters.html"
+                }
+            ],
+            "subject_id": "source-f80e05353d7c21de82dba92bb92dc660",
+            "published_at": "2026-11-23",
+            "country": "Monde"
+        },
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "daily",
+            "id": "decouverte-df64308f7fa50c8db73fc1ef",
+            "title": "Collonges-la-Rouge : un village limousin valorisé à travers la protection de son patrimoine en grès rouge",
+            "body": "Situé en Corrèze, le village de Collonges-la-Rouge étend sur 1 431 hectares dont 420 sont classés monuments historiques. Ce classement porte sur l'architecture singulière en grès rouge extraite du Puy de Valège, satellite du plateau calcaire du Quercy. Cette protection significative contribue à préserver une large part de l'identité locale, inscrite aussi à l'inventaire supplémentaire des monuments historiques sur 189 hectares. Labellisé parmi Les Plus Beaux Villages de France, Collonges-la-Rouge maintient ainsi un lien entre son géologie, son histoire et son cadre de vie. Ce patrimoine protégé bénéficie aux Collongeois et aux visiteurs, qui apprécient le charme authentique du village bâti sur un site naturel.",
+            "category": "Villages et villes",
+            "location": "Collonges-la-Rouge, Nouvelle-Aquitaine, France",
+            "image_description": "une rue de Collonges-la-Rouge photographiée en 2001, montrant l’architecture caractéristique en grès rouge du village",
+            "image_caption": "Photo documentaire générale d’une rue de Collonges-la-Rouge, illustrant la typicité architecturale du village en grès rouge",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/2d6dd033f2c6a306f6221a71ac207ad4159cde5e97d4f0a043cb5b4df52dbcc6.jpg",
+            "image_credit": "The original uploader was Accrochoc at French Wikipedia. · Transferred from fr.wikipedia to Commons. · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Collonges_la_Rouge_rue.JPG",
+            "sources": [
+                {
+                    "label": "Wikipédia · Collonges-la-Rouge",
+                    "url": "https://fr.wikipedia.org/wiki/Collonges-la-Rouge"
+                }
+            ],
+            "subject_id": "Q627479",
+            "published_at": "2026-11-23",
+            "country": "France"
+        }
+    ]
+}

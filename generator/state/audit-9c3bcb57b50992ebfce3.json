@@ -1,0 +1,331 @@
+{
+    "schema_version": 1,
+    "articles": [
+        {
+            "id": "decouverte-8ea39f0dbae7bf2ffab7683d",
+            "subject_id": "news-6297da26f1160e00f99e6987e512a5e4",
+            "collected_at": "2026-11-23T07:36:18+00:00",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-22",
+                    "url": "https://www.goodnewsnetwork.org/the-first-museum-built-in-a-childrens-hospital-fulfills-dying-boys-wish/"
+                }
+            ],
+            "source_sha256": "1d3346fd732098905ff0759430db38d35bea4127f30b58284a9e363f41acc169",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Santa_Rosa_Children%27s_Hospital_-_panoramio.jpg",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "original_sha1": "fb19d570c1d0ff26297b99cbd6c79688252e943f",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Ouverture de Walker’s Imaginarium, premier musée intégré dans un hôpital pour enfants, offrant aux jeunes patients un espace ludique adapté à leurs besoins physiques et sensoriels.",
+                "beneficiaries": "enfants hospitalisés au Manning Family Children’s Hospital de La Nouvelle-Orléans et leurs familles"
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Au Manning Family Children’s Hospital à La Nouvelle-Orléans, Walker’s Imaginarium a ouvert ses portes, incarnant le premier musée installé dans un hôpital pédiatrique.",
+                    "source_passages": [
+                        "Last week, his family celebrated the opening of the world’s first museum incorporated into a hospital—a fantastical ‘Imaginarium’ where sick kids and their families can go for art, movement, pretending, and fun.",
+                        "Named after the nine-year-old, Walker Beery, Walker’s Imaginarium is a 15,000-square-foot children’s museum where patients can wander through rooms interacting with uniquely Louisiana themes: dancing to cajun music, exploring a bayou, joining a Mardi Gras parade, or enjoying a quiet moment among an animated fish tank.",
+                        "In August 2019, he was diagnosed with pediatric brain cancer, yet through surgeries, hospital stays, and chemotherapy treatments, Walker’s infectious courage and grateful spirit always amazed his family and all who encountered him during his two-year battle at the hospital, recently renamed Manning Family Children’s."
+                    ]
+                },
+                {
+                    "sentence": "Conçu pour offrir aux enfants malades un lieu d’évasion et d'amusement durant leurs traitements, cet espace de 1 400 m² propose des activités adaptées à différents besoins médicaux et moteurs.",
+                    "source_passages": [
+                        "Named after the nine-year-old, Walker Beery, Walker’s Imaginarium is a 15,000-square-foot children’s museum where patients can wander through rooms interacting with uniquely Louisiana themes: dancing to cajun music, exploring a bayou, joining a Mardi Gras parade, or enjoying a quiet moment among an animated fish tank.",
+                        "Designed for a range of physical, sensory, and medical needs, kids in wheelchairs can play both mini-golf and foosball while rolling by the colorful ramps and murals—and forgetting they’re in a hospital.",
+                        "“Every child who finds a moment of escape, every family that experiences joy together carries Walker’s dream forward: to use his own experience to make someone else’s a little easier, and a little happier.” Designed around the needs of young patients, the interactive experiences use therapeutic play to relieve the burden of long hospitalizations and support holistic recovery.",
+                        "By integrating feedback from clinical experts and patient families, the design team transformed health challenges into opportunities for play-based healing."
+                    ]
+                },
+                {
+                    "sentence": "Les salles thématiques, inspirées de la culture locale, permettent notamment de danser sur de la musique cajun, de participer à une parade de Mardi Gras ou de se détendre devant un aquarium animé.",
+                    "source_passages": [
+                        "Named after the nine-year-old, Walker Beery, Walker’s Imaginarium is a 15,000-square-foot children’s museum where patients can wander through rooms interacting with uniquely Louisiana themes: dancing to cajun music, exploring a bayou, joining a Mardi Gras parade, or enjoying a quiet moment among an animated fish tank.",
+                        "Mardi Gras display in Walker’s Imaginarium – Manning Family Children’s From the very first step into Walker’s Imaginarium, visitors are invited to create their own dance party, complete with interactive lights, marching band music, and percussion pipes that take the shape of a fantastic tree canopied by New Orleans second-line umbrellas.",
+                        "(Watch the video at the bottom…) Walker’s Imaginarium Lemonade stand – Manning Family Children’s Another corner of the museum presents the elements of a ‘front porch life’, complete with a crawfish boil and lemonade stand."
+                    ]
+                },
+                {
+                    "sentence": "Ce musée encourage le jeu thérapeutique, identifié comme un soutien essentiel pour le bien-être des jeunes patients.",
+                    "source_passages": [
+                        "“Every child who finds a moment of escape, every family that experiences joy together carries Walker’s dream forward: to use his own experience to make someone else’s a little easier, and a little happier.” Designed around the needs of young patients, the interactive experiences use therapeutic play to relieve the burden of long hospitalizations and support holistic recovery.",
+                        "By integrating feedback from clinical experts and patient families, the design team transformed health challenges into opportunities for play-based healing."
+                    ]
+                },
+                {
+                    "sentence": "Il comporte aussi une salle de classe pour ne pas interrompre l’éducation lors des hospitalisations prolongées.",
+                    "source_passages": [
+                        "A dedicated classroom on the second floor will house an education program, supporting the long-term learning and educational needs of patients who are missing significant time away from school."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-f04dcb21d835de31861eb7f4",
+            "subject_id": "news-c7c3f2d60795dbcaa9869b593c691efe",
+            "collected_at": "2026-11-23T07:36:30+00:00",
+            "sources": [
+                {
+                    "label": "NASA · publié le 2026-11-22",
+                    "url": "https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson/"
+                }
+            ],
+            "source_sha256": "e03a2c42d74299ad4c1495d810031270d84270460db6b650e3f1070044e3be21",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:NASA_Johnson_Space_Center,_Houston,_Texas.JPG",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "b2f2d6cff9f15b1741353b8dac769a95bd9f5352",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Le centre spatial Johnson de la NASA à Houston a maintenu une présence humaine continue en orbite depuis plus de 26 ans grâce à sa gestion des opérations de la Station spatiale internationale et prépare actuellement les missions lunaires à venir.",
+                "beneficiaries": "les astronautes, les chercheurs en sciences spatiales, et la communauté scientifique mondiale bénéficiant des recherches et des données issues des missions spatiales habitées"
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Depuis son ouverture en 1961, le centre spatial Johnson de la NASA à Houston a joué un rôle central dans le pilotage et le contrôle des vols spatiaux habités.",
+                    "source_passages": [
+                        "NASA/Robert Markowitz For 65 years, NASA’s Johnson Space Center in Houston has helped shape human spaceflight, from the Gemini missions that demonstrated rendezvous and docking techniques needed for Apollo to the research conducted aboard the International Space Station, which has supported a continuous human presence for more than 26 years.",
+                        "Mercury and Gemini: Preparing for Apollo When the Manned Spacecraft Center officially opened on Nov.",
+                        "1, 1961, NASA had already flown two suborbital Mercury missions, with the first orbital flight just months away.",
+                        "Most Project Mercury activities remained at Cape Canaveral in Florida to maintain continuity, but the new Project Gemini took up residence in Houston, housed in temporary leased facilities across the city while construction of the new Clear Lake campus continued.",
+                        "The new Mission Control Center became NASA’s primary flight control center in June 1965, with the Gemini IV mission that included the first American spacewalk.",
+                        "Houston became the nerve center for American human spaceflight, overseeing the remaining eight Gemini missions before transitioning to the Apollo program."
+                    ]
+                },
+                {
+                    "sentence": "Il a notamment permis d’assurer la gestion des missions Gemini, puis Apollo, qui ont conduit aux premiers alunissages.",
+                    "source_passages": [
+                        "Houston became the nerve center for American human spaceflight, overseeing the remaining eight Gemini missions before transitioning to the Apollo program.",
+                        "Following the tragic Apollo 1 fire in January 1967, managers, engineers, and astronauts at the Manned Spacecraft Center applied lessons learned to make the spacecraft safer and ensure the safety of its astronauts, resuming crewed missions in October 1968.",
+                        "Managers in Houston devised a daring plan to send Apollo 8 on a circumlunar flight.",
+                        "In December 1968, Apollo 8 made its historic trip around the Moon, and seven months later Apollo 11 astronauts Neil Armstrong and Edwin “Buzz” Aldrin landed on the lunar surface.",
+                        "Their first voice transmission back to Earth after their arrival began with the word “Houston.” Five more Moon landings completed the Apollo program and humanity’s first phase of lunar exploration in December 1972."
+                    ]
+                },
+                {
+                    "sentence": "Aujourd’hui, le centre continue de coordonner les opérations de la Station spatiale internationale, où une présence humaine est maintenue en permanence depuis plus de 26 ans, et prépare les programmes pour retourner sur la Lune.",
+                    "source_passages": [
+                        "NASA/Robert Markowitz For 65 years, NASA’s Johnson Space Center in Houston has helped shape human spaceflight, from the Gemini missions that demonstrated rendezvous and docking techniques needed for Apollo to the research conducted aboard the International Space Station, which has supported a continuous human presence for more than 26 years.",
+                        "Today, Johnson teams are preparing crews and systems for NASA’s next chapter: returning astronauts to the lunar surface and building the capabilities needed for a long-term human presence at the Moon.",
+                        "Across those missions, generations of flight controllers, engineers, scientists, instructors, medical specialists, and other experts have helped crews live and work beyond Earth.",
+                        "Johnson is home to NASA’s Orion and Moon Base programs, and its teams continue to support space station operations, astronaut training, spacecraft development, mission operations, and human health."
+                    ]
+                },
+                {
+                    "sentence": "Cette continuité opérationnelle repose sur une organisation regroupant contrôleurs de vol, ingénieurs et spécialistes médicaux, qui garantissent la vie et le travail des astronautes en milieu spatial.",
+                    "source_passages": [
+                        "Across those missions, generations of flight controllers, engineers, scientists, instructors, medical specialists, and other experts have helped crews live and work beyond Earth.",
+                        "Johnson is home to NASA’s Orion and Moon Base programs, and its teams continue to support space station operations, astronaut training, spacecraft development, mission operations, and human health."
+                    ]
+                },
+                {
+                    "sentence": "Le site intègre aussi des installations d’analyse des échantillons lunaires, prolongeant l’étude scientifique du système solaire.",
+                    "source_passages": [
+                        "Following the Moon landings, scientists at the Manned Spacecraft Center’s Lunar Receiving Laboratory conducted initial analyses of Apollo lunar samples and prepared them for researchers around the world.",
+                        "After the building was demolished in March 2024, the Lunar Receiving Park was dedicated to honor the laboratory’s history in 2026.",
+                        "Today, Johnson’s Astromaterials Research and Exploration Science (ARES) division continues to analyze and curate the Apollo collection at the Lunar Sample Laboratory Facility."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-fa9065367955943e15f3fcf9",
+            "subject_id": "news-c2e8e88afa5eb3407c506d1eda7a1b58",
+            "collected_at": "2026-11-23T07:37:44+00:00",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-21",
+                    "url": "https://www.goodnewsnetwork.org/breath-of-whale-captured-via-drone-to-complete-genome-sequence/"
+                }
+            ],
+            "source_sha256": "755725d3e2c26ac43d0c96e45be49701701535c60e72fb5d75dd554d6df821f7",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Drone_collecting_whale_snot,_Sydney.jpg",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "original_sha1": "559ef1ae9af4796eb9a15b81223039f3875a2e27",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "L'utilisation d'un drone pour collecter l'air expiré des baleines a permis de séquencer intégralement leur génome sans intervention physique ni dérangement des animaux.",
+                "beneficiaries": "Les populations de baleines à bosse étudiées, les chercheurs en biologie marine et les efforts de conservation marine."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Des scientifiques ont utilisé un drone équipé de boîtes de Petri stériles pour recueillir l’air expiré par les baleines à bosse dans le fjord de Kitimat, au Canada.",
+                    "source_passages": [
+                        "To overcome the collection challenge, the team attached sterile petri dishes to a small drone.",
+                        "(See below…) They flew it through the exhaled breaths of one humpback whale at a time, which typically has one to six breaths per surfacing.",
+                        "North Coast Cetacean Society / SWNS They collected 58 blow samples from 26 individual humpback whales in the Kitimat Fjord System in northern British Columbia, Canada."
+                    ]
+                },
+                {
+                    "sentence": "Cette méthode a permis de séquencer pour la première fois leur génome complet sans prélèvements invasifs, évitant ainsi le dérangement des animaux.",
+                    "source_passages": [
+                        "Andrews in Scotland were part of an international team to sequence a whole genome using samples from whale breath collected by a small aerial drone.",
+                        "It marks the first time sequencing has been completed without the use of physical interventions—commonly using darts and biopsies collected by boat, which disturbs the animals, or from stranded mammals or historical specimens."
+                    ]
+                },
+                {
+                    "sentence": "Les chercheurs ont collecté 58 échantillons provenant de 26 individus sur deux années, obtenant une qualité d’ADN comparable à celle des biopsies traditionnelles.",
+                    "source_passages": [
+                        "North Coast Cetacean Society / SWNS They collected 58 blow samples from 26 individual humpback whales in the Kitimat Fjord System in northern British Columbia, Canada.",
+                        "Around 84% of the DNA in the blow came from the whale itself.",
+                        "North Coast Cetacean Society / SWNS The research team also discovered genetic diversity estimated from blow was very similar to estimates from traditional biopsies—with this particular population showing no evidence of inbreeding beyond a shared ancestry or past population bottlenecks."
+                    ]
+                },
+                {
+                    "sentence": "Ces données génétiques facilitent la compréhension des liens familiaux et de la diversité génétique des baleines.",
+                    "source_passages": [
+                        "MORE WHALE NEWS: • This Blue Whale Population Grew 1,000% Since End of Antarctic Whaling • 4 Beluga Whales from Shuttered Canadian Park Arrive at Chicago’s Shedd Aquarium After Rescue (LOOK) “We will use these blow-derived genomes to assess kinship and family ties among humpback whales foraging in northern British Columbia,” said lead researcher Dr.",
+                        "“The aim is to understand how their social bonds form: are the whales that forage together family, or long-term friends?"
+                    ]
+                },
+                {
+                    "sentence": "De plus, la présence d’ADN microbien dans le souffle offre un aperçu potentiel de leur microbiome respiratoire, indicateur de santé.",
+                    "source_passages": [
+                        "This confirms the blow-derived data behave just like conventional genomic data.” The findings, published in the journal Molecular Ecology Resources, also showed that around 16% of the DNA in each blow sample comes largely from the microbes living in the whale’s airways.",
+                        "“This means a single breath could tell us about both the whale and its respiratory microbiome, a potential window into health.” SHARE THE WHALE-OF-A-GOOD STORY With Ocean Lovers on Social Media… Leave a Reply Cancel replyYou must be logged in to post a comment."
+                    ]
+                },
+                {
+                    "sentence": "Cette technique novatrice réduit la nécessité d’approches physiques et pourrait améliorer la surveillance des populations.",
+                    "source_passages": [
+                        "It marks the first time sequencing has been completed without the use of physical interventions—commonly using darts and biopsies collected by boat, which disturbs the animals, or from stranded mammals or historical specimens.",
+                        "Yet, genomic data is “critical” for conservation, enabling researchers to measure population health, genetic diversity and inbreeding, as well as to identify individuals for “mark-recapture” studies, determine sex, and estimate population size.",
+                        "MORE WHALE NEWS: • This Blue Whale Population Grew 1,000% Since End of Antarctic Whaling • 4 Beluga Whales from Shuttered Canadian Park Arrive at Chicago’s Shedd Aquarium After Rescue (LOOK) “We will use these blow-derived genomes to assess kinship and family ties among humpback whales foraging in northern British Columbia,” said lead researcher Dr."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-34a82addb68419135a4f0cd1",
+            "subject_id": "source-f80e05353d7c21de82dba92bb92dc660",
+            "collected_at": "2026-11-23T07:38:12+00:00",
+            "sources": [
+                {
+                    "label": "NOAA · In what types of water do corals live?",
+                    "url": "https://oceanservice.noaa.gov/facts/coralwaters.html"
+                }
+            ],
+            "source_sha256": "56e659dc48f6bdb9dc54bb79dad072b113ce92ca9be6910077f382e7f893054a",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Labechia_sp._(fossil_stromatoporoid_sponge)_encrusting_a_cephalopod_(Elkhorn_Formation,_Upper_Ordovician;_south_of_Dayton,_Ohio,_USA).jpg",
+            "image_license": "CC BY 2.0 · https://creativecommons.org/licenses/by/2.0/",
+            "original_sha1": "f1b322d4efb2ef8bd5ee2f7fbbb83d5bf47c3afe",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La compréhension des conditions environnementales nécessaires pour la vie des coraux montre leur adaptation à des eaux chaudes, salées et claires, indispensables à leur survie et croissance.",
+                "beneficiaries": "Les récifs coralliens qui abritent de nombreuses espèces marines bénéficient de cette spécialisation écologique."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Les coraux construisant les récifs se développent principalement dans des eaux tropicales et subtropicales.",
+                    "source_passages": [
+                        "Because of strict environmental restrictions, coral reefs generally are confined to tropical and semi-tropical waters."
+                    ]
+                },
+                {
+                    "sentence": "Ils ne tolèrent pas des températures inférieures à 18 °C et préfèrent une plage optimale allant de 23 à 29 °C, avec une salinité élevée entre 32 et 42 parties par mille.",
+                    "source_passages": [
+                        "Download Reef-building corals cannot tolerate water temperatures below 64° Fahrenheit (18° Celsius).",
+                        "Many grow optimally in water temperatures between 73° and 84° Fahrenheit (23°–29°Celsius), but some can tolerate temperatures as high as 104° Fahrenheit (40° Celsius) for short periods.",
+                        "Most reef-building corals also require very saline (salty) water ranging from 32 to 42 parts per thousand."
+                    ]
+                },
+                {
+                    "sentence": "La clarté de l'eau est essentielle, car les coraux vivent en symbiose avec des algues photosynthétiques qui fournissent leur nourriture en échange d'un abri.",
+                    "source_passages": [
+                        "The water must also be clear so that a maximum amount of light penetrates it.",
+                        "This is because most reef-building corals contain photosynthetic algae, called zooxanthellae, which live in their tissues.",
+                        "The algae need light in order to produce food via photosynthesis."
+                    ]
+                },
+                {
+                    "sentence": "Cette coexistence nécessite une forte pénétration de lumière.",
+                    "source_passages": [
+                        "The water must also be clear so that a maximum amount of light penetrates it.",
+                        "This is because most reef-building corals contain photosynthetic algae, called zooxanthellae, which live in their tissues.",
+                        "The algae need light in order to produce food via photosynthesis."
+                    ]
+                },
+                {
+                    "sentence": "Ainsi, ces conditions précises favorisent la formation des vastes récifs coralliens qui nourrissent et protègent de nombreuses espèces marines.",
+                    "source_passages": [
+                        "Because of strict environmental restrictions, coral reefs generally are confined to tropical and semi-tropical waters.",
+                        "Most reef-building corals also require very saline (salty) water ranging from 32 to 42 parts per thousand.",
+                        "The water must also be clear so that a maximum amount of light penetrates it."
+                    ]
+                },
+                {
+                    "sentence": "Cette relation illustre l'adaptation complexe des coraux à leur environnement.",
+                    "source_passages": [
+                        "Because of strict environmental restrictions, coral reefs generally are confined to tropical and semi-tropical waters.",
+                        "This is because most reef-building corals contain photosynthetic algae, called zooxanthellae, which live in their tissues."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-df64308f7fa50c8db73fc1ef",
+            "subject_id": "Q627479",
+            "collected_at": "2026-11-23T07:38:27+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Collonges-la-Rouge",
+                    "url": "https://fr.wikipedia.org/wiki/Collonges-la-Rouge"
+                }
+            ],
+            "source_sha256": "efa2965c368f2ee08c2b019a4947ae60624bf8e63532af8e6b8c46b3aa98022d",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Collonges_la_Rouge_rue.JPG",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "original_sha1": "2c168b765e95dc6fbaeb7cdb2648e758d041ffb3",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La commune de Collonges-la-Rouge a valorisé et protégé un vaste patrimoine architectural en grès rouge, englobant 420 hectares classés monuments historiques, favorisant ainsi la préservation de son identité unique.",
+                "beneficiaries": "les habitants de Collonges-la-Rouge, les visiteurs, ainsi que la région Nouvelle-Aquitaine bénéficient de cette mise en valeur patrimoniale"
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Situé en Corrèze, le village de Collonges-la-Rouge étend sur 1 431 hectares dont 420 sont classés monuments historiques.",
+                    "source_passages": [
+                        "Collonges-la-Rouge est une commune française limousine, située dans le département de la Corrèze en région Nouvelle-Aquitaine.",
+                        "La mise en valeur de son patrimoine vaut à la commune — qui fait 1 431 hectares — d'avoir 420 ha classés monument historique et 189 ha inscrits à l’inventaire supplémentaire des monuments historiques."
+                    ]
+                },
+                {
+                    "sentence": "Ce classement porte sur l'architecture singulière en grès rouge extraite du Puy de Valège, satellite du plateau calcaire du Quercy.",
+                    "source_passages": [
+                        "=== Géologie === Le bourg est bâti en grès rouge extrait du Puy de Valège, sommet de 404 m d'altitude situé à 800 m au nord du village."
+                    ]
+                },
+                {
+                    "sentence": "Cette protection significative contribue à préserver une large part de l'identité locale, inscrite aussi à l'inventaire supplémentaire des monuments historiques sur 189 hectares.",
+                    "source_passages": [
+                        "La mise en valeur de son patrimoine vaut à la commune — qui fait 1 431 hectares — d'avoir 420 ha classés monument historique et 189 ha inscrits à l’inventaire supplémentaire des monuments historiques.",
+                        "La commune est labellisée parmi Les Plus Beaux Villages de France."
+                    ]
+                },
+                {
+                    "sentence": "Labellisé parmi Les Plus Beaux Villages de France, Collonges-la-Rouge maintient ainsi un lien entre son géologie, son histoire et son cadre de vie.",
+                    "source_passages": [
+                        "La commune est labellisée parmi Les Plus Beaux Villages de France."
+                    ]
+                },
+                {
+                    "sentence": "Ce patrimoine protégé bénéficie aux Collongeois et aux visiteurs, qui apprécient le charme authentique du village bâti sur un site naturel.",
+                    "source_passages": [
+                        "Collonges-la-Rouge est une commune française limousine, située dans le département de la Corrèze en région Nouvelle-Aquitaine.",
+                        "La commune est labellisée parmi Les Plus Beaux Villages de France."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        }
+    ]
+}
