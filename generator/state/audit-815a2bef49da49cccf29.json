@@ -1,0 +1,316 @@
+{
+    "schema_version": 1,
+    "articles": [
+        {
+            "id": "decouverte-8857f96db33fdee1c5473686",
+            "subject_id": "news-8ab88995f944ff165afee3ec3cde127c",
+            "collected_at": "2026-11-24T09:53:10+00:00",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-24",
+                    "url": "https://www.goodnewsnetwork.org/events061124/"
+                }
+            ],
+            "source_sha256": "be75cbf4e95a6869caed0efb958c87a08702bde83348b2fab0a3096c2ca75e07",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Charles_%27Evolution_is_my_middle_name%27_Darwin_was_born_here_at_the_Mount,_Shrewsbury._-_panoramio.jpg",
+            "image_license": "CC BY 3.0 · https://creativecommons.org/licenses/by/3.0/",
+            "original_sha1": "fa9bdcfb09f642b1d52efae8eefbac6371deb52b",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La publication du livre \"On the Origin of Species\" par Charles Darwin a permis de comprendre scientifiquement l'évolution des espèces par sélection naturelle.",
+                "beneficiaries": "Les scientifiques, élèves, et tous ceux qui s'intéressent à la diversité du vivant dans le monde entier."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "En 1859, Charles Darwin a publié \"On the Origin of Species\", apportant une explication scientifique à l'évolution des populations par sélection naturelle.",
+                    "source_passages": [
+                        "Home This Day In History Good News in History, November 24 167 years ago today, the British naturalist and geologist Charles Darwin published On the Origin of Species explaining his theory of evolution."
+                    ]
+                },
+                {
+                    "sentence": "Ce livre, considéré comme l'un des plus influents, a fondé la théorie selon laquelle la diversité des espèces résulte d'une ascendance commune et de processus évolutifs sur plusieurs générations.",
+                    "source_passages": [
+                        "The first edition—which has been voted by publishers and librarians as the most influential academic book ever written—introduced the scientific theory that populations evolve over the course of generations through a process of natural selection.",
+                        "It presented a body of evidence that the diversity of life arose by common descent through a tree-like branching pattern of evolution."
+                    ]
+                },
+                {
+                    "sentence": "L'ouvrage présente des preuves issues d'expéditions et d'expériences, validant la sélection naturelle comme mécanisme testable.",
+                    "source_passages": [
+                        "WATCH an animation about how little finches were crucial to his discovery, and how pepper moths evolved due to pollution… (1859) Darwin included evidence that he had gathered on expeditions to South America in the 1830s and his subsequent findings from research and experimentation, and showed how natural selection is a scientifically testable mechanism."
+                    ]
+                },
+                {
+                    "sentence": "Aujourd'hui, cette théorie demeure un pilier central des sciences de la vie, soutenue par des analyses génomiques modernes.",
+                    "source_passages": [
+                        "Modern evolutionary theory continues to develop, but his writings still explain the diversity of living organisms and their adaptation to the environment; make sense of the geological record; and hold up under modern genome analysis."
+                    ]
+                },
+                {
+                    "sentence": "Ainsi, Darwin a modifié durablement la manière dont la biodiversité et l'adaptation au milieu sont comprises à l'échelle mondiale.",
+                    "source_passages": [
+                        "Within two decades widespread scientific agreement solidified that evolution had occurred, and by the mid-20th century Darwin’s concept of evolutionary adaptation through natural selection became central to modern evolutionary theory—and the unifying concept of the life sciences.",
+                        "Modern evolutionary theory continues to develop, but his writings still explain the diversity of living organisms and their adaptation to the environment; make sense of the geological record; and hold up under modern genome analysis."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-26a4e756a3e2a89235dfdd3a",
+            "subject_id": "news-b2caefbf368fd093a29e4e72f93e0ab4",
+            "collected_at": "2026-11-24T09:54:21+00:00",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-23",
+                    "url": "https://www.goodnewsnetwork.org/one-of-a-kind-refuge-to-200000-walrus-protected-forever-in-alaska/"
+                }
+            ],
+            "source_sha256": "c015525fd613a5bde759270e1b65d17ac1bbd2f5f02c1bc54e4b155fb2beb4e9",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Pacific_walrus_surfacing_through_ice_on_the_Alaska_coast.jpg",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "7a7bff6b80e6eb6c0d5835b026e00d5062439a80",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Les îles-barrières près de Point Lay en Alaska ont été officiellement protégées, assurant un refuge permanent pour environ 200 000 morses du Pacifique et conservant un des plus vastes systèmes de lagunes côtières intactes au monde.",
+                "beneficiaries": "Les morses du Pacifique, en particulier les femelles et les jeunes, qui utilisent ces îles pour se reposer et échapper à la perte de la glace de mer ; ainsi que les communautés tribales locales qui pratiquent la chasse traditionnelle."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Dans la région de Point Lay sur la côte de la mer de Béring, une zone de 47 000 acres a été consacrée à la protection des îles-barrières qui accueillent désormais la plus importante concentration de morses du Pacifique en Amérique du Nord.",
+                    "source_passages": [
+                        "Home to the largest concentrations of Pacific walrus found anywhere in North America, the barrier islands off the coast of the tiny northern village of Point Lay provide a critical refuge for these marine megafauna.",
+                        "Now ensconced within a 47,000-acre protected area (74 square miles) held by the Interior Alaska Land Trust, the islands have been spared from industrial development and other disturbances, as has “one of the largest, undiminished coastal lagoon systems in the world,” which was protected in tandem."
+                    ]
+                },
+                {
+                    "sentence": "Ce site, essentiel depuis 2007 lorsque les morses ont changé leur comportement de migration en raison de la fonte de la glace arctique, offre un espace de repos sûr, notamment aux femelles et aux jeunes.",
+                    "source_passages": [
+                        "Part of the coalition that for 10 years has worked towards securing protections for the Point Lay barrier islands and the Kasegaluk Lagoon, The Conservation Fund explains that the islands hadn’t historically been a walrus mecca until 2007, when the animals changed their seasonal migration behavior in mass.",
+                        "Historically, these animals relied on Arctic sea ice for resting spots, but by 2007 the ice had become inconsistent.",
+                        "One year, an estimated 200,000 walrus hauled themselves up onto the barrier islands of Point Lay, and they’ve returned every year ever since.",
+                        "That includes every single female and juvenile Pacific walrus on Earth—all stuffed onto beaches that will now forever be theirs thanks to The Conservation Fund and its partners among the Alaska tribal nations and the Interior Alaska Land Trust."
+                    ]
+                },
+                {
+                    "sentence": "Le Conservation Fund, en coopération avec les nations tribales et le Interior Alaska Land Trust, a établi une servitude de conservation qui interdit les développements industriels et limite les perturbations humaines croissantes.",
+                    "source_passages": [
+                        "Now ensconced within a 47,000-acre protected area (74 square miles) held by the Interior Alaska Land Trust, the islands have been spared from industrial development and other disturbances, as has “one of the largest, undiminished coastal lagoon systems in the world,” which was protected in tandem.",
+                        "That includes every single female and juvenile Pacific walrus on Earth—all stuffed onto beaches that will now forever be theirs thanks to The Conservation Fund and its partners among the Alaska tribal nations and the Interior Alaska Land Trust.",
+                        "The new conservation easement, held by the Trust, will increase monitoring and stewardship to actively minimize disturbance to walrus and other animals as commercial and tourist activity in the Alaskan Arctic continues to expand.",
+                        "MORE STORIES LIKE THIS: 270,000 Square Miles Around Easter Island to Become Indigenous-Managed Ocean Reserve MORE ON THIS ANIMAL: Rescuers Ensure Orphaned Baby Walrus Gets a Second Chance (LOOK) The conservation agreement also supports continued use of the land for subsistence and cultural traditions according to the tribes that supported the project, which took a decade of work to fulfill."
+                    ]
+                },
+                {
+                    "sentence": "Cette mesure protège aussi un vaste système de lagunes côtières, renforçant la surveillance pour réduire les incidents liés à la présence touristique grandissante.",
+                    "source_passages": [
+                        "Now ensconced within a 47,000-acre protected area (74 square miles) held by the Interior Alaska Land Trust, the islands have been spared from industrial development and other disturbances, as has “one of the largest, undiminished coastal lagoon systems in the world,” which was protected in tandem.",
+                        "The new conservation easement, held by the Trust, will increase monitoring and stewardship to actively minimize disturbance to walrus and other animals as commercial and tourist activity in the Alaskan Arctic continues to expand.",
+                        "Conservation Fund noted that encroachment from humans had already caused undesirable stampede events among the resting animals."
+                    ]
+                },
+                {
+                    "sentence": "Les usages traditionnels du site par les populations autochtones sont maintenus.",
+                    "source_passages": [
+                        "MORE STORIES LIKE THIS: 270,000 Square Miles Around Easter Island to Become Indigenous-Managed Ocean Reserve MORE ON THIS ANIMAL: Rescuers Ensure Orphaned Baby Walrus Gets a Second Chance (LOOK) The conservation agreement also supports continued use of the land for subsistence and cultural traditions according to the tribes that supported the project, which took a decade of work to fulfill."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-4b6f6dfa2cb6a9f27904a1c9",
+            "subject_id": "news-874b952f9e00e447784301fc9d1956ed",
+            "collected_at": "2026-11-24T09:54:40+00:00",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-22",
+                    "url": "https://www.goodnewsnetwork.org/events061122/"
+                }
+            ],
+            "source_sha256": "a4ac4a4fea4d8d4c277173e6efe29c261fa2fbb8d2ba3a2e229ddc0f000c0443",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Marko_Vuokola,_Blue_Movie_II,_2007.Two_channel_computer_animation.jpg",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "original_sha1": "467f6ae9f5e4dd8300cd38ac5a675bd5c0161a45",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La redécouverte et la restauration de 140 heures de films originaux sur Jane Goodall ont permis de raviver l’intérêt et la connaissance du public sur son travail pionnier avec les chimpanzés en Tanzanie.",
+                "beneficiaries": "Les chercheurs, amateurs de sciences naturelles et le grand public passionné par la primatologie et la conservation, qui bénéficient d’un accès renouvelé à ces images historiques."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Un important fonds filmique documentant le travail de Jane Goodall avec les chimpanzés a été retrouvé dans un entrepôt en Pennsylvanie.",
+                    "source_passages": [
+                        "A 26-year-old Goodall was working in East Africa with chimpanzees when National Geographic sent a photographer, Hugo van Lawick, to document Goodall’s recent findings which produced the documentary.",
+                        "On a side note, it was only a few years ago that van Lawick’s footage was rediscovered in a Pennsylvania warehouse."
+                    ]
+                },
+                {
+                    "sentence": "Ces images, tournées dans les années 1960 par le photographe Hugo van Lawick, ont été restaurées et intégrées dans un documentaire récent intitulé « Jane ».",
+                    "source_passages": [
+                        "A 26-year-old Goodall was working in East Africa with chimpanzees when National Geographic sent a photographer, Hugo van Lawick, to document Goodall’s recent findings which produced the documentary.",
+                        "Director Brett Morgen brought that material of nearly 140 hours to life in the recent digitally retouched feature-length documentary, Jane."
+                    ]
+                },
+                {
+                    "sentence": "Cette redécouverte enrichit la mémoire visuelle du public sur les débuts de la primatologue en Tanzanie, ayant déjà permis à des millions de téléspectateurs de mieux comprendre le comportement des chimpanzés.",
+                    "source_passages": [
+                        "It transformed our understanding of our closest relative as no piece of media had ever done before, and garnered hundreds of thousands more views this year, after Miss Goodall passed away.",
+                        "A 26-year-old Goodall was working in East Africa with chimpanzees when National Geographic sent a photographer, Hugo van Lawick, to document Goodall’s recent findings which produced the documentary.",
+                        "Director Brett Morgen brought that material of nearly 140 hours to life in the recent digitally retouched feature-length documentary, Jane.",
+                        "Instead of laughing at me she just said, ‘If you work hard and take advantage of opportunity and don’t give up, you know, you’ll get there.'” The original 1965 documentary was broadcast on CBS to 25 million viewers, and it was rewatched for decades to come."
+                    ]
+                },
+                {
+                    "sentence": "Le film original de 1965 avait rassemblé 25 millions de spectateurs ; cette nouvelle mise en lumière renouvelle légitimement l’intérêt pour ces observations naturalistes fondamentales.",
+                    "source_passages": [
+                        "Instead of laughing at me she just said, ‘If you work hard and take advantage of opportunity and don’t give up, you know, you’ll get there.'” The original 1965 documentary was broadcast on CBS to 25 million viewers, and it was rewatched for decades to come."
+                    ]
+                },
+                {
+                    "sentence": "Le travail de John Lasseter, réalisateur de films d’animation, inaugure quant à lui l’usage de l’image numérique dans la culture populaire contemporaine.",
+                    "source_passages": [
+                        "Home This Day In History Good News in History, November 22 31 years ago today, Toy Story, the world’s first computer-animated film was released to critical acclaim.",
+                        "Made out of a small studio called Pixar which released some of the most beloved children’s films in American history, the story revolves around the life and times of a boy’s favorite cowboy action figure named Woody, who’s position at the top of the toy hierarchy is disrupted by the arrival of the Space Ranger Buzz Lightyear.",
+                        "Grossing over $373 million worldwide, the critically acclaimed Toy Story holds a rare 100% approval rating on Rotten Tomatoes.",
+                        "With the wit and thematic sophistication of its screenplay (by Joel Cohen, Lasseter, Joss Whedon, and others) it earned an Academy Award nomination—the first-ever animated film to be honored in a writing category."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-db5ae1f549850673546cfa85",
+            "subject_id": "source-123c5c5bd638268f2c029eaecb2e02a8",
+            "collected_at": "2026-11-24T09:54:50+00:00",
+            "sources": [
+                {
+                    "label": "NOAA · Are lionfish a threat to Atlantic Ocean fish?",
+                    "url": "https://oceanservice.noaa.gov/facts/lionfish.html"
+                }
+            ],
+            "source_sha256": "5acd810f5dfda3e3512014890e9fb18b839691be53297a251ae0ce0f586466c6",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:FGBNMS_-_Indo-Pacific_lionfish_(27985948245).jpg",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "46de23d8bd3c0f252043b7c528f8b106a6ceb745",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Les chercheurs étudient précisément le comportement et les préférences des poissons-lions dans l'Atlantique pour mieux localiser ces espèces envahissantes.",
+                "beneficiaries": "Les écosystèmes marins de l'Atlantique et les professionnels de la pêche pouvant ainsi mieux gérer l'impact des poissons-lions."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Les poissons-lions, originaires de l'Indo-Pacifique, se sont établis depuis plusieurs décennies sur les côtes atlantiques américaines et des Caraïbes.",
+                    "source_passages": [
+                        "Lionfish are native to the Indo-Pacific, but are now established along the southeast coast of the U.S., the Caribbean, and in parts of the Gulf of America."
+                    ]
+                },
+                {
+                    "sentence": "En raison de l'absence de prédateurs naturels, ces poissons carnivores exercent une pression importante sur les écosystèmes locaux, consommant notamment des jeunes de poissons commerciaux comme le mérou ou le vivaneau.",
+                    "source_passages": [
+                        "Since lionfish are not native to Atlantic waters, they have very few predators.",
+                        "They are carnivores that feed on small crustaceans and fish, including the young of important commercial fish species such as snapper and grouper."
+                    ]
+                },
+                {
+                    "sentence": "Les experts étudient activement les habitudes alimentaires et les préférences d'habitat du poisson-lion dans ces eaux non natives.",
+                    "source_passages": [
+                        "Scientists are also actively studying these fish to better understand the potential threat that lionfish pose to key reef and commercial fish species.",
+                        "Learning more about the habits and preferences of lionfish in non-native waters also helps experts determine where to look for these invasive fish."
+                    ]
+                },
+                {
+                    "sentence": "Cette compréhension fine permet de mieux cibler les zones où ils se rassemblent et ainsi d'améliorer la gestion de cette espèce envahissante.",
+                    "source_passages": [
+                        "Learning more about the habits and preferences of lionfish in non-native waters also helps experts determine where to look for these invasive fish."
+                    ]
+                },
+                {
+                    "sentence": "Même si l'éradication totale demeure difficile, ces connaissances facilitent les interventions sur le terrain pour limiter leurs effets négatifs.",
+                    "source_passages": [
+                        "Unfortunately, NOAA researchers have concluded that invasive lionfish populations will continue to grow and cannot be eliminated using conventional methods.",
+                        "Marine invaders are nearly impossible to eradicate once established."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-d5794d7819299275b17206e4",
+            "subject_id": "Q16034755",
+            "collected_at": "2026-11-24T09:54:59+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Olivier",
+                    "url": "https://fr.wikipedia.org/wiki/Olivier"
+                }
+            ],
+            "source_sha256": "6636db41a1d2dbef0389136283cef461a97a94338bccc7d1116574dfedfea698",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Lun_olive_tree_1600_years.jpg",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "original_sha1": "9049b0945a7f723ebc3ed37cb3bfd1241c841d70",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "L'olivier cultivé a été identifié comme une variété domestiquée issue de l'oléastre sauvage, avec une continuité génétique établie depuis plusieurs millénaires.",
+                "beneficiaries": "Les agriculteurs et amateurs d'olives qui cultivent et récoltent l'olivier, ainsi que les consommateurs d'huile d'olive à travers le monde."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "L'olivier Olea europaea var.",
+                    "source_passages": [
+                        "europaea) est un arbre fruitier qui produit les olives, un fruit consommé sous diverses formes et dont on extrait une des principales huiles alimentaires, l'huile d'olive.",
+                        "C'est une variété cultivée depuis plusieurs millénaires, principalement dans les régions de climat méditerranéen, de l'une des sous-espèces de Olea europaea, une espèce d'arbres et d'arbustes de la famille des Oléacées.",
+                        "europaea, appartient à la sous-espèce europaea de l'espèce Olea europaea, dont il existe cinq autres sous-espèces présentes des Canaries à la Chine.",
+                        "L'olivier cultivé correspond à la variété botanique europaea, qui s'oppose à la variété sauvage (Olea europaea subsp."
+                    ]
+                },
+                {
+                    "sentence": "europaea, présent dans les régions méditerranéennes, est une variété cultivée dont l'origine remonte à l'oléastre sauvage (var.",
+                    "source_passages": [
+                        "L'olivier cultivé correspond à la variété botanique europaea, qui s'oppose à la variété sauvage (Olea europaea subsp.",
+                        "sylvestris, l'oléastre)."
+                    ]
+                },
+                {
+                    "sentence": "sylvestris).",
+                    "source_passages": [
+                        "sylvestris, l'oléastre)."
+                    ]
+                },
+                {
+                    "sentence": "Des études combinant analyses génétiques et anatomiques ont montré une continuité entre ces formes sauvages et cultivées, attestant une domestication progressive plutôt qu'une rupture nette.",
+                    "source_passages": [
+                        "Cette subdivision est cependant discutée : alors que divers travaux montrent l'absence de frontière entre les populations sauvages et les formes cultivées, aussi bien sur le plan génotypique que phénotypique, d'autres travaux portant sur l'analyse anatomique fine comparée de charbons de bois archéologiques montrent une filiation nette de l'olivier cultivé depuis l'oléastre."
+                    ]
+                },
+                {
+                    "sentence": "Ces recherches confirment que la production d'olives et d'huile d'olive est le fruit d'un long processus d'adaptation et de sélection pratiqué depuis plusieurs millénaires.",
+                    "source_passages": [
+                        "europaea) est un arbre fruitier qui produit les olives, un fruit consommé sous diverses formes et dont on extrait une des principales huiles alimentaires, l'huile d'olive.",
+                        "C'est une variété cultivée depuis plusieurs millénaires, principalement dans les régions de climat méditerranéen, de l'une des sous-espèces de Olea europaea, une espèce d'arbres et d'arbustes de la famille des Oléacées.",
+                        "Cette subdivision est cependant discutée : alors que divers travaux montrent l'absence de frontière entre les populations sauvages et les formes cultivées, aussi bien sur le plan génotypique que phénotypique, d'autres travaux portant sur l'analyse anatomique fine comparée de charbons de bois archéologiques montrent une filiation nette de l'olivier cultivé depuis l'oléastre."
+                    ]
+                },
+                {
+                    "sentence": "Cette continuité entre olivier sauvage et cultivé explique également la diversité des variétés présentes aujourd'hui, toujours proches génétiquement de leurs ancêtres.",
+                    "source_passages": [
+                        "Cette subdivision est cependant discutée : alors que divers travaux montrent l'absence de frontière entre les populations sauvages et les formes cultivées, aussi bien sur le plan génotypique que phénotypique, d'autres travaux portant sur l'analyse anatomique fine comparée de charbons de bois archéologiques montrent une filiation nette de l'olivier cultivé depuis l'oléastre."
+                    ]
+                },
+                {
+                    "sentence": "Un exemple frappant est cet olivier de 1600 ans situé en Croatie, illustrant la longévité et la pérennité de ces arbres qui alimentent de nombreuses traditions culinaires.",
+                    "source_passages": [
+                        "europaea) est un arbre fruitier qui produit les olives, un fruit consommé sous diverses formes et dont on extrait une des principales huiles alimentaires, l'huile d'olive.",
+                        "C'est une variété cultivée depuis plusieurs millénaires, principalement dans les régions de climat méditerranéen, de l'une des sous-espèces de Olea europaea, une espèce d'arbres et d'arbustes de la famille des Oléacées."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "schema_version": 1,
+    "id": "generated-815a2bef49da49cccf29",
+    "version": "1",
+    "articles": [
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-8857f96db33fdee1c5473686",
+            "title": "La théorie de l'évolution expliquée par Darwin transforme la compréhension du vivant",
+            "body": "En 1859, Charles Darwin a publié \"On the Origin of Species\", apportant une explication scientifique à l'évolution des populations par sélection naturelle. Ce livre, considéré comme l'un des plus influents, a fondé la théorie selon laquelle la diversité des espèces résulte d'une ascendance commune et de processus évolutifs sur plusieurs générations. L'ouvrage présente des preuves issues d'expéditions et d'expériences, validant la sélection naturelle comme mécanisme testable. Aujourd'hui, cette théorie demeure un pilier central des sciences de la vie, soutenue par des analyses génomiques modernes. Ainsi, Darwin a modifié durablement la manière dont la biodiversité et l'adaptation au milieu sont comprises à l'échelle mondiale.",
+            "category": "Initiatives positives",
+            "location": "Monde",
+            "image_description": "Charles 'Evolution is my middle name' Darwin was born here at the Mount, Shrewsbury.",
+            "image_caption": "Illustration documentaire générale. Photo documentaire générale : la maison natale de Charles Darwin à Shrewsbury au Royaume-Uni.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/2138ecb08632dc3a306dd9d7a737d5ba30f0ba350dafc2ce31911fecaa1f76e2.jpg",
+            "image_credit": "Peter Gill / UK · https://web.archive.org/web/20161013014208/http://www.panoramio.com/photo/19699895 · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY 3.0 · https://creativecommons.org/licenses/by/3.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Charles_%27Evolution_is_my_middle_name%27_Darwin_was_born_here_at_the_Mount,_Shrewsbury._-_panoramio.jpg",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-24",
+                    "url": "https://www.goodnewsnetwork.org/events061124/"
+                }
+            ],
+            "subject_id": "news-8ab88995f944ff165afee3ec3cde127c",
+            "published_at": "2026-11-24",
+            "country": "Monde",
+            "source_published_at": "2026-11-24"
+        },
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-26a4e756a3e2a89235dfdd3a",
+            "title": "Un refuge protégé pour 200 000 morses en Alaska face au recul de la glace marine",
+            "body": "Dans la région de Point Lay sur la côte de la mer de Béring, une zone de 47 000 acres a été consacrée à la protection des îles-barrières qui accueillent désormais la plus importante concentration de morses du Pacifique en Amérique du Nord. Ce site, essentiel depuis 2007 lorsque les morses ont changé leur comportement de migration en raison de la fonte de la glace arctique, offre un espace de repos sûr, notamment aux femelles et aux jeunes. Le Conservation Fund, en coopération avec les nations tribales et le Interior Alaska Land Trust, a établi une servitude de conservation qui interdit les développements industriels et limite les perturbations humaines croissantes. Cette mesure protège aussi un vaste système de lagunes côtières, renforçant la surveillance pour réduire les incidents liés à la présence touristique grandissante. Les usages traditionnels du site par les populations autochtones sont maintenus.",
+            "category": "Initiatives positives",
+            "location": "Point Lay, Alaska (États-Unis)",
+            "image_description": "Un morse du Pacifique émergeant de l'eau glacée sur la côte d'Alaska.",
+            "image_caption": "Illustration documentaire générale : morse du Pacifique sur la côte d'Alaska. Image prise par Joel Garlich-Miller, U.S. Fish and Wildlife Service.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/9464015a9dcf791e09ae751d896f639cfba0827354ad4793e7a3b17460ec6f66.jpg",
+            "image_credit": "Joel Garlich-Miller, U.S. Fish and Wildlife Service · https://www.flickr.com/photos/usfws_alaska/5390404539/ · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Pacific_walrus_surfacing_through_ice_on_the_Alaska_coast.jpg",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-23",
+                    "url": "https://www.goodnewsnetwork.org/one-of-a-kind-refuge-to-200000-walrus-protected-forever-in-alaska/"
+                }
+            ],
+            "subject_id": "news-b2caefbf368fd093a29e4e72f93e0ab4",
+            "published_at": "2026-11-24",
+            "country": "Monde",
+            "source_published_at": "2026-11-23"
+        },
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-4b6f6dfa2cb6a9f27904a1c9",
+            "title": "Redécouverte d’archives vidéo inédites sur Jane Goodall et ses chimpanzés",
+            "body": "Un important fonds filmique documentant le travail de Jane Goodall avec les chimpanzés a été retrouvé dans un entrepôt en Pennsylvanie. Ces images, tournées dans les années 1960 par le photographe Hugo van Lawick, ont été restaurées et intégrées dans un documentaire récent intitulé « Jane ». Cette redécouverte enrichit la mémoire visuelle du public sur les débuts de la primatologue en Tanzanie, ayant déjà permis à des millions de téléspectateurs de mieux comprendre le comportement des chimpanzés. Le film original de 1965 avait rassemblé 25 millions de spectateurs ; cette nouvelle mise en lumière renouvelle légitimement l’intérêt pour ces observations naturalistes fondamentales. Le travail de John Lasseter, réalisateur de films d’animation, inaugure quant à lui l’usage de l’image numérique dans la culture populaire contemporaine.",
+            "category": "Initiatives positives",
+            "location": "Monde",
+            "image_description": "Animation informatique bicolore réalisée par Marko Vuokola en 2007, montrant des lignes fines se déplaçant sur deux écrans latéraux.",
+            "image_caption": "Animation « Blue Movie II » de Marko Vuokola, illustration documentaire générale autour de l’usage de l’image numérique. Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/8a32d20846a96b1ef915e6e90d788f329b0b3b8ab1dce23a079651aef81035ac.jpg",
+            "image_credit": "Marko Vuokola · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Marko_Vuokola,_Blue_Movie_II,_2007.Two_channel_computer_animation.jpg",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-22",
+                    "url": "https://www.goodnewsnetwork.org/events061122/"
+                }
+            ],
+            "subject_id": "news-874b952f9e00e447784301fc9d1956ed",
+            "published_at": "2026-11-24",
+            "country": "Monde",
+            "source_published_at": "2026-11-22"
+        },
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "daily",
+            "id": "decouverte-db5ae1f549850673546cfa85",
+            "title": "Comprendre le mode d'invasion des poissons-lions dans l'Atlantique",
+            "body": "Les poissons-lions, originaires de l'Indo-Pacifique, se sont établis depuis plusieurs décennies sur les côtes atlantiques américaines et des Caraïbes. En raison de l'absence de prédateurs naturels, ces poissons carnivores exercent une pression importante sur les écosystèmes locaux, consommant notamment des jeunes de poissons commerciaux comme le mérou ou le vivaneau. Les experts étudient activement les habitudes alimentaires et les préférences d'habitat du poisson-lion dans ces eaux non natives. Cette compréhension fine permet de mieux cibler les zones où ils se rassemblent et ainsi d'améliorer la gestion de cette espèce envahissante. Même si l'éradication totale demeure difficile, ces connaissances facilitent les interventions sur le terrain pour limiter leurs effets négatifs.",
+            "category": "Nature et animaux",
+            "location": "Océan Atlantique",
+            "image_description": "Un poisson-lion indo-pacifique dans un sanctuaire marin, montrant ses épines venimeuses caractéristiques.",
+            "image_caption": "Illustration documentaire générale de poisson-lion indo-pacifique, espèce invasive en Atlantique, prise dans un sanctuaire marin. Source : Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/29e72c3948b039f91e4f1241f170f18917b4422de4ef0cfe7fd2934899ebc8cc.jpg",
+            "image_credit": "National Marine Sanctuaries · FGBNMS - Indo-Pacific lionfish · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:FGBNMS_-_Indo-Pacific_lionfish_(27985948245).jpg",
+            "sources": [
+                {
+                    "label": "NOAA · Are lionfish a threat to Atlantic Ocean fish?",
+                    "url": "https://oceanservice.noaa.gov/facts/lionfish.html"
+                }
+            ],
+            "subject_id": "source-123c5c5bd638268f2c029eaecb2e02a8",
+            "published_at": "2026-11-24",
+            "country": "Monde"
+        },
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "daily",
+            "id": "decouverte-d5794d7819299275b17206e4",
+            "title": "L’olivier cultivé : un fruit d'une domestication millénaire étroitement lié à son ancêtre sauvage",
+            "body": "L'olivier Olea europaea var. europaea, présent dans les régions méditerranéennes, est une variété cultivée dont l'origine remonte à l'oléastre sauvage (var. sylvestris). Des études combinant analyses génétiques et anatomiques ont montré une continuité entre ces formes sauvages et cultivées, attestant une domestication progressive plutôt qu'une rupture nette. Ces recherches confirment que la production d'olives et d'huile d'olive est le fruit d'un long processus d'adaptation et de sélection pratiqué depuis plusieurs millénaires. Cette continuité entre olivier sauvage et cultivé explique également la diversité des variétés présentes aujourd'hui, toujours proches génétiquement de leurs ancêtres. Un exemple frappant est cet olivier de 1600 ans situé en Croatie, illustrant la longévité et la pérennité de ces arbres qui alimentent de nombreuses traditions culinaires.",
+            "category": "Gastronomie et traditions",
+            "location": "Régions méditerranéennes",
+            "image_description": "Un olivier (Olea europaea), supposé avoir 1600 ans, situé dans la réserve naturelle Olive-Gardens à Lun, Croatie.",
+            "image_caption": "Photo documentaire générale d’un vieil olivier, symbole de la continuité entre formes sauvages et cultivées – Wikimedia Commons",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/34745ef4d34db54f19b92c9ab92a532f3695e08f6f0a13ca7c292b2c48f4366b.jpg",
+            "image_credit": "Palauenc05 · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Lun_olive_tree_1600_years.jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Olivier",
+                    "url": "https://fr.wikipedia.org/wiki/Olivier"
+                }
+            ],
+            "subject_id": "Q16034755",
+            "published_at": "2026-11-24",
+            "country": "Monde"
+        }
+    ]
+}
