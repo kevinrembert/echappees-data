@@ -1,0 +1,213 @@
+{
+    "schema_version": 1,
+    "id": "generated-632d4d40b64acfa9f3e2",
+    "version": "1",
+    "articles": [
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-ab01a08a5306d5d71d50fbc8",
+            "title": "Au Brésil, une bactérie naturelle réduit de plus de 68 % les cas de dengue chez les enfants",
+            "body": "Une méthode testée à Belo Horizonte a montré une baisse significative des infections virales transmises par les moustiques. En libérant des moustiques infectés par la bactérie Wolbachia, qui bloque la propagation de virus comme la dengue et le chikungunya, le risque chez les enfants de 6 à 11 ans a chuté de 68,5 % pour la dengue et 73,3 % pour le chikungunya. L’essai s'est déroulé sur 29 zones où cette méthode a été combinée aux mesures de lutte habituelles, et comparé à 29 zones témoins. Ces résultats ont été obtenus durant la plus importante épidémie de dengue au Brésil, ce qui montre l'efficacité du procédé même en situation de forte transmission. Wolbachia se transmet aux générations suivantes de moustiques, ce qui permet un contrôle durable sur plusieurs années.",
+            "category": "Initiatives positives",
+            "location": "Belo Horizonte, Brésil",
+            "image_description": "Photographie prise en laboratoire d'un moustique Aedes porteur de la bactérie Wolbachia pendant une visite officielle à une installation de recherche en Indonésie.",
+            "image_caption": "Illustration documentaire générale d’un moustique Aedes infecté par Wolbachia dans un laboratoire spécialisé, Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/29d5f9078e5b9462a185f79d5cf7e40d455146bfaea2abf25d752c490d2eb2b4.jpg",
+            "image_credit": "Munarsih (VOA) · https://www.voaindonesia.com/a/pemerintah-dorong-pt-kembangkan-riset-unggulan-/3304496.html · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Mohamad_Nasir_Wolbachia_mosquito_lab_visit_02.jpg",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-24",
+                    "url": "https://www.goodnewsnetwork.org/major-success-sees-viral-infections-fall-68-in-brazil-after-releasing-wolbachia-infected-mosquitoes/"
+                }
+            ],
+            "subject_id": "news-16f0defd139578b8d06d6b3197a97565",
+            "published_at": "2026-11-25",
+            "country": "Monde",
+            "source_published_at": "2026-11-24"
+        },
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-7a0ed7ebabde633e415e49cf",
+            "title": "NASA propose pour la première fois ses documentaires sur grand écran à Greenbelt, Maryland",
+            "body": "La NASA a commencé à diffuser ses contenus originaux sur grand écran au Greenbelt Cinema, dans le Maryland. Cette initiative offre au public l'accès à des films documentaires, notamment \"The Europa Concept\" qui expose les recherches sur Europe, la lune glacée de Jupiter, en vue de futures explorations. Ce partenariat introduit aussi la possibilité de suivre en direct les missions lunaires Artemis, renforçant la visibilité de ces projets spatiaux. Tout en restant gratuite et sans publicité via l'application et le site NASA, cette offre étend la portée des programmes éducatifs de l'agence sur des formats variés. L'installation au cinéma permet de mieux comprendre les avancées scientifiques et techniques des missions lunaires en cours et à venir.",
+            "category": "Sciences",
+            "location": "Greenbelt, Maryland, États-Unis",
+            "image_description": "Des stagiaires au centre spatial NASA Stennis regardent un documentaire sur l'astronaute Victor Glover lors d'activités du National Intern Day.",
+            "image_caption": "Illustration documentaire générale. Photo illustrative générale : projection d’un documentaire lié à la NASA lors d’une journée de stage au centre spatial NASA Stennis. Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/1cc56348073597bc91ee3616f395b1e0df6dc042e7b4f42c0249df21e41738a9.jpg",
+            "image_credit": "NASA Stennis Space Center / Danny Nowlin · This image or video was catalogued by John C. Stennis Space Center of the United States National Aeronautics and Space Administration (NASA) under Photo ID: SSC-20240725-s00799. · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Interns_at_NASA_Stennis_watch_The_Color_of_Space_documentary_featuring_NASA_astronaut_Victor_Glover_during_National_Intern_Day_activities_onsite_July_25_(SSC-20240725-s00799).jpg",
+            "sources": [
+                {
+                    "label": "NASA · publié le 2026-11-24",
+                    "url": "https://www.nasa.gov/nasa/nasa-content-coming-to-big-screen-at-greenbelt-maryland-cinema/"
+                }
+            ],
+            "subject_id": "news-d85898925b10dda15cc2c57444b16973",
+            "published_at": "2026-11-25",
+            "country": "Monde",
+            "source_published_at": "2026-11-24"
+        },
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-594fccc15ac6d8052ada0fce",
+            "title": "Pontevedra, pionnière mondiale de la ville sans voitures",
+            "body": "Depuis 1999, la ville de Pontevedra en Espagne a engagé une transformation progressive de son centre historique, limitant l'accès des voitures pour favoriser les piétons. Cette démarche a débuté par la piétonnisation de 300 000 mètres carrés, la suppression de places de stationnement en voirie et la mise en place de zones à 30 km/h. Résultat, le centre ville, autrefois saturé avec 80 000 véhicules par jour, est désormais apaisé, avec une réduction notable de la pollution et des nuisances sonores. Cette expérience sert aujourd’hui de modèle pour de nombreuses autres villes cherchant à améliorer leur qualité de vie urbaine. L’impact se mesure aussi par l’augmentation du confort pour les piétons et la convivialité des espaces publics, en particulier autour des places historiques de la ville.",
+            "category": "Initiatives positives",
+            "location": "Pontevedra, Espagne",
+            "image_description": "Carte postale datée de 1915 montrant une rue avec un piéton marchant sur Ninth Street à Lebanon, Pennsylvanie.",
+            "image_caption": "Photo d'illustration générale d'une rue urbaine avec un piéton, Wikimedia Commons, 1915.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/ebdfbab2b5fe27d4cc38696215d6c71eae27217ec4b715c67cf43be201e4d8c8.jpg",
+            "image_credit": "Philadelphia publisher · Postcard · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:City_Hall,_Lebanon,_Pa._-_City_Hall,_Lebanon,_Pa._-_with_a_pedestrian_walking_north_on_Ninth_Street_%E2%80%93_postcard_-_ca._1915.jpg",
+            "sources": [
+                {
+                    "label": "Reasons to be Cheerful · publié le 2026-11-23",
+                    "url": "https://reasonstobecheerful.world/pontevedra-car-free-city/"
+                }
+            ],
+            "subject_id": "news-ed7aed7a8831e4024501b5b2e574958d",
+            "published_at": "2026-11-25",
+            "country": "Monde",
+            "source_published_at": "2026-11-23"
+        },
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-6711b82a2b188e2c73fbb4d6",
+            "title": "Livraison d’expériences médicales innovantes à bord de la Station spatiale internationale",
+            "body": "Lors de sa mission récente, le vaisseau spatial Northrop Grumman CRS-25 a acheminé environ 5 tonnes de matériel scientifique à la Station spatiale internationale. Parmi les matériels, plusieurs expériences testent des traitements sur des cellules musculaires humaines pour lutter contre la sarcopénie, une perte musculaire liée à l’âge, qui se manifeste plus rapidement en microgravité. Par ailleurs, un projet étudie la production en environnement spatial de nanomatériaux inspirés de l’ADN, destinés à améliorer la délivrance de médicaments dans des tissus denses comme le cartilage ou les tumeurs. Ces investigations bénéficient aux missions spatiales de longue durée et pourraient aussi ouvrir de nouvelles voies thérapeutiques sur Terre. L’opération illustre l’utilisation de la station comme laboratoire unique pour faire progresser la médecine et la biotechnologie.",
+            "category": "Sciences",
+            "location": "Station spatiale internationale (Orbite terrestre)",
+            "image_description": "Un cargo spatial Dragon de SpaceX s’approche de la Station spatiale internationale, avec son cône avant ouvert révélant son mécanisme d’amarrage.",
+            "image_caption": "Illustration documentaire générale. Image documentaire générale d’un cargo spatial SpaceX Dragon approchant la Station spatiale internationale pour une mission de ravitaillement. Crédit : NASA Johnson Space Center",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/7da4ec5a2a7d76659852cbc1b310c3ecec017e7895e06ebafb6e6d2a1d72b408.jpg",
+            "image_credit": "NASA Johnson Space Center · This image or video was catalogued by Lyndon B. Johnson Space Center of the United States National Aeronautics and Space Administration (NASA) under Photo ID: iss074e0586370. · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:A_SpaceX_Dragon_cargo_spacecraft_approaches_the_International_Space_Station_(iss074e0586370).jpg",
+            "sources": [
+                {
+                    "label": "NASA · publié le 2026-11-24",
+                    "url": "https://www.nasa.gov/missions/station/nasas-northrop-grumman-crs-25-mission-overview/"
+                }
+            ],
+            "subject_id": "news-5257e4b96b7100c003d21108ba6c91b4",
+            "published_at": "2026-11-25",
+            "country": "Monde",
+            "source_published_at": "2026-11-24"
+        },
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-fba3c9d2c1f918a0607f4253",
+            "title": "L'île de Yap accepte les noix de coco comme paiement des frais de scolarité pour faciliter l'accès à l'école",
+            "body": "Sur l'île de Yap, dans l'archipel de Micronésie, une académie chrétienne a instauré un système original : les familles peuvent régler les frais de scolarité de leurs enfants en apportant des noix de coco. Cette initiative réduit la nécessité pour les parents d'effectuer des activités pénibles ou dangereuses, telles que la pêche nocturne, afin de financer la scolarité. Par ailleurs, l'école utilise ces noix de coco pour relancer une industrie locale d'huile de coco abandonnée depuis plusieurs années, contribuant ainsi à dynamiser l'économie insulaire. Ce système permet à plusieurs familles de partager plus de temps ensemble, sans la pression du double emploi. Enfin, cueillir les noix de coco demeure une activité appréciée des élèves, rappelant des instants familiaux partagés.",
+            "category": "Initiatives positives",
+            "location": "Île de Yap, Micronésie",
+            "image_description": "Un cocotier fruitier situé dans une cour sablonneuse à proximité d'un bâtiment scolaire.",
+            "image_caption": "Illustration documentaire générale. Photo documentaire générale d'un cocotier dans un jardin d'école, à Yap, Micronésie.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/ee634e37738c2f6011690eaac5a3a72e79c40aa9e7bedeb00c57eb4ce3f0509f.jpg",
+            "image_credit": "Johnnybam · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC0 · https://creativecommons.org/publicdomain/zero/1.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Coconut_palm_in_a_school_garden.jpg",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-24",
+                    "url": "https://www.goodnewsnetwork.org/charity-swaps-tuition-fees-for-coconuts-so-every-islander-can-afford-school/"
+                }
+            ],
+            "subject_id": "news-769de9b354489faa6b22f33b4ee72b1e",
+            "published_at": "2026-11-25",
+            "country": "Monde",
+            "source_published_at": "2026-11-24"
+        },
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-5f2699ff50abb7d1ef412d2b",
+            "title": "Trois superlunes consécutives illuminent le ciel nocturne, dès la \"Boisée\" de novembre",
+            "body": "Une série exceptionnelle de trois superlunes consécutives a débuté avec la pleine lune de novembre, dite \"Boisée\" ou \"Beaver Moon\" aux États-Unis. Ces lunes se produisent lorsque la pleine lune atteint son périgée, le point le plus proche de la Terre, apparaissant un peu plus lumineuses et légèrement plus grandes, surtout près de l’horizon, où l’illusion d’optique les amplifie. La tradition nomme cette lune en lien avec les saisons et les comportements animaux, comme la préparation des castors à l’hibernation. Les prochaines phases en décembre et janvier, les \"Lune froide\" et \"Lune du loup\", poursuivront ce phénomène. Ces événements ont permis à un large public de découvrir la lune dans des conditions peu courantes, invitant à une sortie en nature pour observer cette lumière particulière.",
+            "category": "Nature et animaux",
+            "location": "Monde",
+            "image_description": "Une image composite montre la progression d’une éclipse lunaire coïncidant avec une superlune, avec le passage de la lune d’un état non éclipsé à totalement éclipsé.",
+            "image_caption": "Illustration documentaire générale. Image documentaire générale illustrant une superlune en éclipse, Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/74f91e1edcda624b62a954aa1c49255e08f3a25af3ae910cc537e012402e838f.jpg",
+            "image_credit": "Ruaraidh Gillies · From Supermoon to Blood Moon · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 2.0 · https://creativecommons.org/licenses/by-sa/2.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:From_Supermoon_to_Blood_Moon_(21593782410).jpg",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-23",
+                    "url": "https://www.goodnewsnetwork.org/first-of-3-consecutive-supermoons-to-begin-tonight-look-to-the-east-for-the-beaver-moon/"
+                }
+            ],
+            "subject_id": "news-ea9c9c9cdbe13ab6a87a2339202903b4",
+            "published_at": "2026-11-25",
+            "country": "Monde",
+            "source_published_at": "2026-11-23"
+        },
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "daily",
+            "id": "decouverte-ba8f228dd031ba60467569b9",
+            "title": "Le cacaoyer, arbre à chocolat aux multiples saveurs",
+            "body": "Le cacaoyer (Theobroma cacao) est un petit arbre à feuilles persistantes dont les fèves comestibles servent de base au cacao, principal ingrédient du chocolat. Selon les variétés, ses fèves présentent des saveurs variées, offrant une diversité gustative reconnue. Le nom Theobroma signifie « nourriture des dieux », soulignant l'importance historique de cette plante. Le terme français « cacao » vient de l'espagnol, lui-même issu du nahuatl kakahuatl. Cet arbre, souvent appelé \"arbre à chocolat\" dans la littérature, illustre l’origine naturelle d’un produit apprécié mondialement, sans fondement botanique officiel mais largement utilisé. Son rôle dans la production de la matière première du chocolat en fait une plante clé pour de nombreux pays producteurs et consommateurs.",
+            "category": "Gastronomie et traditions",
+            "location": "Monde",
+            "image_description": "Illustration botanique détaillée d'un cacaoyer montrant un rameau en fleur, des détails floraux, les organes reproducteurs et fruits en coupe longitudinale et transversale.",
+            "image_caption": "Illustration botanique du cacaoyer (Theobroma cacao), montrant fleurs et fruits détaillés. Photo Wikimedia illustrative générale.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/ac2f8e1b26b7876b12776f2f8f5140785c755413b6a386b0adf75819aea2ea2b.jpg",
+            "image_credit": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen · List of Koehler Images · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Theobroma_cacao_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-136.jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Cacaoyer",
+                    "url": "https://fr.wikipedia.org/wiki/Cacaoyer"
+                }
+            ],
+            "subject_id": "Q42385",
+            "published_at": "2026-11-25",
+            "country": "Monde"
+        },
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "daily",
+            "id": "decouverte-d09298f79a718709df2ec24d",
+            "title": "Les extrêmophiles, organismes vivants dans les milieux les plus extrêmes",
+            "body": "Certains organismes, appelés extrêmophiles, vivent et se développent dans des milieux considérés comme extrêmes : températures élevées, fortes pressions ou absence d'oxygène. Ces organismes se rencontrent, par exemple, sur les roches autour des évents hydrothermaux profonds où ils forment des colonies visibles comme les vers tubicoles au pied des cheminées noires. Leur capacité à survivre dans ces conditions est permise par des enzymes particulières nommées extrémases, qui assurent leur fonctionnement cellulaire malgré l'environnement hostile. Ces organismes aident les chercheurs à mieux comprendre les limites de la vie sur Terre et à exploiter ces enzymes pour des applications médicales et industrielles, offrant ainsi des perspectives concrètes pour la biotechnologie.",
+            "category": "Nature et animaux",
+            "location": "Milieux extrêmes océaniques",
+            "image_description": "Une scientifique observe une colonie de manchots Adélie en Antarctique, où des recherches sur les extrêmophiles sont menées dans des environnements glacés et isolés.",
+            "image_caption": "Tanya Patrick, éditrice du magazine Scientriffic, examine une colonie de manchots Adélie en Antarctique lors d'une mission scientifique, illustration documentaire générale.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/e5bb7cd83eda4c5bf80a64f67c6acd6afad94c238f2d284c4ffd2508cfb91341.jpg",
+            "image_credit": "Tanya Patrick, CSIRO · http://www.scienceimage.csiro.au/image/3815 · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY 3.0 · https://creativecommons.org/licenses/by/3.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_3815_Tanya_Patrick_checks_out_a_colony_of_Adelie_penguins.jpg",
+            "sources": [
+                {
+                    "label": "NOAA · What is an extremophile?",
+                    "url": "https://oceanservice.noaa.gov/facts/extremophile.html"
+                }
+            ],
+            "subject_id": "source-8b500660af0bf9c218b8e08fd13ebce8",
+            "published_at": "2026-11-25",
+            "country": "Monde"
+        }
+    ]
+}

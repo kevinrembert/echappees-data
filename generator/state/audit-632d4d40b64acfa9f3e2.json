@@ -1,0 +1,487 @@
+{
+    "schema_version": 1,
+    "articles": [
+        {
+            "id": "decouverte-ab01a08a5306d5d71d50fbc8",
+            "subject_id": "news-16f0defd139578b8d06d6b3197a97565",
+            "collected_at": "2026-11-25T08:31:31+00:00",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-24",
+                    "url": "https://www.goodnewsnetwork.org/major-success-sees-viral-infections-fall-68-in-brazil-after-releasing-wolbachia-infected-mosquitoes/"
+                }
+            ],
+            "source_sha256": "1b2d07a19a67850738d82bb5fb4c2512292f44b5a6cd6c42fb71425625fdf1fb",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Mohamad_Nasir_Wolbachia_mosquito_lab_visit_02.jpg",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "dea1b0391be295437c310ab7885e60b567d4b8a1",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La transmission des virus portés par les moustiques a diminué de plus de 68 % chez les enfants scolarisés de Belo Horizonte, grâce à la libération de moustiques porteurs de la bactérie Wolbachia.",
+                "beneficiaries": "Les enfants de 6 à 11 ans scolarisés dans 29 quartiers de Belo Horizonte au Brésil."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Une méthode testée à Belo Horizonte a montré une baisse significative des infections virales transmises par les moustiques.",
+                    "source_passages": [
+                        "By Aedes Albopictus, public domain A major success in population-scale control of mosquito-borne viruses comes now from Brazil, where schoolchildren are enjoying a 68% lower risk of such diseases.",
+                        "The trial tested the largely-proven method of releasing mosquitoes infected with Wolbachia bacteria, which inhibits the insect’s ability to spread viruses like dengue, Zika, and chikungunya."
+                    ]
+                },
+                {
+                    "sentence": "En libérant des moustiques infectés par la bactérie Wolbachia, qui bloque la propagation de virus comme la dengue et le chikungunya, le risque chez les enfants de 6 à 11 ans a chuté de 68,5 % pour la dengue et 73,3 % pour le chikungunya.",
+                    "source_passages": [
+                        "The trial tested the largely-proven method of releasing mosquitoes infected with Wolbachia bacteria, which inhibits the insect’s ability to spread viruses like dengue, Zika, and chikungunya.",
+                        "It involved 5,757 school children, ages 6 to 11.",
+                        "BRAZILIAN SCIENCE: Scientists Make a Super-Honey Using Cocoa Bean Waste For Chocolatey, Heart-Healthy Jolt Reductions of 68.5% were observed in incidence of dengue, and 73.3% for chikungunya."
+                    ]
+                },
+                {
+                    "sentence": "L’essai s'est déroulé sur 29 zones où cette méthode a été combinée aux mesures de lutte habituelles, et comparé à 29 zones témoins.",
+                    "source_passages": [
+                        "EVITA included 58 school-defined geographic clusters in Belo Horizonte, with 29 clusters assigned to receive releases of wMel mosquitoes in addition to standard vector-control measures, and 29 clusters assigned to standard vector control alone, such as insecticidal sprays and mosquito source reduction.",
+                        "The randomized-controlled trial released Wolbachia-infected mosquitoes from January 2021 through May 2022."
+                    ]
+                },
+                {
+                    "sentence": "Ces résultats ont été obtenus durant la plus importante épidémie de dengue au Brésil, ce qui montre l'efficacité du procédé même en situation de forte transmission.",
+                    "source_passages": [
+                        "Trialed over 4 years in Belo Horizonte, the success overlapped with the largest outbreak of dengue fever ever recorded in Brazil, demonstrating the urgent need for greater mosquito control in the tropics.",
+                        "“The intervention substantially reduced dengue infections during Brazil’s largest recorded outbreak, demonstrating its potential to protect communities even under conditions of intense transmission,” states Derek Cummings, PhD, co-principal investigator of the trial and Bloomberg Distinguished Professor at Johns Hopkins University, one of the institutions that participated."
+                    ]
+                },
+                {
+                    "sentence": "Wolbachia se transmet aux générations suivantes de moustiques, ce qui permet un contrôle durable sur plusieurs années.",
+                    "source_passages": [
+                        "wMel-infected mosquitoes pass the bacteria to their offspring, thereby inhibiting disease transmission on a generational scale.",
+                        "“We are pleased to have developed this locally adapted strain from Belo Horizonte for the EVITA dengue trial and to achieve successful sustained establishment of the Wolbachia-infected mosquitoes for over 3 years,” says Luciano Moreira, PhD, of Fiocruz and the World Mosquito Program in Brazil."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-7a0ed7ebabde633e415e49cf",
+            "subject_id": "news-d85898925b10dda15cc2c57444b16973",
+            "collected_at": "2026-11-25T08:31:40+00:00",
+            "sources": [
+                {
+                    "label": "NASA · publié le 2026-11-24",
+                    "url": "https://www.nasa.gov/nasa/nasa-content-coming-to-big-screen-at-greenbelt-maryland-cinema/"
+                }
+            ],
+            "source_sha256": "9c7dafd632aa7588f536fd66423121dfb2ca3a3d99031d50c7e47f07ef172d29",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Interns_at_NASA_Stennis_watch_The_Color_of_Space_documentary_featuring_NASA_astronaut_Victor_Glover_during_National_Intern_Day_activities_onsite_July_25_(SSC-20240725-s00799).jpg",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "0895b597e9606fca9a98668cd5c6bf93e53963cf",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Des contenus originaux de la NASA, dont un documentaire sur l'exploration de la lune glacée Europe, sont désormais accessibles sur grand écran au Greenbelt Cinema dans le Maryland.",
+                "beneficiaries": "Le grand public intéressé par l'astronomie et l'exploration spatiale, qui peut désormais profiter de documentaires et événements liés aux missions Artemis dans un lieu dédié."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "La NASA a commencé à diffuser ses contenus originaux sur grand écran au Greenbelt Cinema, dans le Maryland.",
+                    "source_passages": [
+                        "Credit: NASA NASA announced Monday that NASA+ content has found its first theatrical home at The Greenbelt Cinema in Greenbelt, Maryland, expanding the agency’s reach across major viewing platforms and bringing space even closer to home."
+                    ]
+                },
+                {
+                    "sentence": "Cette initiative offre au public l'accès à des films documentaires, notamment \"The Europa Concept\" qui expose les recherches sur Europe, la lune glacée de Jupiter, en vue de futures explorations.",
+                    "source_passages": [
+                        "With Artemis III on the horizon and our sights set on building humanity’s first Moon Base, this is only the beginning of our story being told, and we’ll continue sharing transparent, engaging content every step of the way.” NASA and The Greenbelt Cinema will kick off their partnership with screenings of the NASA+ original documentary “The Europa Concept,” which follows NASA’s journey to investigate the science driving future exploration of Europa, Jupiter’s icy moon."
+                    ]
+                },
+                {
+                    "sentence": "Ce partenariat introduit aussi la possibilité de suivre en direct les missions lunaires Artemis, renforçant la visibilité de ces projets spatiaux.",
+                    "source_passages": [
+                        "Future programming may include other NASA+ original content, in-person live streaming events of NASA’s Artemis missions, including the first crewed mission to the Moon under the Artemis program, additional Europa content, and more."
+                    ]
+                },
+                {
+                    "sentence": "Tout en restant gratuite et sans publicité via l'application et le site NASA, cette offre étend la portée des programmes éducatifs de l'agence sur des formats variés.",
+                    "source_passages": [
+                        "NASA+ also will remain available for free, with no ads, through the NASA app and on the agency’s website."
+                    ]
+                },
+                {
+                    "sentence": "L'installation au cinéma permet de mieux comprendre les avancées scientifiques et techniques des missions lunaires en cours et à venir.",
+                    "source_passages": [
+                        "With Artemis III on the horizon and our sights set on building humanity’s first Moon Base, this is only the beginning of our story being told, and we’ll continue sharing transparent, engaging content every step of the way.” NASA and The Greenbelt Cinema will kick off their partnership with screenings of the NASA+ original documentary “The Europa Concept,” which follows NASA’s journey to investigate the science driving future exploration of Europa, Jupiter’s icy moon.",
+                        "Partnerships like this one help NASA maximize engagement with communities around the world by making the agency’s missions and educational content available to viewers on their preferred devices and channels."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-594fccc15ac6d8052ada0fce",
+            "subject_id": "news-ed7aed7a8831e4024501b5b2e574958d",
+            "collected_at": "2026-11-25T08:32:42+00:00",
+            "sources": [
+                {
+                    "label": "Reasons to be Cheerful · publié le 2026-11-23",
+                    "url": "https://reasonstobecheerful.world/pontevedra-car-free-city/"
+                }
+            ],
+            "source_sha256": "248c43e406610dd82d0ee0b505aaf93769da9ece19742f83de8bcaacda57380d",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:City_Hall,_Lebanon,_Pa._-_City_Hall,_Lebanon,_Pa._-_with_a_pedestrian_walking_north_on_Ninth_Street_%E2%80%93_postcard_-_ca._1915.jpg",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "17cf09601bcd89a14f4765ec3f48e720723d8761",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La ville de Pontevedra a réduit drastiquement la circulation automobile dans son centre historique, améliorant la qualité de vie en ville.",
+                "beneficiaries": "Les habitants, piétons et usagers du centre-ville de Pontevedra bénéficient de rues apaisées, moins de bruit et de pollution."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Depuis 1999, la ville de Pontevedra en Espagne a engagé une transformation progressive de son centre historique, limitant l'accès des voitures pour favoriser les piétons.",
+                    "source_passages": [
+                        "It technically began its war on cars last century.",
+                        "In 1999, he campaigned to reclaim Pontevedra’s streets.",
+                        "Fernández Lores began with a major effort to keep unnecessary cars out of the historic city center, removing significant amounts of on-street parking and only allowing essential vehicles to enter.",
+                        "Within one month in office, he had pedestrianized 300,000 square meters of the city center."
+                    ]
+                },
+                {
+                    "sentence": "Cette démarche a débuté par la piétonnisation de 300 000 mètres carrés, la suppression de places de stationnement en voirie et la mise en place de zones à 30 km/h.",
+                    "source_passages": [
+                        "Fernández Lores began with a major effort to keep unnecessary cars out of the historic city center, removing significant amounts of on-street parking and only allowing essential vehicles to enter.",
+                        "Within one month in office, he had pedestrianized 300,000 square meters of the city center."
+                    ]
+                },
+                {
+                    "sentence": "Résultat, le centre ville, autrefois saturé avec 80 000 véhicules par jour, est désormais apaisé, avec une réduction notable de la pollution et des nuisances sonores.",
+                    "source_passages": [
+                        "By the late 1990s, an average of 80,000 cars drove through Pontevedra every day — astonishingly, according to the municipality, three times more than through Madrid and five times more than London.",
+                        "Pontevedra’s epoch of cars dirtied the air, led to the deaths of pedestrians and seized centuries-old public spaces from residents.",
+                        "“The city was loud, disagreeable, unlivable,” says Miguel Anxo Fernández Lores, the longstanding mayor of Pontevedra, from the desk of his city hall office.",
+                        "The city was like a huge, permanent traffic jam.” Fernández Lores, a doctor by trade, decided enough was enough."
+                    ]
+                },
+                {
+                    "sentence": "Cette expérience sert aujourd’hui de modèle pour de nombreuses autres villes cherchant à améliorer leur qualité de vie urbaine.",
+                    "source_passages": [
+                        "Credit: Peter Yeung Today Pontevedra, which fittingly is located on one of the world-famous Camino de Santiago pilgrimage routes, is considered perhaps the greatest example in the world when it comes to getting rid of cars.",
+                        "Every year, delegations of mayors, professors and city planners make their own pilgrimage to learn about this great vanishing act.",
+                        "“Pontevedra is an influential example and something we speak of often,” says Mark Nieuwenhuijsen, director of the urban planning, environment and health initiative at ISGlobal, a public health research institute based in Barcelona."
+                    ]
+                },
+                {
+                    "sentence": "L’impact se mesure aussi par l’augmentation du confort pour les piétons et la convivialité des espaces publics, en particulier autour des places historiques de la ville.",
+                    "source_passages": [
+                        "But as a pedestrian, life is better.",
+                        "“Pontevedra is an influential example and something we speak of often,” says Mark Nieuwenhuijsen, director of the urban planning, environment and health initiative at ISGlobal, a public health research institute based in Barcelona."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-6711b82a2b188e2c73fbb4d6",
+            "subject_id": "news-5257e4b96b7100c003d21108ba6c91b4",
+            "collected_at": "2026-11-25T08:32:51+00:00",
+            "sources": [
+                {
+                    "label": "NASA · publié le 2026-11-24",
+                    "url": "https://www.nasa.gov/missions/station/nasas-northrop-grumman-crs-25-mission-overview/"
+                }
+            ],
+            "source_sha256": "0aefdef4d45dc4307312c29b318ee5c902620595bb5bd3bbddc00cda75979986",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:A_SpaceX_Dragon_cargo_spacecraft_approaches_the_International_Space_Station_(iss074e0586370).jpg",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "8ea2dfee6ad24c461c36b2b205543eef7cbb3351",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "De nouvelles expériences scientifiques ont été livrées à la Station spatiale internationale pour étudier des traitements contre la perte musculaire liée au vieillissement et améliorer la fabrication de nanomatériaux médicaux en microgravité.",
+                "beneficiaries": "Les astronautes en mission longue durée et potentiellement les patients sur Terre concernés par la sarcopénie et des traitements médicaux innovants."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Lors de sa mission récente, le vaisseau spatial Northrop Grumman CRS-25 a acheminé environ 5 tonnes de matériel scientifique à la Station spatiale internationale.",
+                    "source_passages": [
+                        "NASA’s Northrop Grumman Commercial Resupply Services 25 mission, or Northrop Grumman CRS-25, will deliver about 11,000 pounds of science and supplies to the International Space Station."
+                    ]
+                },
+                {
+                    "sentence": "Parmi les matériels, plusieurs expériences testent des traitements sur des cellules musculaires humaines pour lutter contre la sarcopénie, une perte musculaire liée à l’âge, qui se manifeste plus rapidement en microgravité.",
+                    "source_passages": [
+                        "Credit: NASA Science highlights In addition to food, supplies, and equipment for the crew, Cygnus will deliver several new experiments aimed at improving drug delivery for cancer and osteoarthritis treatment, predicting cancer spread, advancing treatments for muscle loss, improving radiation sensing, and supporting food production for future long-duration missions.",
+                        "The research may help accelerate development of treatments for age-related muscle loss on Earth and support astronaut health during long-duration missions.",
+                        "Credit: Palo Alto Veteran’s Institute for Research Cardinal Muscle 2.0 uses the microgravity environment to explore potential treatments for muscle loss.",
+                        "Muscle atrophy and strength loss experienced by astronauts after spaceflight share many features with age-related muscle decline on Earth and occur more rapidly in microgravity without exercise.",
+                        "Researchers will use a muscle tissue model to test different Food and Drug Administration-approved drugs used to treat other conditions can be repurposed to prevent or reduce muscle loss."
+                    ]
+                },
+                {
+                    "sentence": "Par ailleurs, un projet étudie la production en environnement spatial de nanomatériaux inspirés de l’ADN, destinés à améliorer la délivrance de médicaments dans des tissus denses comme le cartilage ou les tumeurs.",
+                    "source_passages": [
+                        "Credit: NASA Science highlights In addition to food, supplies, and equipment for the crew, Cygnus will deliver several new experiments aimed at improving drug delivery for cancer and osteoarthritis treatment, predicting cancer spread, advancing treatments for muscle loss, improving radiation sensing, and supporting food production for future long-duration missions.",
+                        "Biomimetic Fabrication of Multi-Functional DNA-Inspired Nanomaterials via Controlled Self-assembly in Space (DNA Nano Therapeutics-Mission 2) continues prior research on in-space manufacturing of nanomaterials that mimic DNA and have applications for vaccines and regenerative medicine.",
+                        "Credit: University of Connecticut The DNA Nano B investigation uses microgravity to manufacture tiny, DNA-inspired particles designed to deliver medicine into dense tissues, such as cartilage and solid tumors."
+                    ]
+                },
+                {
+                    "sentence": "Ces investigations bénéficient aux missions spatiales de longue durée et pourraient aussi ouvrir de nouvelles voies thérapeutiques sur Terre.",
+                    "source_passages": [
+                        "Credit: NASA Science highlights In addition to food, supplies, and equipment for the crew, Cygnus will deliver several new experiments aimed at improving drug delivery for cancer and osteoarthritis treatment, predicting cancer spread, advancing treatments for muscle loss, improving radiation sensing, and supporting food production for future long-duration missions.",
+                        "The research may help accelerate development of treatments for age-related muscle loss on Earth and support astronaut health during long-duration missions.",
+                        "Credit: University of Connecticut The DNA Nano B investigation uses microgravity to manufacture tiny, DNA-inspired particles designed to deliver medicine into dense tissues, such as cartilage and solid tumors."
+                    ]
+                },
+                {
+                    "sentence": "L’opération illustre l’utilisation de la station comme laboratoire unique pour faire progresser la médecine et la biotechnologie.",
+                    "source_passages": [
+                        "Credit: NASA Science highlights In addition to food, supplies, and equipment for the crew, Cygnus will deliver several new experiments aimed at improving drug delivery for cancer and osteoarthritis treatment, predicting cancer spread, advancing treatments for muscle loss, improving radiation sensing, and supporting food production for future long-duration missions."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-fba3c9d2c1f918a0607f4253",
+            "subject_id": "news-769de9b354489faa6b22f33b4ee72b1e",
+            "collected_at": "2026-11-25T08:33:06+00:00",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-24",
+                    "url": "https://www.goodnewsnetwork.org/charity-swaps-tuition-fees-for-coconuts-so-every-islander-can-afford-school/"
+                }
+            ],
+            "source_sha256": "6b31fd77e55cfafa5f56d7e3d3b1448a6d6abfb48ea9d03e3cc071410211c9ad",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Coconut_palm_in_a_school_garden.jpg",
+            "image_license": "CC0 · https://creativecommons.org/publicdomain/zero/1.0/",
+            "original_sha1": "0674882b3928a4da753ccee65e77baaea7e917c5",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Les familles insulaires de Yap peuvent désormais payer les frais de scolarité de leurs enfants avec des noix de coco, ce qui allège leur charge financière immédiate et donne un nouvel élan à l'économie locale du coprah.",
+                "beneficiaries": "Les élèves et leurs familles sur l'île de Yap, ainsi que les acteurs économiques locaux liés à la production de coprah."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Sur l'île de Yap, dans l'archipel de Micronésie, une académie chrétienne a instauré un système original : les familles peuvent régler les frais de scolarité de leurs enfants en apportant des noix de coco.",
+                    "source_passages": [
+                        "Yet the Faith Christian Academy in Micronesia is, in fact, accepting coconuts in lieu of tuition costs—to help ease the financial burden on families while making use of the ubiquitous fruits that pile up all around.",
+                        "95% of households grow crops, 88% fish, and 78% grow coconuts, nearly all for their own table.” “We asked a simple question: what if the thing Yap has in abundance could help pay for the thing families want most for their kids?” Zimmer would go on to tell GNN that only one-third of all islanders had cash-paying work, most of which was through the government."
+                    ]
+                },
+                {
+                    "sentence": "Cette initiative réduit la nécessité pour les parents d'effectuer des activités pénibles ou dangereuses, telles que la pêche nocturne, afin de financer la scolarité.",
+                    "source_passages": [
+                        "Students can easily afford tuition while sparing themselves the dangers and toil of fishing to make money.",
+                        "At the same time, a decade of balancing the books at Faith Christian Academy (FCA) demonstrated that students would often have to work themselves to the bone to afford the tuition costs.",
+                        "FCA student Shayalynn – credit, Island VCO At times, this would involve dangerous nighttime fishing, while at other times it meant double shifts at work for low-wage earners: like the father of Shayalynn, whose family is from the outer island of Ifaluk, but who has attended FCA since 2017."
+                    ]
+                },
+                {
+                    "sentence": "Par ailleurs, l'école utilise ces noix de coco pour relancer une industrie locale d'huile de coco abandonnée depuis plusieurs années, contribuant ainsi à dynamiser l'économie insulaire.",
+                    "source_passages": [
+                        "On the other, the coconuts are used by the Academy to rebuild Yap Island’s once-flourishing coconut oil industry.",
+                        "According to Zimmer, this island state within the Federated States of Micronesia used to be a large exporter of virgin coconut oil, but slowing exports through the ’90s stopped entirely by the mid-2000s “because prices were low, shipping was poor, and the palms were aging.” Though the market was gone, the coconuts kept on growing."
+                    ]
+                },
+                {
+                    "sentence": "Ce système permet à plusieurs familles de partager plus de temps ensemble, sans la pression du double emploi.",
+                    "source_passages": [
+                        "“I felt relieved and happy about it because my dad didn’t have to work a lot for my tuition,” she said, remembering when she first heard about the coconuts, “The first year that I started in FCA in 2017, he had to work double shifts just to be able to pay for my tuition, the food on the table, and the clothes that I had to wear to school.” FROM THE PACIFIC: Archaeologists Uncover Ancient City in Kingdom of Tonga That Rewrites History: ‘First City of the Pacific’ “[Now] he doesn’t have to work too much.",
+                        "He can stay at home and I can see him often.",
+                        "He can spend time with our family and his kids.” Zimmer shares another example: of a young man planning to sacrifice his entire summer fishing, day and night, to afford school for himself and his younger siblings."
+                    ]
+                },
+                {
+                    "sentence": "Enfin, cueillir les noix de coco demeure une activité appréciée des élèves, rappelant des instants familiaux partagés.",
+                    "source_passages": [
+                        "Perhaps as a result, FCA students told GNN that collecting them is kind of like a reward in itself.",
+                        "Sophomore Joyleen, born and raised on Yap and one of 8 children, said that gathering coconuts reminds her of helping her dad when she was young, while a senior named Roy said collecting with friends and family is fun."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-5f2699ff50abb7d1ef412d2b",
+            "subject_id": "news-ea9c9c9cdbe13ab6a87a2339202903b4",
+            "collected_at": "2026-11-25T08:33:24+00:00",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-23",
+                    "url": "https://www.goodnewsnetwork.org/first-of-3-consecutive-supermoons-to-begin-tonight-look-to-the-east-for-the-beaver-moon/"
+                }
+            ],
+            "source_sha256": "ff8d005fff2d3b0bd6aebef7c7dfee563b539abcf1c2c677259db68205eb844d",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:From_Supermoon_to_Blood_Moon_(21593782410).jpg",
+            "image_license": "CC BY-SA 2.0 · https://creativecommons.org/licenses/by-sa/2.0/",
+            "original_sha1": "e60b737d71b2d356e4de1a993fe2e6d1c52169d5",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Trois pleines lunes consécutives, qualifiées de superlunes, ont été observées, offrant un spectacle nocturne lumineux et visuellement remarquable.",
+                "beneficiaries": "Les amateurs d’astronomie, les habitants de régions où le ciel est dégagé, et toute personne prenant le temps d’observer la nature nocturne."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Une série exceptionnelle de trois superlunes consécutives a débuté avec la pleine lune de novembre, dite \"Boisée\" ou \"Beaver Moon\" aux États-Unis.",
+                    "source_passages": [
+                        "This month’s moon is being called the Beaver Moon, as it’s the time when beavers would head to their dens for hibernation.",
+                        "Native tribes, like the Dakota and Lakota, have their own terms for the November moon—the Deer Rutting Moon, in this case.",
+                        "The Cree called it the Frost Moon, while the Tlingit called it the Digging, or Scratching Moon, a reference to animals pawing the hard earth looking for sustenance.",
+                        "The Beaver Moon will begin a series of 3 consecutive supermoons, with another appearing in December and a third in January—perfect reasons to brave the cold and get out in nature, or to walk off those hearty winter dinners."
+                    ]
+                },
+                {
+                    "sentence": "Ces lunes se produisent lorsque la pleine lune atteint son périgée, le point le plus proche de la Terre, apparaissant un peu plus lumineuses et légèrement plus grandes, surtout près de l’horizon, où l’illusion d’optique les amplifie.",
+                    "source_passages": [
+                        "A moon becomes a supermoon when it reaches ‘perigee’ or the closest point to Earth in its orbit (this is as opposed to apogee, the farthest point in orbit from Earth, which produces a ‘micromoon’).",
+                        "Hanging in the middle of the firmament, supermoons don’t look much bigger than normal full moons.",
+                        "Rather, it’s when they’re close to the horizon that they take on their super appearance.",
+                        "That’s down to an optical illusion created by trees and houses that make the Moon appear bigger by comparison.",
+                        "The Beaver Moon will begin a series of 3 consecutive supermoons, with another appearing in December and a third in January—perfect reasons to brave the cold and get out in nature, or to walk off those hearty winter dinners."
+                    ]
+                },
+                {
+                    "sentence": "La tradition nomme cette lune en lien avec les saisons et les comportements animaux, comme la préparation des castors à l’hibernation.",
+                    "source_passages": [
+                        "This month’s moon is being called the Beaver Moon, as it’s the time when beavers would head to their dens for hibernation.",
+                        "The Beaver Moon will begin a series of 3 consecutive supermoons, with another appearing in December and a third in January—perfect reasons to brave the cold and get out in nature, or to walk off those hearty winter dinners."
+                    ]
+                },
+                {
+                    "sentence": "Les prochaines phases en décembre et janvier, les \"Lune froide\" et \"Lune du loup\", poursuivront ce phénomène.",
+                    "source_passages": [
+                        "The Beaver Moon will begin a series of 3 consecutive supermoons, with another appearing in December and a third in January—perfect reasons to brave the cold and get out in nature, or to walk off those hearty winter dinners.",
+                        "December’s Cold Moon will be the biggest of the 3, with its fullest phase corresponding to an even closer point of perigee in its orbit around our planet, while January’s Wolf Moon will also be a supermoon."
+                    ]
+                },
+                {
+                    "sentence": "Ces événements ont permis à un large public de découvrir la lune dans des conditions peu courantes, invitant à une sortie en nature pour observer cette lumière particulière.",
+                    "source_passages": [
+                        "Take the opportunity to experience the illusion by dressing warmly and stepping out into an open area in the early twilight tonight and tomorrow night to catch moonrise in the eastern sky.",
+                        "The Beaver Moon will begin a series of 3 consecutive supermoons, with another appearing in December and a third in January—perfect reasons to brave the cold and get out in nature, or to walk off those hearty winter dinners."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-ba8f228dd031ba60467569b9",
+            "subject_id": "Q42385",
+            "collected_at": "2026-11-25T08:33:37+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Cacaoyer",
+                    "url": "https://fr.wikipedia.org/wiki/Cacaoyer"
+                }
+            ],
+            "source_sha256": "ca2d7ffe23be88dd343afca22c5e447d207803dc9688ae99eb8019d8a0edffca",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Theobroma_cacao_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-136.jpg",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "3ec953e170eee0d22b2c19f9665b287400e64854",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Le cacaoyer fournit des fèves utilisées pour fabriquer le cacao, ingrédient fondamental du chocolat.",
+                "beneficiaries": "Les producteurs de cacao et consommateurs de chocolat dans le monde."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Le cacaoyer (Theobroma cacao) est un petit arbre à feuilles persistantes dont les fèves comestibles servent de base au cacao, principal ingrédient du chocolat.",
+                    "source_passages": [
+                        "Le cacaoyer (Theobroma cacao), aussi appelé cacao ou cacaotier est un petit arbre à feuilles persistantes du genre Theobroma de la famille des Sterculiacées, selon la classification classique, ou des Malvacées, selon la classification phylogénétique.",
+                        "Il produit des fèves comestibles aux saveurs différentes suivant les variétés de cacaoyer, à partir desquelles est fabriqué le cacao, le produit de base du chocolat."
+                    ]
+                },
+                {
+                    "sentence": "Selon les variétés, ses fèves présentent des saveurs variées, offrant une diversité gustative reconnue.",
+                    "source_passages": [
+                        "Il produit des fèves comestibles aux saveurs différentes suivant les variétés de cacaoyer, à partir desquelles est fabriqué le cacao, le produit de base du chocolat."
+                    ]
+                },
+                {
+                    "sentence": "Le nom Theobroma signifie « nourriture des dieux », soulignant l'importance historique de cette plante.",
+                    "source_passages": [
+                        "Le nom de genre Theobroma est un terme forgé à partir du grec θεός / theós (« dieu ») et βρῶμα / brỗma (« nourriture, aliment »), soit « aliment des dieux »."
+                    ]
+                },
+                {
+                    "sentence": "Le terme français « cacao » vient de l'espagnol, lui-même issu du nahuatl kakahuatl.",
+                    "source_passages": [
+                        "== Étymologie == Le français « cacao » est emprunté en 1532 à l'espagnol cacao, lui-même dérivé du nahuatl kakahuatl (ou cacahuatl), de même sens."
+                    ]
+                },
+                {
+                    "sentence": "Cet arbre, souvent appelé \"arbre à chocolat\" dans la littérature, illustre l’origine naturelle d’un produit apprécié mondialement, sans fondement botanique officiel mais largement utilisé.",
+                    "source_passages": [
+                        "== Surnoms == Outre son nom scientifique Theobroma cacao, l’arbre est couramment désigné par l’expression « arbre à chocolat » dans la littérature grand-public et pédagogique, en raison de l’usage de ses fèves pour la fabrication du chocolat.",
+                        "Ce surnom, d’origine française, n’a pas de fondement botanique officiel, mais il est régulièrement employé pour désigner l’espèce dans les..."
+                    ]
+                },
+                {
+                    "sentence": "Son rôle dans la production de la matière première du chocolat en fait une plante clé pour de nombreux pays producteurs et consommateurs.",
+                    "source_passages": [
+                        "Il produit des fèves comestibles aux saveurs différentes suivant les variétés de cacaoyer, à partir desquelles est fabriqué le cacao, le produit de base du chocolat."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-d09298f79a718709df2ec24d",
+            "subject_id": "source-8b500660af0bf9c218b8e08fd13ebce8",
+            "collected_at": "2026-11-25T08:33:59+00:00",
+            "sources": [
+                {
+                    "label": "NOAA · What is an extremophile?",
+                    "url": "https://oceanservice.noaa.gov/facts/extremophile.html"
+                }
+            ],
+            "source_sha256": "fb5c6d2e0be2704b34b114ac28a497971e5757639d9d8d0e8429132beff8db60",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_3815_Tanya_Patrick_checks_out_a_colony_of_Adelie_penguins.jpg",
+            "image_license": "CC BY 3.0 · https://creativecommons.org/licenses/by/3.0/",
+            "original_sha1": "ee207849ef23491b0d8b02f06892945325dacd68",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Les extrêmophiles prospèrent dans des environnements hostiles comme les évents hydrothermaux, révélant les conditions possibles pour la vie.",
+                "beneficiaries": "les scientifiques et la recherche en biotechnologie bénéficient des enzymes (extrémases) produites par ces organismes"
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Certains organismes, appelés extrêmophiles, vivent et se développent dans des milieux considérés comme extrêmes : températures élevées, fortes pressions ou absence d'oxygène.",
+                    "source_passages": [
+                        "An extremophile is an organism that thrives in extreme environments.",
+                        "Extremophiles are organisms that live in \"extreme environments,\" under high pressure and temperature.",
+                        "It's important to note that these organisms are 'extreme' only from a human perspective.",
+                        "While oxygen, for example, is a necessity for life as we know it, some organisms flourish in environments with no oxygen at all."
+                    ]
+                },
+                {
+                    "sentence": "Ces organismes se rencontrent, par exemple, sur les roches autour des évents hydrothermaux profonds où ils forment des colonies visibles comme les vers tubicoles au pied des cheminées noires.",
+                    "source_passages": [
+                        "Bacteria often form on the rocks near the hydrothermal vents.",
+                        "A bed of tube worms cover the base of the black smoker.",
+                        "\"Extremophiles\" are organisms with the ability to thrive in extreme environments such as hydrothermal vents."
+                    ]
+                },
+                {
+                    "sentence": "Leur capacité à survivre dans ces conditions est permise par des enzymes particulières nommées extrémases, qui assurent leur fonctionnement cellulaire malgré l'environnement hostile.",
+                    "source_passages": [
+                        "The unique enzymes used by these organisms, called \"extremozymes,\" enable these organisms to function in such forbidding environments."
+                    ]
+                },
+                {
+                    "sentence": "Ces organismes aident les chercheurs à mieux comprendre les limites de la vie sur Terre et à exploiter ces enzymes pour des applications médicales et industrielles, offrant ainsi des perspectives concrètes pour la biotechnologie.",
+                    "source_passages": [
+                        "Since they live in “extreme environments” (under high pressure and temperature), they can tell us under which range of conditions life is possible.",
+                        "These creatures hold great promise for genetically based medications and industrial chemicals and processes."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        }
+    ]
+}
