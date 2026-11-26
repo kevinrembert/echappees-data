@@ -1,0 +1,62 @@
+{
+    "schema_version": 1,
+    "articles": [
+        {
+            "id": "decouverte-fddd89085c905102e1a2ded7",
+            "subject_id": "news-56543fe3abdb22ef20a08fb18edad454",
+            "collected_at": "2026-11-26T18:27:46+00:00",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-26",
+                    "url": "https://www.goodnewsnetwork.org/events061125-2/"
+                }
+            ],
+            "source_sha256": "db61f2848d2170c6709bb975a9fd760cc98ebd99a5f90cbbb112b11f8abec698",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:This_view_of_tracks_trailing_NASA%E2%80%99s_Curiosity_rover_was_captured_July_26,_2025,_as_the_rover_simultaneously_relayed_data_to_a_Mars_orbiter_(curiosity-looks-back-toward-its-landing-site).png",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "227bd0aaec538c8495db022d8aff0cb2e146fa3e",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Les analyses menées par le rover Curiosity sur Mars ont révélé la présence de molécules organiques, de nitrates et de variations de méthane, éclairant la compréhension du climat ancien plus humide de la planète ainsi que la période durant laquelle elle a pu être habitable.",
+                "beneficiaries": "La communauté scientifique internationale étudie désormais ces données pour mieux comprendre l'histoire géologique et l'évolution potentielle de la vie sur Mars."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Le rover Curiosity, actif depuis plus de 13 ans sur le cratère Gale de Mars, a permis de mettre en lumière des éléments clés sur l'histoire de la planète rouge.",
+                    "source_passages": [
+                        "MORE Good News on this Date: A day of national Thanksgiving was declared by President George Washington to celebrate the adoption of the US Constitution (1789) The University of Notre Dame was founded (1842) Charles Schulz, the Peanuts cartoonist was born in Minnesota (1922) The film Casablanca had its world premiere (1942) India adopted a constitution, as a republic in the British Commonwealth (1949) The Race Relations Act made it illegal in Britain to refuse housing, employment or services to people because of their ethnicity (1968) Tony Blair became the first Prime Minister of the UK to address the Republic of Ireland’s parliament (1998) 15 years ago today, the Mars Science Laboratory launched from Earth carrying the Curiosity Rover with the objectives including the investigation of Mars’ habitability, studying its climate and geology, and collecting data for a human mission to Mars.",
+                        "Curiosity is about twice as long and five times as heavy as previous Martian rovers Spirit and Opportunity, and carries over ten times the mass of scientific instruments."
+                    ]
+                },
+                {
+                    "sentence": "Ses instruments ont détecté des molécules organiques et des nitrates dans les roches, ainsi que des variations de méthane dans l’atmosphère locale.",
+                    "source_passages": [
+                        "The Mars Science Laboratory and Curiosity Rover concept – NASA/JPL In an article on the five most important discoveries made by Curiosity’s decade of exploring Gale Crater and Mount Sharp, NASA program scientists agree that the detection of organic molecules with Curiosity’s Sample Analysis at Mars (SAM) instrument suite is one of the biggest.",
+                        "SAM has also provided evidence and detailed analysis for fixed nitrogen in the form of nitrate rocks, and variable methane levels in the near-surface atmosphere."
+                    ]
+                },
+                {
+                    "sentence": "Ces découvertes indiquent que Mars a connu un passé plus humide, favorable à l'existence de milieux potentiellement habitables.",
+                    "source_passages": [
+                        "Furthermore, SAM has also shed light on Mars’ wetter past and how the planet has dried out over its history through the analysis and discovery of minerals related to wet environments."
+                    ]
+                },
+                {
+                    "sentence": "L’étude des formations géologiques autour du mont Sharp offre un aperçu de la formation de ce relief et de l’évolution géologique locale.",
+                    "source_passages": [
+                        "They also note the range of research done on the rocks in and around Gale Crater allowed scientists to get a picture of how it formed and of the age of its geology."
+                    ]
+                },
+                {
+                    "sentence": "Ces avancées concrètes renforcent la compréhension des conditions passées qui ont pu permettre la présence de vie microscopique sur Mars.",
+                    "source_passages": [
+                        "The Mars Science Laboratory and Curiosity Rover concept – NASA/JPL In an article on the five most important discoveries made by Curiosity’s decade of exploring Gale Crater and Mount Sharp, NASA program scientists agree that the detection of organic molecules with Curiosity’s Sample Analysis at Mars (SAM) instrument suite is one of the biggest.",
+                        "Furthermore, SAM has also shed light on Mars’ wetter past and how the planet has dried out over its history through the analysis and discovery of minerals related to wet environments."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        }
+    ]
+}

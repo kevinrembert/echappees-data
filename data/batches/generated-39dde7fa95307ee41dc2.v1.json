@@ -1,0 +1,33 @@
+{
+    "schema_version": 1,
+    "id": "generated-39dde7fa95307ee41dc2",
+    "version": "1",
+    "articles": [
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-fddd89085c905102e1a2ded7",
+            "title": "Le rover Curiosity approfondit les connaissances sur l'histoire humide et les molécules organiques de Mars",
+            "body": "Le rover Curiosity, actif depuis plus de 13 ans sur le cratère Gale de Mars, a permis de mettre en lumière des éléments clés sur l'histoire de la planète rouge. Ses instruments ont détecté des molécules organiques et des nitrates dans les roches, ainsi que des variations de méthane dans l’atmosphère locale. Ces découvertes indiquent que Mars a connu un passé plus humide, favorable à l'existence de milieux potentiellement habitables. L’étude des formations géologiques autour du mont Sharp offre un aperçu de la formation de ce relief et de l’évolution géologique locale. Ces avancées concrètes renforcent la compréhension des conditions passées qui ont pu permettre la présence de vie microscopique sur Mars.",
+            "category": "Initiatives positives",
+            "location": "Mars (exploration spatiale)",
+            "image_description": "Vue des traces laissées par le rover Curiosity sur le sol martien, capturée le 26 juillet 2025 alors que le rover transmet des données à un orbiteur martien. On aperçoit le mont Sharp et le bord du cratère Gale à l’horizon.",
+            "image_caption": "Illustration documentaire générale. Image documentaire montrant les traces du rover Curiosity sur Mars, 26 juillet 2025, NASA/JPL-Caltech, Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/e86f0cb623c5542ceb7275c257bf37ffead9d967a5fb041a40bd5273afbb6a37.jpg",
+            "image_credit": "NASA/JPL-Caltech · Curiosity Looks Back Toward Its Landing Site · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:This_view_of_tracks_trailing_NASA%E2%80%99s_Curiosity_rover_was_captured_July_26,_2025,_as_the_rover_simultaneously_relayed_data_to_a_Mars_orbiter_(curiosity-looks-back-toward-its-landing-site).png",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-26",
+                    "url": "https://www.goodnewsnetwork.org/events061125-2/"
+                }
+            ],
+            "subject_id": "news-56543fe3abdb22ef20a08fb18edad454",
+            "published_at": "2026-11-26",
+            "country": "Monde",
+            "source_published_at": "2026-11-26"
+        }
+    ]
+}
