@@ -1,0 +1,187 @@
+{
+    "schema_version": 1,
+    "id": "generated-88e863bde17eaade7271",
+    "version": "1",
+    "articles": [
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-1e04f258720de258c2ec9a8e",
+            "title": "Retour en Espagne d’une Vierge en bois volée au XIIIe siècle, retrouvée après près de 50 ans",
+            "body": "Une sculpture romane en bois de noyer, datant du XIIIe siècle, a été restituée à l’Espagne après avoir été volée en 1979 dans l’église San Pedro de Meoz, en Navarre. L’œuvre, représentant une Vierge assise tenant l’Enfant Jésus, avait disparu dans une période marquée par des vols dans des églises rurales peu protégées. Le voleur, René Alphonse van den Berghe dit \"Erik le Belge\", est connu pour avoir dérobé de nombreuses œuvres d’art médiéval sacré. L’enquête, relancée en 2026, a permis de tracer l’objet à travers plusieurs pays d’Europe et, grâce à la collaboration entre autorités espagnoles et britanniques, la sculpture est revenue en Espagne. Cette restitution illustre une avancée concrète dans la récupération de patrimoines culturels volés et leur retour à leur lieu d’origine.",
+            "category": "Initiatives positives",
+            "location": "Navarre, Espagne",
+            "image_description": "Sculpture médiévale en bois représentant la Vierge et l’Enfant, issue de l'église d'Hove en Norvège vers 1230, similaire par son style romano-gothique à la sculpture espagnole restituée.",
+            "image_caption": "Illustration : sculpture médiévale en bois représentant la Vierge et l’Enfant, exposée au Musée Universitaire de Bergen (Norvège). Photo Wikimedia Commons, illustration documentaire.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/6d1f80fc5e756aa8bcc7c9381877a02a127cf077d102bec3c7967d942854d1f0.jpg",
+            "image_credit": "Wolfmann · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Madonna_fra_Hove_kirke_i_Sogn_c._1230_Maria_med_barnet_Kirkekunst_Middelalderfigur_Malt_eiketre_(Medieval_wooden_sculpture_of_Virgin_and_Child_from_Hove_Church,_Norway)_Universitetsmuseet_i_Bergen_(University_Museum_of_Bergen)_2021_8506.jpg",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-25",
+                    "url": "https://www.goodnewsnetwork.org/detectives-recover-13th-century-sculpture-stolen-by-notorious-gentleman-thief-erik-the-belgian/"
+                }
+            ],
+            "subject_id": "news-d3a9cd3675249f423cb493638668163c",
+            "published_at": "2026-11-26",
+            "country": "Monde",
+            "source_published_at": "2026-11-25"
+        },
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-c05cdee04cec1863a0679e88",
+            "title": "Des refuges offrent un repas de Thanksgiving spécial aux animaux en attente d’adoption",
+            "body": "Durant la période de Thanksgiving 2026, plusieurs refuges aux États-Unis ont organisé des repas festifs pour leurs animaux adoptables. À Tacoma, le refuge Humane Society for Tacoma & Pierce County a proposé un menu à base de fruits, légumes, friandises et crème fouettée, préparé avec l’aide de bénévoles et sponsors locaux. En Kansas, l’association Always & Furever Midwest Animal Sanctuary a offert un repas spécial à ses chiens seniors avec dinde, haricots verts et biscuits. Par ailleurs, à Kanab, Utah, le Best Friends Animal Sanctuary a concocté des plats sur mesure pour environ 700 chiens, répondant à leurs besoins alimentaires individuels. Ces initiatives ont permis d’apporter un confort supplémentaire aux animaux en attente d’un foyer, en enrichissant leur quotidien par une attention gourmande.",
+            "category": "Initiatives positives",
+            "location": "États-Unis",
+            "image_description": "Photo d’une responsable de refuge animalier lors d'une émission, illustrant le travail en refuge animalier.",
+            "image_caption": "Illustration documentaire générale. Photo documentaire générale de Shelley Greenglass, responsable du Manchester Animal Shelter, à l'œuvre dans un refuge (Wikimedia Commons).",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/898148a049ec6511cdab12e6e47e546b70b9a2e013904b4de0872c9a02516863.jpg",
+            "image_credit": "Rich Girard · We are talking about Shelley Greenglass from the Manchester Animal Shelter for Pet Sense. Tune in LIVE at http://ift.tt/1NtUC1A · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 2.0 · https://creativecommons.org/licenses/by-sa/2.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:We_are_talking_about_Shelley_Greenglass_from_the_Manchester_Animal_Shelter_for_Pet_Sense._Tune_in_LIVE_at_http_ift.tt_1NtUC1A_(22749421927).jpg",
+            "sources": [
+                {
+                    "label": "Good Good Good · publié le 2026-11-25",
+                    "url": "https://www.goodgoodgood.co/articles/tacoma-washington-animal-shelter-thanksgiving"
+                }
+            ],
+            "subject_id": "news-24de4c8a528372147eb46a4cb1c9a59e",
+            "published_at": "2026-11-26",
+            "country": "Monde",
+            "source_published_at": "2026-11-25"
+        },
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-c08e67b3f61186419e4f9737",
+            "title": "Une nécropole Xiongnu en Mongolie dévoile un lien ancien entre l’Empire romain et l’Asie de l’Est",
+            "body": "L’analyse d’un grand tombeau Xiongnu en Mongolie a permis de découvrir 413 objets dont un gobelet en verre romain et un pendentif en argent au style commun à la péninsule coréenne. Cette sépulture, mesurant près de 240 pieds de long, témoigne de la place centrale des nomades dans un réseau d’échanges s’étendant de Rome à la Corée, en passant par la Chine. Les fouilles, menées en collaboration entre institutions mongoles et coréennes, ont aussi mis au jour un chars laqué et plusieurs pièces de jade manifestant des influences croisées entre Han et Xiongnu. Ces trouvailles précisent les transformations sociales et les conflits qui ont marqué la fin de l’empire Xiongnu, tout en enrichissant la connaissance des interactions précoces entre ces civilisations.",
+            "category": "Histoire et patrimoine",
+            "location": "Mongolie",
+            "image_description": "Exposition spécialisée sur la Route de la Soie au Musée d'Histoire du Shaanxi, Xi'an, montrant des artefacts issus de voyages sur la Route de la Soie.",
+            "image_caption": "Photographie documentaire générale d’artefacts de la Route de la Soie exposés au Shaanxi History Museum, illustration hors contexte direct de la découverte en Mongolie.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/24d763b549742858eba5922a6281da83bcbfb217caf97c102c304a32d0e6fd97.jpg",
+            "image_credit": "Gary Lee Todd, Ph.D. · https://www.flickr.com/photos/101561334@N08/40524572583/ · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC0 · https://creativecommons.org/publicdomain/zero/1.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Artifacts_Collected_on_Silk_Road_Travels.jpg",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-25",
+                    "url": "https://www.goodnewsnetwork.org/roman-glass-among-the-silk-road-treasures-unearthed-in-nomadic-nobles-tomb/"
+                }
+            ],
+            "subject_id": "news-168384425d27bf54d4c37973d7522a8a",
+            "published_at": "2026-11-26",
+            "country": "Monde",
+            "source_published_at": "2026-11-25"
+        },
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-72f178085a12917a965e01b6",
+            "title": "Des aliments autochtones revitalisent les cantines scolaires aux États-Unis",
+            "body": "Aux États-Unis, des écoles et des communautés autochtones collaborent pour réintroduire des aliments traditionnels dans les menus scolaires. Un exemple est la ferme Mitákuye Ówahe dans le Wyoming, qui cultive du maïs bleu Hopi et d'autres produits destinés aux écoles sur la réserve de Wind River. Par ailleurs, la Buffalo Youth Nation Project distribue de la viande de bison provenant de troupeaux contrôlés pour préserver la santé animale tout en fournissant une protéine traditionnelle à plusieurs écoles, comme Wyoming Indian Elementary. Ces initiatives soutiennent la souveraineté alimentaire, permettent une meilleure éducation culturelle et améliorent l’accès à une alimentation adaptée à la santé des enfants autochtones. Ce travail allie la revitalisation des savoirs ancestraux à la sensibilisation des jeunes autour de leurs racines culinaires et agricoles.",
+            "category": "Initiatives positives",
+            "location": "États-Unis",
+            "image_description": "Des épis de maïs bleu Hopi dans un champ entouré d'herbes sèches.",
+            "image_caption": "Photo documentaire générale d'un champ de maïs bleu Hopi, illustration de la culture indigène et de l'alimentation traditionnelle réintroduite dans les écoles américaines.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/5f5e04ec4231b43379a7e15a5313f91c0663c7dce1dd4e231bc7fab21bc34103.jpg",
+            "image_credit": "Abrahami · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Hopi_Blue_Corn.jpg",
+            "sources": [
+                {
+                    "label": "Good Good Good · publié le 2026-11-25",
+                    "url": "https://www.goodgoodgood.co/articles/hopi-schools-native-foods"
+                }
+            ],
+            "subject_id": "news-4ee7d8cf3d5c3fc0b8a2fa83d7e2f554",
+            "published_at": "2026-11-26",
+            "country": "Monde",
+            "source_published_at": "2026-11-25"
+        },
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-ee03ea27f5fb66aeb5493614",
+            "title": "Comment une petite galerie new-yorkaise a élevé la photographie au rang d’art majeur",
+            "body": "En 1905, Alfred Stieglitz a ouvert les Little Galleries of the Photo-Secession à New York, un espace dédié uniquement à la photographie artistique. Cette initiative a permis de présenter les œuvres de photographes américains et européens, plaçant la photographie au même niveau que la peinture et la sculpture. La galerie a accueilli en plus des premiers exposants célèbres comme Edward Steichen, des peintres emblématiques tels que Pablo Picasso ou Henri Matisse, marquant un tournant dans la reconnaissance de la photographie comme art. Lors de sa première saison, près de quinze mille visiteurs y sont passés, et les ventes de tirages ont atteint plusieurs milliers de dollars, attestant d’un succès concret et durable pour ce secteur artistique.",
+            "category": "Initiatives positives",
+            "location": "New York, États-Unis",
+            "image_description": "Portrait du Major General Winfield Scott Hancock pris dans un studio de photographie et galerie d'art à New York vers les années 1880.",
+            "image_caption": "Photographie ancienne prise dans un studio new-yorkais des années 1880, illustration documentaire générale du début de l'art photographique aux États-Unis.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/4d7867e0efc1ded8773aad52e36bf0805894b19da7dbb57976594c35dd62b9cd.jpg",
+            "image_credit": "David Ehrlich, Ehrlich's Photography Studio and Art Gallery · https://www.nps.gov/gate/learn/historyculture/images/hancock-WS.jpg at https://www.nps.gov/gate/learn/historyculture/whatsinaname.htm · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Major_General_Winfield_Scott_Hancock,_from_Prof._Ehrlich%27s_Photography_Studio_and_Art_Gallery_in_New_York_City,_c1880s.jpg",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-25",
+                    "url": "https://www.goodnewsnetwork.org/events061125/"
+                }
+            ],
+            "subject_id": "news-e01c5043d435f1e106c119a5a1814f8c",
+            "published_at": "2026-11-26",
+            "country": "Monde",
+            "source_published_at": "2026-11-25"
+        },
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "daily",
+            "id": "decouverte-eb4a1633d63f0311eb4c55fb",
+            "title": "Les coraux contribuent à atténuer la force des vagues et protègent les îles tropicales",
+            "body": "Les récifs coralliens en bonne santé jouent un rôle crucial dans la défense des littoraux des îles tropicales. La structure rugueuse des coraux vivants augmente la friction avec l’eau, ce qui provoque la rupture des vagues avant qu’elles n’atteignent le rivage et réduit ainsi leur énergie. Ce phénomène limite l’érosion côtière, la salinisation des ressources en eau douce et les risques d’inondation. Des recherches récentes menées notamment par des instituts tels que Deltares et le USGS apportent des outils pour que les gestionnaires côtiers évaluent comment le changement climatique peut affecter cette fonction protectrice des récifs. Cette relation entre la santé des coraux et la sécurité des communautés insulaires illustre l’importance de préserver ces écosystèmes face aux pressions environnementales.",
+            "category": "Nature et animaux",
+            "location": "Monde",
+            "image_description": "Photo sous-marine d’une vague déferlant au-dessus d’un récif corallien sur l’atoll de Kwajalein aux îles Marshall, montrant la formation de la vague et la surface corallienne.",
+            "image_caption": "Illustration documentaire générale : vague déferlant sur un récif corallien tropical. Photo par U.S. Geological Survey, Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/fcd699a83594b6522cb9b27c7567ca1f4929006ebb1266530efd6c6f272a9729.jpg",
+            "image_credit": "U.S. Geological Survey from Reston, VA, USA · Breaking Wave · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Breaking_Wave_(20260886321).jpg",
+            "sources": [
+                {
+                    "label": "NOAA · How does climate change affect coral reefs?",
+                    "url": "https://oceanservice.noaa.gov/facts/coralreef-climate.html"
+                }
+            ],
+            "subject_id": "source-c671b0eecb260f7b0a3d467cdb5f54c9",
+            "published_at": "2026-11-26",
+            "country": "Monde"
+        },
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "daily",
+            "id": "decouverte-486fd7cc2453db8c848cc58d",
+            "title": "Les fossiles, témoins préservés des organismes anciens dans les roches",
+            "body": "Les fossiles résultent de traces ou restes d'anciens organismes conservés dans des roches sédimentaires, que ce soit par minéralisation ou moulages naturels. Ils peuvent concerner des os, des dents, des feuilles, des empreintes de pas, ou même des terriers. Ces vestiges sont exploités principalement en paléontologie, mais aussi en géologie et archéologie. Bien que la fossilisation soit rare et que les vestiges soient souvent incomplets, ces éléments fournissent des preuves concrètes sur plus de trois milliards d'années d'évolution de la vie sur Terre. Chaque fossile, quel que soit son état, participe ainsi à la compréhension scientifique de notre passé naturel.",
+            "category": "Sciences",
+            "location": "Monde",
+            "image_description": "Squelette de baleine fossile du Miocène dans le désert d'Ica au Pérou.",
+            "image_caption": "Une illustration documentaire générale montrant le squelette fossile d'une baleine datant du Miocène, photographié dans le désert d'Ica au Pérou.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/5b499bfd5b44be05506c7a59c1f542c4c85e2d205e9f57deb9066465bb0aa24d.jpg",
+            "image_credit": "JYB Devot · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Whale_2261-2263mod.jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Fossile",
+                    "url": "https://fr.wikipedia.org/wiki/Fossile"
+                }
+            ],
+            "subject_id": "Q40614",
+            "published_at": "2026-11-26",
+            "country": "Monde"
+        }
+    ]
+}

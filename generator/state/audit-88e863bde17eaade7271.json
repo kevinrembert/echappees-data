@@ -1,0 +1,428 @@
+{
+    "schema_version": 1,
+    "articles": [
+        {
+            "id": "decouverte-1e04f258720de258c2ec9a8e",
+            "subject_id": "news-d3a9cd3675249f423cb493638668163c",
+            "collected_at": "2026-11-26T08:15:03+00:00",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-25",
+                    "url": "https://www.goodnewsnetwork.org/detectives-recover-13th-century-sculpture-stolen-by-notorious-gentleman-thief-erik-the-belgian/"
+                }
+            ],
+            "source_sha256": "b5d12ffa2e190f387a270700f2729e9d57b63571c76c26c67a53e44738b38133",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Madonna_fra_Hove_kirke_i_Sogn_c._1230_Maria_med_barnet_Kirkekunst_Middelalderfigur_Malt_eiketre_(Medieval_wooden_sculpture_of_Virgin_and_Child_from_Hove_Church,_Norway)_Universitetsmuseet_i_Bergen_(University_Museum_of_Bergen)_2021_8506.jpg",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "original_sha1": "c90985d4f78fe2f752485f1aca5c129006fed2dc",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Une sculpture en bois du XIIIe siècle représentant la Vierge Marie, volée en 1979 dans une église de Navarre, a été retrouvée et restituée à l'Espagne en 2026, clôturant une affaire de vol d'art ancien.",
+                "beneficiaries": "Le patrimoine culturel espagnol et l’église d’origine à San Pedro de Meoz, ainsi que le public et les institutions culturelles bénéficient du retour de cette œuvre historique."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Une sculpture romane en bois de noyer, datant du XIIIe siècle, a été restituée à l’Espagne après avoir été volée en 1979 dans l’église San Pedro de Meoz, en Navarre.",
+                    "source_passages": [
+                        "For nearly half a century, a 13th-century carving of the Virgin Mary sat in a Spanish police database as an unsolved case.",
+                        "The Romanesque sculpture vanished in 1979 from the Church of San Pedro de Meoz, a small parish in Navarre, swept up in a wave of church robberies that hit rural Spain hard where rich heritage was paired with almost no security."
+                    ]
+                },
+                {
+                    "sentence": "L’œuvre, représentant une Vierge assise tenant l’Enfant Jésus, avait disparu dans une période marquée par des vols dans des églises rurales peu protégées.",
+                    "source_passages": [
+                        "The Romanesque sculpture vanished in 1979 from the Church of San Pedro de Meoz, a small parish in Navarre, swept up in a wave of church robberies that hit rural Spain hard where rich heritage was paired with almost no security.",
+                        "The sculpture is a seated walnut-wood Virgin, still carrying traces of its original gilding and polychrome, measuring 54 centimeters tall and holding the figure of the Christ Child—though she’s missing both forearms.",
+                        "Small enough to wrap in a blanket, valuable enough to disappear into the antiques trade for decades, that combination made her exactly Erik’s type."
+                    ]
+                },
+                {
+                    "sentence": "Le voleur, René Alphonse van den Berghe dit \"Erik le Belge\", est connu pour avoir dérobé de nombreuses œuvres d’art médiéval sacré.",
+                    "source_passages": [
+                        "The man blamed for it was René Alphonse van den Berghe, better known as Erik the Belgian, one of the most prolific art thieves in Modern history.",
+                        "A veritable manifestation of the fictional Arsène Lupin, Van den Berghe (1940–2020) robbed churches and monasteries across sparsely populated parts of his adopted country of Spain and elsewhere in Europe.",
+                        "Thousands of crimes have been attributed to him, much of it involving medieval sacred art."
+                    ]
+                },
+                {
+                    "sentence": "L’enquête, relancée en 2026, a permis de tracer l’objet à travers plusieurs pays d’Europe et, grâce à la collaboration entre autorités espagnoles et britanniques, la sculpture est revenue en Espagne.",
+                    "source_passages": [
+                        "Spain’s National Police announced its recovery from a collection in the United Kingdom, closing a trail that ran through Belgium, London and the Netherlands.",
+                        "The investigation into the Virgin Mary work was restarted in April after authorities got a useful lead, and quickly confirmed a long-suspected method of Erik: the loot went out by road to countries with hungrier art and antiques markets.",
+                        "LEGENDARY HEISTS: A Hungry Cleaning Lady Bit into an Apple and Solved the Case of Legendary Diamond Heist From there the paper trail was unusually legible.",
+                        "A Belgian dealer, Bernard Descheemaker, sold the Virgin in 2012; by 2017 she was in the collection of the Daniel Kanz Gallery in London; in 2020 she appeared at TEF Art Fair in Maastricht, a prestigious event that’s no stranger to the occasional stolen artwork.",
+                        "She then passed through various dealers and collectors before ending up in a Spanish art collection in Britain.",
+                        "“We are lucky, which does not always happen, that [the owner] understood that it was the virgin that Erick the Belgian stole from San Pedro de Meoz and they immediately wanted to return her.",
+                        "We can only be grateful,” Chief Inspector Montserrat de Pedro, responsible for the Historical Heritage Brigade of the Spanish National Police, told El Paìs.",
+                        "The formal transfer took place at the Spanish Embassy in London, with help from the Metropolitan Police and the embassy’s interior counsel."
+                    ]
+                },
+                {
+                    "sentence": "Cette restitution illustre une avancée concrète dans la récupération de patrimoines culturels volés et leur retour à leur lieu d’origine.",
+                    "source_passages": [
+                        "Spain’s National Police announced its recovery from a collection in the United Kingdom, closing a trail that ran through Belgium, London and the Netherlands.",
+                        "“We are lucky, which does not always happen, that [the owner] understood that it was the virgin that Erick the Belgian stole from San Pedro de Meoz and they immediately wanted to return her.",
+                        "We can only be grateful,” Chief Inspector Montserrat de Pedro, responsible for the Historical Heritage Brigade of the Spanish National Police, told El Paìs.",
+                        "The formal transfer took place at the Spanish Embassy in London, with help from the Metropolitan Police and the embassy’s interior counsel."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-c05cdee04cec1863a0679e88",
+            "subject_id": "news-24de4c8a528372147eb46a4cb1c9a59e",
+            "collected_at": "2026-11-26T08:15:54+00:00",
+            "sources": [
+                {
+                    "label": "Good Good Good · publié le 2026-11-25",
+                    "url": "https://www.goodgoodgood.co/articles/tacoma-washington-animal-shelter-thanksgiving"
+                }
+            ],
+            "source_sha256": "5966f2f185559866a3e746b1cebb74b774cb81923c76f03263af2e30cbba3860",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:We_are_talking_about_Shelley_Greenglass_from_the_Manchester_Animal_Shelter_for_Pet_Sense._Tune_in_LIVE_at_http_ift.tt_1NtUC1A_(22749421927).jpg",
+            "image_license": "CC BY-SA 2.0 · https://creativecommons.org/licenses/by-sa/2.0/",
+            "original_sha1": "dc2fef0b920b2e547eae09c6abb196e022fe798e",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Plusieurs refuges pour animaux ont organisé des repas festifs adaptés à leurs pensionnaires adoptables pendant la période de Thanksgiving, offrant ainsi des moments de convivialité et d'attention aux animaux sans foyer.",
+                "beneficiaries": "Les animaux hébergés dans des refuges, notamment chiens, chats et lapins en attente d'adoption, bénéficient d'une alimentation adaptée et d'un moment de célébration."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Durant la période de Thanksgiving 2026, plusieurs refuges aux États-Unis ont organisé des repas festifs pour leurs animaux adoptables.",
+                    "source_passages": [
+                        "Animal shelters give adoptable pets a Thanksgiving to remember: ‘Just because they’re homeless doesn’t mean they’re waiting to live’Good NewsAnimalsPass the hot dogs, pup cups, and the pumpkin pie — it’s “Pawsgiving.”Meghan CookSenior Writer at Good Good GoodPublished:November 25, 2026ShareOn November 24, the Humane Society for Tacoma & Pierce County celebrated Thanksgiving early.",
+                        "But it wasn’t for the staff — it was for the adoptable pets under their care.“This holiday season, shelter pets got their very own feast!” Tacoma Humane shared on Instagram.",
+                        "“Huge thanks to Dog is Human for sponsoring our 2026 Pawsgiving feast and for all of our community members who donated as well.” In the video, volunteers can be seen chopping up fruits and vegetables to prepare fitting feasts for shelter pets.",
+                        "And dogs of all sizes wolf down plates with a mix of everything, topped off with a generous serving of whipped cream.“We also have to give big thanks to the staff and volunteers who were hard at work prepping these yummy meals,” the animal shelter said on Instagram.",
+                        "“The shelter pets are grateful for your generosity and kindness this Thanksgiving.”The Humane Society for Tacoma & Pierce County is just one of many shelters that brought Thanksgiving to animals in need."
+                    ]
+                },
+                {
+                    "sentence": "À Tacoma, le refuge Humane Society for Tacoma & Pierce County a proposé un menu à base de fruits, légumes, friandises et crème fouettée, préparé avec l’aide de bénévoles et sponsors locaux.",
+                    "source_passages": [
+                        "Animal shelters give adoptable pets a Thanksgiving to remember: ‘Just because they’re homeless doesn’t mean they’re waiting to live’Good NewsAnimalsPass the hot dogs, pup cups, and the pumpkin pie — it’s “Pawsgiving.”Meghan CookSenior Writer at Good Good GoodPublished:November 25, 2026ShareOn November 24, the Humane Society for Tacoma & Pierce County celebrated Thanksgiving early.",
+                        "But it wasn’t for the staff — it was for the adoptable pets under their care.“This holiday season, shelter pets got their very own feast!” Tacoma Humane shared on Instagram.",
+                        "“Huge thanks to Dog is Human for sponsoring our 2026 Pawsgiving feast and for all of our community members who donated as well.” In the video, volunteers can be seen chopping up fruits and vegetables to prepare fitting feasts for shelter pets.",
+                        "And dogs of all sizes wolf down plates with a mix of everything, topped off with a generous serving of whipped cream.“We also have to give big thanks to the staff and volunteers who were hard at work prepping these yummy meals,” the animal shelter said on Instagram."
+                    ]
+                },
+                {
+                    "sentence": "En Kansas, l’association Always & Furever Midwest Animal Sanctuary a offert un repas spécial à ses chiens seniors avec dinde, haricots verts et biscuits.",
+                    "source_passages": [
+                        "View this post on Instagram A post shared by Tacoma Humane (@tacomahumane) On November 22, Always & Furever Midwest Animal Sanctuary in Spring Hill, Kansas threw a “Pupsgiving” event complete with turkey, green beans, biscuits, and vegetables for their shelter’s senior dogs.“These sweet souls have no idea it’s the holiday season, but that doesn’t mean they should miss out on the fun!” The animal sanctuary posted to Facebook.",
+                        "“Just because they’re homeless doesn’t mean they’re waiting to live.",
+                        "They’re living right now, making memories, celebrating the little things, and enjoying every moment we can give them.”Screenshot via Always & Furever Midwest Animal Sanctuary/FacebookOne dog in particular, a 10-year-old Boxer-Terrier named Waverly, went all in on the celebration."
+                    ]
+                },
+                {
+                    "sentence": "Par ailleurs, à Kanab, Utah, le Best Friends Animal Sanctuary a concocté des plats sur mesure pour environ 700 chiens, répondant à leurs besoins alimentaires individuels.",
+                    "source_passages": [
+                        "Apparently, someone took Pupsgiving a little too seriously!”On November 23, a restaurant in Kanab, Utah prepared a pet-friendly feast for shelter dogs at Best Friends Animal Sanctuary.Adoptable dog Stewie gets a snack on Dogsgiving.",
+                        "Best Friends Animal Sanctuary“[Sego’s] restaurant team spent close to a full day transforming approximately 700 pounds of dog-friendly ingredients into elaborate dishes prepared without salt, sugar, or spices,” Best Friends Animal Sanctuary said in a press release.Each dog got a plate that matched their individual dietary needs, with some even getting a piece of pumpkin pie topped with whipped cream.Freddy, an adoptable dog at Best Friends Animal Sanctuary, in Kanab, Utah, enjoys a “Dogsgiving” meal.",
+                        "Best Friends Animal SocietyAccording to the nonprofit, the annual “Dogsgiving” celebration was provided by a “generous donor” in memory of her three-legged rescue dog, Jack.",
+                        "“Our staff loves these dogs as if they were their own, so we are grateful to give them a delicious holiday feast,” said Judah Battista, the chief sanctuary officer of Best Friends Animal Society."
+                    ]
+                },
+                {
+                    "sentence": "Ces initiatives ont permis d’apporter un confort supplémentaire aux animaux en attente d’un foyer, en enrichissant leur quotidien par une attention gourmande.",
+                    "source_passages": [
+                        "“The shelter pets are grateful for your generosity and kindness this Thanksgiving.”The Humane Society for Tacoma & Pierce County is just one of many shelters that brought Thanksgiving to animals in need.",
+                        "“Just because they’re homeless doesn’t mean they’re waiting to live.",
+                        "“Our staff loves these dogs as if they were their own, so we are grateful to give them a delicious holiday feast,” said Judah Battista, the chief sanctuary officer of Best Friends Animal Society."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-c08e67b3f61186419e4f9737",
+            "subject_id": "news-168384425d27bf54d4c37973d7522a8a",
+            "collected_at": "2026-11-26T08:16:03+00:00",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-25",
+                    "url": "https://www.goodnewsnetwork.org/roman-glass-among-the-silk-road-treasures-unearthed-in-nomadic-nobles-tomb/"
+                }
+            ],
+            "source_sha256": "5cffb00c967cc9ce93660ff21b56a9a815ed98b8a3dbbb798d70fd6ff00ec5ed",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Artifacts_Collected_on_Silk_Road_Travels.jpg",
+            "image_license": "CC0 · https://creativecommons.org/publicdomain/zero/1.0/",
+            "original_sha1": "d7ee80734cf6197cfcd7a5ff72bf63fd78e64825",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "L'excavation d'un tombeau nomade en Mongolie a révélé des dizaines d'artefacts reliant la civilisation Xiongnu à un vaste réseau d'échanges allant de Rome à la péninsule coréenne.",
+                "beneficiaries": "Les chercheurs, le public intéressé par le patrimoine historique et les cultures d'Asie centrale bénéficient d'une meilleure compréhension des échanges et des sociétés nomades anciennes."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "L’analyse d’un grand tombeau Xiongnu en Mongolie a permis de découvrir 413 objets dont un gobelet en verre romain et un pendentif en argent au style commun à la péninsule coréenne.",
+                    "source_passages": [
+                        "Home All News World Roman Glass Among the Silk Road Treasures Unearthed in Nomadic Noble’s Tomb An aerial view of the tomb – credit National Museum of Korea The legendary character of the Silk Road was in full focus recently in Mongolia, where excavations of a nomad’s tomb unearthed objects all the way from Classical Rome.",
+                        "The shards of a glass cup from Rome – credit National Museum of Korea In addition to a cup made from Roman glass, a gourd-shaped silver and crystal pendant, likely used to adorn a horse’s harness, closely resembles accessories found in tombs on the Korean Peninsula that date to the same period.",
+                        "Excavations on Tomb 160 found 413 artifacts, including precious metals and stones, and an entire lacquered chariot, indicating that whoever was interred there likely occupied the highest social position."
+                    ]
+                },
+                {
+                    "sentence": "Cette sépulture, mesurant près de 240 pieds de long, témoigne de la place centrale des nomades dans un réseau d’échanges s’étendant de Rome à la Corée, en passant par la Chine.",
+                    "source_passages": [
+                        "Home All News World Roman Glass Among the Silk Road Treasures Unearthed in Nomadic Noble’s Tomb An aerial view of the tomb – credit National Museum of Korea The legendary character of the Silk Road was in full focus recently in Mongolia, where excavations of a nomad’s tomb unearthed objects all the way from Classical Rome.",
+                        "The discoveries highlight the Xiongnu’s role in a vast exchange network that linked these progenitors of the conquering Mongols to the Roman Empire, Han China, and the Korean Peninsula.",
+                        "A need to secure horses to wage war on the Xiongnu required a stable route to Central Asia, which saw the establishment of Chinese control over the Gansu Corridor."
+                    ]
+                },
+                {
+                    "sentence": "Les fouilles, menées en collaboration entre institutions mongoles et coréennes, ont aussi mis au jour un chars laqué et plusieurs pièces de jade manifestant des influences croisées entre Han et Xiongnu.",
+                    "source_passages": [
+                        "NOMAD NEWS: Asiatic Wild Ass Returns to Eastern Mongolia After 65-year Isolation from Landscape Fencing The tomb was excavated over a 4-year period by a collaborative team from the National Museum of Korea, the Institute of Archaeology at the Mongolian Academy of Sciences, and the National Museum of Mongolia.",
+                        "Excavations on Tomb 160 found 413 artifacts, including precious metals and stones, and an entire lacquered chariot, indicating that whoever was interred there likely occupied the highest social position.",
+                        "Fifteen jade pieces, modeled after Han funerary goods but bearing their own distinct designs, were also found."
+                    ]
+                },
+                {
+                    "sentence": "Ces trouvailles précisent les transformations sociales et les conflits qui ont marqué la fin de l’empire Xiongnu, tout en enrichissant la connaissance des interactions précoces entre ces civilisations.",
+                    "source_passages": [
+                        "This contrasts with deeper tombs in central Mongolia, suggesting changes in Xiongnu society during the late first and second centuries CE, a period when the empire was declining due to internal conflicts and pressure from the Han military.",
+                        "This information will help further understand the Xiongnu’s social structure and trade networks.",
+                        "The National Museum of Korea stated that the excavation demonstrates the Xiongnu’s links to a broad exchange network stretching from Rome to the Korean Peninsula."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-72f178085a12917a965e01b6",
+            "subject_id": "news-4ee7d8cf3d5c3fc0b8a2fa83d7e2f554",
+            "collected_at": "2026-11-26T08:16:12+00:00",
+            "sources": [
+                {
+                    "label": "Good Good Good · publié le 2026-11-25",
+                    "url": "https://www.goodgoodgood.co/articles/hopi-schools-native-foods"
+                }
+            ],
+            "source_sha256": "cda7ea57e338ccc60c20cfbe55bfcee1af351506441a8a70c0d4535f5b3ed224",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Hopi_Blue_Corn.jpg",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "original_sha1": "e1851aeb25bc8260e698a309d997480ac4fd6d11",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Plusieurs écoles et communautés autochtones aux États-Unis ont intégré des aliments traditionnels indigènes, comme le maïs bleu Hopi et la viande de bison, dans leurs cantines scolaires et épiceries communautaires, renforçant ainsi l'accès à une alimentation saine et culturelle.",
+                "beneficiaries": "Les élèves des écoles situées dans et autour des réserves amérindiennes ainsi que les familles locales bénéficient de cette initiative par une meilleure représentation culturelle dans leurs repas et une alimentation diversifiée et riche en traditions."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Aux États-Unis, des écoles et des communautés autochtones collaborent pour réintroduire des aliments traditionnels dans les menus scolaires.",
+                    "source_passages": [
+                        "Key components include the protection of ancestral knowledge; revitalization of ancestral foods; and the integration of traditional customs in food production.Across the nation, organizations, educators, tribal members and schools are working to supply student cafeterias with Indigenous foods that federal policy spent more than a century working to eliminate."
+                    ]
+                },
+                {
+                    "sentence": "Un exemple est la ferme Mitákuye Ówahe dans le Wyoming, qui cultive du maïs bleu Hopi et d'autres produits destinés aux écoles sur la réserve de Wind River.",
+                    "source_passages": [
+                        "are working to bring Indigenous ingredients to lunch menus for better health, education and sense of belonging.Published:November 25, 2026ShareThe tall, dense stalks of blue Hopi corn were a burst of green among the dry grassland of southeastern Wyoming.",
+                        "“This is the corn that is going to our schools.”On a hot August afternoon, the corn still had weeks to mature alongside Huckleberry Gold potatoes and Jerusalem artichokes on the Mitákuye Ówahe Farm near Cheyenne.",
+                        "They aim to address high rates of diet-related disease in Indigenous communities while expanding food access and Native education through lunch trays.In 2018, Frazier founded the Buffalo Youth Nation Project — called Wakanyeja Tatanka Oyate in Lakota — to strengthen Indigenous food sovereignty and access to resources for Wyoming youth, families and communities.This year is Mitákuye Ówahe Farm’s first providing blue Hopi corn, often ground into cornmeal for recipes, and other fresh produce across the region to schools and school-based food lodges — public pantries that serve local children, families and communities.The nonprofit has its own herd of 16 buffalo at the Standing Rock Reservation, located on the border of North and South Dakota.",
+                        "Stephens Indian School and Fort Washakie Schools, alongside the University of Wyoming’s Native Student Center in Laramie.Lisa Ansell Frazier points to rows of crops, including Jerusalem artichokes, on the Mitákuye Ówahe Farm in southeastern Wyoming."
+                    ]
+                },
+                {
+                    "sentence": "Par ailleurs, la Buffalo Youth Nation Project distribue de la viande de bison provenant de troupeaux contrôlés pour préserver la santé animale tout en fournissant une protéine traditionnelle à plusieurs écoles, comme Wyoming Indian Elementary.",
+                    "source_passages": [
+                        "They aim to address high rates of diet-related disease in Indigenous communities while expanding food access and Native education through lunch trays.In 2018, Frazier founded the Buffalo Youth Nation Project — called Wakanyeja Tatanka Oyate in Lakota — to strengthen Indigenous food sovereignty and access to resources for Wyoming youth, families and communities.This year is Mitákuye Ówahe Farm’s first providing blue Hopi corn, often ground into cornmeal for recipes, and other fresh produce across the region to schools and school-based food lodges — public pantries that serve local children, families and communities.The nonprofit has its own herd of 16 buffalo at the Standing Rock Reservation, located on the border of North and South Dakota.",
+                        "Buffalo, the term many Native communities use, refers to the American bison.",
+                        "The organization’s work includes restoring buffalo across the Great Plains and distributing the meat to local communities, such as three schools on the Wind River Reservation: Wyoming Indian Elementary, St.",
+                        "(Lauren Wagner)“We have sourced thousands of pounds of buffalo meat for the schools,” Frazier said.",
+                        "Bison is a highly sought-after source of protein, and our herd health is the utmost priority — we do not want to take too much from our herds.",
+                        "I source mainly from my tribe, the Cheyenne River Sioux Tribe, (and) we have sourced from the Shoshone-Bannock tribe in Idaho.”Frazier said delivery of buffalo meat sparks a lot of conversations between elders and children, and she hears from students about how they’ve never tasted bison before."
+                    ]
+                },
+                {
+                    "sentence": "Ces initiatives soutiennent la souveraineté alimentaire, permettent une meilleure éducation culturelle et améliorent l’accès à une alimentation adaptée à la santé des enfants autochtones.",
+                    "source_passages": [
+                        "Key components include the protection of ancestral knowledge; revitalization of ancestral foods; and the integration of traditional customs in food production.Across the nation, organizations, educators, tribal members and schools are working to supply student cafeterias with Indigenous foods that federal policy spent more than a century working to eliminate.",
+                        "One girl she recently met experimented with cooking it in milk and fed it to her family, who loved it.“When we go back to our ancestral foods, it’s a win-win."
+                    ]
+                },
+                {
+                    "sentence": "Ce travail allie la revitalisation des savoirs ancestraux à la sensibilisation des jeunes autour de leurs racines culinaires et agricoles.",
+                    "source_passages": [
+                        "Key components include the protection of ancestral knowledge; revitalization of ancestral foods; and the integration of traditional customs in food production.Across the nation, organizations, educators, tribal members and schools are working to supply student cafeterias with Indigenous foods that federal policy spent more than a century working to eliminate.",
+                        "Indigenous food sovereignty, when you break it down, it’s about healing the earth, and the people, and the animals, and creating a relationship with all of that,” Frazier said.",
+                        "“The education part comes through the schools (and) the community."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-ee03ea27f5fb66aeb5493614",
+            "subject_id": "news-e01c5043d435f1e106c119a5a1814f8c",
+            "collected_at": "2026-11-26T08:16:25+00:00",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-25",
+                    "url": "https://www.goodnewsnetwork.org/events061125/"
+                }
+            ],
+            "source_sha256": "ab0395967a5bb4eb01938c27d23a4e2344183bd78ada4fd5938b75850939486a",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Major_General_Winfield_Scott_Hancock,_from_Prof._Ehrlich%27s_Photography_Studio_and_Art_Gallery_in_New_York_City,_c1880s.jpg",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "5c7eb502ae2bb436f264cb9726ae6decae2cae82",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La création en 1905 des Little Galleries of the Photo-Secession par Alfred Stieglitz a permis de faire reconnaître la photographie comme un art à part entière aux États-Unis, offrant un espace d'exposition pour des photographes et artistes peintres de renom.",
+                "beneficiaries": "les photographes américains, les artistes avant-gardistes de l'époque, et le public amateur d'art à New York et aux États-Unis."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "En 1905, Alfred Stieglitz a ouvert les Little Galleries of the Photo-Secession à New York, un espace dédié uniquement à la photographie artistique.",
+                    "source_passages": [
+                        "Home This Day In History Good News in History, November 25 121 years ago today, American photographer Alfred Stieglitz opened the Little Galleries of the Photo-Secession at 291 Fifth Avenue in NYC.",
+                        "READ more about this little known American art landmark… (1905) The Little Galleries at 291 – credit Alfred Stieglitz, public domain Alfred Stieglitz believed that photography could share space with fine art, and certainly the photo camera at the time produced images that didn’t have so much more resolution than what could be achieved by a determined painter.",
+                        "To that end, and at the urging of his friends in the photography world of New York City at the turn of the century, on December 1901, Stieglitz put on his first photography exposition, launched the first all-photography magazine in 1903, and opened the Little Galleries in 1905."
+                    ]
+                },
+                {
+                    "sentence": "Cette initiative a permis de présenter les œuvres de photographes américains et européens, plaçant la photographie au même niveau que la peinture et la sculpture.",
+                    "source_passages": [
+                        "This small gallery helped bring art photography to the same stature in America as painting and sculpture, exhibiting famous early photographers like Edward Steichen, Alvin Langdon Coburn, Gertrude Käsebier, and Clarence H.",
+                        "READ more about this little known American art landmark… (1905) The Little Galleries at 291 – credit Alfred Stieglitz, public domain Alfred Stieglitz believed that photography could share space with fine art, and certainly the photo camera at the time produced images that didn’t have so much more resolution than what could be achieved by a determined painter.",
+                        "To that end, and at the urging of his friends in the photography world of New York City at the turn of the century, on December 1901, Stieglitz put on his first photography exposition, launched the first all-photography magazine in 1903, and opened the Little Galleries in 1905."
+                    ]
+                },
+                {
+                    "sentence": "La galerie a accueilli en plus des premiers exposants célèbres comme Edward Steichen, des peintres emblématiques tels que Pablo Picasso ou Henri Matisse, marquant un tournant dans la reconnaissance de la photographie comme art.",
+                    "source_passages": [
+                        "This small gallery helped bring art photography to the same stature in America as painting and sculpture, exhibiting famous early photographers like Edward Steichen, Alvin Langdon Coburn, Gertrude Käsebier, and Clarence H.",
+                        "But, it also being an avantgarde gallery space, 291 also hosted the first solo US exhibitions of painters and sculptors like Pablo Picasso, Henri Matisse, and Paul Cezanne.",
+                        "Its success wavered over the decades, during which time American artist Georgia O’Keeffe, whom Stieglitz married, was exhibited many times alongside the other fine painters mentioned above."
+                    ]
+                },
+                {
+                    "sentence": "Lors de sa première saison, près de quinze mille visiteurs y sont passés, et les ventes de tirages ont atteint plusieurs milliers de dollars, attestant d’un succès concret et durable pour ce secteur artistique.",
+                    "source_passages": [
+                        "The gallery became an instant success, with almost fifteen thousand visitors during its first season and, more importantly, print sales that totaled nearly $2,800."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-eb4a1633d63f0311eb4c55fb",
+            "subject_id": "source-c671b0eecb260f7b0a3d467cdb5f54c9",
+            "collected_at": "2026-11-26T08:16:46+00:00",
+            "sources": [
+                {
+                    "label": "NOAA · How does climate change affect coral reefs?",
+                    "url": "https://oceanservice.noaa.gov/facts/coralreef-climate.html"
+                }
+            ],
+            "source_sha256": "3feca7f1d07055321e4a31d0ca634b0b0bf75f5811f62c48025fb94eb4d7a78b",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Breaking_Wave_(20260886321).jpg",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "32091d7f2625d2c8b50e4c0d23bbca74ee722e40",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La reconnaissance du rôle des coraux vivants dans la réduction de l’énergie des vagues et la protection des côtes face à l’érosion.",
+                "beneficiaries": "Les écosystèmes coralliens en bonne santé et les populations insulaires vulnérables aux risques côtiers."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Les récifs coralliens en bonne santé jouent un rôle crucial dans la défense des littoraux des îles tropicales.",
+                    "source_passages": [
+                        "CORAL REEF THREATS Land-based Pollution Many serious coral reef ecosystem stressors originate from land-based sources, most notably toxicants, sediments, and nutrients.",
+                        "CORAL REEF THREATS Overfishing Many coastal and island communities depend on coral reef fisheries, but overfishing can deplete key reef species and damage coral habitat."
+                    ]
+                },
+                {
+                    "sentence": "La structure rugueuse des coraux vivants augmente la friction avec l’eau, ce qui provoque la rupture des vagues avant qu’elles n’atteignent le rivage et réduit ainsi leur énergie.",
+                    "source_passages": [
+                        "Home Ocean Facts How does climate change affect coral reefs?"
+                    ]
+                },
+                {
+                    "sentence": "Ce phénomène limite l’érosion côtière, la salinisation des ressources en eau douce et les risques d’inondation.",
+                    "source_passages": [
+                        "CORAL REEF THREATS Land-based Pollution Many serious coral reef ecosystem stressors originate from land-based sources, most notably toxicants, sediments, and nutrients."
+                    ]
+                },
+                {
+                    "sentence": "Des recherches récentes menées notamment par des instituts tels que Deltares et le USGS apportent des outils pour que les gestionnaires côtiers évaluent comment le changement climatique peut affecter cette fonction protectrice des récifs.",
+                    "source_passages": [
+                        "Home Ocean Facts How does climate change affect coral reefs?"
+                    ]
+                },
+                {
+                    "sentence": "Cette relation entre la santé des coraux et la sécurité des communautés insulaires illustre l’importance de préserver ces écosystèmes face aux pressions environnementales.",
+                    "source_passages": [
+                        "Home Ocean Facts How does climate change affect coral reefs?"
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-486fd7cc2453db8c848cc58d",
+            "subject_id": "Q40614",
+            "collected_at": "2026-11-26T08:16:56+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Fossile",
+                    "url": "https://fr.wikipedia.org/wiki/Fossile"
+                }
+            ],
+            "source_sha256": "4bd3a36897c7d1f7804a35afa25e2893bdd95244ce12633abbfc543b5e2ccfe5",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Whale_2261-2263mod.jpg",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "original_sha1": "9c1b93db563aedfb0f40761629c03e7a8176e703",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Les fossiles offrent un enregistrement conservé de la vie ancienne, à travers des restes ou des empreintes minéralisés dans des roches sédimentaires.",
+                "beneficiaries": "Chercheurs en paléontologie, géologie, préhistoire humaine et archéologie bénéficient de ces témoins d'organismes passés."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Les fossiles résultent de traces ou restes d'anciens organismes conservés dans des roches sédimentaires, que ce soit par minéralisation ou moulages naturels.",
+                    "source_passages": [
+                        "Un fossile (du latin fossilis, « tiré de la terre », adjectif dérivé du verbe fodere, « fouir ») est la trace plus ou moins minéralisée d'un ancien organisme vivant ou de son activité passée, ou bien son simple moulage, conservés dans une roche sédimentaire.",
+                        "Il peut s'agir de restes plus ou moins bien conservés de l'organisme lui-même (ossements, dents, feuilles, mycélium, biofilm, etc.) ou d'empreintes qu'il a laissées (empreintes de pas, de peau ou d’autres téguments), de moulages externes naturels (dans de l’ambre, par exemple), de terriers, de stromatolithes, de coprolithes, etc."
+                    ]
+                },
+                {
+                    "sentence": "Ils peuvent concerner des os, des dents, des feuilles, des empreintes de pas, ou même des terriers.",
+                    "source_passages": [
+                        "Il peut s'agir de restes plus ou moins bien conservés de l'organisme lui-même (ossements, dents, feuilles, mycélium, biofilm, etc.) ou d'empreintes qu'il a laissées (empreintes de pas, de peau ou d’autres téguments), de moulages externes naturels (dans de l’ambre, par exemple), de terriers, de stromatolithes, de coprolithes, etc."
+                    ]
+                },
+                {
+                    "sentence": "Ces vestiges sont exploités principalement en paléontologie, mais aussi en géologie et archéologie.",
+                    "source_passages": [
+                        "Les fossiles et les processus de fossilisation sont principalement étudiés dans le cadre de la paléontologie, mais aussi dans ceux de la géologie, de la préhistoire humaine et de l'archéologie."
+                    ]
+                },
+                {
+                    "sentence": "Bien que la fossilisation soit rare et que les vestiges soient souvent incomplets, ces éléments fournissent des preuves concrètes sur plus de trois milliards d'années d'évolution de la vie sur Terre.",
+                    "source_passages": [
+                        "Comparativement au nombre des êtres vivants morts, le processus de fossilisation est rare, les conditions de la fossilisation étant rarement réunies.",
+                        "De ce fait, les témoignages qu'apportent les fossiles sur plus de trois milliards d'années d'évolution de la vie sur Terre sont lacunaires, sauf cas exceptionnel..."
+                    ]
+                },
+                {
+                    "sentence": "Chaque fossile, quel que soit son état, participe ainsi à la compréhension scientifique de notre passé naturel.",
+                    "source_passages": [
+                        "De ce fait, les témoignages qu'apportent les fossiles sur plus de trois milliards d'années d'évolution de la vie sur Terre sont lacunaires, sauf cas exceptionnel..."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        }
+    ]
+}
