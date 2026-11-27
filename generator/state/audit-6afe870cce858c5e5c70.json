@@ -1,0 +1,308 @@
+{
+    "schema_version": 1,
+    "articles": [
+        {
+            "id": "decouverte-7c991aeee4d8c75babfe676c",
+            "subject_id": "news-454c88f0a8e485a874f46c0d592cf069",
+            "collected_at": "2026-11-27T08:29:42+00:00",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-25",
+                    "url": "https://www.goodnewsnetwork.org/texas-auto-shop-couple-is-hungry-to-keep-giving-cars-away-to-neighbors-in-need/"
+                }
+            ],
+            "source_sha256": "d0f2f9c550be2390b72147d7be3b59bc8a1e21efd8ca551a1076266c624224be",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Asda_car_park_clothing_%5E_shoes_donation_bin,_Maesteg_-_geograph.org.uk_-_4226047.jpg",
+            "image_license": "CC BY-SA 2.0 · https://creativecommons.org/licenses/by-sa/2.0/",
+            "original_sha1": "5d0d3e7ec07c06def800770b740940b02c54c4c9",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Le couple de propriétaires d'un atelier de réparation automobile au Texas a réussi à offrir plusieurs voitures réparées gratuitement à des personnes de leur communauté qui en avaient besoin, passant d'une voiture offerte par an à plusieurs par an.",
+                "beneficiaries": "Des habitants de Colleyville, dont des familles et des personnes éprouvant des difficultés de mobilité, bénéficient désormais d'une aide concrète sous forme de véhicules remis en état."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "À Colleyville, Texas, Cathy et Dane Bailey, propriétaires d'un atelier de réparation automobile, avaient commencé à offrir une voiture par an à une personne dans le besoin après l'avoir remise en état.",
+                    "source_passages": [
+                        "Home All News Inspiring ‘Autos for Love’ Owners Delight in Giving Away Cars to Needy Neighbors Cathy and Dane Bailey from Auto Experts of Colleyville – credit, Autos for Love Once a year, the owners of a Texas auto-repair shop would refurbish a donated car and then hand the keys to a member of their community in need.",
+                        "Autos for Love started years ago when the Baileys, who own Auto Experts of Colleyville, wanted to try and put in a little more elbow grease on behalf of those who have no wheels to grease.",
+                        "Refurbishing gently used cars donated by community members, their aim was to give away one per year."
+                    ]
+                },
+                {
+                    "sentence": "Cette initiative, baptisée Autos for Love, a suscité l'engouement dans leur communauté, ce qui leur a permis d'obtenir plus de véhicules d'occasion à réparer.",
+                    "source_passages": [
+                        "But thanks to their generosity and the generosity of others, they’ve been able to turbocharge their giving, with multiple vehicles going out ever year.",
+                        "But seeing the reaction of the recipients quickly pushed them to try and find more cars, and more people in need.",
+                        "Reported on first by WFAA News, Autos for Love attracted a lot of attention, and soon became turbo-charged with donated vehicles."
+                    ]
+                },
+                {
+                    "sentence": "Aujourd'hui, ils offrent plusieurs voitures par an à des résidents de leur ville qui manquent de moyens pour se déplacer.",
+                    "source_passages": [
+                        "But thanks to their generosity and the generosity of others, they’ve been able to turbocharge their giving, with multiple vehicles going out ever year.",
+                        "Indeed, giving away cars is their joy of joys, and something that thanks to their Colleyville community, they can now do multiple times per year.",
+                        "But seeing the reaction of the recipients quickly pushed them to try and find more cars, and more people in need.",
+                        "Reported on first by WFAA News, Autos for Love attracted a lot of attention, and soon became turbo-charged with donated vehicles."
+                    ]
+                },
+                {
+                    "sentence": "Parmi eux, une mère qui a obtenu une voiture après avoir marché pendant trois ans pour acheminer ses enfants à l'école ou faire les courses.",
+                    "source_passages": [
+                        "This year, the Baileys began looking for who in town needed them the most, and some residents called in to nominate their friend Barbara Farison, a mother whose car was totaled by another motorist running a red light.",
+                        "Unable to secure a replacement, Farison and her kids have walked everywhere for 3 years when alternative transportation wasn’t available, including to school and to buy groceries.",
+                        "It has exposed them to toil, the elements, and in Farison’s case, to an incident of violent crime she only narrowly avoided.",
+                        "AND YOU GET A CAR, AND YOU GET A CAR: Disabled Veteran Receives Donated Car Beautifully Refurbished by Auto Collision Students Community Dads Raise Thousands to Surprise Beloved School Crossing Guard with a New Car High School Students Repair Cars and Give Them to Single Moms: ‘You’re Really Making a Change in the World’ When her friends got wind of Autos for Love, they called up the Baileys to explain the situation, who then in turn called Farison and invited her to the shop, ostensibly for an “interview.” Instead, she suddenly found her palms filled with the keys to a 2005 Acura MDX."
+                    ]
+                },
+                {
+                    "sentence": "Ces dons améliorent notablement la vie quotidienne des bénéficiaires, leur assurant une mobilité retrouvée et une meilleure autonomie.",
+                    "source_passages": [
+                        "“This is the biggest blessing,” Farison said.",
+                        "“I cannot explain to you how much easier this is going to be for my kids and myself.",
+                        "It’s going to make my mommy heart extremely happy.” Farison was one of 4 people who received cars from the Baileys that day, meaning that this year alone they have given away 8 autos with love."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-51b2ccdecf4f297d4f7b0d91",
+            "subject_id": "news-8c33eb7c0014954b26a95c1ef5b9b30e",
+            "collected_at": "2026-11-27T08:30:49+00:00",
+            "sources": [
+                {
+                    "label": "Reasons to be Cheerful · publié le 2026-11-27",
+                    "url": "https://reasonstobecheerful.world/snow-leopard-conservation-himalayas/"
+                }
+            ],
+            "source_sha256": "c2b2e1b2acec1812e21518f5ff65c60995221d596ae2d93404dd6217274d09ab",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Snow_Leopard_in_Ladakh(_Photo_by_Tashi_Lonchay).jpg",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "original_sha1": "e5930b06a99f9f5a94b80041e5381673dfcaf7e2",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Les communautés pastorales du Ladakh ont réduit les pertes de bétail dues aux léopards des neiges en renforçant les enclos et en développant des activités économiques alternatives.",
+                "beneficiaries": "Les éleveurs et villageois de 45 villages de Ladakh vivant en coexistence avec les léopards des neiges."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "À Ladakh, l’association Snow Leopard Conservancy accompagne 45 villages pour diminuer les attaques des léopards des neiges sur les troupeaux.",
+                    "source_passages": [
+                        "Credit: Minh Cong Pham / Shutterstock Twenty years ago, villagers might have retaliated by killing the snow leopard, which is listed as vulnerable on the International Union for Conservation of Nature’s red list of threatened species.",
+                        "“These happened often when I was young,” says Tsewang Namgail, who heads the Ladakh-based Snow Leopard Conservancy – India Trust (SLC-IT).",
+                        "His childhood experience helped Namgail to realize that simply compensating local communities for livestock losses was not enough: “We had to somehow make villages near snow leopard habitats more disposed towards protecting them,” he says.",
+                        "Today, the Trust works with Ladakh’s livestock-owning communities in 45 villages to reduce the costs of living alongside snow leopards."
+                    ]
+                },
+                {
+                    "sentence": "Cette coopération inclut la construction d’enclos renforcés, des méthodes de pâturage adaptées et un meilleur suivi vétérinaire.",
+                    "source_passages": [
+                        "Today, the Trust works with Ladakh’s livestock-owning communities in 45 villages to reduce the costs of living alongside snow leopards.",
+                        "This includes strengthening livestock corrals, promoting protective herding and improving veterinary care."
+                    ]
+                },
+                {
+                    "sentence": "En parallèle, les habitants développent des activités comme l’accueil touristique ou la fabrication artisanale avec la laine locale, ce qui améliore leurs revenus et leur relation avec l’animal.",
+                    "source_passages": [
+                        "Today, the Trust works with Ladakh’s livestock-owning communities in 45 villages to reduce the costs of living alongside snow leopards.",
+                        "For example, Chuskit is one of 10 women in Saspotse who have been running homestays for snow leopard enthusiasts for the last few years.",
+                        "She is also one of a dozen women who have received training in needle felting waste wool into tiny toys (mostly snow leopards)."
+                    ]
+                },
+                {
+                    "sentence": "Par exemple, dans le village de Saspotse, plusieurs femmes gèrent des chambres pour des visiteurs passionnés d’écologie et transforment la laine en jouets.",
+                    "source_passages": [
+                        "For example, Chuskit is one of 10 women in Saspotse who have been running homestays for snow leopard enthusiasts for the last few years.",
+                        "She is also one of a dozen women who have received training in needle felting waste wool into tiny toys (mostly snow leopards)."
+                    ]
+                },
+                {
+                    "sentence": "Ces initiatives concrètes montrent une nouvelle coexistence possible entre les communautés pastorales et ce prédateur, autrefois perçu comme une menace, dans ce fragile écosystème de haute montagne.",
+                    "source_passages": [
+                        "Credit: Minh Cong Pham / Shutterstock Twenty years ago, villagers might have retaliated by killing the snow leopard, which is listed as vulnerable on the International Union for Conservation of Nature’s red list of threatened species.",
+                        "“These happened often when I was young,” says Tsewang Namgail, who heads the Ladakh-based Snow Leopard Conservancy – India Trust (SLC-IT).",
+                        "Today, the Trust works with Ladakh’s livestock-owning communities in 45 villages to reduce the costs of living alongside snow leopards.",
+                        "This includes strengthening livestock corrals, promoting protective herding and improving veterinary care."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-e7f2b7a5a65c7a3d638c204e",
+            "subject_id": "news-a039f5e3a8f95b622b069af3c5d57ff7",
+            "collected_at": "2026-11-27T08:30:58+00:00",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-25",
+                    "url": "https://www.goodnewsnetwork.org/land-returned-indigenous-care-first-encounter-beach/"
+                }
+            ],
+            "source_sha256": "49337d0946e3bf56c1d581438a57de6cded0497028ac455fe2951ebc580ed98e",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Example_of_native_salt_marsh-mangrove_plant_community.jpg",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "original_sha1": "4ceb25f00c888abbdbf87104fb22f2bb5341abd4",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "En octobre 2026, 126 acres de zones naturelles de marais salé et habitats environnementaux ont été restituées à la gestion indigène par la Native Land Conservancy, une organisation dirigée par des membres de la tribu Mashpee Wampanoag.",
+                "beneficiaries": "Les terres ainsi que les espèces locales vulnérables, comme les tortues à carapace diamantée, bénéficient de cette restitution, tout comme les communautés tribales impliquées qui peuvent désormais pratiquer des usages traditionnels et culturels sur ces terrains."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "En octobre 2026, The Nature Conservancy a transféré 126 acres de marais salé et d'habitats naturels de la région d'Eastham, Massachusetts, à la Native Land Conservancy, un organisme mené par des membres de la tribu Mashpee Wampanoag.",
+                    "source_passages": [
+                        "On October 30, The Nature Conservancy gave roughly 126 acres of salt marsh and natural habitat in Eastham, Massachusetts to the Native Land Conservancy, an Indigenous-led nonprofit based in Mashpee.",
+                        "Home All News USA Land Returned to Native American Ownership 400 Years After the First Thanksgiving First Encounter Beach, courtesy of Marco Nürnberger More than 400 years after the Pilgrims first explored the Cape Cod area, land belonging to Native Americans was returned to Indigenous ownership.",
+                        "The land sits right next to a 20.4-acre parcel the Conservancy bought earlier in the year for $3 million, linking them into a larger protected area that looks out over First Encounter Beach.⁠ “This place holds so many stories that were buried and are ready to be unearthed,” Ramona Peters, founder and board president of the Native Land Conservancy and a member of the Mashpee Wampanoag Tribe, said in a published statement."
+                    ]
+                },
+                {
+                    "sentence": "Cette zone jouxte une parcelle déjà acquise plus tôt dans l'année, créant une zone protégée d'envergure près de First Encounter Beach, site historique de premiers contacts conflictuels entre colonisateurs et peuples autochtones.",
+                    "source_passages": [
+                        "The land sits right next to a 20.4-acre parcel the Conservancy bought earlier in the year for $3 million, linking them into a larger protected area that looks out over First Encounter Beach.⁠ “This place holds so many stories that were buried and are ready to be unearthed,” Ramona Peters, founder and board president of the Native Land Conservancy and a member of the Mashpee Wampanoag Tribe, said in a published statement.",
+                        "“Long before the first encounter, Native people lived here and took care of this land.” The Forgotten History of the ‘First Encounter’ In December 1620, not long after the Mayflower arrived, an exploring party led by Myles Standish traded arrows and gunfire with Nauset warriors near what’s now called First Encounter Beach, named for the first hostile meeting between the Pilgrims and a native people.",
+                        "The fight came after colonists had taken corn and disturbed graves."
+                    ]
+                },
+                {
+                    "sentence": "La conservation prévoit de maintenir la protection écologique tout en permettant des pratiques traditionnelles comme l'aquaculture et des cérémonies culturelles.",
+                    "source_passages": [
+                        "Conservation rules stay in place on parts of the land so it won’t get developed, while still allowing traditional uses like aquaculture.",
+                        "There are also plans to remove invasive species and restore native plants for traditional cultural, ceremonial and ceremonial purposes.",
+                        "It is our way to listen to the land – discover what she needs and wants…..We plan to invite our tribal families to come to the land and forage, fish, have ceremony, and for recreation,” P."
+                    ]
+                },
+                {
+                    "sentence": "La restauration de cette terre représente un retour à la gestion autochtone et favorise la préservation des espèces locales, notamment des tortues diamantées qui pondent dans les falaises côtières alentours.",
+                    "source_passages": [
+                        "More Than A History Lesson The salt marsh and nearby uplands also give a home to vulnerable animals, including diamondback terrapins that nest along the coastal bluffs.",
+                        "The 20.4-acre property next door—bought in June 2026 with help from the Eastham Conservation Foundation and local neighbors—has been named T8nupâhs Uwatuhshât, which means “at the turtle’s nest” in the Wôpanâak language.",
+                        "“This land is new to our care."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-1b826aa433b9347656304805",
+            "subject_id": "source-6839fa2079022c9207dd7b9b26cc4385",
+            "collected_at": "2026-11-27T08:31:06+00:00",
+            "sources": [
+                {
+                    "label": "NOAA · What makes the green turtle...green?",
+                    "url": "https://oceanservice.noaa.gov/facts/green-turtle.html"
+                }
+            ],
+            "source_sha256": "22a8e94c7436005d0b3b02ec1205cf8034719c92f2179dfa38663c9f6ff0ec18",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Green_Sea_Turtle_(31041167698).jpg",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "5b5943edbca066f2f583ef45cc40d0fe098cf33d",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Le régime alimentaire exclusivement végétal des tortues vertes conduit à la coloration verte de leur graisse.",
+                "beneficiaries": "Les tortues vertes, espèces marines qui tirent parti de leur alimentation en herbes marines et algues pour leur caractéristique physique spécifique."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "La tortue verte doit son nom à la couleur verdâtre de sa graisse, un résultat direct de son régime alimentaire strictement herbivore.",
+                    "source_passages": [
+                        "The name of the green sea turtle is derived from the reptile's greenish-colored fat.",
+                        "This diet is thought to give them their greenish-colored fat, hence the name, the green turtle."
+                    ]
+                },
+                {
+                    "sentence": "En se nourrissant essentiellement d’herbiers marins et d’algues, cette alimentation produit une graisse particulière qui teinte la tortue d’une nuance verte.",
+                    "source_passages": [
+                        "This diet is thought to give them their greenish-colored fat, hence the name, the green turtle."
+                    ]
+                },
+                {
+                    "sentence": "Ces reptiles marins utilisent différents habitats selon leur âge : ils nichent sur les plages, vivent en secteur ouvert à l'état juvénile, puis fréquentent les zones côtières pour se nourrir à l’âge adulte.",
+                    "source_passages": [
+                        "Green turtles primarily use three types of habitat – beaches for nesting, open ocean convergence zones as juveniles, and coastal areas for benthic feeding as adults."
+                    ]
+                },
+                {
+                    "sentence": "On les trouve dans diverses régions du globe, du Golfe du Mexique aux îles hawaïennes.",
+                    "source_passages": [
+                        "Atlantic and Gulf of America waters, green turtles are found in inshore and nearshore waters from Texas to Massachusetts, the U.S.",
+                        "In the eastern North Pacific, green turtles have been sighted from Baja California to southern Alaska, but most commonly are seen south of San Diego.",
+                        "Also, in the central Pacific, green turtles are found around most tropical islands, including the Hawaiian Islands."
+                    ]
+                },
+                {
+                    "sentence": "Leur alimentation, centrée sur les végétaux marins, est ainsi directement liée à leur apparence physique caractéristique.",
+                    "source_passages": [
+                        "The name of the green sea turtle is derived from the reptile's greenish-colored fat.",
+                        "This diet is thought to give them their greenish-colored fat, hence the name, the green turtle."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-8fcac6e8757bb9d6386a24f1",
+            "subject_id": "Q187483",
+            "collected_at": "2026-11-27T08:31:13+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Tapisserie de Bayeux",
+                    "url": "https://fr.wikipedia.org/wiki/Tapisserie_de_Bayeux"
+                }
+            ],
+            "source_sha256": "41188e34664036857b71cbd5a01d4fb1e3b3ea943cbd7c5f5169edebb3ed1bb3",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Tapisserie_de_Bayeux_31109.jpg",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "31acaebff545c9b2f4e0da4f2b55f0c4c33f22cc",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La tapisserie de Bayeux, un monument historique brodé au XIe siècle, est désormais reconnu et protégé comme patrimoine mondial par l'Unesco, ce qui assure sa préservation et sa valorisation.",
+                "beneficiaries": "Les visiteurs, chercheurs, et l'ensemble du patrimoine culturel français et mondial bénéficient de cette reconnaissance et conservation."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "La tapisserie de Bayeux est une broderie réalisée au XIe siècle, représentant près de 623 personnages et de multiples scènes historiques.",
+                    "source_passages": [
+                        "La tapisserie de Bayeux ou broderie de Bayeux, successivement désignée « Telle du Conquest » (« toile de la Conquête ») par les chanoines de la cathédrale Notre-Dame de Bayeux, toilette de la Saint-Jean et toilette du duc Guillaume au XVIIIe siècle, ou encore tapisserie de la reine Mathilde au XIXe siècle, est une broderie (anciennement « tapisserie aux points d'aiguille ») du XIe siècle inscrite depuis 2007 au registre international Mémoire du monde par l'Unesco.",
+                        "Œuvre d'art textile effectuée à l'aiguille sur une toile de lin bis assez régulière, brodée avec quatre points différents de fils de laine déclinés en dix teintes naturelles, elle expose 623 personnages, 994 animaux, 438 végétaux, 37 forteresses et bâtiments, 41 navires et petites embarcations, et d'innombrables objets très divers."
+                    ]
+                },
+                {
+                    "sentence": "Brodée sur une toile de lin avec des fils de laine teintés naturellement, elle relate les événements majeurs qui ont conduit à la conquête normande de l'Angleterre.",
+                    "source_passages": [
+                        "Œuvre d'art textile effectuée à l'aiguille sur une toile de lin bis assez régulière, brodée avec quatre points différents de fils de laine déclinés en dix teintes naturelles, elle expose 623 personnages, 994 animaux, 438 végétaux, 37 forteresses et bâtiments, 41 navires et petites embarcations, et d'innombrables objets très divers.",
+                        "Elle décrit des faits allant de la fin du règne du roi d'Angleterre Édouard le Confesseur en 1064 à la bataille d'Hastings en 1066, dont l'enjeu était le trône d'Angleterre, contesté à Harold Godwinson par Guillaume, duc de Normandie."
+                    ]
+                },
+                {
+                    "sentence": "En 2007, cette œuvre textile a été inscrite au registre international Mémoire du monde par l'Unesco.",
+                    "source_passages": [
+                        "La tapisserie de Bayeux ou broderie de Bayeux, successivement désignée « Telle du Conquest » (« toile de la Conquête ») par les chanoines de la cathédrale Notre-Dame de Bayeux, toilette de la Saint-Jean et toilette du duc Guillaume au XVIIIe siècle, ou encore tapisserie de la reine Mathilde au XIXe siècle, est une broderie (anciennement « tapisserie aux points d'aiguille ») du XIe siècle inscrite depuis 2007 au registre international Mémoire du monde par l'Unesco.",
+                        "Elle décrit des faits allant de la fin du règne du roi d'Angleterre Édouard le Confesseur en 1064 à la bataille d'Hastings en 1066, dont l'enjeu était le trône d'Angleterre, contesté à Harold Godwinson par Guillaume, duc de Normandie."
+                    ]
+                },
+                {
+                    "sentence": "Cette inscription assure sa conservation ainsi qu’une meilleure connaissance et diffusion, permettant aux chercheurs et au public d’accéder à ce témoignage unique de l’histoire médiévale.",
+                    "source_passages": [
+                        "La tapisserie de Bayeux ou broderie de Bayeux, successivement désignée « Telle du Conquest » (« toile de la Conquête ») par les chanoines de la cathédrale Notre-Dame de Bayeux, toilette de la Saint-Jean et toilette du duc Guillaume au XVIIIe siècle, ou encore tapisserie de la reine Mathilde au XIXe siècle, est une broderie (anciennement « tapisserie aux points d'aiguille ») du XIe siècle inscrite depuis 2007 au registre international Mémoire du monde par l'Unesco.",
+                        "Les péripéties-clés de la bataille, dont l'issue détermina la conquête normande de l'Angleterre, y sont détaillées, mais près de la moitié des scènes relatent en fait..."
+                    ]
+                },
+                {
+                    "sentence": "Sa préservation contribue à maintenir en vie un pan du patrimoine européen.",
+                    "source_passages": [
+                        "La tapisserie de Bayeux ou broderie de Bayeux, successivement désignée « Telle du Conquest » (« toile de la Conquête ») par les chanoines de la cathédrale Notre-Dame de Bayeux, toilette de la Saint-Jean et toilette du duc Guillaume au XVIIIe siècle, ou encore tapisserie de la reine Mathilde au XIXe siècle, est une broderie (anciennement « tapisserie aux points d'aiguille ») du XIe siècle inscrite depuis 2007 au registre international Mémoire du monde par l'Unesco.",
+                        "Les péripéties-clés de la bataille, dont l'issue détermina la conquête normande de l'Angleterre, y sont détaillées, mais près de la moitié des scènes relatent en fait..."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        }
+    ]
+}

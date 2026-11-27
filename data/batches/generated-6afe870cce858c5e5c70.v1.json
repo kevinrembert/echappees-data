@@ -1,0 +1,135 @@
+{
+    "schema_version": 1,
+    "id": "generated-6afe870cce858c5e5c70",
+    "version": "1",
+    "articles": [
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-7c991aeee4d8c75babfe676c",
+            "title": "Au Texas, un couple augmente le nombre de voitures offertes aux habitants dans le besoin",
+            "body": "À Colleyville, Texas, Cathy et Dane Bailey, propriétaires d'un atelier de réparation automobile, avaient commencé à offrir une voiture par an à une personne dans le besoin après l'avoir remise en état. Cette initiative, baptisée Autos for Love, a suscité l'engouement dans leur communauté, ce qui leur a permis d'obtenir plus de véhicules d'occasion à réparer. Aujourd'hui, ils offrent plusieurs voitures par an à des résidents de leur ville qui manquent de moyens pour se déplacer. Parmi eux, une mère qui a obtenu une voiture après avoir marché pendant trois ans pour acheminer ses enfants à l'école ou faire les courses. Ces dons améliorent notablement la vie quotidienne des bénéficiaires, leur assurant une mobilité retrouvée et une meilleure autonomie.",
+            "category": "Initiatives positives",
+            "location": "Colleyville, Texas, États-Unis",
+            "image_description": "Benne de collecte de vêtements et chaussures dans un parking Asda à Maesteg",
+            "image_caption": "Photo d'illustration documentaire générale : benne de collecte de vêtements et chaussures, parking Asda à Maesteg, Royaume-Uni.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/7851b8eb1be62dd3a37afa74842adbbb11091c4ca62ca9b4f8026565153cb18e.jpg",
+            "image_credit": "Jaggery · Geograph Britain and Ireland · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 2.0 · https://creativecommons.org/licenses/by-sa/2.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Asda_car_park_clothing_%5E_shoes_donation_bin,_Maesteg_-_geograph.org.uk_-_4226047.jpg",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-25",
+                    "url": "https://www.goodnewsnetwork.org/texas-auto-shop-couple-is-hungry-to-keep-giving-cars-away-to-neighbors-in-need/"
+                }
+            ],
+            "subject_id": "news-454c88f0a8e485a874f46c0d592cf069",
+            "published_at": "2026-11-27",
+            "country": "Monde",
+            "source_published_at": "2026-11-25"
+        },
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-51b2ccdecf4f297d4f7b0d91",
+            "title": "Au Ladakh, des villageois réduisent les conflits avec le léopard des neiges et tirent profit de sa conservation",
+            "body": "À Ladakh, l’association Snow Leopard Conservancy accompagne 45 villages pour diminuer les attaques des léopards des neiges sur les troupeaux. Cette coopération inclut la construction d’enclos renforcés, des méthodes de pâturage adaptées et un meilleur suivi vétérinaire. En parallèle, les habitants développent des activités comme l’accueil touristique ou la fabrication artisanale avec la laine locale, ce qui améliore leurs revenus et leur relation avec l’animal. Par exemple, dans le village de Saspotse, plusieurs femmes gèrent des chambres pour des visiteurs passionnés d’écologie et transforment la laine en jouets. Ces initiatives concrètes montrent une nouvelle coexistence possible entre les communautés pastorales et ce prédateur, autrefois perçu comme une menace, dans ce fragile écosystème de haute montagne.",
+            "category": "Initiatives positives",
+            "location": "Ladakh, Himalaya",
+            "image_description": "Photographie d’un léopard des neiges observé dans la vallée supérieure du village de Phyang, Ladakh.",
+            "image_caption": "Illustration documentaire générale. Un léopard des neiges dans la vallée supérieure du village de Phyang, Ladakh. Photo illustrative générale Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/49602a26d4e9c50b40f972f48514c616f8a13ee896461c403a82b9c5954b6fe4.jpg",
+            "image_credit": "Tashi Lonchay · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Snow_Leopard_in_Ladakh(_Photo_by_Tashi_Lonchay).jpg",
+            "sources": [
+                {
+                    "label": "Reasons to be Cheerful · publié le 2026-11-27",
+                    "url": "https://reasonstobecheerful.world/snow-leopard-conservation-himalayas/"
+                }
+            ],
+            "subject_id": "news-8c33eb7c0014954b26a95c1ef5b9b30e",
+            "published_at": "2026-11-27",
+            "country": "Monde",
+            "source_published_at": "2026-11-27"
+        },
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-e7f2b7a5a65c7a3d638c204e",
+            "title": "Une réserve naturelle rendue à une tribu amérindienne à Eastham, Massachusetts, après 400 ans",
+            "body": "En octobre 2026, The Nature Conservancy a transféré 126 acres de marais salé et d'habitats naturels de la région d'Eastham, Massachusetts, à la Native Land Conservancy, un organisme mené par des membres de la tribu Mashpee Wampanoag. Cette zone jouxte une parcelle déjà acquise plus tôt dans l'année, créant une zone protégée d'envergure près de First Encounter Beach, site historique de premiers contacts conflictuels entre colonisateurs et peuples autochtones. La conservation prévoit de maintenir la protection écologique tout en permettant des pratiques traditionnelles comme l'aquaculture et des cérémonies culturelles. La restauration de cette terre représente un retour à la gestion autochtone et favorise la préservation des espèces locales, notamment des tortues diamantées qui pondent dans les falaises côtières alentours.",
+            "category": "Initiatives positives",
+            "location": "Eastham, Massachusetts, États-Unis",
+            "image_description": "Communauté végétale naturelle de marais salé avec plantes succulentes et mangroves, exemplaire non modifiée, située aux Thousand Islands, Cocoa Beach, Floride.",
+            "image_caption": "Illustration documentaire générale : exemple de la végétation typique d’un marais salé naturel aux États-Unis, Wikimedia Commons",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/30e0245c2973738a7857c7575bd6b0a1ffea28179034350d1e54f78e9e5da4ec.jpg",
+            "image_credit": "Timkozusko · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Example_of_native_salt_marsh-mangrove_plant_community.jpg",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-25",
+                    "url": "https://www.goodnewsnetwork.org/land-returned-indigenous-care-first-encounter-beach/"
+                }
+            ],
+            "subject_id": "news-a039f5e3a8f95b622b069af3c5d57ff7",
+            "published_at": "2026-11-27",
+            "country": "Monde",
+            "source_published_at": "2026-11-25"
+        },
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "daily",
+            "id": "decouverte-1b826aa433b9347656304805",
+            "title": "Pourquoi la carapace de la tortue verte porte-t-elle bien son nom ?",
+            "body": "La tortue verte doit son nom à la couleur verdâtre de sa graisse, un résultat direct de son régime alimentaire strictement herbivore. En se nourrissant essentiellement d’herbiers marins et d’algues, cette alimentation produit une graisse particulière qui teinte la tortue d’une nuance verte. Ces reptiles marins utilisent différents habitats selon leur âge : ils nichent sur les plages, vivent en secteur ouvert à l'état juvénile, puis fréquentent les zones côtières pour se nourrir à l’âge adulte. On les trouve dans diverses régions du globe, du Golfe du Mexique aux îles hawaïennes. Leur alimentation, centrée sur les végétaux marins, est ainsi directement liée à leur apparence physique caractéristique.",
+            "category": "Nature et animaux",
+            "location": "Monde",
+            "image_description": "Une tortue verte de mer nageant sous l’eau.",
+            "image_caption": "Illustration documentaire générale d’une tortue verte de mer, visible dans diverses mers tropicales et subtropicales. Photo : Andy Collins/NOAA, Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/e8b6464dc02af5a677ac414c9cb1a4b6139db405b14ae9ca39663aaabce87123.jpg",
+            "image_credit": "National Marine Sanctuaries · Green Sea Turtle · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Green_Sea_Turtle_(31041167698).jpg",
+            "sources": [
+                {
+                    "label": "NOAA · What makes the green turtle...green?",
+                    "url": "https://oceanservice.noaa.gov/facts/green-turtle.html"
+                }
+            ],
+            "subject_id": "source-6839fa2079022c9207dd7b9b26cc4385",
+            "published_at": "2026-11-27",
+            "country": "Monde"
+        },
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "daily",
+            "id": "decouverte-8fcac6e8757bb9d6386a24f1",
+            "title": "La tapisserie de Bayeux : une broderie ancienne durablement protégée",
+            "body": "La tapisserie de Bayeux est une broderie réalisée au XIe siècle, représentant près de 623 personnages et de multiples scènes historiques. Brodée sur une toile de lin avec des fils de laine teintés naturellement, elle relate les événements majeurs qui ont conduit à la conquête normande de l'Angleterre. En 2007, cette œuvre textile a été inscrite au registre international Mémoire du monde par l'Unesco. Cette inscription assure sa conservation ainsi qu’une meilleure connaissance et diffusion, permettant aux chercheurs et au public d’accéder à ce témoignage unique de l’histoire médiévale. Sa préservation contribue à maintenir en vie un pan du patrimoine européen.",
+            "category": "Histoire et patrimoine",
+            "location": "Bayeux, France",
+            "image_description": "La tapisserie de Bayeux, panorama de la broderie historique sur toile de lin",
+            "image_caption": "Illustration documentaire générale montrant un panorama de la tapisserie de Bayeux, œuvre textile du XIe siècle, Wikimedia Commons",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/42ed0dec7fe01bac0ad59fc8dd3238056b3f18a325af052fbe2512519de07ddb.jpg",
+            "image_credit": "Serge Lachinov (обработка для wiki) · http://hastings1066.com/baythumb.shtml · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Tapisserie_de_Bayeux_31109.jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Tapisserie de Bayeux",
+                    "url": "https://fr.wikipedia.org/wiki/Tapisserie_de_Bayeux"
+                }
+            ],
+            "subject_id": "Q187483",
+            "published_at": "2026-11-27",
+            "country": "France"
+        }
+    ]
+}
