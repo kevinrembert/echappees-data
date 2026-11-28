@@ -1,0 +1,377 @@
+{
+    "schema_version": 1,
+    "articles": [
+        {
+            "id": "decouverte-688e2515787e66fdf4a4d3d9",
+            "subject_id": "news-b2ec2be64cee45a6ffa4febff93e1a3f",
+            "collected_at": "2026-11-28T07:47:08+00:00",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-24",
+                    "url": "https://www.goodnewsnetwork.org/retired-teacher-turns-retired-musical-instruments-into-bird-feeders-look/"
+                }
+            ],
+            "source_sha256": "241632018de7d428d920d7abb97ea305bde9a214909faad62da422ecbd008085",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Pilru,_a_bird_shaped_terracotta_musical_instrument_made_by_Tharus_and_Kumhars.jpg",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "original_sha1": "91a28a0d63713d363b8dd5cd53c2a60f7c621cbd",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Un homme à la retraite transforme des instruments de musique hors d’usage en mangeoires pour oiseaux, offrant des repas réguliers à diverses espèces locales.",
+                "beneficiaries": "Les oiseaux sauvages fréquentant les mangeoires créées à partir d'instruments recyclés sur l’Île-du-Prince-Édouard et la communauté locale intéressée par l’observation ornithologique."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Rob Burke, ancien professeur de mathématiques à la retraite, donne une seconde vie à des instruments de musique abandonnés en les transformant en mangeoires pour oiseaux sur l’Île-du-Prince-Édouard, au Canada.",
+                    "source_passages": [
+                        "Home All News Arts & Leisure Retired Teacher Turns Retired Musical Instruments into Bird Feeders (LOOK) Credit – Rob Burke, retrieved from Facebook A Canadian man is writing a coda into the lives of scrapped musical instruments by using them to offer a free lunch to his feathered neighbors."
+                    ]
+                },
+                {
+                    "sentence": "Après avoir reçu plusieurs guitares, un violon et des éléments de batterie, il a adapté ces instruments en les équipant de perchoirs et de coupelles pour graines.",
+                    "source_passages": [
+                        "Asking for donations of broken instruments for an art project on Facebook, Burke was delighted to receive 6 guitars, an old violin, and pieces of a drum set.",
+                        "He got to work attaching driftwood perches and metal feeding dishes into the hollow-body guitars."
+                    ]
+                },
+                {
+                    "sentence": "Ces aménagements attirent désormais diverses espèces, parmi lesquelles geais bleus, piverts et mésanges.",
+                    "source_passages": [
+                        "CBC reported that his choice of a glue gun was just fine at first, but once the heavier blue jays began visiting, he had to reattach the perches and dishes more firmly.",
+                        "His Facebook wall features an array of common birds, which Burke says he has taken a greater interest in since retiring.",
+                        "He has since seen a woodpecker, corvids, and chickadees, and expects to see further species as the seasons change."
+                    ]
+                },
+                {
+                    "sentence": "Si les premières fixations posaient problème avec des oiseaux plus lourds, il les a consolidées pour mieux tenir.",
+                    "source_passages": [
+                        "CBC reported that his choice of a glue gun was just fine at first, but once the heavier blue jays began visiting, he had to reattach the perches and dishes more firmly."
+                    ]
+                },
+                {
+                    "sentence": "Cette initiative artistique et écologique, nommée « Frets and Feathers Cafe », suscite un intérêt grandissant pour l’ornithologie locale et continue de s’étendre grâce aux dons d’instruments cassés.",
+                    "source_passages": [
+                        "Home All News Arts & Leisure Retired Teacher Turns Retired Musical Instruments into Bird Feeders (LOOK) Credit – Rob Burke, retrieved from Facebook A Canadian man is writing a coda into the lives of scrapped musical instruments by using them to offer a free lunch to his feathered neighbors.",
+                        "A nibble of corn or seed comes with no strings attached at the Frets and Feathers Cafe, run by retired teacher Rob Burke from Prince Edward Island.",
+                        "The former math teacher saw someone from Europe make an old guitar into a birdfeeder on social media and figured he could do one better: a three-course orchestra.",
+                        "For any other PE Islanders, Burke welcomes further instrument donations to expand the Peck and Play Orchestra."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-ad9ad583212f021d4d051e85",
+            "subject_id": "news-6ba5d7cb281f60d8cc1394b42bbfda73",
+            "collected_at": "2026-11-28T07:47:31+00:00",
+            "sources": [
+                {
+                    "label": "CNRS · presse · publié le 2026-11-20",
+                    "url": "https://www.cnrs.fr/fr/presse/premiere-mondiale-un-consortium-public-prive-cree-de-la-peau-artificielle-en-laboratoire"
+                }
+            ],
+            "source_sha256": "bfb7aa802063f98ea452fe02b6907d453420b30bdae04081e173d74a71f25b5e",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Artificial_skin.jpg",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "original_sha1": "3e50d6b44db098f5f9a00fd26d479a689633bdc1",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La création en laboratoire d'une peau artificielle vivante, cryopréservée et prête à être greffée représente une avancée concrète dans la prise en charge des plaies sévères.",
+                "beneficiaries": "Les patients souffrant de plaies importantes, notamment les grands brûlés, qui pourraient bénéficier d'une alternative aux prélèvements de peau saine et aux hospitalisations prolongées."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Un consortium français réunissant des acteurs publics et privés, dont le CNRS et URGO, a mis au point une peau artificielle vivante en laboratoire, conçue pour être cryopréservée et directement greffable sur les patients.",
+                    "source_passages": [
+                        "© Unsplash -A +A Contact(s) CNRS - Service de Presse Charles Dubief Partager ce contenu Share on BlueskyPartager sur TwitterShare on LinkedinPartager sur FacebookSend by mailCopier le lien de la page Imprimer Imprimer la page Télécharger le communiqué de presse (371.36 Ko) Santé Innovation Première mondiale : un consortium public-privé crée de la peau artificielle en laboratoire prête à greffer 20 novembre 2026 Santé Innovation -A +A Partager ce contenu Share on BlueskyPartager sur TwitterShare on LinkedinPartager sur FacebookSend by mailCopier le lien de la page Cinq ans après le lancement du projet GENESIS avec le soutien de France 2030, URGO et ses partenaires du consortium, le CNRS, Lyon 1 Université, le CECS, l’Etablissement français du sang et Dassault Systèmes annoncent une première mondiale : la création en laboratoire, d’une peau artificielle vivante, cryopréservée et conçue pour être prête à greffer sur le patient."
+                    ]
+                },
+                {
+                    "sentence": "Cette création, concrétisée cinq ans après le lancement du projet GENESIS, vise à transformer la prise en charge des plaies sévères, particulièrement chez les grands brûlés.",
+                    "source_passages": [
+                        "© Unsplash -A +A Contact(s) CNRS - Service de Presse Charles Dubief Partager ce contenu Share on BlueskyPartager sur TwitterShare on LinkedinPartager sur FacebookSend by mailCopier le lien de la page Imprimer Imprimer la page Télécharger le communiqué de presse (371.36 Ko) Santé Innovation Première mondiale : un consortium public-privé crée de la peau artificielle en laboratoire prête à greffer 20 novembre 2026 Santé Innovation -A +A Partager ce contenu Share on BlueskyPartager sur TwitterShare on LinkedinPartager sur FacebookSend by mailCopier le lien de la page Cinq ans après le lancement du projet GENESIS avec le soutien de France 2030, URGO et ses partenaires du consortium, le CNRS, Lyon 1 Université, le CECS, l’Etablissement français du sang et Dassault Systèmes annoncent une première mondiale : la création en laboratoire, d’une peau artificielle vivante, cryopréservée et conçue pour être prête à greffer sur le patient."
+                    ]
+                },
+                {
+                    "sentence": "Jusqu'à présent, ces traitements nécessitaient des prélèvements cutanés sur des zones saines, des interventions répétées et de longues hospitalisations.",
+                    "source_passages": [
+                        "Aujourd’hui, le traitement des plaies sévères, notamment des grands brûlés, exige des prélèvements de peau saine, des interventions répétées et de longues hospitalisations."
+                    ]
+                },
+                {
+                    "sentence": "La peau artificielle promise par GENESIS pourrait permettre d'éviter ces prélèvements, accélérant ainsi la cicatrisation et réduisant les interventions.",
+                    "source_passages": [
+                        "Demain, GENESIS pourrait permettre de refermer leurs plaies sans prélèvement, transformer leur prise en charge et réduire les souffrances associées aux soins."
+                    ]
+                },
+                {
+                    "sentence": "Une étude clinique est prévue d’ici 2030 pour valider cette innovation avant un passage à une production industrielle.",
+                    "source_passages": [
+                        "Cette avancée 100% française ouvre la voie à une étude clinique avec les premiers patients prévus en 2030 et au passage à l’échelle industrielle."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-07aa392b9f3365568648a196",
+            "subject_id": "news-80f94eb6e870fb25049926e37cf22320",
+            "collected_at": "2026-11-28T07:48:16+00:00",
+            "sources": [
+                {
+                    "label": "CNRS · presse · publié le 2026-11-19",
+                    "url": "https://www.cnrs.fr/fr/presse/les-caracteristiques-physiques-dun-violon-sameliorent-elles-vraiment-avec-le-jeu"
+                }
+            ],
+            "source_sha256": "a8c7766acca5f0566b2ed5641ac7c6c5c037d00954fb20184e48b77bb8c597f5",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Musical_instrument,_violin_Fortepan_13083.jpg",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "original_sha1": "363a5ff9c66a53ea7364bb202b4536a1c86c7fb5",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "L’étude démontre qu’un violon joué quotidiennement pendant six mois ne voit pas ses caractéristiques physiques ou acoustiques s’améliorer de façon mesurable.",
+                "beneficiaries": "Les musiciens, qui peuvent comprendre que l’impression d’amélioration de leur instrument vient surtout de leur propre adaptation cognitive et non d’une transformation physique du violon."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Une étude scientifique menée pendant six mois a comparé un violon joué quotidiennement avec deux autres instruments peu utilisés sur la même période.",
+                    "source_passages": [
+                        "Pour parvenir à ces résultats, l’équipe a demandé à la violoniste de jouer quotidiennement un instrument jusque-là rarement utilisé avant l’expérience.",
+                        "Deux autres violons, également peu joués mais laissés entreposés pendant toute l’expérience, ont servi de témoins.",
+                        "En comparant les caractéristiques physiques et les signatures acoustiques des trois instruments avant et après six mois d’utilisation, les scientifiques n’ont relevé aucune amélioration significative de l’instrument joué par la musicienne, malgré l’évolution de son ressenti."
+                    ]
+                },
+                {
+                    "sentence": "Malgré le ressenti d’une violoniste professionnelle qui trouvait son instrument plus facile à jouer et mieux timbré, aucune mesure physique ou sonore n’a confirmé une amélioration réelle du violon.",
+                    "source_passages": [
+                        "Si après six mois, la soliste professionnelle a estimé que le violon était devenu plus facile à jouer et que son timbre s’était amélioré, aucune mesure physique ou acoustique n’a permis de confirmer que ce ressenti résultait d’une telle évolution mécanique de l’instrument lui-même.1De l’Institut Jean le rond d'Alembert (CNRS/Sorbonne Université).",
+                        "En comparant les caractéristiques physiques et les signatures acoustiques des trois instruments avant et après six mois d’utilisation, les scientifiques n’ont relevé aucune amélioration significative de l’instrument joué par la musicienne, malgré l’évolution de son ressenti."
+                    ]
+                },
+                {
+                    "sentence": "Les tests en aveugle auprès d’autres violonistes et auditeurs ont aussi montré que les percevaient aucun changement.",
+                    "source_passages": [
+                        "Ces résultats ont été confortés par les appréciations d’autres violonistes, invités à comparer en aveugle le timbre et la puissance des trois instruments, ainsi que celles d’une trentaine d’auditeurs ayant écouté des extraits réalisés au début et à la fin de l’étude."
+                    ]
+                },
+                {
+                    "sentence": "Cette recherche met en lumière que l’impression d’ouverture du violon vient surtout de l’adaptation cognitive du joueur à l’instrument, plutôt que d’une modification matérielle ou d’un changement de technique.",
+                    "source_passages": [
+                        "De plus, la comparaison des gestes de la soliste avant et après n’a pas montré d’adaptation de sa part en termes de technique de jeu.Ces résultats suggèrent que l’impression d’un violon qui « s’ouvre » pourrait tenir davantage à l’adaptation cognitive du musicien avec la pratique qu’à une transformation physique de l’instrument ou une adaptation gestuelle.",
+                        "En se familiarisant avec ses caractéristiques acoustiques et mécaniques, les sensations du violoniste changent, et le violon peut ainsi apparaître plus facile jouer."
+                    ]
+                },
+                {
+                    "sentence": "Ces résultats invitent à repenser une croyance très répandue chez les musiciens.",
+                    "source_passages": [
+                        "L’étude invite donc à réinterroger cette croyance bien ancrée dans le monde musical."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-8cad142f0d9b411dc6ffdbbb",
+            "subject_id": "news-40b528f3878a1a8c8692a2241ab3807e",
+            "collected_at": "2026-11-28T07:48:27+00:00",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-24",
+                    "url": "https://www.goodnewsnetwork.org/thanksgiving-heroes-rob-adams-childhood-promise/"
+                }
+            ],
+            "source_sha256": "aa9c4fc23b6f2bb62d69dd485d736b68e4034f9d5a8526f5b1e22670fa5a0356",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:U.S._Air_Force_Chief_Master_Sgt._Paul_Pellow,_the_drug_demand_reduction_program_manager_with_the_52nd_Medical_Group,_carves_a_turkey_for_Airmen_and_their_families_during_a_Thanksgiving_Day_meal_at_the_Mosel_Hall_131128-F-OP138-014.jpg",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "original_sha1": "573b09406f43ae9d8ffea45dcd370c23571ce3f3",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Thanksgiving Heroes a permis de fournir des repas de fête à plus de 29 000 familles à travers plusieurs États américains, avec 3 600 familles aidées en Utah cette année.",
+                "beneficiaries": "Des familles américaines de différents États, particulièrement celles identifiées par leurs voisins et pouvant bénéficier d’un repas traditionnel de Thanksgiving."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "L’initiative Thanksgiving Heroes a grandi d’une promesse faite en enfance par Rob Adams, aujourd’hui fondateur de ce réseau national.",
+                    "source_passages": [
+                        "Home All News Inspiring A Childhood Promise Mobilizes ‘Thanksgiving Heroes,’ Serving Thousands Nationwide This Holiday What began as an 11-year-old boy’s promise to his mother has launched ‘Thanksgiving Heroes,’ a nationwide effort to bring holiday meals to those in need.",
+                        "Rob Adams, founder of Thanksgiving Heroes, grew up as the oldest of six children in South Texas.",
+                        "For a stretch of his childhood, the family lived out of their pickup truck in Porter, an unincorporated area near Houston.",
+                        "They had little clothing and often relied on school lunches as the one guaranteed meal of the day.",
+                        "One Christmas, a neighboring family—the Christiansons—drove the Adams family about 12 miles to their home in Kingwood.",
+                        "The house was picture-perfect, complete with a Christmas tree.",
+                        "The Christiansons were leaving for the holidays and invited the Adams family to stay while they were gone.",
+                        "They left the refrigerator fully stocked with turkey, pumpkin pie, and other food, with presents for the children under the tree.",
+                        "The gesture of unconditional kindness left a lasting mark.",
+                        "At 11, Adams told his mother that one day, when he was “rich,” which at the time simply meant not sleeping in their car, he would pay it forward.",
+                        "Years later, as his mother faced a brain-cancer diagnosis, she reminded him of that childhood vow and urged him to follow through.",
+                        "That push led Adams to launch Thanksgiving Heroes."
+                    ]
+                },
+                {
+                    "sentence": "Parti d’un objectif modeste de 10 familles, le projet a fourni des repas complets à plus de 29 000 familles à ce jour.",
+                    "source_passages": [
+                        "Adams set a modest goal the first year: feed 10 families.",
+                        "Instead, Thanksgiving Heroes provided meals to about 755 families.",
+                        "This year, the group aims to reach 3,600 families across Utah, but the fulfillment of Adams’ promise extends beyond state lines.",
+                        "Thanksgiving Heroes has grown into a national network of local affiliates that together have served more than 29,000 families."
+                    ]
+                },
+                {
+                    "sentence": "En Utah, la plus grande antenne locale, 3 600 familles bénéficieront cette année d’un kit repas composé d’une dinde et d’accompagnements traditionnels, préparés et livrés par des centaines de bénévoles.",
+                    "source_passages": [
+                        "This year, they will feed 3,600 families in Utah alone.",
+                        "Each meal kit is designed for a family of about five and includes a turkey and traditional sides.",
+                        "Hundreds of volunteers pack the meals and then deliver them to families nominated by neighbors through the organization’s website.",
+                        "Adams has said rising grocery prices have increased demand, making donations more important than ever."
+                    ]
+                },
+                {
+                    "sentence": "Chaque groupe local organise sa propre collecte de fonds, emballage et distribution, offrant un modèle de solidarité simple : des familles servent d’autres familles, sans exigence de justification pour recevoir un repas.",
+                    "source_passages": [
+                        "While the Utah chapter remains the largest—having provided meals to nearly 20,000 families since 2015—the model has spread through independent affiliates that receive support from the parent foundation.",
+                        "Established chapters now operate in Cleveland, Ohio (more than 6,600 families since 2020) and Las Vegas (hundreds of families since 2021), while newer affiliates have launched in Phoenix, Orange County, California, Stark County, Ohio, and New Haven, Connecticut.",
+                        "Each local group runs its own fundraising, volunteer packing, and doorstep delivery efforts, allowing the original Utah vision of “families serving families” to take root in communities across the country.",
+                        "Hundreds of volunteers pack the meals and then deliver them to families nominated by neighbors through the organization’s website.",
+                        "No one has to prove need — if someone nominates a family, the group takes that nomination at face value.⁠ The work requires nearly year-round planning and fundraising."
+                    ]
+                },
+                {
+                    "sentence": "Cette démarche illustre comment une promesse personnelle s’est transformée en une aide concrète diffusée au niveau national.",
+                    "source_passages": [
+                        "Home All News Inspiring A Childhood Promise Mobilizes ‘Thanksgiving Heroes,’ Serving Thousands Nationwide This Holiday What began as an 11-year-old boy’s promise to his mother has launched ‘Thanksgiving Heroes,’ a nationwide effort to bring holiday meals to those in need.",
+                        "That push led Adams to launch Thanksgiving Heroes.",
+                        "Thanksgiving Heroes has grown into a national network of local affiliates that together have served more than 29,000 families."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-b19aa0bfca9c9666dbdf3e3d",
+            "subject_id": "source-fd78859b2fe420a8cba88c91dcb4e88d",
+            "collected_at": "2026-11-28T07:48:39+00:00",
+            "sources": [
+                {
+                    "label": "NOAA · What is a mangrove forest?",
+                    "url": "https://oceanservice.noaa.gov/facts/mangroves.html"
+                }
+            ],
+            "source_sha256": "a99cb3babe28426aa2f1c37f7f5904190a62a5593201def4b81344faba0d1224",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Mangrove_Forest.jpg",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "original_sha1": "ba27534355e146a33ebdcff295217753e40817bc",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "Les forêts de mangroves offrent un habitat riche et stabilisent les côtes en réduisant l’érosion causée par les marées, les vagues et les tempêtes.",
+                "beneficiaries": "Les écosystèmes côtiers, les poissons et autres organismes marins qui trouvent nourriture et refuge dans les racines des mangroves, ainsi que les zones côtières protégées de l’érosion."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Les mangroves sont des arbres et arbustes adaptés aux zones intertidales tropicales et subtropicales, avec une trentaine d'espèces principales.",
+                    "source_passages": [
+                        "Mangroves are a group of trees and shrubs that live in the coastal intertidal zone.",
+                        "Mangrove forests only grow at tropical and subtropical latitudes near the equator because they cannot withstand freezing temperatures."
+                    ]
+                },
+                {
+                    "sentence": "Leur réseau complexe de racines aériennes stabilise le sol pauvre en oxygène et ralentit le déplacement des eaux, favorisant la sédimentation.",
+                    "source_passages": [
+                        "All of these trees grow in areas with low-oxygen soil, where slow-moving waters allow fine sediments to accumulate.",
+                        "The roots also slow the movement of tidal waters, causing sediments to settle out of the water and build up the muddy bottom."
+                    ]
+                },
+                {
+                    "sentence": "Ces racines créent un refuge pour de nombreux poissons et organismes qui s’abritent contre les prédateurs.",
+                    "source_passages": [
+                        "The intricate root system of mangroves also makes these forests attractive to fish and other organisms seeking food and shelter from predators."
+                    ]
+                },
+                {
+                    "sentence": "En plus de limiter l’érosion des côtes exposées aux marées et aux tempêtes, les mangroves contribuent à bâtir le fond argileux sur lequel elles poussent.",
+                    "source_passages": [
+                        "Mangrove forests stabilize the coastline, reducing erosion from storm surges, currents, waves, and tides.",
+                        "The roots also slow the movement of tidal waters, causing sediments to settle out of the water and build up the muddy bottom.",
+                        "This tangle of roots allows the trees to handle the daily rise and fall of tides, which means that most mangroves get flooded at least twice per day."
+                    ]
+                },
+                {
+                    "sentence": "Leur présence marque ainsi un équilibre entre la vie marine et la protection des zones littorales dans les régions proches de l’équateur.",
+                    "source_passages": [
+                        "Mangrove forests only grow at tropical and subtropical latitudes near the equator because they cannot withstand freezing temperatures.",
+                        "The intricate root system of mangroves also makes these forests attractive to fish and other organisms seeking food and shelter from predators.",
+                        "Mangrove forests stabilize the coastline, reducing erosion from storm surges, currents, waves, and tides."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        },
+        {
+            "id": "decouverte-95e01e59b755f3556f1894bc",
+            "subject_id": "Q13616",
+            "collected_at": "2026-11-28T07:48:49+00:00",
+            "sources": [
+                {
+                    "label": "Wikipédia · Matera",
+                    "url": "https://fr.wikipedia.org/wiki/Matera"
+                }
+            ],
+            "source_sha256": "67cc549a9dca993d0fd205c2388395772352cd2d22dff5b9943458ed58598cd2",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Matera_-_View_from_Sant%27Agostino.jpg",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "original_sha1": "fe53869d2d665cc5b5239300a3a47cd475723813",
+            "model": "gpt-4.1-mini",
+            "review": "automated-approved",
+            "positive_change": {
+                "result": "La ville de Matera a vu une transformation profonde de ses quartiers anciens, notamment les Sassi, qui sont passés d'habitats semi-troglodytiques précaires à un site patrimonial restauré et reconnu mondialement.",
+                "beneficiaries": "Les habitants de Matera, les visiteurs et le patrimoine culturel exposé bénéficient de la conservation et la valorisation du site des Sassi."
+            },
+            "fact_checks": [
+                {
+                    "sentence": "Située dans le sud de l'Italie, Matera est connue pour ses Sassi, des habitations semi-troglodytiques taillées dans la roche calcaire.",
+                    "source_passages": [
+                        "Matera est une ville italienne, chef-lieu de la province de Matera, située en Basilicate, dans le sud de l'Italie.",
+                        "La ville est célèbre pour ses maisons semi-troglodytiques, les Sassi di Matera (littéralement, les « Pierres de Matera »), classés sur la liste du Patrimoine mondial de l'Unesco."
+                    ]
+                },
+                {
+                    "sentence": "Anciennement refuges naturels dès le Néolithique, ces grottes ont souvent servi d'habitations précaires jusqu'à une transformation majeure.",
+                    "source_passages": [
+                        "== Histoire == === Préhistoire === Matera est édifié au bord de l'un des ravins de Matera, creusés par l'érosion dans le calcaire du plateau des Murge.",
+                        "De nombreuses grottes naturelles ont servi aux alentours de refuge aux hommes depuis le Néolithique."
+                    ]
+                },
+                {
+                    "sentence": "Aujourd’hui, elles sont soigneusement restaurées et protégées, inscrites au patrimoine mondial de l’Unesco.",
+                    "source_passages": [
+                        "La ville est célèbre pour ses maisons semi-troglodytiques, les Sassi di Matera (littéralement, les « Pierres de Matera »), classés sur la liste du Patrimoine mondial de l'Unesco."
+                    ]
+                },
+                {
+                    "sentence": "Cette reconnaissance souligne un véritable changement, valorisant non seulement des structures historiques uniques mais aussi la qualité de vie des habitants, tout en attirant un tourisme culturel respectueux.",
+                    "source_passages": [
+                        "La ville est célèbre pour ses maisons semi-troglodytiques, les Sassi di Matera (littéralement, les « Pierres de Matera »), classés sur la liste du Patrimoine mondial de l'Unesco."
+                    ]
+                },
+                {
+                    "sentence": "La ville s’étend autour d'une vallée en canyon, offrant un paysage singulier qui témoigne d’une longue histoire d’adaptation humaine à l’environnement.",
+                    "source_passages": [
+                        "Elle se situe dans et autour de la gravine di Matera, vallée incisée de type canyon.",
+                        "== Histoire == === Préhistoire === Matera est édifié au bord de l'un des ravins de Matera, creusés par l'érosion dans le calcaire du plateau des Murge."
+                    ]
+                },
+                {
+                    "sentence": "Matera illustre ainsi la réhabilitation d’un site ancien devenu une destination culturelle et patrimoniale importante.",
+                    "source_passages": [
+                        "La ville est célèbre pour ses maisons semi-troglodytiques, les Sassi di Matera (littéralement, les « Pierres de Matera »), classés sur la liste du Patrimoine mondial de l'Unesco."
+                    ]
+                }
+            ],
+            "modifications": "Redimensionnement proportionnel à 1280 px maximum et JPEG qualité 82."
+        }
+    ]
+}

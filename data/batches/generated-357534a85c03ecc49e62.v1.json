@@ -1,0 +1,161 @@
+{
+    "schema_version": 1,
+    "id": "generated-357534a85c03ecc49e62",
+    "version": "1",
+    "articles": [
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-688e2515787e66fdf4a4d3d9",
+            "title": "Des instruments de musique recyclés en mangeoires pour oiseaux à l’Île-du-Prince-Édouard",
+            "body": "Rob Burke, ancien professeur de mathématiques à la retraite, donne une seconde vie à des instruments de musique abandonnés en les transformant en mangeoires pour oiseaux sur l’Île-du-Prince-Édouard, au Canada. Après avoir reçu plusieurs guitares, un violon et des éléments de batterie, il a adapté ces instruments en les équipant de perchoirs et de coupelles pour graines. Ces aménagements attirent désormais diverses espèces, parmi lesquelles geais bleus, piverts et mésanges. Si les premières fixations posaient problème avec des oiseaux plus lourds, il les a consolidées pour mieux tenir. Cette initiative artistique et écologique, nommée « Frets and Feathers Cafe », suscite un intérêt grandissant pour l’ornithologie locale et continue de s’étendre grâce aux dons d’instruments cassés.",
+            "category": "Initiatives positives",
+            "location": "Île-du-Prince-Édouard, Canada",
+            "image_description": "Pilru, un instrument de musique en terre cuite en forme d’oiseau fabriqué par les Tharus et Kumhars.",
+            "image_caption": "Illustration documentaire générale : Pilru, instrument de musique en terre cuite en forme d’oiseau, Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/62afc3a26ce07036a661ef5046b29538563ec3d8f870a1008f272809507986f0.jpg",
+            "image_credit": "Sanjib Chaudhary · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Pilru,_a_bird_shaped_terracotta_musical_instrument_made_by_Tharus_and_Kumhars.jpg",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-24",
+                    "url": "https://www.goodnewsnetwork.org/retired-teacher-turns-retired-musical-instruments-into-bird-feeders-look/"
+                }
+            ],
+            "subject_id": "news-b2ec2be64cee45a6ffa4febff93e1a3f",
+            "published_at": "2026-11-28",
+            "country": "Monde",
+            "source_published_at": "2026-11-24"
+        },
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-ad9ad583212f021d4d051e85",
+            "title": "Une peau artificielle prête à greffer créée en laboratoire pour améliorer le traitement des grands brûlés",
+            "body": "Un consortium français réunissant des acteurs publics et privés, dont le CNRS et URGO, a mis au point une peau artificielle vivante en laboratoire, conçue pour être cryopréservée et directement greffable sur les patients. Cette création, concrétisée cinq ans après le lancement du projet GENESIS, vise à transformer la prise en charge des plaies sévères, particulièrement chez les grands brûlés. Jusqu'à présent, ces traitements nécessitaient des prélèvements cutanés sur des zones saines, des interventions répétées et de longues hospitalisations. La peau artificielle promise par GENESIS pourrait permettre d'éviter ces prélèvements, accélérant ainsi la cicatrisation et réduisant les interventions. Une étude clinique est prévue d’ici 2030 pour valider cette innovation avant un passage à une production industrielle.",
+            "category": "Sciences",
+            "location": "France",
+            "image_description": "Dispositif tactile haute résolution composé de 4 320 pixels actionneurs basés sur des hydrogels réactifs, offrant des impressions visuelles et physiques de surfaces virtuelles.",
+            "image_caption": "Illustration documentaire générale d'une technologie liée aux hydrogels et surfaces artificielles, Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/bbcaf30d5c7b7d91509c0328f7d89f3b14da67184fa49ca2baa411b6eddce2b4.jpg",
+            "image_credit": "Goswin2000 · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Artificial_skin.jpg",
+            "sources": [
+                {
+                    "label": "CNRS · presse · publié le 2026-11-20",
+                    "url": "https://www.cnrs.fr/fr/presse/premiere-mondiale-un-consortium-public-prive-cree-de-la-peau-artificielle-en-laboratoire"
+                }
+            ],
+            "subject_id": "news-6ba5d7cb281f60d8cc1394b42bbfda73",
+            "published_at": "2026-11-28",
+            "country": "Monde",
+            "source_published_at": "2026-11-20"
+        },
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-07aa392b9f3365568648a196",
+            "title": "Le violon ne change pas vraiment avec le jeu, contrairement à ce que croient les musiciens",
+            "body": "Une étude scientifique menée pendant six mois a comparé un violon joué quotidiennement avec deux autres instruments peu utilisés sur la même période. Malgré le ressenti d’une violoniste professionnelle qui trouvait son instrument plus facile à jouer et mieux timbré, aucune mesure physique ou sonore n’a confirmé une amélioration réelle du violon. Les tests en aveugle auprès d’autres violonistes et auditeurs ont aussi montré que les percevaient aucun changement. Cette recherche met en lumière que l’impression d’ouverture du violon vient surtout de l’adaptation cognitive du joueur à l’instrument, plutôt que d’une modification matérielle ou d’un changement de technique. Ces résultats invitent à repenser une croyance très répandue chez les musiciens.",
+            "category": "Sciences",
+            "location": "Monde",
+            "image_description": "Photographie documentaire d’un violon ancien en bois posé sur une surface claire.",
+            "image_caption": "Illustration générale montrant un violon ; cette photo ne représente pas l’instrument étudié mais illustre l’article sur le violon et ses caractéristiques (source Wikimedia Commons).",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/43e1db168929a37b18521de0ddcddb700ed8fe40f2421151383e4e5c7586429d.jpg",
+            "image_credit": "FOTO:Fortepan — ID 13083: Adományozó/Donor: Nagy Csilla. archive copy at the Wayback Machine · http://www.fortepan.hu/_photo/download/fortepan_21479.jpg archive copy at the Wayback Machine · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 3.0 · https://creativecommons.org/licenses/by-sa/3.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Musical_instrument,_violin_Fortepan_13083.jpg",
+            "sources": [
+                {
+                    "label": "CNRS · presse · publié le 2026-11-19",
+                    "url": "https://www.cnrs.fr/fr/presse/les-caracteristiques-physiques-dun-violon-sameliorent-elles-vraiment-avec-le-jeu"
+                }
+            ],
+            "subject_id": "news-80f94eb6e870fb25049926e37cf22320",
+            "published_at": "2026-11-28",
+            "country": "Monde",
+            "source_published_at": "2026-11-19"
+        },
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "recent",
+            "editorial_batch": "daily",
+            "id": "decouverte-8cad142f0d9b411dc6ffdbbb",
+            "title": "Thanksgiving Heroes : une promesse d’enfance qui nourrit des milliers de familles chaque année",
+            "body": "L’initiative Thanksgiving Heroes a grandi d’une promesse faite en enfance par Rob Adams, aujourd’hui fondateur de ce réseau national. Parti d’un objectif modeste de 10 familles, le projet a fourni des repas complets à plus de 29 000 familles à ce jour. En Utah, la plus grande antenne locale, 3 600 familles bénéficieront cette année d’un kit repas composé d’une dinde et d’accompagnements traditionnels, préparés et livrés par des centaines de bénévoles. Chaque groupe local organise sa propre collecte de fonds, emballage et distribution, offrant un modèle de solidarité simple : des familles servent d’autres familles, sans exigence de justification pour recevoir un repas. Cette démarche illustre comment une promesse personnelle s’est transformée en une aide concrète diffusée au niveau national.",
+            "category": "Initiatives positives",
+            "location": "États-Unis",
+            "image_description": "Un sergent-chef de l'US Air Force découpe une dinde lors d'un repas de Thanksgiving à la base aérienne de Spangdahlem, Allemagne, en 2013.",
+            "image_caption": "Illustration documentaire générale. Photo documentaire générale : un repas de Thanksgiving servi aux militaires et leurs familles, illustrant les traditions de ce repas aux États-Unis.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/3f533d20b136b324c2c1dc3bafd02dfa535647c2bce7abbcbfa33193e523038a.jpg",
+            "image_credit": "A1C Kyle Gese · http://www.defenseimagery.mil/imageRetrieve.action?guid=285d9150cfbf2e589d6fc813701252e77141920d&t=2 · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "Public domain · https://commons.wikimedia.org/wiki/Commons:Public_domain",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:U.S._Air_Force_Chief_Master_Sgt._Paul_Pellow,_the_drug_demand_reduction_program_manager_with_the_52nd_Medical_Group,_carves_a_turkey_for_Airmen_and_their_families_during_a_Thanksgiving_Day_meal_at_the_Mosel_Hall_131128-F-OP138-014.jpg",
+            "sources": [
+                {
+                    "label": "Good News Network · publié le 2026-11-24",
+                    "url": "https://www.goodnewsnetwork.org/thanksgiving-heroes-rob-adams-childhood-promise/"
+                }
+            ],
+            "subject_id": "news-40b528f3878a1a8c8692a2241ab3807e",
+            "published_at": "2026-11-28",
+            "country": "Monde",
+            "source_published_at": "2026-11-24"
+        },
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "daily",
+            "id": "decouverte-b19aa0bfca9c9666dbdf3e3d",
+            "title": "Les mangroves : des forêts qui protègent le littoral et nourrissent la vie marine",
+            "body": "Les mangroves sont des arbres et arbustes adaptés aux zones intertidales tropicales et subtropicales, avec une trentaine d'espèces principales. Leur réseau complexe de racines aériennes stabilise le sol pauvre en oxygène et ralentit le déplacement des eaux, favorisant la sédimentation. Ces racines créent un refuge pour de nombreux poissons et organismes qui s’abritent contre les prédateurs. En plus de limiter l’érosion des côtes exposées aux marées et aux tempêtes, les mangroves contribuent à bâtir le fond argileux sur lequel elles poussent. Leur présence marque ainsi un équilibre entre la vie marine et la protection des zones littorales dans les régions proches de l’équateur.",
+            "category": "Nature et animaux",
+            "location": "Monde",
+            "image_description": "Photographie d’une forêt de mangroves prise depuis un bateau sur une rivière dans les Sundarbans, montrant les racines visibles durant la basse mer.",
+            "image_caption": "Illustration générale d’une forêt de mangroves durant la marée basse, Wikimedia Commons.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/8151b6462bac693269710503a767d038fef5737cd8df697d9a8892ef7e4ec0e3.jpg",
+            "image_credit": "Basundhara Chowdhury · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Mangrove_Forest.jpg",
+            "sources": [
+                {
+                    "label": "NOAA · What is a mangrove forest?",
+                    "url": "https://oceanservice.noaa.gov/facts/mangroves.html"
+                }
+            ],
+            "subject_id": "source-fd78859b2fe420a8cba88c91dcb4e88d",
+            "published_at": "2026-11-28",
+            "country": "Monde"
+        },
+        {
+            "editorial_policy": "positive-v2",
+            "editorial_kind": "evergreen",
+            "editorial_batch": "daily",
+            "id": "decouverte-95e01e59b755f3556f1894bc",
+            "title": "Matera, des grottes néolithiques aux quartiers valorisés du patrimoine mondial",
+            "body": "Située dans le sud de l'Italie, Matera est connue pour ses Sassi, des habitations semi-troglodytiques taillées dans la roche calcaire. Anciennement refuges naturels dès le Néolithique, ces grottes ont souvent servi d'habitations précaires jusqu'à une transformation majeure. Aujourd’hui, elles sont soigneusement restaurées et protégées, inscrites au patrimoine mondial de l’Unesco. Cette reconnaissance souligne un véritable changement, valorisant non seulement des structures historiques uniques mais aussi la qualité de vie des habitants, tout en attirant un tourisme culturel respectueux. La ville s’étend autour d'une vallée en canyon, offrant un paysage singulier qui témoigne d’une longue histoire d’adaptation humaine à l’environnement. Matera illustre ainsi la réhabilitation d’un site ancien devenu une destination culturelle et patrimoniale importante.",
+            "category": "Villages et villes",
+            "location": "Matera, Italie",
+            "image_description": "Vue générale de la vieille ville de Matera prise depuis le parvis de l’église Saint-Augustin, montrant les habitations creusées dans la roche.",
+            "image_caption": "Photographie documentaire générale de Matera (Basilicate, Italie) depuis l’église Saint Augustin, illustration du site des Sassi et de son architecture.",
+            "image_url": "https://kevinrembert.github.io/echappees-data/data/images/generated/dec88e2c751bed52bf53820b1eeb7c737d498eab434ab2cd1de4fa1a0a2fc4d3.jpg",
+            "image_credit": "Benjamin Smith · Own work · Wikimedia Commons · Version mobile redimensionnée/compressée",
+            "image_license": "CC BY-SA 4.0 · https://creativecommons.org/licenses/by-sa/4.0/",
+            "image_source_url": "https://commons.wikimedia.org/wiki/File:Matera_-_View_from_Sant%27Agostino.jpg",
+            "sources": [
+                {
+                    "label": "Wikipédia · Matera",
+                    "url": "https://fr.wikipedia.org/wiki/Matera"
+                }
+            ],
+            "subject_id": "Q13616",
+            "published_at": "2026-11-28",
+            "country": "Italie"
+        }
+    ]
+}
